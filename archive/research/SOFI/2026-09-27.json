@@ -1,0 +1,407 @@
+{
+ "analysts": {
+  "count": 25,
+  "rating": "Hold",
+  "summary": "Stockanalysis.com: 25 analysts rate it Hold on balance (5 Strong Buy, 4 Buy, 12 Hold, 2 Sell, 2 Strong Sell), with an average target of $20.35 (+23%). Recent actions: Scotiabank initiated at Buy with a $25 target (2 Sep) and Loop Capital initiated at Hold with $22 (8 Sep). Public.com's 17-analyst set averages $22.18. The FY26 consensus is revenue of $4.88B and EPS of $0.59.",
+  "targetAvg": 20.35,
+  "targetHigh": 30,
+  "targetLow": 12
+ },
+ "bear": [
+  "The Muddy Waters accounting allegations are still unresolved, and the heavy use of fair-value loan accounting keeps skepticism high.",
+  "Shares outstanding grew 14.5% YoY with no buyback, diluting per-share growth.",
+  "Rate hikes (now management's base case) and consumer credit risk in a personal-loan-heavy book.",
+  "Momentum is weak: the stock is near its 52-week low, institutions were net sellers in Q2, short interest is ~14.6%, and dealer gamma is negative near spot.",
+  "The tech platform segment is shrinking (accounts −16% YoY)."
+ ],
+ "bull": [
+  "Growth is still 30%+ with rising profitability: FY26 adj. EPS ~$0.60 vs $0.37 in 2025, and adj. EBITDA margin at 30%+.",
+  "Deposit funding ($45.5B, +$5.3B QoQ) and an 18.7% CET1 ratio give room to keep lending.",
+  "The CEO keeps buying in the open market ($2.25M in 2026), and TBV/share is up 56% YoY.",
+  "Options IV is near a 52-week low, so upside through earnings is cheap to express. The analyst average target is ~23% above the price."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-10-02",
+   "event": "Weekly options expiry (large 16/16.5 put and 17.5/18 call OI)",
+   "why": "Negative dealer gamma below ~$17.2 can make moves in either direction bigger around expiry"
+  },
+  {
+   "date": "2026-10-27",
+   "event": "Q3 2026 earnings (estimated, before open; not yet confirmed by SoFi)",
+   "why": "Consensus EPS ~$0.13. Investors are watching member adds, originations, the FY26 guide (~$0.60 EPS) and any buyback or capital commentary"
+  },
+  {
+   "date": "Ongoing",
+   "event": "Rate path: management now assumes two rate hikes in 2026, versus two cuts originally",
+   "why": "Rate expectations are the main macro driver cited for the stock's derating"
+  },
+  {
+   "date": "Ongoing",
+   "event": "Muddy Waters dispute (short report 17 Mar 2026; SoFi threatened legal action)",
+   "why": "Any escalation, rebuttal or regulatory follow-up could move the stock sharply"
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "LendingClub",
+    "note": "Bank-chartered personal lender. Much smaller ($1.65B market cap) and cheaper (8.3x forward P/E).",
+    "ticker": "LC"
+   },
+   {
+    "name": "Upstart",
+    "note": "AI lending marketplace with no deposit base. 28% short interest, 7.8x forward P/E.",
+    "ticker": "UPST"
+   },
+   {
+    "name": "Nu Holdings",
+    "note": "Latin American digital bank with 52% operating margin. Trades at 13.9x forward P/E; the closest 'digital bank at scale' comparison.",
+    "ticker": "NU"
+   },
+   {
+    "name": "Robinhood",
+    "note": "Competes with SoFi Invest and for young members. Premium valuation at 49.6x forward P/E.",
+    "ticker": "HOOD"
+   }
+  ],
+  "share": [],
+  "summary": "SoFi competes with fintech lenders (LendingClub, Upstart), digital banks (Nu), brokerages (Robinhood) and big banks. Its edge is the bank charter's deposit funding and a multi-product ecosystem (1.54 products per member). The tech platform business (Galileo/Technisys) is shrinking. We could not find a reliable current market-share figure for personal loans in the sources read."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 20.5,
+ "fairLow": 14.5,
+ "fairMid": 17.5,
+ "financials": [
+  {
+   "metric": "Revenue (TTM)",
+   "note": "stockanalysis.com",
+   "value": "$4.27B"
+  },
+  {
+   "metric": "Q2'26 adjusted net revenue",
+   "note": "GAAP net revenue $1.22B, +43%",
+   "value": "$1.21B (+40% YoY)"
+  },
+  {
+   "metric": "Q2'26 adjusted EBITDA",
+   "note": "+44% YoY",
+   "value": "$357.8M (30% margin)"
+  },
+  {
+   "metric": "Q2'26 net income / diluted EPS",
+   "note": "Net income +61% YoY, EPS +50%",
+   "value": "$156.6M / $0.12"
+  },
+  {
+   "metric": "Net income / EPS (TTM)",
+   "note": "Trailing P/E 34.9x",
+   "value": "$636M / $0.47"
+  },
+  {
+   "metric": "FY26 guidance",
+   "note": "Adj. net income ~$825M; members +30%",
+   "value": "Adj. rev $4.75–4.85B; adj. EBITDA ~$1.6B; adj. EPS ~$0.60"
+  },
+  {
+   "metric": "Free cash flow (TTM)",
+   "note": "Driven by loans originated and held; not a meaningful measure for a bank-lender",
+   "value": "−$8.79B"
+  },
+  {
+   "metric": "Cash & equivalents",
+   "note": "Total deposits $45.5B (+$5.3B QoQ); total assets $60.95B",
+   "value": "$3.13B"
+  },
+  {
+   "metric": "Debt / EV",
+   "note": "A separate total-debt figure was not captured in the sources read",
+   "value": "EV $21.46B vs market cap $21.41B"
+  },
+  {
+   "metric": "Shares outstanding",
+   "note": "No buyback announced; dilution is a headwind",
+   "value": "1.29B (+14.5% YoY)"
+  },
+  {
+   "metric": "Tangible book / share",
+   "note": "CET1 18.7% vs 7.0% minimum",
+   "value": "$7.34 (+56% YoY)"
+  },
+  {
+   "metric": "Credit",
+   "note": "Student loan NCO 0.61%; NIM 5.98%",
+   "value": "Personal loan NCO 2.62% (−21bps YoY)"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Buy",
+    "amount": "13,888 sh @ $18.06 (~$251K)",
+    "date": "2026-06-16",
+    "who": "Anthony Noto (CEO)"
+   },
+   {
+    "action": "Buy",
+    "amount": "15,545 sh @ $16.00 (~$249K)",
+    "date": "2026-05-11",
+    "who": "Anthony Noto (CEO)"
+   },
+   {
+    "action": "Buy",
+    "amount": "15,878 sh @ $15.73 (~$250K)",
+    "date": "2026-05-08",
+    "who": "Anthony Noto (CEO)"
+   },
+   {
+    "action": "Buy",
+    "amount": "28,900 sh @ $17.32 (~$501K)",
+    "date": "2026-03-17",
+    "who": "Anthony Noto (CEO)"
+   },
+   {
+    "action": "Buy",
+    "amount": "56,000 sh @ $17.88 (~$1.0M)",
+    "date": "2026-03-02",
+    "who": "Anthony Noto (CEO)"
+   },
+   {
+    "action": "RSU vest / tax withholding",
+    "amount": "345,554 vested; 188,259 withheld @ $17.32",
+    "date": "2026-09-14",
+    "who": "Anthony Noto (CEO)"
+   }
+  ],
+  "summary": "CEO Anthony Noto made five open-market purchases in 2026 totalling ~$2.25M, at prices between $15.73 and $18.06. His other Form 4 activity was RSU vesting with shares withheld for tax, not discretionary selling."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Holds (13G)",
+    "date": "2026-04-27",
+    "detail": "64.8M shares, 5.1% of class, as of 31 Mar 2026",
+    "holder": "BlackRock, Inc."
+   },
+   {
+    "action": "Top holder",
+    "date": "2026-06-30",
+    "detail": "Among the largest holders; exact change not available",
+    "holder": "Vanguard (Capital Mgmt + Portfolio Mgmt)"
+   },
+   {
+    "action": "Top holder",
+    "date": "2026-06-30",
+    "detail": "Among the largest holders (includes options-related positions)",
+    "holder": "Susquehanna International Group"
+   },
+   {
+    "action": "Top holder",
+    "date": "2026-06-30",
+    "detail": "Among the largest holders",
+    "holder": "Goldman Sachs Group"
+   },
+   {
+    "action": "Net trim",
+    "date": "2026-06-30",
+    "detail": "~−95.7M shares net; 763 increased vs 342 decreased",
+    "holder": "Aggregate 13F filers"
+   }
+  ],
+  "summary": "As of the 30 Jun 2026 13F filings, 1,318 institutions hold ~63% of shares (Fintel). In Q2, 763 institutions increased positions and 342 cut them, but aggregate institutional shares fell by ~95.7M. Holder-by-holder share changes could not be read; the sources were paywalled or loaded dynamically."
+ },
+ "name": "SoFi Technologies, Inc.",
+ "options": {
+  "callWall": 17.5,
+  "expectedMove": "±$0.88 (±5.3%) to Oct 2; ±$1.36 (±8.2%) to Oct 9",
+  "expiry": "2026-10-02 (5 DTE) and 2026-10-09 (12 DTE)",
+  "gexNote": "Net GEX across both expiries (strikes $14–19) is about −$2.1M per 1% move. Dealers are short gamma at spot, which tends to amplify moves. The largest negative gamma sits at the $16 and $16.5 strikes (≈12.4k and 12.7k Oct 2 puts). The largest positive gamma sits at $17.5 (≈8.5k Oct 2 + ≈18.0k Oct 9 calls). Above ~$17.17 the gamma turns positive and should dampen moves. Open interest is from IBKR as of the 25 Sep close; the snapshot status was FROZEN.",
+  "ivNote": "Underlying IV is 45.1% against 30-day HV of 46.7%. The 52-week IV percentile is only 5.6% (13-week: 20.3%), so options are cheap relative to their own history ahead of Q3 earnings.",
+  "pcRatio": 1.05,
+  "putWall": 16.5,
+  "strategy": "This is information only; no orders. Because IV is historically cheap and gamma is negative, defined-risk long-premium structures are favoured over selling premium. Examples: a bullish Nov call spread (e.g. 17.5/20) spanning the ~Oct 27 earnings, or a put spread under the $16 put wall as a hedge for existing shares. Selling puts near $16 is less attractive while dealers are short gamma there.",
+  "zeroGamma": 17.17
+ },
+ "politicians": {
+  "summary": "We found no US Congress member trades in SOFI in the last 12 months (Quiver Quantitative). The most recent were two small purchases by Rep. James Comer in January 2025.",
+  "trades": [
+   {
+    "action": "Purchase (x2)",
+    "amount": "$1,001–$15,000 each",
+    "date": "2025-01-02",
+    "member": "James Comer",
+    "party": "R",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale (full)",
+    "amount": "$1,001–$15,000",
+    "date": "2024-03-21",
+    "member": "Thomas R. Carper",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1,001–$15,000",
+    "date": "2023-08-10",
+    "member": "Thomas R. Carper",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   }
+  ]
+ },
+ "price": 16.58,
+ "requestedAt": "2026-09-27T11:12:26.209Z",
+ "scores": {
+  "financial": {
+   "note": "CET1 18.7%, Tier 1 leverage 16.5%, $45.5B deposits, TBV/share $7.34 (+56% YoY). Profitable, but FCF is structurally negative (−$8.8B TTM) because it originates loans.",
+   "score": 4
+  },
+  "flows": {
+   "note": "Short interest ~14.6% of shares. Institutions net sold ~95.7M shares in Q2 (763 buyers vs 342 sellers). The CEO has made repeated open-market buys. Dealer gamma is negative near spot.",
+   "score": 2
+  },
+  "growth": {
+   "note": "Adj. revenue +40% YoY, originations +69% to a record $14.8B, members +35%, products +42%. FY26 guide calls for 32–35% revenue growth.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Bank charter gives low-cost deposit funding (NIM 5.98%). Cross-buy is at 51% and brand awareness at 10.4%. Personal loans are competitive, and the tech platform segment is shrinking (accounts −16% YoY).",
+   "score": 3
+  },
+  "momentum": {
+   "note": "−36.7% YTD and ~−42% over 1y. The price is near its 52w low of $14.88 (52w high $32.73) and has traded $15–19 since March.",
+   "score": 1
+  },
+  "valuation": {
+   "note": "34.9x trailing / 22.7x forward P/E and ~2.3x P/TBV. That is a premium to lender peers (LC, UPST, NU) but cheap next to HOOD. The price sits inside the fair-value range.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "SoFi Reports Q2 2026 results (Business Wire)",
+   "url": "https://www.businesswire.com/news/home/20260729569583/en/SoFi-Reports-Second-Quarter-2026-with-Record-Net-Revenue-of-$1.2-Billion-Record-Member-and-Product-Growth-Net-Income-of-$157-Million"
+  },
+  {
+   "title": "SOFI statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/sofi/statistics/"
+  },
+  {
+   "title": "SOFI analyst forecast (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/sofi/forecast/"
+  },
+  {
+   "title": "SOFI forecast & price target (Public.com)",
+   "url": "https://public.com/stocks/sofi/forecast-price-target"
+  },
+  {
+   "title": "NU statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/nu/statistics/"
+  },
+  {
+   "title": "LC statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/lc/statistics/"
+  },
+  {
+   "title": "UPST statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/upst/statistics/"
+  },
+  {
+   "title": "HOOD statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/hood/statistics/"
+  },
+  {
+   "title": "Why SoFi Stock Plummeted 32% in H1 2026 (Motley Fool)",
+   "url": "https://www.fool.com/investing/2026/07/06/why-sofi-stock-plummeted-32-in-the-first-half-of-2/"
+  },
+  {
+   "title": "SoFi Stock Keeps Falling Despite 'Exceptional' Earnings (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-keeps-falling-despite-113002903.html"
+  },
+  {
+   "title": "SoFi denies Muddy Waters report; CEO buys (Alpha Spread)",
+   "url": "https://www.alphaspread.com/market-news/stock-movements/sofi-denies-muddy-waters-report-threatens-legal-action-ceo-purchases-stock-amid-volatility"
+  },
+  {
+   "title": "Anthony Noto Form 4 history (secform4.com)",
+   "url": "https://www.secform4.com/insider-trading/1613438.htm"
+  },
+  {
+   "title": "SOFI Congress trading (Quiver Quantitative)",
+   "url": "https://www.quiverquant.com/congresstrading/stock/SOFI"
+  },
+  {
+   "title": "SOFI institutional ownership (Fintel)",
+   "url": "https://fintel.io/so/us/sofi"
+  },
+  {
+   "title": "BlackRock 13G on SoFi (StockTitan)",
+   "url": "https://www.stocktitan.net/sec-filings/SOFI/schedule-13g-so-fi-technologies-inc-passive-investment-disclosure-5-86295ee76829.html"
+  },
+  {
+   "title": "SOFI earnings date estimate (MarketBeat)",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/SOFI/earnings/"
+  },
+  {
+   "title": "Interactive Brokers market data: SOFI quote, volatility, 1y weekly history, Oct 2 / Oct 9 option open interest",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-27T11:15:00Z",
+ "status": "done",
+ "summary": "SoFi is executing well: Q2 2026 adjusted revenue rose 40% to $1.21B, net income rose 61% to $157M, members hit 15.8M, and FY26 guidance calls for ~$0.60 adjusted EPS. The stock is still down about 37% YTD (IBKR) after the March Muddy Waters short report, a stretched starting valuation, 14.5% YoY share dilution and fears of higher rates. At $16.58 it trades near 2.3x tangible book and ~23x forward earnings, inside our $14.50–$20.50 fair-value range, so it looks fairly valued with modest upside. Growth and capital are strong, but momentum, flows and a negative-gamma options setup argue for a Neutral stance into the ~Oct 27 Q3 print.",
+ "ticker": "SOFI",
+ "updatedAt": "2026-09-27T11:40:00Z",
+ "upsidePct": 0.0555,
+ "valuation": {
+  "method": "We triangulated three approaches. (a) Peer multiples: 18–25x forward EPS of ~$0.73 (implied by a 22.7x forward P/E) gives $13.1–18.3, and 2.0–2.5x TBV/share of $7.34 gives $14.7–18.4. (b) Earnings power: start from FY26 adj. EPS of $0.60, grow it 35%/yr to ~$1.09 in 2028, apply an 18x exit multiple ($19.7) and discount 2 years at 12% to get ~$15.7. (c) Analyst targets: $12 low, $20.35 average, $30 high. Blended fair value: $14.50 / $17.50 / $20.50.",
+  "note": "EV/Sales for SOFI, NU, UPST and HOOD uses P/S or EV/revenue as reported by stockanalysis.com. Lender multiples are not strictly comparable. Peer growth rates were not in the pages read. SOFI's premium to LC and UPST reflects faster growth and bank-charter funding; its discount to HOOD reflects a lower-margin balance-sheet model.",
+  "rows": [
+   {
+    "evSales": 5,
+    "fwdPe": 22.7,
+    "growth": "+40% (Q2 adj. rev)",
+    "opMargin": "30% adj. EBITDA margin",
+    "pe": 34.9,
+    "ticker": "SOFI"
+   },
+   {
+    "evSales": 6.7,
+    "fwdPe": 13.9,
+    "growth": "n/a in source",
+    "opMargin": "52.0%",
+    "pe": 18.5,
+    "ticker": "NU"
+   },
+   {
+    "evSales": 0.56,
+    "fwdPe": 8.3,
+    "growth": "n/a in source",
+    "opMargin": "13.3%",
+    "pe": 12.3,
+    "ticker": "LC"
+   },
+   {
+    "evSales": 1.8,
+    "fwdPe": 7.8,
+    "growth": "n/a in source",
+    "opMargin": "7.0%",
+    "pe": 45.5,
+    "ticker": "UPST"
+   },
+   {
+    "evSales": 21.6,
+    "fwdPe": 49.6,
+    "growth": "n/a in source",
+    "opMargin": "46.0%",
+    "pe": 52.9,
+    "ticker": "HOOD"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

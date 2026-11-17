@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-14T02:16:00Z",
+ "cat": "AI & tech",
+ "impact": "A drawn-out CEO search keeps an uncertainty discount on Nvidia into Tuesday's earnings, which weighs on AI hardware names like MU, DRAM, SNXX and NBIS.",
+ "level": "Medium",
+ "published": "2026-11-13T23:00:00Z",
+ "source": "CNBC / Financial Times via Unite.ai",
+ "summary": "Nvidia's board said Friday it is still selecting a search firm for a permanent CEO and has not formally engaged candidates, while the Financial Times reported the board approached Arm CEO Rene Haas. CFO Colette Kress remains interim CEO while keeping her CFO role. Nvidia fell 2.01% Friday and closed below $4 trillion in market value for the first time since July 2025.",
+ "tickers": [
+  "NVDA",
+  "ARM"
+ ],
+ "title": "Nvidia approached Arm CEO Rene Haas; no search firm picked yet; stock below $4T",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+}

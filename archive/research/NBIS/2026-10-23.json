@@ -1,0 +1,310 @@
+{
+ "analysts": {
+  "count": 20,
+  "rating": "Buy",
+  "summary": "TIKR (Oct 19) shows 20 targets averaging ~$284 (range $84-410) with 15 buy/outperform, 6 hold, 2 underperform/sell. Benzinga shows a $269.62 average. Piper Sandler kept Neutral and cut to $185 on Oct 21; Rosenblatt initiated Buy $304 in October; William Blair Outperform (Sep 30); Citi Buy $324 (Aug 14); DA Davidson Neutral $250 (Aug 18).",
+  "targetAvg": 284,
+  "targetHigh": 410,
+  "targetLow": 84
+ },
+ "bear": [
+  "$20-25B 2026 capex means more converts, equity and dilution.",
+  "GAAP losses and negative free cash flow.",
+  "~100% implied volatility and short dealer gamma amplify swings.",
+  "Persistent insider selling, no insider buying.",
+  "Neocloud sentiment is fragile to AI-capex fears and rising yields."
+ ],
+ "bull": [
+  "Hyper-growth: ARR $3B at June-end targeting $7-9B by year-end.",
+  "41% adj. EBITDA margin, far above CoreWeave's 5% adj. operating margin.",
+  "Sold-out capacity and rising GPU pricing; customers prepaying 50-60% of capex.",
+  "Lower leverage than CoreWeave; ~$8B cash at June 30.",
+  "Stock already down ~47% from its high; analyst mean target well above price."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-11-10 (est.)",
+   "event": "Q3 2026 earnings",
+   "why": "Unusual Whales lists Nov 10 (time unconfirmed); options price about ±13.6% for the Nov 6 expiry. Last report moved the stock +34%."
+  },
+  {
+   "date": "Q4 2026",
+   "event": "ARR progress toward $7-9B and 5 GW contracted power",
+   "why": "Year-end targets are the core of the bull case."
+  },
+  {
+   "date": "Ongoing",
+   "event": "GPU pricing and capacity auctions",
+   "why": "Management says 2027 capacity could sell out at current prices (CNBC/Benzinga, Oct 21)."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Further financing",
+   "why": "Capex of $20-25B means more converts, equity or debt; dilution risk."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "CoreWeave",
+    "note": "Largest neocloud; Q2 rev $2.6B (+112%), 2026 guide $12.4-13.2B, capex $35-39B, net loss $626M.",
+    "ticker": "CRWV"
+   },
+   {
+    "name": "IREN",
+    "note": "Bitcoin miner pivoting to AI cloud; Microsoft contract.",
+    "ticker": "IREN"
+   },
+   {
+    "name": "Oracle (OCI)",
+    "note": "Hyperscale GPU cloud competitor.",
+    "ticker": "ORCL"
+   },
+   {
+    "name": "Microsoft Azure",
+    "note": "Major customer and competitor.",
+    "ticker": "MSFT"
+   }
+  ],
+  "share": [
+   {
+    "name": "CoreWeave (2026E rev guide mid)",
+    "value": "$12.8B"
+   },
+   {
+    "name": "Nebius (2026E rev guide mid)",
+    "value": "$3.2B"
+   }
+  ],
+  "summary": "Nebius is the second-largest listed neocloud behind CoreWeave. CoreWeave is about 4-5x its size by revenue ($2.6B Q2, $104B backlog) but carries far more debt and thinner margins. Hyperscalers (Microsoft, Amazon, Google, Oracle) are both customers and competitors."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 240,
+ "fairLow": 135,
+ "fairMid": 185,
+ "financials": [
+  {
+   "metric": "Revenue Q2 2026",
+   "note": "+454% y/y, +46% q/q (Quartr summary; one other outlet reported $620M, not used)",
+   "value": "$582.3M"
+  },
+  {
+   "metric": "AI cloud revenue",
+   "note": "~98% of group revenue, +514% y/y",
+   "value": "$575M"
+  },
+  {
+   "metric": "ARR (June-end)",
+   "note": "+598% y/y, +56% q/q",
+   "value": "$3.0B"
+  },
+  {
+   "metric": "Adj. EBITDA Q2",
+   "note": "vs -$21M a year earlier",
+   "value": "$236.2M (41% margin)"
+  },
+  {
+   "metric": "Net income (cont. ops) Q2",
+   "note": "loss; trailing EPS about -$0.13 (GuruFocus)",
+   "value": "-$190.4M"
+  },
+  {
+   "metric": "Capex",
+   "note": "2026 guide $20-25B",
+   "value": "$5.7B Q2; >$8.1B H1"
+  },
+  {
+   "metric": "Operating cash flow Q2",
+   "note": "helped by large customer prepayments",
+   "value": "$2.3B"
+  },
+  {
+   "metric": "Cash",
+   "note": "before the August converts",
+   "value": "~$8B (June 30)"
+  },
+  {
+   "metric": "Debt",
+   "note": "plus Aug 2026 converts: 0.50% 2030 and 4.50% 2034 notes (~$5.75-6.5B) and a $775M secured loan",
+   "value": "Net borrowings ~$0.5B ex leases (June 30)"
+  },
+  {
+   "metric": "2026 guidance",
+   "note": "reaffirmed Aug 12",
+   "value": "Revenue $3.0-3.4B; ARR $7-9B; adj. EBITDA margin ~40%"
+  },
+  {
+   "metric": "Dilution",
+   "note": "market cap ~$44B at $160 (approx. 272M shares)",
+   "value": "~15.8M shares issued in note exchanges; 12.7M shares sold via ATM at ~$223.60"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell",
+    "amount": "10.8K shares, ~$3.0M",
+    "date": "2026-06-02",
+    "who": "Marc Boroditsky (Chief Revenue Officer)"
+   },
+   {
+    "action": "Sell",
+    "amount": "1.5K shares, ~$417K",
+    "date": "2026-06-02",
+    "who": "Maria del Dado Alonso Sanchez (CFO)"
+   },
+   {
+    "action": "Sell",
+    "amount": "31,357 shares",
+    "date": "2026-04-08",
+    "who": "Andrey Korolenko (insider)"
+   }
+  ],
+  "summary": "Insiders were net sellers: about $318M sold over 12 months with no open-market buys (GuruFocus). Recent sales include the CRO and CFO."
+ },
+ "institutions": {
+  "rows": [],
+  "summary": "Detailed 13F changes could not be retrieved this run (Fintel and ownership pages failed to load). GuruFocus notes eight guru funds hold NBIS with more adding than trimming last quarter."
+ },
+ "name": "Nebius Group N.V.",
+ "options": {
+  "callWall": 175,
+  "expectedMove": "±$22.6 (~14%) to Oct 30; ±$31.9 (~20%) to Nov 6, from IBKR underlying IV 101.6%. Unusual Whales implied move ±$21.68 (13.6%) for Nov 6 as of 02:03 UTC.",
+  "expiry": "2026-10-30 (7 DTE); next 2026-11-06",
+  "gexNote": "Oct 30 strikes 130-190 sampled: put OI (15.5k) dwarfs call OI (6.0k), so net dealer gamma is short at nearly every strike (only 175 positive). No gamma flip found within ±25% of spot; short gamma tends to amplify moves. Largest put OI at 165 then 170 and 180; largest call OI at 175 and 170.",
+  "ivNote": "IBKR IV 101.6% vs 30-day realised 90.6%; IV percentile 63% (52w), 77% (13w). Unusual Whales IV 98.8%, 1-year IV rank 31.8. Premium is only modestly above realised.",
+  "pcRatio": 2.58,
+  "putWall": 165,
+  "strategy": "With IV ~100% and near-term support at $145-155, a cash-secured put around $140-145 for Nov or Dec gets paid to wait for a lower entry; avoid buying short-dated calls ahead of earnings at this IV. Not an order, a framework.",
+  "zeroGamma": null
+ },
+ "politicians": {
+  "summary": "No US Congress member trades in NBIS found in the last 12 months in the Unusual Whales congress history (since 2026-10-17) or in web searches; Capitol Trades could not be loaded this run. NBIS is not among the stocks most held by politicians.",
+  "trades": []
+ },
+ "price": 160.3,
+ "requestedAt": "2026-10-23T03:12:04.937Z",
+ "scores": {
+  "financial": {
+   "note": "About $8B cash at June 30 and borrowings roughly $0.5B net of cash (ex leases), but $5.7B Q2 capex, negative FCF and ~$6.5B of new converts in August.",
+   "score": 3
+  },
+  "flows": {
+   "note": "Insiders only selling (no buys); options OI skewed to puts (P/C 2.6 on Oct 30 strikes sampled); dealer gamma net short.",
+   "score": 2
+  },
+  "growth": {
+   "note": "Revenue +454% y/y in Q2; ARR $3B at June-end (+598% y/y) with $7-9B year-end target and 5 GW contracted power goal.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Full-stack AI cloud software plus own data centers and NVIDIA partnership; capacity-constrained market, but GPU clouds are capital-intensive with limited lock-in.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "Down ~47% from the $299.86 52-week high; fell 25% in the week to Oct 16; trades below 20/50/100-day SMAs; +91% YTD.",
+   "score": 2
+  },
+  "valuation": {
+   "note": "~13-14x EV/2026 revenue guide; ~5.5x exit-ARR. Rich vs CoreWeave (~2.2x forward sales) though better balance sheet and margins.",
+   "score": 2
+  }
+ },
+ "sources": [
+  {
+   "title": "Quartr: Nebius Q2 2026 earnings summary",
+   "url": "https://quartr.com/events/nebius-group-n-v-nbis-q2-2026_ozKEzQzr"
+  },
+  {
+   "title": "Benzinga: Nebius says it faces less debt risk than CoreWeave (Oct 21, 2026)",
+   "url": "https://www.benzinga.com/markets/tech/26/10/62507673/nebius-says-it-faces-less-debt-risk-than-coreweave-as-ai-spending-fears-mount"
+  },
+  {
+   "title": "Benzinga: NBIS analyst ratings",
+   "url": "https://www.benzinga.com/stock/NBIS/ratings"
+  },
+  {
+   "title": "GuruFocus: NBIS plunges nearly 12% on Oct 16, 2026",
+   "url": "https://www.gurufocus.com/news/9128275/nebius-group-nbis-shares-plunge-nearly-12-amid-sector-selloff-on-october-16-2026"
+  },
+  {
+   "title": "TIKR: Nebius stock fell 25% last week",
+   "url": "https://www.tikr.com/blog/nebius-stock-fell-25-last-week-is-it-priced-at-a-discount-or-warning"
+  },
+  {
+   "title": "W.Media: Nebius closes US$5.75B convertible note offering",
+   "url": "https://w.media/?p=42837"
+  },
+  {
+   "title": "Arkolith: NBIS insider and 13F activity",
+   "url": "https://arkolith.com/stock/NBIS"
+  },
+  {
+   "title": "InsiderTrades: Andrey Korolenko sells 31,357 shares",
+   "url": "https://www.insidertrades.com/alerts/nasdaq-nbis-insider-buying-and-selling-2026-04-09"
+  },
+  {
+   "title": "Seeking Alpha: Nebius 5.6x forward sales",
+   "url": "https://seekingalpha.com/article/4936102"
+  },
+  {
+   "title": "Quartr: CoreWeave Q2 2026 earnings summary",
+   "url": "https://quartr.com/events/coreweave-inc-crwv-q2-2026_F6huCJA4"
+  },
+  {
+   "title": "MarketBeat: CoreWeave Q2 earnings call highlights",
+   "url": "https://www.marketbeat.com/instant-alerts/coreweave-q2-earnings-call-highlights-2026-08-11/"
+  },
+  {
+   "title": "Tiger/Dow Jones: neocloud valuations (Dec 2025)",
+   "url": "https://www.itiger.com/news/2588460026"
+  },
+  {
+   "title": "Unusual Whales: NBIS overview (cached 2026-10-23 02:03 UTC)",
+   "url": "https://unusualwhales.com/stock/NBIS/overview"
+  },
+  {
+   "title": "Interactive Brokers market data (price, IV, option OI)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-10-23T03:15:00Z",
+ "status": "done",
+ "summary": "Nebius is one of the fastest-growing AI clouds: Q2 2026 revenue rose about 454% to roughly $582M with a 41% adjusted EBITDA margin, and it reaffirmed $3.0-3.4B 2026 revenue and $7-9B exit ARR. After a 25% drop in the week to Oct 16 the stock sits near the low end of its 13-week range, and our fair-value range of $135-240 (mid $185) brackets the price, so it screens as fairly valued with about 15% upside to the mid-point. The bull case rests on sold-out capacity and rising GPU pricing; the bear case is $20-25B of 2026 capex funded partly by convertibles and equity, plus very high implied volatility (~100%). Neutral, sized small, with a better entry near the $145-150 support zone.",
+ "ticker": "NBIS",
+ "updatedAt": "2026-10-23T03:40:00Z",
+ "upsidePct": 0.154,
+ "valuation": {
+  "method": "Triangulated: (a) peers: CoreWeave at ~2.2x forward sales and 5% adj. op margin; Nebius deserves a premium for net-cash-like balance sheet and ~40% EBITDA margins; 4-6x 2027E sales of ~$8B (exit ARR mid-point) gives EV $32-48B. (b) Earnings power: 2027E EBITDA ~$3.2B (40% of $8B) at 12-18x = EV $38-58B. (c) Analyst targets: mean ~$270-284, range $84-410, recent Piper Sandler cut to $185. Per-share on ~272M shares and roughly flat net debt.",
+  "note": "P/E is not meaningful (losses). Peer multiples are from dated sources and could not be refreshed this run; Oracle and IREN current multiples not found. Share count approximated from GuruFocus market cap.",
+  "rows": [
+   {
+    "evSales": "~13.8x 2026 guide",
+    "fwdPe": null,
+    "growth": "+454% y/y",
+    "opMargin": "41% adj. EBITDA; GAAP loss",
+    "pe": null,
+    "ticker": "NBIS"
+   },
+   {
+    "evSales": "~2.2x fwd P/S (Aug 2026)",
+    "fwdPe": null,
+    "growth": "+112% y/y",
+    "opMargin": "5% adj. operating",
+    "pe": null,
+    "ticker": "CRWV"
+   },
+   {
+    "evSales": "6.8x fwd EV/S (Dec 2025, stale)",
+    "fwdPe": null,
+    "growth": "n/a",
+    "opMargin": "n/a",
+    "pe": null,
+    "ticker": "IREN"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

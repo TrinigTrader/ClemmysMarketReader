@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-13T15:44:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T15:46:00Z",
+ "cat": "Trade & policy",
+ "impact": "A small disclosed buy in GOOGL; it is a sentiment signal only, not a size that moves the stock.",
+ "level": "Medium",
+ "published": "2026-11-13T15:33:00Z",
+ "source": "Unusual Whales / House Clerk",
+ "summary": "Republican Rep. David Taylor disclosed a purchase of Alphabet Class A shares (GOOGL) worth $1,001 to $15,000, traded November 3 and filed November 13, per the House periodic transaction report collected by Unusual Whales.",
+ "tickers": [
+  "GOOGL"
+ ],
+ "title": "Rep. David Taylor (R) buys GOOGL $1K-$15K, filed Nov 13",
+ "tone": "positive",
+ "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+ "uw": true
+}

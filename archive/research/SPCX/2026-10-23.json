@@ -1,0 +1,362 @@
+{
+ "analysts": {
+  "count": 35,
+  "rating": "Moderate Buy",
+  "summary": "TipRanks: 28 Buy, 5 Hold, 2 Sell, average target $217.50. Initiations on Jul 7: Goldman $205, JPMorgan $225, BofA $235, Morgan Stanley $300 (all Buy), Raymond James Strong Buy $800, MoffettNathanson Neutral $131. RBC kept Buy $225 before Q3.",
+  "targetAvg": 217.5,
+  "targetHigh": 800,
+  "targetLow": 131
+ },
+ "bear": [
+  "~$1.9T valuation leaves little room for execution misses.",
+  "Capex ~$20B a quarter; consensus sees debt rising toward ~$350B by 2029.",
+  "Lock-up releases of 1.3B+ shares now and ~798M in December vs a small float.",
+  "Starlink ARPU falling ($66 from $85) and subscriber adds missed in Q3.",
+  "Key-person and governance risk: Musk controls ~82% of votes."
+ ],
+ "bull": [
+  "Q3 beat on every segment and first GAAP profit as a public company.",
+  "AI compute revenue nearly tripled q/q to $7.56B.",
+  "~$100B cash cushion after IPO and bond sale.",
+  "Unique launch and Starlink moat; spectrum deal could expand mobile.",
+  "Index inclusion path (Nasdaq-100 done; S&P 500 possible after four profitable quarters)."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-10-22",
+   "event": "Lock-up release: up to 1.3B shares eligible",
+   "why": "Largest single tranche so far; supply overhang (SuccessKnocks schedule)."
+  },
+  {
+   "date": "2026-10-26",
+   "event": "Lock-up release: up to 328.4M shares (first trade)",
+   "why": "Further selling pressure."
+  },
+  {
+   "date": "2026-12-08",
+   "event": "Final pre-IPO lock-up (~798M shares)",
+   "why": "Last big tranche before Musk/insiders in June 2027."
+  },
+  {
+   "date": "Pending",
+   "event": "FCC approval of Grain Management 800 MHz spectrum deal (~$8B per WSJ)",
+   "why": "Boosts Starlink Mobile indoor service."
+  },
+  {
+   "date": "2027 (est.)",
+   "event": "S&P 500 eligibility",
+   "why": "Requires GAAP profit over the trailing four quarters; Q3 was the first profitable quarter."
+  },
+  {
+   "date": "Late Jan 2027 (est.)",
+   "event": "Q4 2026 earnings",
+   "why": "First full-year capex and revenue print vs $100B run-rate target; date not confirmed."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Rocket Lab",
+    "note": "Small/medium launch and space systems; ~$40B market cap on ~$0.6B 2025 revenue.",
+    "ticker": "RKLB"
+   },
+   {
+    "name": "AST SpaceMobile",
+    "note": "Direct-to-device satellite broadband; competes with Starlink Mobile.",
+    "ticker": "ASTS"
+   },
+   {
+    "name": "Amazon (Project Kuiper)",
+    "note": "Main LEO broadband challenger.",
+    "ticker": "AMZN"
+   },
+   {
+    "name": "CoreWeave",
+    "note": "AI compute capacity competitor.",
+    "ticker": "CRWV"
+   },
+   {
+    "name": "Nebius",
+    "note": "AI compute capacity competitor.",
+    "ticker": "NBIS"
+   }
+  ],
+  "share": [
+   {
+    "name": "SpaceX Q3 segment mix: AI",
+    "value": "52%"
+   },
+   {
+    "name": "Connectivity (Starlink)",
+    "value": "36%"
+   },
+   {
+    "name": "Space (launch)",
+    "value": "12%"
+   }
+  ],
+  "summary": "SpaceX dominates commercial launch and LEO broadband. Its AI segment (xAI and leased compute to Anthropic, Google, Grok and X) now exceeds Starlink revenue and competes with hyperscalers and neoclouds for GPU capacity."
+ },
+ "conviction": "Low",
+ "currency": "USD",
+ "fairHigh": 215,
+ "fairLow": 115,
+ "fairMid": 160,
+ "financials": [
+  {
+   "metric": "Revenue Q3 2026",
+   "note": "+161% y/y vs $12.86B consensus (Visible Alpha)",
+   "value": "$14.6B"
+  },
+  {
+   "metric": "Revenue 9M 2026",
+   "note": "Q1 $4.69B + Q2 $7.81B + Q3 $14.6B; 2025 full year $18.5B",
+   "value": "$27.1B"
+  },
+  {
+   "metric": "Segment revenue Q3",
+   "note": "Connectivity operating income $2.37B (~45% margin)",
+   "value": "AI $7.56B; Connectivity $5.25B; Space $1.77B"
+  },
+  {
+   "metric": "Operating income Q3",
+   "note": "vs -$143M in Q2; consensus $2.33B",
+   "value": "$2.79B (~19% margin)"
+  },
+  {
+   "metric": "Net income Q3",
+   "note": "Q2 net loss $541M (-$0.09)",
+   "value": "$4.4B ($0.35/share)"
+  },
+  {
+   "metric": "Adj. EBITDA Q2",
+   "note": "Q1 $1.13B",
+   "value": "$3.54B"
+  },
+  {
+   "metric": "Capex",
+   "note": "Consensus ~$70B for 2026",
+   "value": "Q3 $19.6B; Q2 $18.4B (AI $15.8B)"
+  },
+  {
+   "metric": "Cash and securities",
+   "note": "after IPO and a $25B senior note sale at 5.855% avg rate",
+   "value": "~$93.5-100B (June 30)"
+  },
+  {
+   "metric": "Debt and leases",
+   "note": "consensus sees debt rising sharply into 2029",
+   "value": "~$36.8B (June 30)"
+  },
+  {
+   "metric": "Starlink",
+   "note": "Q3 added 1.6M vs 2.29M expected",
+   "value": "~12M subscribers; ARPU $66 (from $85)"
+  },
+  {
+   "metric": "Share count / market cap",
+   "note": "inferred from $1.77T valuation at the $135 IPO price",
+   "value": "~13.1B shares; ~$1.9T at $147"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell (10b5-1 plan)",
+    "amount": "~342,170 shares, ~$52.5M",
+    "date": "2026-09",
+    "who": "Gwynne Shotwell (President/COO)"
+   }
+  ],
+  "summary": "Elon Musk holds about 42% of shares and ~82% of votes (Class B), locked up until June 2027. COO Gwynne Shotwell sold under a pre-arranged plan in September."
+ },
+ "institutions": {
+  "rows": [],
+  "summary": "First 13F filings covering SPCX (quarter ended Sep 30) are due by mid-November 2026, so no institutional change data exists yet. The IPO was allocated 70% to institutions; float is only about 5% of shares, which makes lock-up releases large relative to tradable supply."
+ },
+ "name": "Space Exploration Technologies Corp. (SpaceX), Class A",
+ "options": {
+  "callWall": 155,
+  "expectedMove": "±$6.9 (~4.7%) to Oct 26; ±$8.9 (~6.0%) to Oct 28, from IBKR underlying IV 51.7%. Unusual Whales data not cached for this ticker.",
+  "expiry": "2026-10-26 (3 DTE); next 2026-10-28",
+  "gexNote": "Oct 26 strikes 125-170 sampled: call OI 8.5k vs put OI 3.4k. Net dealer gamma is positive above ~$142 and peaks at 150-155, which tends to pin price in the $145-155 zone; below the $142 flip, gamma turns negative and moves can accelerate toward the $140 put wall.",
+  "ivNote": "IBKR IV 51.7% vs 30-day realised 53.1%; IV percentile 35% (52w), 48% (13w). Options are roughly fairly priced vs realised volatility.",
+  "pcRatio": 0.4,
+  "putWall": 140,
+  "strategy": "With IV near realised and lock-up supply ahead, there is no strong premium-selling edge; if wanting exposure, a cash-secured put near $130-135 (IPO price area) for Dec keeps entry below the gamma flip. Not an order, a framework.",
+  "zeroGamma": 142.2
+ },
+ "politicians": {
+  "summary": "Six House members or spouses disclosed SPCX buys right after the June 12 IPO (247 Wall St, TIKR); no sales reported. None appear in the Unusual Whales congress history since 2026-10-17, and SPCX is not among the stocks most held by politicians.",
+  "trades": [
+   {
+    "action": "Buy",
+    "amount": "$50,001-$100,000",
+    "date": "2026-06-15",
+    "member": "William Timmons IV",
+    "party": "R",
+    "source": "https://247wallst.com/investing/2026/07/28/congressman-who-oversees-military-contracts-bought-100000-in-spacex-stock-hes-not-the-only-one/"
+   },
+   {
+    "action": "Buy",
+    "amount": "$15,001-$50,000",
+    "date": "2026-06-15",
+    "member": "Dan Meuser (dependent child)",
+    "party": "R",
+    "source": "https://www.tikr.com/blog/congressional-disclosures-reveal-lawmakers-bought-spacex-spcx-nasdaq-stock-following-historic-initial-public-offering"
+   },
+   {
+    "action": "Buy",
+    "amount": "$15,001-$50,000",
+    "date": "2026-06-12",
+    "member": "John James (spouse)",
+    "party": "R",
+    "source": "https://247wallst.com/investing/2026/07/28/congressman-who-oversees-military-contracts-bought-100000-in-spacex-stock-hes-not-the-only-one/"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1,001-$15,000",
+    "date": "2026-06-15",
+    "member": "John McGuire (spouse)",
+    "party": "R",
+    "source": "https://247wallst.com/investing/2026/07/28/congressman-who-oversees-military-contracts-bought-100000-in-spacex-stock-hes-not-the-only-one/"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1,001-$15,000",
+    "date": "2026-06-18",
+    "member": "Gil Cisneros",
+    "party": "D",
+    "source": "https://www.tikr.com/blog/congressional-disclosures-reveal-lawmakers-bought-spacex-spcx-nasdaq-stock-following-historic-initial-public-offering"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1,001-$15,000",
+    "date": "2026-06 (not stated)",
+    "member": "Jared Moskowitz",
+    "party": "D",
+    "source": "https://247wallst.com/investing/2026/07/28/congressman-who-oversees-military-contracts-bought-100000-in-spacex-stock-hes-not-the-only-one/"
+   }
+  ]
+ },
+ "price": 147.3,
+ "requestedAt": "2026-10-23T03:12:20.584Z",
+ "scores": {
+  "financial": {
+   "note": "Cash and securities ~$93.5-100B at June 30 vs ~$36.8B debt and leases; Q3 GAAP profitable, but capex $19.6B in Q3 and ~$70B expected for 2026.",
+   "score": 4
+  },
+  "flows": {
+   "note": "Large lock-up expiries now hitting; COO sold ~$52.5M in September under a 10b5-1 plan; call-heavy near-term options (P/C 0.40).",
+   "score": 2
+  },
+  "growth": {
+   "note": "Revenue +161% y/y in Q3 to $14.6B; AI segment $7.56B (from $2.56B in Q2); Starlink connectivity +69%.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Dominant reusable launch, largest LEO broadband constellation (12M+ Starlink subscribers) and a large AI compute business; hard to replicate.",
+   "score": 5
+  },
+  "momentum": {
+   "note": "$147 vs $135 IPO price; well off the $225.64 high; 13-week range $104.83-176.42; rose ~4.6% after hours on Q3 beat.",
+   "score": 3
+  },
+  "valuation": {
+   "note": "~$1.9T market cap is ~33x annualised Q3 revenue and ~43x a $45B 2026 revenue base case; no conventional peer is close.",
+   "score": 1
+  }
+ },
+ "sources": [
+  {
+   "title": "Fortune: SpaceX posts first operating profit as public company (Oct 20, 2026)",
+   "url": "https://fortune.com/2026/10/20/spacex-q3-profit-ai-si-elon-musk/"
+  },
+  {
+   "title": "Wikipedia: Initial public offering of SpaceX",
+   "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX"
+  },
+  {
+   "title": "XTB: SpaceX Q2 2026 earnings review",
+   "url": "https://www.xtb.com/en/market-analysis/spacex-earnings-review"
+  },
+  {
+   "title": "TECHi: SpaceX Q3 earnings, what changed since Q2",
+   "url": "https://www.techi.com/spacex-q3-earnings-oct-20-what-changed-since-q2/"
+  },
+  {
+   "title": "Meyka: SPCX Q3 earnings beat",
+   "url": "https://meyka.com/blog/spacex-spcx-stock-q3-earnings-beat/"
+  },
+  {
+   "title": "SuccessKnocks: SpaceX IPO lock-up schedule",
+   "url": "https://successknocks.com/spacex-ipo-2026-details-and-share-lockup-schedule/"
+  },
+  {
+   "title": "The Daily Upside: Bullishness reigns in Wall Street's SpaceX coverage",
+   "url": "https://www.thedailyupside.com/industries/industrials/bullishness-reigns-in-wall-streets-spacex-coverage/"
+  },
+  {
+   "title": "TIKR: Lawmakers bought SpaceX stock after IPO",
+   "url": "https://www.tikr.com/blog/congressional-disclosures-reveal-lawmakers-bought-spacex-spcx-nasdaq-stock-following-historic-initial-public-offering"
+  },
+  {
+   "title": "247 Wall St: Congressman bought $100,000 in SpaceX stock",
+   "url": "https://247wallst.com/investing/2026/07/28/congressman-who-oversees-military-contracts-bought-100000-in-spacex-stock-hes-not-the-only-one/"
+  },
+  {
+   "title": "Motley Fool: SpaceX vs Rocket Lab",
+   "url": "https://fool.com/investing/2026/04/18/spacex-vs-rocket-lab-which-space-stock-to-buy"
+  },
+  {
+   "title": "Interactive Brokers market data (price, IV, option OI)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-10-23T03:15:00Z",
+ "status": "done",
+ "summary": "SpaceX (now including xAI and X) just posted its first operating profit as a public company: Q3 2026 revenue rose 161% to $14.6B, beating the $12.86B consensus, with $2.79B of operating income and $4.4B of net income ($0.35/share). At about $147 the market values it near $1.9T, roughly 33x annualised Q3 revenue, so almost all the value rests on the AI compute and Starlink growth path and on capex of about $20B a quarter paying off. Our $115-215 range (mid $160) brackets the price, so it is fairly valued with modest upside; heavy lock-up supply (1.3B shares eligible Oct 22, 328M more Oct 26 and ~798M Dec 8) argues against chasing. Neutral with low conviction.",
+ "ticker": "SPCX",
+ "updatedAt": "2026-10-23T03:55:00Z",
+ "upsidePct": 0.086,
+ "valuation": {
+  "method": "(a) Peers: no true comparable; AI cloud peers trade at 2-14x forward sales and space peers at very high multiples on small bases. (b) Earnings power: if 2027 revenue reaches $80-100B (company says it is on target for a $100B run rate by end-2026) at a 20-30% operating margin, $16-30B of EBIT at 50-80x gives ~$0.8-2.4T EV, ~$65-185/share plus ~$5/share net cash. (c) Analyst targets: $131 (MoffettNathanson) to $800 (Raymond James), core range $205-300, TipRanks average $217.50. Fair range set at $115-215, mid $160, weighting (b) and the lower half of (c).",
+  "note": "Trailing P/E not meaningful (only one profitable quarter). Peer multiples come from dated articles and could not be refreshed this run.",
+  "rows": [
+   {
+    "evSales": "~33x annualised Q3 rev; ~108x 2025 rev at $2.0T",
+    "fwdPe": null,
+    "growth": "+161% y/y (Q3)",
+    "opMargin": "~19% (Q3)",
+    "pe": null,
+    "ticker": "SPCX"
+   },
+   {
+    "evSales": "~67x 2025 P/S (Apr 2026)",
+    "fwdPe": null,
+    "growth": "+38% y/y",
+    "opMargin": "~-31% EBITDA margin",
+    "pe": null,
+    "ticker": "RKLB"
+   },
+   {
+    "evSales": "~13.8x 2026 guide",
+    "fwdPe": null,
+    "growth": "+454% y/y",
+    "opMargin": "41% adj. EBITDA",
+    "pe": null,
+    "ticker": "NBIS"
+   },
+   {
+    "evSales": "~2.2x fwd P/S (Aug 2026)",
+    "fwdPe": null,
+    "growth": "+112% y/y",
+    "opMargin": "5% adj. operating",
+    "pe": null,
+    "ticker": "CRWV"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

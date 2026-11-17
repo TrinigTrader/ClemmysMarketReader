@@ -1,0 +1,348 @@
+{
+ "analysts": {
+  "count": 20,
+  "rating": "Strong Buy",
+  "summary": "20 analysts: 5 Strong Buy, 14 Buy, 1 Hold, 0 Sell; average target $279.09 (StockAnalysis, 24/7 Wall St). Stifel and JPMorgan at $310. Low target not found.",
+  "targetAvg": 279.09,
+  "targetHigh": 310,
+  "targetLow": null
+ },
+ "bear": [
+  "Top three customers ~74% of revenue; one design loss would hurt.",
+  "GAAP gross margin compressing after DustPhotonics; ~$986M goodwill.",
+  "Persistent insider selling, ~$88M quarterly stock comp.",
+  "Bigger rivals (Broadcom, Marvell) could undercut AEC pricing.",
+  "High volatility (~82% IV) and negative dealer gamma below ~$166."
+ ],
+ "bull": [
+  "Revenue more than doubling with 48% non-GAAP operating margins.",
+  "Only ~17x FY28 consensus EPS after a ~46% drawdown.",
+  "Net cash, no debt, GAAP profitable.",
+  "AI cluster scale-out needs more copper and optical links per GPU.",
+  "Analyst estimates still being revised up."
+ ],
+ "catalysts": [
+  {
+   "date": "~2026-11-30 to early Dec (est.)",
+   "event": "Q2 FY27 earnings",
+   "why": "Guide $525-535M; investors want GAAP gross margin to stabilise after DustPhotonics. Date not confirmed."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Hyperscaler AEC and optical ramp (800G/1.6T)",
+   "why": "New customer wins would ease the 74% top-three concentration."
+  },
+  {
+   "date": "Ongoing",
+   "event": "DustPhotonics integration (silicon photonics)",
+   "why": "Expands into optical; drove goodwill to ~$986M and GAAP margin dilution."
+  },
+  {
+   "date": "Mid-Nov 2026",
+   "event": "Q3 13F filings",
+   "why": "Shows whether funds bought the post-earnings drop."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Astera Labs",
+    "note": "PCIe/CXL retimers and Scorpio switches; much higher valuation.",
+    "ticker": "ALAB"
+   },
+   {
+    "name": "Marvell Technology",
+    "note": "Optical DSPs, custom silicon and AEC DSPs.",
+    "ticker": "MRVL"
+   },
+   {
+    "name": "Broadcom",
+    "note": "SerDes, switching and custom XPU leader.",
+    "ticker": "AVGO"
+   },
+   {
+    "name": "Coherent",
+    "note": "Optical transceivers; overlaps after DustPhotonics.",
+    "ticker": "COHR"
+   }
+  ],
+  "share": [
+   {
+    "name": "Top three customers share of Credo revenue",
+    "value": "~74%"
+   }
+  ],
+  "summary": "Credo leads active electrical cables (AECs) for in-rack AI links and competes in SerDes, retimers and optical DSPs with much larger players. Its edge is power-efficient SerDes IP and speed to market; its weakness is reliance on a few hyperscalers."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 270,
+ "fairLow": 150,
+ "fairMid": 210,
+ "financials": [
+  {
+   "metric": "Revenue Q1 FY27 (Aug 1, 2026)",
+   "note": "+114.7% y/y, +9.6% q/q; beat ~$470M consensus",
+   "value": "$479.0M"
+  },
+  {
+   "metric": "Revenue TTM",
+   "note": "FY2026 (ended May 2026) $1.34B",
+   "value": "~$1.59B"
+  },
+  {
+   "metric": "Gross margin",
+   "note": "GAAP down from 68.2% on acquisition amortisation",
+   "value": "GAAP 64.5%; non-GAAP 68.0%"
+  },
+  {
+   "metric": "Operating margin",
+   "note": "GAAP op income $120.7M; non-GAAP $230.6M",
+   "value": "GAAP 25.2%; non-GAAP 48.2%"
+  },
+  {
+   "metric": "Net income Q1",
+   "note": "",
+   "value": "GAAP $129.4M; non-GAAP $236.3M"
+  },
+  {
+   "metric": "Diluted EPS Q1",
+   "note": "non-GAAP beat $1.17 estimate",
+   "value": "GAAP $0.67; non-GAAP $1.20"
+  },
+  {
+   "metric": "Q2 FY27 guidance",
+   "note": "non-GAAP opex $100-105M",
+   "value": "Revenue $525-535M; non-GAAP GM 67-69%"
+  },
+  {
+   "metric": "EPS consensus",
+   "note": "15 of 18 revisions up in last 30 days (24/7 Wall St, Oct 21)",
+   "value": "FY27 ~$6.31; FY28 ~$9.69"
+  },
+  {
+   "metric": "Cash & short-term investments",
+   "note": "no debt line on balance sheet",
+   "value": "$764.3M"
+  },
+  {
+   "metric": "Share count",
+   "note": "market cap ~$31B at $165.7",
+   "value": "~188M outstanding; 194.4M diluted"
+  },
+  {
+   "metric": "Stock-based comp",
+   "note": "material vs GAAP earnings",
+   "value": "~$88M in Q1"
+  },
+  {
+   "metric": "Buybacks",
+   "note": "",
+   "value": "None disclosed"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell (10b5-1)",
+    "amount": "55,998 shares, ~$12.6M at $225.44; ~106K shares / ~$23.9M including a related entity",
+    "date": "2026-07-15",
+    "who": "Lam Yat Tung (COO)"
+   },
+   {
+    "action": "Sell",
+    "amount": "50,000 shares",
+    "date": "2026-03-13",
+    "who": "CEO"
+   },
+   {
+    "action": "Sell",
+    "amount": "27,500 shares",
+    "date": "2026-03-14",
+    "who": "Chi Fung Cheng (director/insider)"
+   }
+  ],
+  "summary": "Steady insider selling, mostly under 10b5-1 plans; no open-market buys found."
+ },
+ "institutions": {
+  "rows": [],
+  "summary": "Specific 13F holder changes were not available from the sources read this run. Analyst estimate revisions are strongly positive (15 up, 3 down for FY27)."
+ },
+ "name": "Credo Technology Group Holding Ltd",
+ "options": {
+  "callWall": 190,
+  "expectedMove": "±$18.7 (~11.3%) to Oct 30; ±$26.5 (~16%) to Nov 6, from IBKR underlying IV 81.6%. Unusual Whales data not cached for this ticker.",
+  "expiry": "2026-10-30 (7 DTE); next 2026-11-06",
+  "gexNote": "Oct 30 strikes 140-190 sampled: call OI 7.6k vs put OI 5.8k, but call OI is concentrated at 190 (5,354) and 180 (1,628). Net dealer gamma is negative from 140 to 175 and turns positive at 180 and 190; the flip sits at ~$165.8, right at spot, so moves below $165 can accelerate while a push above $175-180 would meet dampening gamma.",
+  "ivNote": "IBKR IV 81.6% vs 30-day realised 82.3%; IV percentile 29% (52w), 51% (13w). Options are priced roughly at realised volatility, not rich.",
+  "pcRatio": 0.76,
+  "putWall": 170,
+  "strategy": "For an Overweight lean with IV near realised, a Dec cash-secured put at $150 (near the 13-week low) or a bull call spread toward the $190 call wall are cleaner than outright calls. Not an order, a framework.",
+  "zeroGamma": 165.8
+ },
+ "politicians": {
+  "summary": "Small trades only in the last 12 months (Quiver Quantitative): Rep. Gilbert Cisneros (D) bought then sold in $1K-15K ranges, and Sen. Markwayne Mullin (R) fully sold. None in the Unusual Whales congress history since 2026-10-17; CRDO is not among the stocks most held by politicians.",
+  "trades": [
+   {
+    "action": "Sell",
+    "amount": "$1,001-$15,000",
+    "date": "2026-07-02",
+    "member": "Gilbert Cisneros (House)",
+    "party": "D",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   },
+   {
+    "action": "Sell",
+    "amount": "$1,001-$15,000",
+    "date": "2026-06-30",
+    "member": "Gilbert Cisneros (House)",
+    "party": "D",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   },
+   {
+    "action": "Sell (full)",
+    "amount": "$15,001-$50,000",
+    "date": "2026-02-04",
+    "member": "Markwayne Mullin (Senate)",
+    "party": "R",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1,001-$15,000",
+    "date": "2026-01-20",
+    "member": "Gilbert Cisneros (House)",
+    "party": "D",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   },
+   {
+    "action": "Sell (full)",
+    "amount": "$15,001-$50,000",
+    "date": "2025-12-18",
+    "member": "Markwayne Mullin (Senate)",
+    "party": "R",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1,001-$15,000",
+    "date": "2025-10-30",
+    "member": "Gilbert Cisneros (House)",
+    "party": "D",
+    "source": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+   }
+  ]
+ },
+ "price": 165.7,
+ "requestedAt": "2026-10-23T03:12:15.734Z",
+ "scores": {
+  "financial": {
+   "note": "$764M cash and short-term investments, no debt on the balance sheet; GAAP net income $129M in Q1; goodwill jumped to ~$986M after DustPhotonics.",
+   "score": 4
+  },
+  "flows": {
+   "note": "Repeated insider sales (CEO, COO, directors) under 10b5-1 plans; options P/C OI 0.76 with a large 190 call strike.",
+   "score": 2
+  },
+  "growth": {
+   "note": "Revenue +115% y/y, +9.6% q/q; Q2 guide implies ~+10% q/q; FY2026 revenue $1.34B.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Leader in AECs with hyperscaler design wins and in-house SerDes IP; competition from Broadcom, Marvell and Astera Labs and customer concentration temper it.",
+   "score": 4
+  },
+  "momentum": {
+   "note": "Down ~46% from $308.67 52-week high; ~23% lower over three months; near the 13-week low of $149.14; +15% YTD.",
+   "score": 2
+  },
+  "valuation": {
+   "note": "~57x trailing GAAP EPS but ~26x FY27 and ~17x FY28 consensus EPS; cheaper than Astera Labs (~115x forward in July).",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "Credo Q1 FY2027 results press release (PDF)",
+   "url": "https://s205.q4cdn.com/511065572/files/doc_news/Credo-Technology-Group-Holding-Ltd-Reports-First-Quarter-of-Fiscal-Year-2027-Financial-Results-2026.pdf"
+  },
+  {
+   "title": "24/7 Wall St: Credo crumbled 15% over 3 months but has 80% gains in store (Oct 21, 2026)",
+   "url": "https://247wallst.com/investing/2026/10/21/credo-technology-crumbled-by-15-over-3-months-but-has-80-gains-in-store-according-to-two-wall-street-firms/"
+  },
+  {
+   "title": "StockAnalysis: CRDO overview",
+   "url": "https://stockanalysis.com/stocks/crdo/"
+  },
+  {
+   "title": "Quiver Quantitative: CRDO congress trading",
+   "url": "https://www.quiverquant.com/congresstrading/stock/CRDO"
+  },
+  {
+   "title": "TIKR: Astera Labs vs Credo (Jul 9, 2026)",
+   "url": "https://www.tikr.com/blog/alab-crdo-astera-labs-vs-credo-ai-connectivity-stocks?"
+  },
+  {
+   "title": "Motley Fool: Credo COO sells 55,998 shares",
+   "url": "https://www.fool.com/coverage/filings/2026/07/16/credo-technology-coo-sells-55998-shares-for-126-million/"
+  },
+  {
+   "title": "MarketBeat: CRDO CEO sells 50,000 shares (Mar 2026)",
+   "url": "https://www.marketbeat.com/instant-alerts/insider-selling-credo-technology-group-nasdaqcrdo-ceo-sells-50000-shares-of-stock-2026-03-13/"
+  },
+  {
+   "title": "InsiderTrades: Chi Fung Cheng sells 27,500 shares",
+   "url": "https://www.insidertrades.com/alerts/nasdaq-crdo-insider-buying-and-selling-2026-03-14"
+  },
+  {
+   "title": "Interactive Brokers market data (price, IV, option OI)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Overweight",
+ "startedAt": "2026-10-23T03:15:00Z",
+ "status": "done",
+ "summary": "Credo sells the active electrical cables, SerDes and optical DSPs that connect AI servers, and it is growing fast and profitably: fiscal Q1 2027 revenue rose 115% to $479M with a 48% non-GAAP operating margin, and it guided Q2 to $525-535M. The stock has fallen about 46% from its $308.67 high after a roughly 20% post-earnings drop on GAAP gross-margin compression from the DustPhotonics deal, leaving it at about 26x fiscal 2027 and 17x fiscal 2028 consensus EPS. Our $150-270 range (mid $210) puts it inside fair value but with about 27% upside to the mid-point, so we lean Overweight. The main risks are heavy customer concentration (top three about 74% of revenue) and steady insider selling.",
+ "ticker": "CRDO",
+ "updatedAt": "2026-10-23T04:05:00Z",
+ "upsidePct": 0.267,
+ "valuation": {
+  "method": "(a) Peers: Astera Labs traded ~115x forward earnings in July; Credo at ~26x FY27 is much cheaper for similar AI-connectivity growth. (b) Earnings power: FY28 consensus EPS $9.69 at 20-30x, discounted one year at 10%, gives ~$176-264; a bear case of 18x on a 15% lower EPS lands near $150. (c) Analyst targets: average $279 (20 analysts, 19 Buy/Strong Buy), high $310 (Stifel, JPMorgan). Fair range $150-270, mid $210.",
+  "note": "Marvell and Broadcom current multiples were not found in sources read this run. Forward multiples use consensus quoted by 24/7 Wall St and StockAnalysis.",
+  "rows": [
+   {
+    "evSales": "~13x FY27E sales (~$2.2-2.4B)",
+    "fwdPe": "~26x FY27; ~17x FY28",
+    "growth": "+115% y/y",
+    "opMargin": "48% non-GAAP; 25% GAAP",
+    "pe": 57.5,
+    "ticker": "CRDO"
+   },
+   {
+    "evSales": "n/a",
+    "fwdPe": "~115x (Jul 2026)",
+    "growth": "~76% (current year est.)",
+    "opMargin": "n/a",
+    "pe": null,
+    "ticker": "ALAB"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "MRVL"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "AVGO"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

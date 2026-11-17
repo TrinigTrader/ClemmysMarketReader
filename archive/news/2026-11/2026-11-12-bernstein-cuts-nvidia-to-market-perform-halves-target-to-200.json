@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-12T04:15:00Z",
+ "cat": "AI & tech",
+ "impact": "More pressure on NVDA ahead of its Nov 17 report; a prolonged leadership vacuum would weigh on the AI chip chain including MU, DRAM and SNXX, and on NBIS sentiment.",
+ "level": "Medium",
+ "published": "2026-11-12T02:45:00Z",
+ "source": "investingLive / CNBC",
+ "summary": "Bernstein's Stacy Rasgon downgraded Nvidia to Market Perform from Outperform and cut the price target to $200 from $400, citing leadership uncertainty rather than demand. It is the third broker in two days to step back, after Baird cut to Neutral ($200 from $500) and Morgan Stanley stepped back on Nov 11. The New York Times also reported Huang had a relationship with Nvidia's VP of healthcare, Kimberly Powell, as the board weighs his future.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS"
+ ],
+ "title": "Bernstein cuts Nvidia to Market Perform, halves target to $200",
+ "tone": "negative",
+ "url": "https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/"
+}

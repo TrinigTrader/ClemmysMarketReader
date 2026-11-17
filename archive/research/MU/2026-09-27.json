@@ -1,0 +1,507 @@
+{
+ "analysts": {
+  "count": 49,
+  "rating": "Strong Buy",
+  "summary": "44 Buy / 4 Hold (per Yahoo, Sep 7). The median target is $1,545. Recent notes cluster at $1,300-1,625: BMO $1,300 (Sep 25), Rosenblatt $1,500 (Sep 25), Wolfe $1,500 and UBS $1,625 (Sep 23). Wells Fargo cut to $1,400 from $1,525 (Sep 23), the first sign of targets flattening before the print.",
+  "targetAvg": 1515,
+  "targetHigh": 2200,
+  "targetLow": 361
+ },
+ "bear": [
+  "These are peak-cycle margins (85% gross), and management already flagged 'meaningful moderation in the rate of price increases'. Memory stocks usually peak before earnings do.",
+  "Korean peers trade at ~5x forward, so there is no multiple support if the cycle turns.",
+  "HBM share fell to 18% in Q2 as Samsung surged on HBM4.",
+  "The Taiwan union strike vote in early October could disrupt a key DRAM/HBM production hub.",
+  "Insiders sold a net $220M in 90 days with zero buyers.",
+  "Beta is 2.2 and the stock is +280% YTD; it fell 41% from its June high to its August low."
+ ],
+ "bull": [
+  "Q4 guided to $50B revenue at ~86% gross margin. At that run-rate MU earns >$120 of annualized EPS against a $1,085 price.",
+  "About $100B of minimum-price multi-year agreements backed by $22B of deposits reduce the downside if spot prices fall.",
+  "Estimates keep rising: FY27 EPS went from $103 to $155 in 90 days, with 29 up-revisions vs 1 cut.",
+  "The HBM4 ramp is running twice as fast as HBM3E, and Micron's total DRAM share is at 25%, a near-record vs SK hynix.",
+  "$24B net cash and $18B+ of quarterly FCF allow bigger buybacks and dividends.",
+  "Options IV sits at a low percentile, so upside exposure is cheap."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-09-30",
+   "event": "Fiscal Q4 FY26 earnings, after the close (call 4:30pm ET)",
+   "why": "Consensus is $50.82B revenue and $31.43 EPS vs a $50B/$31 guide. FQ1 FY27 guidance and commentary on contract prices and HBM4 will set the path for FY27 EPS (~$155 consensus). Management already warned of 'meaningful moderation in the rate of price increases'."
+  },
+  {
+   "date": "Early Oct 2026",
+   "event": "Taoyuan (Taiwan) union strike vote; Micron board to approve its bonus plan",
+   "why": "Unions representing >70% of ~15,000 Taiwan staff want 15% of operating profit as bonuses. Mediation failed on Sep 22. A strike at a key DRAM/HBM site would be a supply and margin risk."
+  },
+  {
+   "date": "2026-10-02",
+   "event": "Weekly options expiry just after earnings",
+   "why": "There is heavy call OI at $1,000 and $1,100. Positioning can pin or amplify the post-earnings move."
+  },
+  {
+   "date": "Q4 2026-1H 2027",
+   "event": "HBM4 volume ramp on major customer platforms",
+   "why": "HBM4 on 1-beta DRAM is in high-volume shipment. $1B+ is booked, and management says it is ramping twice as fast as the prior generation. It is key to winning back HBM share (18% in Q2 26)."
+  },
+  {
+   "date": "Mid/late Dec 2026 (est.)",
+   "event": "Fiscal Q1 FY27 earnings (date not yet announced)",
+   "why": "The first quarter of FY27 will show whether price increases have peaked."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "SK hynix",
+    "note": "HBM leader (50% Q2 26); ~4.9x forward P/E",
+    "ticker": "000660.KS"
+   },
+   {
+    "name": "Samsung Electronics",
+    "note": "#1 DRAM (39%), HBM share up to 33% on HBM4; ~4.7x forward P/E",
+    "ticker": "005930.KS"
+   },
+   {
+    "name": "SanDisk",
+    "note": "NAND pure-play, +633% YTD; 8.3x forward P/E",
+    "ticker": "SNDK"
+   },
+   {
+    "name": "Western Digital",
+    "note": "HDD/storage; 22.7x forward P/E",
+    "ticker": "WDC"
+   },
+   {
+    "name": "ChangXin Memory",
+    "note": "China DRAM, 7% share, revenue +716% y/y",
+    "ticker": "CXMT (private)"
+   }
+  ],
+  "share": [
+   {
+    "name": "Samsung DRAM share (Q2 26, Counterpoint)",
+    "value": "39%"
+   },
+   {
+    "name": "SK hynix DRAM share",
+    "value": "26%"
+   },
+   {
+    "name": "Micron DRAM share",
+    "value": "25%"
+   },
+   {
+    "name": "CXMT DRAM share",
+    "value": "7%"
+   },
+   {
+    "name": "Micron HBM share (Q2 26)",
+    "value": "18% (SK hynix 50%, Samsung 33%)"
+   }
+  ],
+  "summary": "DRAM is a three-player oligopoly plus fast-growing China-based CXMT. In Q2 2026 Micron nearly caught SK hynix in total DRAM revenue share (25% vs 26%; Samsung 39%), helped by the fastest conventional DRAM growth. In HBM, Micron slipped to 18% as Samsung jumped to 33% on being first to mass-produce HBM4, while SK hynix still leads at 50%. In NAND, MU competes with SanDisk, Kioxia, Samsung and SK hynix."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 1345,
+ "fairLow": 1010,
+ "fairMid": 1180,
+ "financials": [
+  {
+   "metric": "Revenue TTM",
+   "note": "stockanalysis.com statistics (Sep 27 2026)",
+   "value": "$90.27B"
+  },
+  {
+   "metric": "FQ3 FY26 revenue (qtr to late May)",
+   "note": "Micron FQ3 release, Jun 24 2026",
+   "value": "$41.46B (+346% y/y, +74% q/q)"
+  },
+  {
+   "metric": "Gross margin FQ3",
+   "note": "Q4 guide ~86%",
+   "value": "84.6% GAAP / 84.9% non-GAAP"
+  },
+  {
+   "metric": "Operating margin",
+   "note": "FQ3 non-GAAP operating income $33.68B",
+   "value": "81.2% non-GAAP FQ3; 65.7% TTM"
+  },
+  {
+   "metric": "EPS FQ3",
+   "note": "FY26 consensus EPS ~$73.57; FY27 ~$155",
+   "value": "$25.11 non-GAAP / $24.67 GAAP"
+  },
+  {
+   "metric": "Free cash flow",
+   "note": "FQ3 operating cash flow $25.39B, capex $7.1B",
+   "value": "$18.3B adj. FQ3; $26.2B TTM"
+  },
+  {
+   "metric": "Cash & investments",
+   "note": "End of FQ3",
+   "value": "$30.2B"
+  },
+  {
+   "metric": "Debt",
+   "note": "Net cash ~ $24B",
+   "value": "$5.14B long-term ($6.38B total)"
+  },
+  {
+   "metric": "Share count / buybacks",
+   "note": "Shares +0.6% y/y, so buybacks are not shrinking the count",
+   "value": "1.145B diluted; $650M bought back in FQ3"
+  },
+  {
+   "metric": "Dividend",
+   "note": "IBKR dividend yield 0.05%",
+   "value": "$0.15/qtr (~0.05% yield)"
+  },
+  {
+   "metric": "FQ4 guidance",
+   "note": "Consensus: $50.82B revenue / $31.43 EPS (TradingKey)",
+   "value": "Rev $50.0B ± $1.0B; GM ~86%; non-GAAP EPS $31.00 ± $1.00"
+  },
+  {
+   "metric": "Contracted demand",
+   "note": "Backed by $22B of deposits and letters of credit (Yahoo/Motley Fool, Sep 7)",
+   "value": "~$100B minimum-price revenue under 14 of 16 strategic customer agreements"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sale",
+    "amount": "25 sh (~$28K)",
+    "date": "2026-08-28",
+    "who": "Alexis Bjorlin (Director)"
+   },
+   {
+    "action": "Sale (10b5-1)",
+    "amount": "40,000 sh (~$38.8M)",
+    "date": "2026-08-25",
+    "who": "Sanjay Mehrotra (CEO)"
+   },
+   {
+    "action": "Sale",
+    "amount": "15,000 sh (~$14.0M)",
+    "date": "2026-08-20",
+    "who": "Sumit Sadana (EVP, Chief Business Officer)"
+   },
+   {
+    "action": "Sale (10b5-1)",
+    "amount": "40,000 sh (~$37.3M)",
+    "date": "2026-07-28",
+    "who": "Sanjay Mehrotra (CEO)"
+   },
+   {
+    "action": "Sale",
+    "amount": "879 sh (~$0.9M)",
+    "date": "2026-07-27",
+    "who": "Scott R. Allen (CAO)"
+   }
+  ],
+  "summary": "Insiders are heavy, steady sellers with no open-market buys. Net selling was $220.6M over 90 days (6 sellers, 0 buyers) and $274.6M over 6 months. CEO Sanjay Mehrotra sells 40,000 shares a month under a 10b5-1 plan. This is routine plan selling into a +280% YTD move, not a clear warning signal, but it is not supportive either."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Top holder",
+    "date": "Latest 13F",
+    "detail": "~$57.8B, 4.4% of shares",
+    "holder": "State Street Corp"
+   },
+   {
+    "action": "Top holder",
+    "date": "Latest 13F",
+    "detail": "~$30.4B",
+    "holder": "Vanguard Group"
+   },
+   {
+    "action": "Holder / mixed",
+    "date": "Latest 13F",
+    "detail": "~$22.2B; listed among both top recent buyers and sellers",
+    "holder": "Primecap Management"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Latest 13F",
+    "detail": "~$16.6B position; a top recent seller",
+    "holder": "Capital World Investors"
+   },
+   {
+    "action": "Added",
+    "date": "Latest 13F",
+    "detail": "Top recent buyer",
+    "holder": "Norges Bank"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Latest 13F",
+    "detail": "Top recent seller",
+    "holder": "Capital Research Global Investors"
+   },
+   {
+    "action": "Exited",
+    "date": "Q2 2026 13F",
+    "detail": "Sold entire position",
+    "holder": "Y Intercept Hong Kong"
+   }
+  ],
+  "summary": "About 81% of shares are held by institutions. Over the last 12 months, 2,462 institutions bought and 1,245 sold, with $129.7B of inflows vs $33.5B of outflows (MarketBeat). HoldingsChannel says hedge-fund ownership rose 7.5% in the Q2 2026 (Jun 30) 13Fs, with selective trims, and Y Intercept Hong Kong exited. Per-fund share counts for Q2 were paywalled at most sources."
+ },
+ "name": "Micron Technology, Inc.",
+ "options": {
+  "callWall": 1100,
+  "expectedMove": "±$75 (~6.9%) to Oct 2 and ±$95 (~8.7%) to Oct 5, using underlying IV of 58.9%. Earnings on Sep 30 fall inside both expiries, so the real implied move is likely larger than this blended figure.",
+  "expiry": "Oct 2 & Oct 5 2026 (nearest two with DTE >= 3). Oct 2 holds almost all the OI; Oct 5 is thin.",
+  "gexNote": "Strikes sampled at $25 steps from $900 to $1,200 (plus Oct 5 near the money). Net dealer gamma is strongly positive at spot, about +$104M per 1% move. The largest positive GEX is at $1,100 (6,823 calls), which is the call wall. $1,000 (11,015 calls, now in the money) is the second-largest node, and $1,150/$1,200 carry 2.5k-4.2k calls. Put OI is light. The biggest put node is $900 (2,699 puts), then $950 (1,874), so the put wall is at $900. Net GEX flips negative only near ~$900, so between $1,000 and $1,100 dealer hedging should dampen moves unless earnings break the range.",
+  "ivNote": "Underlying IV is 58.9% vs 30-day realized vol of 55.1%. The IV percentile is low: 16th over 13 weeks, 8th over 26 weeks and 13th over 52 weeks. Options are cheap vs their own history even with earnings three days out. Call OI is ~3.4x put OI near the money.",
+  "pcRatio": 0.29,
+  "putWall": 900,
+  "strategy": "Educational idea, not an order. IV is cheap into a binary print, and the price sits mid fair-value band. A defined-risk structure beats adding stock here. One example: a long Oct/Nov call spread around $1,100-1,200 to play a beat-and-raise through the call wall. Another: selling $900-950 puts only if you'd be happy to own MU near the put wall and zero-gamma level. Size small. Memory stocks can move 10%+ on guidance.",
+  "zeroGamma": 900
+ },
+ "politicians": {
+  "summary": "Members of Congress have been net buyers of MU over the past 12 months, all in small-to-mid disclosed ranges. Tony Wied's Feb 2026 buy ($250K-500K) and Cleo Fields' ($100K-250K) are the largest. The only disclosed sale was a small one by Gil Cisneros in June. PelosiTracker counts 51 disclosed trades by 20 members overall. Capitol Trades could not be read (403).",
+  "trades": [
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-07-10",
+    "member": "Rep. Dan Newhouse",
+    "party": "R",
+    "source": "PelosiTracker"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-06-25",
+    "member": "Rep. Michael Rulli",
+    "party": "R",
+    "source": "PelosiTracker"
+   },
+   {
+    "action": "Not specified",
+    "amount": "$1K-15K",
+    "date": "2026-06-25",
+    "member": "Sen. Sheldon Whitehouse",
+    "party": "D",
+    "source": "PelosiTracker"
+   },
+   {
+    "action": "Sell",
+    "amount": "$1K-15K",
+    "date": "2026-06-05",
+    "member": "Rep. Gilbert Cisneros",
+    "party": "D",
+    "source": "PelosiTracker"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-05-21",
+    "member": "Rep. Josh Gottheimer",
+    "party": "D",
+    "source": "PelosiTracker"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-03-30",
+    "member": "Sen. John Fetterman",
+    "party": "D",
+    "source": "Yahoo Finance (May 13 2026)"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-03-25",
+    "member": "Rep. Gilbert Cisneros",
+    "party": "D",
+    "source": "Yahoo Finance"
+   },
+   {
+    "action": "Buy",
+    "amount": "$1K-15K",
+    "date": "2026-02-24",
+    "member": "Rep. Gilbert Cisneros",
+    "party": "D",
+    "source": "Yahoo Finance"
+   },
+   {
+    "action": "Buy",
+    "amount": "$250K-500K",
+    "date": "2026-02-19",
+    "member": "Rep. Tony Wied",
+    "party": "R",
+    "source": "Yahoo Finance"
+   },
+   {
+    "action": "Buy",
+    "amount": "$100K-250K",
+    "date": "2026-02-03",
+    "member": "Rep. Cleo Fields",
+    "party": "D",
+    "source": "Yahoo Finance"
+   }
+  ]
+ },
+ "price": 1085.02,
+ "requestedAt": "2026-09-27T04:16:22.973Z",
+ "scores": {
+  "financial": {
+   "note": "$30.2B cash and investments vs $5.1B long-term debt; FQ3 adjusted FCF of $18.3B was a record; non-GAAP operating margin 81%.",
+   "score": 5
+  },
+  "flows": {
+   "note": "Institutions: $129.7B inflows vs $33.5B outflows over 12 months (MarketBeat). Insiders sold a net $220.6M in 90 days (6 sellers, 0 buyers). Options P/C OI is a call-heavy 0.29.",
+   "score": 3
+  },
+  "growth": {
+   "note": "FQ3 revenue +346% y/y and +74% q/q; Q4 guided to $50B (+~20% q/q). FY27 EPS consensus rose from $103 to $155 in 90 days (29 up-revisions vs 1 cut).",
+   "score": 5
+  },
+  "moat": {
+   "note": "One of only three scale DRAM/HBM makers, with ~$100B of minimum-price multi-year customer agreements backed by $22B in deposits. Memory is still a commodity, though, and Samsung is taking HBM share while CXMT grows fast.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "+280% YTD and up from a $160 52-week low; $1,085 is ~14% below the $1,255 high from late June. It recovered from a $738 August low to new multi-week highs last week.",
+   "score": 4
+  },
+  "valuation": {
+   "note": "About 7x forward EPS and 24x TTM. Cheap on paper, but SK hynix (4.9x) and Samsung (4.7x) are cheaper, and peak-cycle earnings deserve a low multiple. The price sits inside the fair-value band.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "Micron FQ3 FY26 results & Q4 guidance (StockTitan, Jun 24 2026)",
+   "url": "https://www.stocktitan.net/news/MU/micron-technology-inc-reports-record-results-for-the-third-quarter-6f50161e5zxh.html"
+  },
+  {
+   "title": "Micron Q4 earnings preview (TradingKey)",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262188101-mu-dram-hbm-skhynix-samsung-tradingkey"
+  },
+  {
+   "title": "Micron has skyrocketed 256% in 2026 (Yahoo Finance / Motley Fool, Sep 7 2026)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html"
+  },
+  {
+   "title": "MU analyst forecast (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/mu/forecast/"
+  },
+  {
+   "title": "MU statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/mu/statistics/"
+  },
+  {
+   "title": "SNDK statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/sndk/statistics/"
+  },
+  {
+   "title": "WDC statistics (stockanalysis.com)",
+   "url": "https://stockanalysis.com/stocks/wdc/statistics/"
+  },
+  {
+   "title": "Cheapest memory stocks by valuation (Investing.com, Aug 4 2026)",
+   "url": "https://www.investing.com/news/stock-market-news/cheapest-memory-stocks-by-valuation-photronics-sk-hynix-and-samsung-compared-93CH-4834878"
+  },
+  {
+   "title": "September effect: 2 memory stocks to buy (Motley Fool, Sep 16 2026)",
+   "url": "https://www.fool.com/investing/2026/09/16/september-effect-memory-stocks-buy-market-dip/"
+  },
+  {
+   "title": "Q2 2026 DRAM market share (BigGo Finance / Counterpoint)",
+   "url": "https://finance.biggo.com/news/0566a8ec-22c7-42e2-aa81-cc85c707c6d5"
+  },
+  {
+   "title": "Q2 2026 HBM market share (BigGo Finance / Counterpoint)",
+   "url": "https://finance.biggo.com/news/7c21d0da-37a2-4724-980d-b9ac6a8974b0"
+  },
+  {
+   "title": "Micron Taiwan Taoyuan union plans strike vote (Taiwan News, Sep 22 2026)",
+   "url": "https://www.taiwannews.com.tw/news/6444345"
+  },
+  {
+   "title": "MU insider trading Form 4 filings (Tracefour)",
+   "url": "https://tracefour.com/insider-trading/MU"
+  },
+  {
+   "title": "MU congressional trades (PelosiTracker)",
+   "url": "https://pelositracker.app/stock/mu"
+  },
+  {
+   "title": "4 Congress members are up on Micron stock (Yahoo Finance, May 13 2026)",
+   "url": "https://finance.yahoo.com/news/4-congress-members-micron-stock-205121061.html"
+  },
+  {
+   "title": "MU institutional ownership (MarketBeat)",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/MU/institutional-ownership/"
+  },
+  {
+   "title": "MU 13F ownership trends (HoldingsChannel, Jul 2026)",
+   "url": "https://www.holdingschannel.com/article/202607/micron-technology-mu-ownership-trends-in-recent-13f-filings-as-y-intercept-MU07142026latest.htm/"
+  },
+  {
+   "title": "Interactive Brokers market data: MU quote, volatility, 1y weekly history, Oct 2/Oct 5 option open interest (Sep 27 2026)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-27T04:20:00Z",
+ "status": "done",
+ "summary": "Micron is earning record, peak-cycle profits: fiscal Q3 revenue rose 346% y/y to $41.5B at an 85% gross margin, and Q4 is guided to $50B. On FY27 consensus EPS of about $155 the stock trades near 7x, which looks cheap. But memory peers SK hynix and Samsung trade near 5x, because the market discounts peak earnings. Blending peer multiples, a cycle-aware earnings-power DCF and analyst targets gives $1,010-1,345 (mid $1,180), so at $1,085 MU is fairly valued with modest upside. Hold a neutral weight into the Sep 30 earnings report: management has flagged slower price increases, the CEO keeps selling, and a Taiwan strike vote is due in early October.",
+ "ticker": "MU",
+ "updatedAt": "2026-09-27T04:20:58Z",
+ "upsidePct": 0.0875,
+ "valuation": {
+  "method": "Three methods blended (40% peers / 30% earnings power / 30% analysts). (a) Peer multiples: the pure memory peers SK hynix and Samsung trade at ~5x forward and SanDisk at 8.3x, because markets pay low multiples for peak memory earnings. Applying 6-8x to FY27 consensus EPS of ~$155 gives $930-1,240. (b) Earnings-power DCF, discounted at 11%. Bear/base: FY27 FCF/share $140, FY28 $100 as prices ease, FY29 $60, then a mid-cycle terminal of $55 EPS x 14x, plus ~$22/share net cash = ~$840. Bull: the contracted demand holds FY28 at $140, FY29 $100, then mid-cycle $80 x 15x, plus net cash = ~$1,210. (c) Analysts: 49 analysts, average $1,515, median $1,545, range $361-2,200. Blended: low $1,010, mid $1,180, high $1,345.",
+  "note": "US multiples are from stockanalysis.com statistics pages read Sep 27 2026. SK hynix and Samsung multiples are from an Investing.com screen dated Aug 4 2026 (P/S shown, EV/Sales n/a) and are older. That screen showed MU at 11.2x forward before the Aug-Sep estimate upgrades. TTM P/E understates MU's earnings run-rate because the TTM window still includes pre-boom quarters.",
+  "rows": [
+   {
+    "evSales": 13.3,
+    "fwdPe": 7.4,
+    "growth": "+346% y/y (FQ3); FY27E EPS ~$155 vs FY26E ~$74",
+    "opMargin": "65.7% (TTM)",
+    "pe": 24.4,
+    "ticker": "MU"
+   },
+   {
+    "evSales": 12.5,
+    "fwdPe": 8.3,
+    "growth": "3Y revenue growth forecast 38.6% (growth n/a in source)",
+    "opMargin": "61.6%",
+    "pe": 24.1,
+    "ticker": "SNDK"
+   },
+   {
+    "evSales": 12.7,
+    "fwdPe": 22.7,
+    "growth": "TTM revenue $12.9B (growth n/a in source)",
+    "opMargin": "35.8%",
+    "pe": 18.8,
+    "ticker": "WDC"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 4.9,
+    "growth": "DRAM revenue +214% y/y (Q2 26, Counterpoint)",
+    "opMargin": "62.9% EBITDA margin; P/S 5.35x",
+    "pe": null,
+    "ticker": "000660.KS (SK hynix)"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 4.7,
+    "growth": "n/a in source",
+    "opMargin": "26.8% EBITDA margin (whole group); P/S 2.44x",
+    "pe": null,
+    "ticker": "005930.KS (Samsung)"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

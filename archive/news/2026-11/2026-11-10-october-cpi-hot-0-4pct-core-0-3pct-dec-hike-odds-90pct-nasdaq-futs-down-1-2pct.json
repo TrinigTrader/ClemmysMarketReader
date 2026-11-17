@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-10T14:17:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-10T14:17:05Z",
+ "cat": "Macro",
+ "impact": "Higher yields and a likely December hike hit long-duration growth holdings (NBIS, PLTR, BE, HOOD) and the memory rebound in MU and DRAM; banks like C are more insulated.",
+ "level": "High",
+ "published": "2026-11-10T13:30:00Z",
+ "source": "CoinDesk",
+ "summary": "US CPI rose 0.4% in October vs 0.3% expected and core rose 0.3% vs 0.2%, a third straight 0.3% core print. December hike odds rose to about 90% for 25bp with about 10% for 50bp after Governor Waller said a half-point move should be considered at that core pace. The 2-year yield jumped about 12bp to 4.68%, the 10-year about 7bp to 4.93%, and Nasdaq-100 futures fell 1.2%.",
+ "tickers": [
+  "QQQ",
+  "NBIS",
+  "PLTR",
+  "BE",
+  "MU",
+  "HOOD",
+  "C"
+ ],
+ "title": "October CPI runs hot: 0.4% headline, 0.3% core; Nasdaq futures sink",
+ "tone": "negative",
+ "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+}

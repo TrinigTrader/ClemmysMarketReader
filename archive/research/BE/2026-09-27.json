@@ -1,0 +1,478 @@
+{
+ "analysts": {
+  "count": 29,
+  "rating": "Buy",
+  "summary": "Consensus is Buy, but the average target ($280) sits ~3% below price (median $296.50). The split is about 15 Buy/Outperform, 12 Hold, 1 Underperform and 1 Sell. Targets were lifted after the S&P add: Mizuho $351, RBC $335, Clear Street $330, Fubon $330 (initiated), UBS $325, Morgan Stanley $310 (Buy), Bernstein $282 (Hold).",
+  "targetAvg": 280.24,
+  "targetHigh": 390,
+  "targetLow": 97
+ },
+ "bear": [
+  "Valuation leaves no room for error: ~82x forward P/E and ~16x forward EV/sales, with the price already above the average analyst target.",
+  "Securities class action and supply-chain scrutiny over China-sourced scandium; possible tariff or sourcing cost headwinds.",
+  "Dilution (+24.7% share count YoY) and steady insider selling; the CEO sold $34M in February.",
+  "Customer concentration in hyperscaler AI capex, which the CEO says he can't control. Gas turbines and nuclear compete for the same load. Beta of 3.8 means drawdowns of 30-50% are historically common."
+ ],
+ "bull": [
+  "Hyper-growth that is also profitable: +166% revenue, 22.5% non-GAAP operating margin and positive FCF in Q2, with FY26 guidance raised.",
+  "Speed-to-power moat: onsite SOFC sidesteps multi-year grid interconnect queues, and all major US hyperscalers are validated customers.",
+  "Brookfield's financing grew from $5B to $25B, plus multi-GW sites (Oracle NM 2.45 GW, Aligned PA 2 GW), which gives visibility into 2027-28.",
+  "S&P 500 inclusion widens the holder base; low IV percentile vs realized volatility means cheap convexity into Q3 earnings."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-09-28",
+   "event": "Lead-plaintiff deadline in the securities class action over China-linked scandium sourcing",
+   "why": "Headline risk. The class period runs Feb 27, 2025 to Jul 8, 2026, when the stock fell 5.7% on the Hunterbrook report."
+  },
+  {
+   "date": "2026-10-02",
+   "event": "Weekly options expiry (large call OI at 270/275/300)",
+   "why": "About 3.5k contracts at the 300 call can pin or cap price into Friday."
+  },
+  {
+   "date": "2026-10-16",
+   "event": "Monthly options expiry",
+   "why": "Gamma roll-off after the S&P inclusion rally."
+  },
+  {
+   "date": "2026-10-27",
+   "event": "Q3 2026 earnings (date per stockanalysis; not yet confirmed by the company)",
+   "why": "First print as an S&P 500 member. The market will look for a beat and raise vs the $3.9-4.2B guide and for new hyperscaler or Brookfield project wins."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Deployment of Brookfield's $25B financing; Oracle New Mexico (2.45 GW) and Aligned 'Project Phoenix' (2 GW, PA) sites",
+   "why": "These turn backlog into revenue and validate the 800V DC architecture."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "GE Vernova",
+    "note": "Aeroderivative/heavy-duty gas turbines; $41B TTM revenue; main alternative for onsite baseload",
+    "ticker": "GEV"
+   },
+   {
+    "name": "Caterpillar",
+    "note": "Gensets, Solar Turbines, recip engines for data-center prime and backup power",
+    "ticker": "CAT"
+   },
+   {
+    "name": "Generac",
+    "note": "Backup generation for data centers; far cheaper at 20x forward P/E",
+    "ticker": "GNRC"
+   },
+   {
+    "name": "FuelCell Energy",
+    "note": "Molten-carbonate fuel cells; $154M TTM revenue, -88% operating margin",
+    "ticker": "FCEL"
+   },
+   {
+    "name": "Plug Power",
+    "note": "PEM fuel cells and electrolyzers; focused on material handling, not data centers",
+    "ticker": "PLUG"
+   }
+  ],
+  "share": [
+   {
+    "name": "Bloom Energy",
+    "value": 77.6
+   },
+   {
+    "name": "Plug Power",
+    "value": 18.6
+   },
+   {
+    "name": "FuelCell Energy",
+    "value": 3.8
+   }
+  ],
+  "shareNote": "Share of TTM revenue among the three listed US fuel-cell companies (BE $3.11B, PLUG $0.744B, FCEL $0.154B), calculated by us from stockanalysis data. This is not a market-share survey.",
+  "summary": "Bloom is the scale leader in stationary fuel cells and has become a primary 'bring-your-own-power' supplier for AI data centers. It says every major US hyperscaler has validated it, and it has a ~$20-25B backlog/financing pipeline backed by Brookfield. Its real competition is gas turbines and recip engines (GE Vernova, Siemens Energy, Caterpillar; Chevron/Microsoft turbine projects) and, longer term, nuclear. Listed fuel-cell rivals are far smaller and loss-making, and Plug Power is explicitly not pursuing data centers. We found no independent market-share figure for onsite data-center power."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 275,
+ "fairLow": 190,
+ "fairMid": 232,
+ "financials": [
+  {
+   "metric": "Revenue TTM",
+   "note": "+91% YoY (stockanalysis)",
+   "value": "$3.11B"
+  },
+  {
+   "metric": "Q2'26 revenue",
+   "note": "+165.5% YoY; product $935.4M (+215%)",
+   "value": "$1,065.4M"
+  },
+  {
+   "metric": "FY26 revenue guidance",
+   "note": "Raised in July; ~100% growth at midpoint",
+   "value": "$3.9-4.2B"
+  },
+  {
+   "metric": "Gross margin Q2 (GAAP / non-GAAP)",
+   "note": "+668 / +604 bps YoY; FY26 guide ~34% non-GAAP",
+   "value": "33.4% / 34.3%"
+  },
+  {
+   "metric": "Operating margin Q2 (GAAP / non-GAAP)",
+   "note": "vs -0.9% / 7.1% a year earlier",
+   "value": "17.1% / 22.5%"
+  },
+  {
+   "metric": "EPS Q2 (GAAP / non-GAAP)",
+   "note": "FY26 non-GAAP EPS guide $2.55-2.85; TTM GAAP EPS $0.89",
+   "value": "$0.62 / $0.78"
+  },
+  {
+   "metric": "Free cash flow",
+   "note": "Q2 OCF $226.4M minus capex $51.6M",
+   "value": "~$175M Q2; $625M TTM"
+  },
+  {
+   "metric": "Cash",
+   "note": "End of Q2 2026",
+   "value": "$2.67B"
+  },
+  {
+   "metric": "Debt",
+   "note": "Mostly convertibles; roughly net-cash neutral",
+   "value": "$2.48B recourse ($2.82B total)"
+  },
+  {
+   "metric": "Shares outstanding",
+   "note": "+24.65% YoY dilution; no buyback program found",
+   "value": "294.5M"
+  },
+  {
+   "metric": "Market cap / EV",
+   "note": "At $288.70 close, Sep 25",
+   "value": "$85.0B / $85.1B"
+  },
+  {
+   "metric": "Short interest",
+   "note": "stockanalysis",
+   "value": "6.5% of shares out"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell (tax withholding)",
+    "amount": "2,295 sh @ $268.42 (~$0.62M)",
+    "date": "2026-09-16",
+    "who": "Maciej Kurzymski (CAO)"
+   },
+   {
+    "action": "Sell (tax withholding)",
+    "amount": "2,870 sh @ $270.07 (~$0.78M)",
+    "date": "2026-09-16",
+    "who": "Shawn Soderberg"
+   },
+   {
+    "action": "Sell",
+    "amount": "89,604 sh (~$21.9M)",
+    "date": "Q3 2026 to date",
+    "who": "All insiders"
+   },
+   {
+    "action": "Sell",
+    "amount": "200,000 sh @ ~$170 (~$34M); 2.19M sh held after",
+    "date": "2026-02-24",
+    "who": "KR Sridhar (Chairman & CEO)"
+   }
+  ],
+  "summary": "Insiders were net sellers, with no open-market buys found. The CEO sold 200k shares (~$34M) in February. Q3-to-date insider sales were 89,604 shares (~$21.9M). Executives and directors sold about $83M over 12 months. Insider ownership is about 3%."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Holds (13G/A)",
+    "date": "2026-08-14",
+    "detail": "18.23M shares, 6.4% of class",
+    "holder": "Ameriprise Financial / Columbia Mgmt"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+583,135 sh (+78.3%) to 1.33M sh",
+    "holder": "UBS Asset Management"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+233,020 sh to 239,877 sh",
+    "holder": "Assenagon Asset Management"
+   },
+   {
+    "action": "New",
+    "date": "Q2 2026",
+    "detail": "~$10.2M position",
+    "holder": "Montanova Capital"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q2 2026",
+    "detail": "-19,800 sh (-21.6%) to 71,882 sh",
+    "holder": "Andra AP-fonden"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q1 2026",
+    "detail": "~10.1M to ~6.5M sh (-35%)",
+    "holder": "Situational Awareness (L. Aschenbrenner)"
+   },
+   {
+    "action": "New",
+    "date": "Q4 2025",
+    "detail": "~$239.7M position",
+    "holder": "Norges Bank"
+   }
+  ],
+  "summary": "Q2 2026 13F filings: 1,404 filers holding 355M shares (+325 filers, +114M shares QoQ per 13f.info). Institutional ownership is about 77%. We could not get a full top-10 holder table from the sources we read."
+ },
+ "name": "Bloom Energy Corp (Class A)",
+ "options": {
+  "callWall": 300,
+  "expectedMove": "±$26.5 (±9.2%) by Oct 2; ±$41 (±14.2%) by Oct 9 (IV 78.4%)",
+  "expiry": "2026-10-02 (5 DTE) and 2026-10-09 (12 DTE)",
+  "gexNote": "Net dealer gamma is positive (~+$13.7M per 1% move across 240-340 strikes in both expiries), dominated by call OI at 270 (3.0k), 275 (1.8k), 300 (3.5k) and 320 (1.8k). Put OI clusters at 250 (1.4k) and 240 (0.9k). Positive gamma above ~$234 should dampen moves, with 300 as the magnet and ceiling. OI is from IBKR as of the Sep 25 close; the snapshot was frozen over the weekend.",
+  "ivNote": "Underlying IV is 78.4% vs 30-day HV of 83.3%. IV percentile is low relative to history (13w 14%, 52w 4%), so options are cheap vs recent realized volatility despite the high absolute level.",
+  "pcRatio": 0.32,
+  "putWall": 250,
+  "strategy": "Idea only, no orders: with IV below realized and earnings on Oct 27, long premium is favoured over selling it. A holder could collar (sell the 320-330 call against a 250 put). A bullish trader could buy a Nov call spread rather than naked calls, given the overvalued verdict.",
+  "zeroGamma": 234
+ },
+ "politicians": {
+  "summary": "Rep. Nancy Pelosi (D-CA) disclosed four BE purchases (stock and call options) on Jul 24 and Jul 28, 2026 totalling $3M-$12M by disclosed ranges, filed Aug 21. Rep. Gilbert Cisneros (D-CA) disclosed a small stock purchase on Jan 30, 2026. Pelosi Tracker says 3 members disclosed 30 BE trades overall; Rep. Austin Scott's trades were not itemised in the page we read.",
+  "trades": [
+   {
+    "action": "Buy (stock)",
+    "amount": "$500K-$1M",
+    "date": "2026-07-28",
+    "member": "Nancy Pelosi",
+    "party": "D",
+    "source": "Pelosi Tracker / Benzinga"
+   },
+   {
+    "action": "Buy (call options)",
+    "amount": "$500K-$1M",
+    "date": "2026-07-28",
+    "member": "Nancy Pelosi",
+    "party": "D",
+    "source": "Pelosi Tracker / Benzinga"
+   },
+   {
+    "action": "Buy (stock)",
+    "amount": "$1M-$5M",
+    "date": "2026-07-24",
+    "member": "Nancy Pelosi",
+    "party": "D",
+    "source": "Pelosi Tracker / Benzinga"
+   },
+   {
+    "action": "Buy (call options)",
+    "amount": "$1M-$5M",
+    "date": "2026-07-24",
+    "member": "Nancy Pelosi",
+    "party": "D",
+    "source": "Pelosi Tracker / Benzinga"
+   },
+   {
+    "action": "Buy (stock)",
+    "amount": "$1K-$15K",
+    "date": "2026-01-30",
+    "member": "Gilbert Cisneros",
+    "party": "D",
+    "source": "Pelosi Tracker"
+   }
+  ]
+ },
+ "price": 289,
+ "requestedAt": "2026-09-27T11:10:40.425Z",
+ "scores": {
+  "financial": {
+   "note": "Q2 GAAP operating income $182M, OCF $226M, FCF ~$175M; TTM FCF $625M. Cash $2.67B vs $2.48B recourse debt, roughly net-neutral.",
+   "score": 4
+  },
+  "flows": {
+   "note": "S&P 500 index buying; Q2 13F holder count up 325 to 1,404; UBS AM +78%. Offsets: insider selling (~$83M over 12 months) and Situational Awareness trimmed 35% in Q1.",
+   "score": 4
+  },
+  "growth": {
+   "note": "Revenue +166% YoY in Q2 (product +215%); FY26 guide $3.9-4.2B, ~100% growth at midpoint; consensus 2026 EPS $2.71.",
+   "score": 5
+  },
+  "moat": {
+   "note": "SOFC tech, speed-to-power and Brookfield $25B financing are real advantages; gas turbines (GEV, Siemens Energy, CAT) and nuclear compete for the same AI load.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "+232.6% YTD; +8.4% on Sep 25 after S&P 500 add, but still ~18% below the $351 52-week high. 30d HV 83%.",
+   "score": 4
+  },
+  "valuation": {
+   "note": "~347x TTM P/E, ~82x forward P/E, 27x TTM / 16.5x forward EV/sales vs GEV 46x fwd P/E, CAT 29x, GNRC 20x.",
+   "score": 1
+  }
+ },
+ "sources": [
+  {
+   "title": "Bloom Energy Q2 2026 results press release (Business Wire)",
+   "url": "https://www.businesswire.com/news/home/20260728460825/en/Bloom-Energy-Reports-Record-Second-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Guidance"
+  },
+  {
+   "title": "Stockanalysis: BE overview",
+   "url": "https://stockanalysis.com/stocks/be/"
+  },
+  {
+   "title": "Stockanalysis: BE statistics",
+   "url": "https://stockanalysis.com/stocks/be/statistics/"
+  },
+  {
+   "title": "Stockanalysis: BE analyst forecast",
+   "url": "https://stockanalysis.com/stocks/be/forecast/"
+  },
+  {
+   "title": "Stockanalysis: GEV statistics",
+   "url": "https://stockanalysis.com/stocks/gev/statistics/"
+  },
+  {
+   "title": "Stockanalysis: CAT statistics",
+   "url": "https://stockanalysis.com/stocks/cat/statistics/"
+  },
+  {
+   "title": "Stockanalysis: GNRC statistics",
+   "url": "https://stockanalysis.com/stocks/gnrc/statistics/"
+  },
+  {
+   "title": "Stockanalysis: FCEL statistics",
+   "url": "https://stockanalysis.com/stocks/fcel/statistics/"
+  },
+  {
+   "title": "Stockanalysis: PLUG statistics",
+   "url": "https://stockanalysis.com/stocks/plug/statistics/"
+  },
+  {
+   "title": "TIKR: Bloom Energy up 218% in 2026 and joined the S&P 500",
+   "url": "https://www.tikr.com/blog/bloom-energy-stock-is-up-218-in-2026-and-just-joined-the-sp-500-is-it-too-late-to-buy"
+  },
+  {
+   "title": "Timothy Sykes: BE news Sep 25, 2026",
+   "url": "https://www.timothysykes.com/news/bloom-energy-corporation-be-news-2026_09_25/"
+  },
+  {
+   "title": "Levi & Korsinsky: BE class action (lead plaintiff deadline Sep 28, 2026)",
+   "url": "https://www.prnewswire.com/news-releases/levi--korsinsky-reminds-bloom-energy-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-september-28-2026---be-302887157.html"
+  },
+  {
+   "title": "Motley Fool: Bloom riding the data center boom to a $25B backlog",
+   "url": "https://www.fool.com/investing/2026/09/19/bloom-energy-is-riding-the-data-center-boom-to-a-2/"
+  },
+  {
+   "title": "Yahoo Finance: Bloom faces AI data center competition from gas and nuclear",
+   "url": "https://finance.yahoo.com/energy/articles/bloom-energy-faces-fresh-ai-151508636.html"
+  },
+  {
+   "title": "Investing.com: Bloom Energy CEO Sridhar sells $34 million in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/bloom-energy-ceo-sridhar-sells-34-million-in-stock-93CH-4530341"
+  },
+  {
+   "title": "GuruFocus: KR Sridhar insider trading",
+   "url": "https://www.gurufocus.com/insider/126569/kr-sridhar"
+  },
+  {
+   "title": "Benzinga: Pelosi bought over $4.25M of Bloom Energy",
+   "url": "https://www.benzinga.com/government/26/08/61385680/recent-filing-shows-rep-nancy-pelosi-bought-over-4-25m-worth-bloom-energy-stock"
+  },
+  {
+   "title": "Pelosi Tracker: BE congressional trades",
+   "url": "https://pelositracker.app/stock/be"
+  },
+  {
+   "title": "13f.info: BE 13F holders",
+   "url": "https://13f.info/cusip/093712107"
+  },
+  {
+   "title": "StockTitan: Ameriprise Schedule 13G/A on BE",
+   "url": "https://www.stocktitan.net/sec-filings/BE/schedule-13g-a-bloom-energy-corp-amended-passive-investment-disclosur-5cbf43f27421.html"
+  },
+  {
+   "title": "The Cerbat Gem: Andra AP-fonden holdings in BE (institutional & insider activity)",
+   "url": "https://www.thecerbatgem.com/2026/09/22/andra-ap-fonden-has-21-76-million-holdings-in-bloom-energy-corporation-be.html"
+  },
+  {
+   "title": "MarketWise: Aschenbrenner's 13F sale of BE",
+   "url": "https://marketwise.com/investing/bloom-energy-stock-aschenbrenner-13f-sell/"
+  },
+  {
+   "title": "Interactive Brokers market data (price, IV/HV, 1y weekly history, option OI for Oct 2 & Oct 9 2026 expiries)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-27T11:12:00Z",
+ "status": "done",
+ "summary": "Bloom is executing exceptionally: Q2 2026 revenue of $1.065B (+166% YoY), a 22.5% non-GAAP operating margin, positive FCF, and FY26 guidance raised to $3.9-4.2B with every major US hyperscaler now a validated customer. But at $289 (~82x forward EPS, ~16x forward EV/sales, S&P 500 entry on Sep 21) the price already sits above the consensus average target ($280) and well above our peer-multiple and earnings-power values. Our triangulated fair value is $190-275 (mid $232, ~20% below price). The business is great, but the stock prices in a lot of perfection, so we stay Neutral: don't chase, and consider adding on pullbacks toward the low-$230s.",
+ "ticker": "BE",
+ "updatedAt": "2026-09-27T11:40:00Z",
+ "upsidePct": -0.1972,
+ "valuation": {
+  "method": "Triangulated three ways. (a) Peer multiples: implied NTM EPS ~$3.53 (price / 81.8x forward P/E) at 50-75x, a large growth premium to GEV's 46x, gives $177-265. Implied NTM revenue ~$5.2B at 10-15x EV/sales (2-3x the power-equipment peers) gives $176-264. (b) Earnings power: 2030 revenue $11.6-15B (~30-38% CAGR from the FY26 midpoint), 22-25% operating margin, 21% tax, 30-35x exit P/E, discounted 4 years at 11%, ~300M diluted shares, gives $137-228. (c) Analysts: $97-390, average $280, median $296.5. Blended range $190-275, mid $232.",
+  "note": "Revenue growth was not available on the peer statistics pages, so those cells are n/a. BE's premium reflects ~100% growth vs single-digit to mid-teens for the peers. The verdict is sensitive to the multiple: at 90x NTM EPS the stock would be fairly valued.",
+  "rows": [
+   {
+    "evSales": 27.3,
+    "fwdPe": 81.8,
+    "growth": "+91% TTM; ~+100% FY26 guide",
+    "opMargin": "11.7% TTM (22.5% Q2 non-GAAP)",
+    "pe": 347.1,
+    "ticker": "BE"
+   },
+   {
+    "evSales": 5.95,
+    "fwdPe": 45.7,
+    "growth": "n/a in source",
+    "opMargin": "6.6%",
+    "pe": 27.4,
+    "ticker": "GEV"
+   },
+   {
+    "evSales": 5.58,
+    "fwdPe": 28.6,
+    "growth": "n/a in source",
+    "opMargin": "18.7%",
+    "pe": 35.4,
+    "ticker": "CAT"
+   },
+   {
+    "evSales": 3.03,
+    "fwdPe": 20.3,
+    "growth": "n/a in source",
+    "opMargin": "9.5%",
+    "pe": 47.8,
+    "ticker": "GNRC"
+   },
+   {
+    "evSales": 5.47,
+    "fwdPe": null,
+    "growth": "n/a in source",
+    "opMargin": "-88.0%",
+    "pe": null,
+    "ticker": "FCEL"
+   },
+   {
+    "evSales": 4.88,
+    "fwdPe": null,
+    "growth": "n/a in source",
+    "opMargin": "-72.9%",
+    "pe": null,
+    "ticker": "PLUG"
+   }
+  ]
+ },
+ "verdict": "Overvalued"
+}

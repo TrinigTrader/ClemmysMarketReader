@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-10T00:14:00Z",
+ "cat": "Trade & policy",
+ "impact": "Incumbent exchanges moving into 24/7 tokenized stocks puts more competition on HOOD's tokenized-equity push and COIN's plans.",
+ "level": "Low",
+ "published": "2026-11-09T16:00:00Z",
+ "source": "CoinDesk",
+ "summary": "Ava Labs said Avalanche will be the core ledger for the clearing firm behind NYSE's planned 24/7 tokenized securities platform, which still needs regulatory approval. AVAX rose as much as 10%.",
+ "tickers": [
+  "HOOD",
+  "COIN",
+  "ICE"
+ ],
+ "title": "NYSE picks Avalanche for tokenized stock platform, AVAX up 10%",
+ "tone": "neutral",
+ "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+ "uw": true
+}

@@ -1,0 +1,385 @@
+{
+ "analysts": {
+  "count": null,
+  "rating": "Hold (mixed)",
+  "summary": "Post-Q3 targets found: Jefferies Sell $70 (from $60), Mizuho Hold $205 (from $165), Wedbush $230 and BofA $255 (Street-high) raised. A TipRanks piece cites an average target of $180.88 (~5% downside at that time). Analyst count and an exact consensus rating were not confirmed with a dated source; some of these snippets could not be tied to the Q3 2026 date with certainty.",
+  "targetAvg": 181,
+  "targetHigh": 255,
+  "targetLow": 70
+ },
+ "bear": [
+  "Valuation: ~55-67x sales and ~95-130x forward earnings (third-party) leaves little room for error; stock fell despite beats before.",
+  "Analyst dispersion is extreme ($70 to $255) and consensus is Hold.",
+  "Insiders (CEO, CTO) keep selling under 10b5-1 plans; options positioning is put-heavy with negative net gamma.",
+  "Government concentration/political risk and competition from hyperscalers; key inputs (Q3 cash flow, share count, 13F) unverified in this run."
+ ],
+ "bull": [
+  "Revenue +96% y/y with 62% adjusted operating margin: rare scale plus growth plus profitability.",
+  "U.S. commercial +148% and now larger than U.S. government; FY26 revenue and adj. operating income guidance both raised.",
+  "Q2 cash and Treasuries of $9.2B; debt not verified; FCF guidance of $4.5-4.7B.",
+  "Defense/AI tailwinds and Army/DoD contract wins; high-liquidity stock ($4.9B average daily USD volume)."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-11-13",
+   "event": "Weekly options expiry (10 DTE)",
+   "why": "IV-implied move of about +/-$14.8 (8.5%); large put OI at 150-180 and call OI at 185-200 can pin or amplify moves."
+  },
+  {
+   "date": "2026-11-20",
+   "event": "Monthly options expiry (17 DTE)",
+   "why": "Implied move about +/-$19.3 (11%)."
+  },
+  {
+   "date": "Early Feb 2027 (unconfirmed)",
+   "event": "Q4/FY2026 earnings",
+   "why": "Test of the $2.649-2.653B Q4 revenue guide and 2027 outlook; date not confirmed in sources read (inferred from past cadence)."
+  },
+  {
+   "date": "Ongoing",
+   "event": "U.S. Army / DoD awards (e.g. command-and-control program win reported June 2026)",
+   "why": "Government contract awards can move shares; no confirmed dates found."
+  },
+  {
+   "date": "Not found",
+   "event": "Investor day, index events, lock-ups",
+   "why": "No confirmed scheduled dates found in searches."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Microsoft",
+    "note": "Hyperscaler AI/data platform competitor",
+    "ticker": "MSFT"
+   },
+   {
+    "name": "Oracle",
+    "note": "Enterprise data/AI stack",
+    "ticker": "ORCL"
+   },
+   {
+    "name": "IBM",
+    "note": "Enterprise AI/consulting",
+    "ticker": "IBM"
+   },
+   {
+    "name": "Alphabet",
+    "note": "Cloud AI/data",
+    "ticker": "GOOGL"
+   },
+   {
+    "name": "C3.ai",
+    "note": "Enterprise AI applications",
+    "ticker": "AI"
+   },
+   {
+    "name": "SAIC, Leidos",
+    "note": "Government IT integrators",
+    "ticker": "SAIC / LDOS"
+   }
+  ],
+  "share": [
+   {
+    "name": "U.S. commercial share of Q3 revenue",
+    "value": "~43% ($984M of $2.313B)"
+   },
+   {
+    "name": "U.S. government share of Q3 revenue",
+    "value": "~41% ($953M of $2.313B)"
+   }
+  ],
+  "summary": "Palantir sells AIP, Foundry, Gotham, Apollo and Maven across government (U.S., UK, Japan, Israel, Germany, Ukraine, France, Korea exposure per IBKR) and commercial customers. Per IBKR it competes with Microsoft, Oracle, IBM, Alphabet, C3.ai, BigBear.ai, SAIC and Leidos. Market-share figures were not found; U.S. commercial revenue growth (+148%) suggests share gains in enterprise AI."
+ },
+ "conviction": "Low",
+ "currency": "USD",
+ "fairHigh": 210,
+ "fairLow": 120,
+ "fairMid": 165,
+ "financials": [
+  {
+   "metric": "Revenue Q3 2026",
+   "note": "+96% y/y, +20% q/q; first quarter above $2B; beat $2.160-2.164B guide",
+   "value": "$2.313B"
+  },
+  {
+   "metric": "U.S. commercial revenue Q3",
+   "note": "+148% y/y, +29% q/q; exceeded U.S. government ($953M) for the first time",
+   "value": "$984M"
+  },
+  {
+   "metric": "Adjusted operating income Q3",
+   "note": "Excludes SBC and related payroll taxes",
+   "value": "$1.427B (62% margin)"
+  },
+  {
+   "metric": "GAAP operating income Q3",
+   "note": "Reported GAAP margin",
+   "value": "$1.085B (47% margin)"
+  },
+  {
+   "metric": "EPS Q3 (GAAP and adjusted)",
+   "note": "Per GuruFocus/SEC press release summary",
+   "value": "$0.44"
+  },
+  {
+   "metric": "FY2026 revenue guidance",
+   "note": "Raised in the Q3 release; Q4 guide $2.649-2.653B",
+   "value": "$8.530-8.534B"
+  },
+  {
+   "metric": "FY2026 adj. operating income guidance",
+   "note": "Raised in the Q3 release (prior $4.889-4.897B)",
+   "value": "$5.245-5.249B"
+  },
+  {
+   "metric": "FY2026 adj. free cash flow guidance",
+   "note": "No Q3 update found; sources conflict on Q3 adj. FCF, so Q3 FCF is not reported here",
+   "value": "$4.5-4.7B (Q2 guide)"
+  },
+  {
+   "metric": "Cash and Treasuries",
+   "note": "Q3 balance sheet not retrieved (sec.gov not reachable from this session)",
+   "value": "$9.2B (end of Q2)"
+  },
+  {
+   "metric": "Gross margin, debt, share count, buybacks",
+   "note": "Primary filing (8-K/10-Q) could not be fetched; sec.gov host was blocked. Dividend yield 0%.",
+   "value": "Not retrieved"
+  },
+  {
+   "metric": "Volatility",
+   "note": "IBKR; IV percentile 49% (52w), 66% (13w)",
+   "value": "IV 51.1% / 30d HV 43.7%"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sold under 10b5-1 after converting 35,000 shares",
+    "amount": "2,735 shares at ~$153.40",
+    "date": "2026-08-06",
+    "who": "Shyam Sankar (CTO)"
+   },
+   {
+    "action": "Disposed under 10b5-1",
+    "amount": "~397,744 shares, ~$54.1M",
+    "date": "2026-05 (month only)",
+    "who": "Alexander Karp (CEO)"
+   }
+  ],
+  "summary": "Insiders continue to sell under pre-arranged Rule 10b5-1 plans. An aggregator shows 14 Form 4 filings in the last 90 days (newest 2026-08-19); no October 2026 filings were found. No open-market insider buys were found."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Holder (largest per InsiderSet)",
+    "date": "2026-03-31",
+    "detail": "~$27.65B reported value",
+    "holder": "BlackRock, Inc."
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+6,397 shares (small position)",
+    "holder": "Sequoia Financial Advisors"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q2 2026",
+    "detail": "-250 shares (small position)",
+    "holder": "Matrix Advisors Value Fund"
+   }
+  ],
+  "summary": "Reliable 13F detail was not obtained. InsiderSet lists BlackRock as the largest disclosed holder (~$27.65B as of 3/31/2026), while another page names Renaissance Technologies for a tracked subset, so aggregator data conflict. No Vanguard or Q2 2026 changes for the large holders were found."
+ },
+ "name": "Palantir Technologies Inc. (Class A)",
+ "options": {
+  "callWall": 200,
+  "expectedMove": "+/-$14.78 (8.5%) to Nov 13 and +/-$19.28 (11.0%) to Nov 20, using IV 51.1%",
+  "expiry": "2026-11-13 (10 DTE); 2026-11-20 (17 DTE) used for move only",
+  "gexNote": "Nov 13 expiry only, strikes 150/160/165/170/175/180/185/190/195/200, ~20 of the listed strikes not sampled and the Nov 20 expiry not computed (IBKR rate limit). Black-Scholes gamma with IV 51.1% x OI x 100 x S^2 x 1%. Net GEX at spot is about -$3.2M per 1% move (negative, so dealer hedging would tend to amplify moves). Largest negative strikes: 180 (-$1.0M), 170 (-$0.9M). Call OI peaks at 200 (1,049) and 185-195 (~760-800); put OI peaks at 180 (1,786), 150 (1,628) and 170 (1,298). Secondary put support 170.",
+  "ivNote": "IV 51.1% vs 30d HV 43.7%; IV percentile 49% on 52w, 66% on 13w. Unusual Whales cache not available.",
+  "pcRatio": 2.14,
+  "putWall": 150,
+  "strategy": "Informational only, no order instructions: with IV above realized vol and stock near fair value, defined-risk premium selling or collars on existing holdings are the usual frameworks; any trade is the user's decision.",
+  "zeroGamma": "Above 200 (net GEX stays negative across the sampled 150-200 range)"
+ },
+ "politicians": {
+  "summary": "Congressional trading in PLTR is active in 2026. Quiver reports 9 trades by members in the past 6 months (5 purchases, 4 sales); AltIndex lists 2 members trading in the past 90 days, all purchases; Disclosed Capitol counts 95 disclosed trades overall, led by Ro Khanna (46). Dollar amounts were not retrievable from the pages read, so listed trades are approximate and unverified against the House/Senate disclosures.",
+  "trades": [
+   {
+    "action": "Buy",
+    "amount": "n/a",
+    "date": "2026-07-17",
+    "member": "Gilbert Cisneros",
+    "party": "D",
+    "source": "AltIndex"
+   },
+   {
+    "action": "Buy",
+    "amount": "n/a",
+    "date": "2026-05 (month only)",
+    "member": "John Boozman",
+    "party": "R",
+    "source": "Finbold via Pluang (single source)"
+   },
+   {
+    "action": "Multiple trades (46 disclosed in total)",
+    "amount": "n/a",
+    "date": "past 12 months",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Disclosed Capitol"
+   }
+  ]
+ },
+ "price": 174.82,
+ "requestedAt": "2026-11-03T19:24:15.568Z",
+ "scores": {
+  "financial": {
+   "note": "Q3 adj. operating margin 62% (GAAP 47%), GAAP EPS $0.44, Q2 cash and Treasuries $9.2B; profitability is exceptional. Q3 cash/FCF not verified.",
+   "score": 5
+  },
+  "flows": {
+   "note": "IBKR 90d avg USD volume ~$4.9B (very liquid); insiders selling under 10b5-1 plans; 13F data thin/unverified; options OI skewed to puts (P/C 2.1 on sampled strikes).",
+   "score": 3
+  },
+  "growth": {
+   "note": "Revenue +96% y/y and +20% q/q; U.S. commercial +148%; FY26 revenue guide raised to $8.530-8.534B, Q4 guide $2.649-2.653B.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Entrenched government/defense platforms (Gotham, Maven) plus AIP/Foundry commercial momentum; main competitors are hyperscalers/Microsoft, Oracle, IBM, plus niche AI vendors.",
+   "score": 4
+  },
+  "momentum": {
+   "note": "Flat over 1 year (weekly close 177.93 on 2025-11-04 vs 174.82 now), +64% from the 52-week low of 106.37, 18% below the 52-week high; -1.97% today.",
+   "score": 3
+  },
+  "valuation": {
+   "note": "Forward P/E reported ~95-130x and EV/sales ~55-67x depending on source/date, a large premium to ServiceNow (fwd P/E ~35x, P/S ~10x).",
+   "score": 2
+  }
+ },
+ "sources": [
+  {
+   "title": "IBKR market data (price, IV, option OI) via Interactive Brokers connector, 2026-11-03",
+   "url": "https://www.interactivebrokers.com"
+  },
+  {
+   "title": "Palantir Q3 2026 8-K press release (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+  },
+  {
+   "title": "Palantir Q2 2026 8-K press release (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000039/a2026q2ex991pressrelease.htm"
+  },
+  {
+   "title": "GuruFocus: Palantir Q3 earnings GAAP EPS $0.44 revenue $2.313B",
+   "url": "https://www.gurufocus.com/news/9163077/palantir-technologies-inc-reports-q3-earnings-gaap-eps-of-044-and-revenue-of-2313-billion-exceeds-estimates"
+  },
+  {
+   "title": "StreetInsider: Palantir Q3 2026 revenue rises 96% as U.S. commercial tops $984M",
+   "url": "https://www.streetinsider.com/Corporate+News/Palantir+Q3+2026+revenue+rises+96%25+as+U.S.+commercial+tops+%24984M/27273709.html"
+  },
+  {
+   "title": "SiliconANGLE: Palantir shares jump 12%, revenue nearly doubles (Q2 2026)",
+   "url": "https://siliconangle.com/2026/08/03/palantir-shares-jump-12-revenue-nearly-doubles-guidance-climbs/"
+  },
+  {
+   "title": "TipRanks: Mizuho stays cautious, Jefferies remains bearish after Q3 beat",
+   "url": "https://www.tipranks.com/news/mizuho-stays-cautious-on-palantir-stock-pltr-despite-q3-beat-jefferies-remains-bearish"
+  },
+  {
+   "title": "TipRanks: Palantir crushes Q3, top analysts gushing",
+   "url": "https://www.tipranks.com/news/palantir-crushes-q3-heres-why-top-analysts-are-gushing-over-pltr-stock"
+  },
+  {
+   "title": "SEC Form 4 (Sankar, Aug 2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000182415926000011/wk-form4_1786406477.xml"
+  },
+  {
+   "title": "Quantisnow PLTR insider transactions",
+   "url": "https://www.quantisnow.com/insiders/PLTR"
+  },
+  {
+   "title": "Quiver Quantitative: PLTR government/congress trades",
+   "url": "https://www.quiverquant.com/stock/PLTR/government/"
+  },
+  {
+   "title": "AltIndex PLTR congress trading",
+   "url": "https://altindex.com/ticker/pltr/congress-trading"
+  },
+  {
+   "title": "Disclosed Capitol PLTR",
+   "url": "https://www.disclosedcapitol.com/tickers/PLTR"
+  },
+  {
+   "title": "InsiderSet PLTR institutional ownership",
+   "url": "https://www.insiderset.com/stocks/PLTR/institutional-ownership"
+  },
+  {
+   "title": "Nasdaq/Zacks: PLTR valuation signals AI optimism",
+   "url": "https://www.nasdaq.com/articles/pltrs-valuation-signals-ai-optimism-leaving-little-room-error"
+  },
+  {
+   "title": "Webull: ServiceNow vs Palantir 2026",
+   "url": "https://www.webull.com/news/15752978831008768"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-11-03T19:25:00.000Z",
+ "status": "done",
+ "summary": "Palantir just posted an exceptional Q3 2026: revenue of $2.313B (+96% y/y), a 62% adjusted operating margin, and U.S. commercial revenue ($984M, +148%) overtaking U.S. government for the first time, with full-year revenue guidance raised to about $8.53B. The shares ($174.82, about 18% below the 52-week high of $212.94) already discount much of this: third-party sources put forward P/E near 95-130x and EV/sales around 55-67x, far above software peers, and the analyst consensus is split (Sell $70 to Street-high $255). We see the stock inside a wide fair-value band of $120-$210 (mid $165), so Fairly valued and Neutral. Conviction is Low because several key inputs (Q3 cash/FCF, peer multiples, 13F detail) could not be verified from primary filings in this run.",
+ "ticker": "PLTR",
+ "updatedAt": "2026-11-03T20:05:00.000Z",
+ "upsidePct": -0.056,
+ "valuation": {
+  "method": "Triangulation: (a) peer multiples are directional only: PLTR trades at a multiple of ServiceNow (fwd P/E ~35x, P/S ~10x) so even a generous growth premium implies large compression risk; (b) earnings-power check: FY26 guided adj. operating income of ~$5.25B on ~$8.53B revenue (62% margin) supports a premium multiple, but share count/EPS inputs could not be verified so no DCF was run; (c) analyst targets range $70 (Jefferies Sell) to $255 (BofA), average ~$181. Fair range set at $120 (growth decelerates, multiple compresses toward ~35-45x sales-adjusted levels) / $165 mid (roughly between consensus ~$181 and a discounted growth path) / $210 (growth stays >60% and premium persists, near the 52-week high of $212.94). This is judgement-based, not a model output.",
+  "note": "Peer data is incomplete: only ServiceNow forward P/E/P-S and Snowflake/Datadog forward P/S ceilings were found in sources read (Zacks, Motley Fool via Nasdaq/Webull), and sources are undated or inconsistent. PLTR TTM P/E (>238x) and forward P/E (>95x vs ~129.5x) differ by provider and date. Treat valuation inputs as approximate.",
+  "rows": [
+   {
+    "evSales": "55-67",
+    "fwdPe": "95-130",
+    "growth": "96% y/y (Q3)",
+    "opMargin": "47% GAAP / 62% adj",
+    "pe": 238,
+    "ticker": "PLTR"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 34.9,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "NOW"
+   },
+   {
+    "evSales": "fwd P/S <9",
+    "fwdPe": null,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "SNOW"
+   },
+   {
+    "evSales": "fwd P/S <10",
+    "fwdPe": null,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "DDOG"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "AI (C3.ai)"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

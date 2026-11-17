@@ -1,0 +1,15 @@
+{
+ "addedAt": "2026-11-10T04:11:00Z",
+ "cat": "Macro",
+ "impact": "Factory-gate inflation from energy costs adds to global price pressure ahead of US CPI, while soft Chinese demand is a risk for chip and telecom exporters such as SKM and NOK's Asian business.",
+ "level": "Medium",
+ "published": "2026-11-09T01:30:00Z",
+ "source": "BusinessToday Malaysia",
+ "summary": "China's October producer prices rose 5.7% y/y vs 5.3% expected and 5% in September, the fastest since June 2022, led by energy. Consumer prices rose 0.7% vs 0.8% expected, and core CPI slowed to 0.8%, a nine-month low.",
+ "tickers": [
+  "FXI"
+ ],
+ "title": "China October PPI jumps 5.7%, highest since 2022; CPI misses at 0.7%",
+ "tone": "negative",
+ "url": "https://www.businesstoday.com.my/2026/11/10/chinas-ppi-reflects-broader-weak-demand/"
+}

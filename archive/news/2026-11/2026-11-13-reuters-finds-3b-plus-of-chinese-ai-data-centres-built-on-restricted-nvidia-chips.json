@@ -1,0 +1,15 @@
+{
+ "addedAt": "2026-11-14T06:16:00Z",
+ "cat": "Trade & policy",
+ "impact": "Adds evidence for tighter export enforcement ahead of December hearings, a risk for NVDA and, by extension, MU, DRAM and SNXX.",
+ "level": "Medium",
+ "published": "2026-11-13T20:00:00Z",
+ "source": "Reuters via Investing.com / Quartz",
+ "summary": "A Reuters review of more than 150 documents identified over $3 billion of Chinese computing projects built around Nvidia's restricted processors, including data-center buildings and power equipment at every stage of development; Reuters could not confirm whether many of the chips were delivered. Separately, Bloomberg reported documents tying banned Nvidia chips to a Shanghai data center linked to Megaspeed, which U.S. authorities are investigating and which denies wrongdoing.",
+ "tickers": [
+  "NVDA"
+ ],
+ "title": "Reuters finds $3B+ of Chinese AI data centres built on restricted Nvidia chips",
+ "tone": "negative",
+ "url": "https://www.investing.com/news/stock-market-news/chinas-3-billionplus-pipeline-of-nvidiapowered-ai-data-centres-5024599"
+}

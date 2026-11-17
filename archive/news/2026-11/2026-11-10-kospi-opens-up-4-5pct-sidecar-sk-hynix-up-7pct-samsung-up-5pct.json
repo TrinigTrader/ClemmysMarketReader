@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-10T02:12:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-10T02:12:45Z",
+ "cat": "AI & tech",
+ "impact": "A second straight day of memory buying supports MU, DRAM and SNXX after last week's rout, but foreign funds sold about 10.44T won of Kospi shares last week, so the bounce still needs foreign flows to turn.",
+ "level": "Medium",
+ "published": "2026-11-10T00:30:00Z",
+ "source": "Seoul Economic Daily",
+ "summary": "The Kospi opened Tuesday at 5,247.22, up 4.55%, and was up more than 5% in early trade, triggering a buy-side sidecar for the first time in nine sessions. SK Hynix rose 7.04% to 1,216,000 won and Samsung 5.00% to 199,400 won after the Philadelphia Semiconductor Index rebounded 6.85% overnight.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX"
+ ],
+ "title": "Kospi jumps 4.5% at open, SK Hynix up 7%, Samsung up 5%",
+ "tone": "positive",
+ "url": "https://en.sedaily.com/market/2026/11/10/kospi-kosdaq-surge-as-bargain-hunters-lift-us-chip-stocks"
+}

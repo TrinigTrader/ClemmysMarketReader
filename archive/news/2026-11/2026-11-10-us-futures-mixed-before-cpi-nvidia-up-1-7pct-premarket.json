@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-10T10:12:00Z",
+ "cat": "Macro",
+ "impact": "A tame CPI would extend the rebound in NBIS, PLTR and memory names; a hot one strengthens December hike odds and hits growth holdings.",
+ "level": "Low",
+ "published": "2026-11-10T09:30:00Z",
+ "source": "CNBC",
+ "summary": "Dow futures rose about 0.3% to 0.5% and Nasdaq-100 futures slipped 0.1% to 0.3% early Tuesday ahead of October CPI (consensus +0.3% headline, +0.2% core). Nvidia rose 1.7% premarket after falling more than 4% Monday.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "NVDA"
+ ],
+ "title": "US futures mixed before CPI, Nvidia up 1.7% premarket",
+ "tone": "neutral",
+ "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+}

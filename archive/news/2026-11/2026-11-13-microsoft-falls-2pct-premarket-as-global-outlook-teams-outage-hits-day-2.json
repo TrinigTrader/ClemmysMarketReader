@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-13T12:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T12:16:00Z",
+ "cat": "AI & tech",
+ "impact": "A near-term hit to MSFT sentiment and enterprise trust; one analyst expects only a short dip given Microsoft's grip on office software, but a longer outage would raise the stakes.",
+ "level": "Medium",
+ "published": "2026-11-13T11:30:00Z",
+ "source": "Forbes / Al Jazeera / TradingKey",
+ "summary": "A Microsoft outage that began Thursday was still disrupting Outlook, Teams and Copilot in 74 countries on Friday, with Microsoft reporting only marginal success in restoring service and early stabilization. Microsoft said it found no indication of malicious activity. Shares fell about 2% to 2.8% premarket to around $508 to $511, after closing almost flat near $523 on Thursday.",
+ "tickers": [
+  "MSFT"
+ ],
+ "title": "Microsoft falls ~2% premarket as global 365 outage enters day 2",
+ "tone": "negative",
+ "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/13/microsoft-outlook-teams-outage-enters-second-day-company-reports-progress-on-fix/"
+}

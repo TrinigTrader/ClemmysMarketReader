@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "AI & tech",
+ "impact": "Shows AI chip demand bids are intact when Nvidia stumbles; supportive for the semis complex including MU.",
+ "level": "Medium",
+ "published": "2026-11-09T21:00:00Z",
+ "source": "Yahoo Finance",
+ "summary": "AMD closed up 13.4% at $509.22 after Oppenheimer upgraded it to outperform, with coverage also pointing to rotation away from Nvidia's company-specific risk.",
+ "tickers": [
+  "AMD",
+  "NVDA",
+  "MU"
+ ],
+ "title": "AMD surges 13.4% to $509 on Oppenheimer upgrade",
+ "tone": "positive",
+ "url": "https://finance.yahoo.com/video/amd-surges-13-wall-street-212417276.html"
+}

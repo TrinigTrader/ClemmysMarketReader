@@ -1,0 +1,342 @@
+{
+ "analysts": {
+  "count": 0,
+  "rating": "Morningstar Medalist: Negative (quantitative)",
+  "summary": "No sell-side coverage or price targets for this ETF. Morningstar's quantitatively derived rating is Negative, citing limited potential to outperform peers on a risk-adjusted basis over a full cycle.",
+  "targetAvg": null,
+  "targetHigh": null,
+  "targetLow": null
+ },
+ "bear": [
+  "0.87% all-in fee is more than double what its main holdings charge directly; fee drag compounds.",
+  "Tiny AUM (~$33M) and ~$57k/day dollar volume: wide spreads, and closure/liquidation risk.",
+  "Name says 'Opportunistic Credit' but ~38% sits in Treasuries, TIPS and MBS; not a high-yield credit play.",
+  "Morningstar quantitative rating Negative; short (<2 year) track record.",
+  "Rate risk: bond rout with 30-year yields at the highest since 2004 is pushing price to lows; distributions are uneven quarter to quarter."
+ ],
+ "bull": [
+  "Diversified bond exposure in one ticker with active tactical allocation across Treasuries, TIPS, IG credit, MBS and multisector.",
+  "~4.3% TTM yield; 1y total return (+1.73%) beat AGG (-1.15%) and matched JCPB/PYLD.",
+  "Trading near 52-week low after a bond sell-off; if long yields retreat, intermediate duration and TIPS sleeves recover.",
+  "Low volatility (~5% realized) suits a conservative income sleeve."
+ ],
+ "catalysts": [
+  {
+   "date": "Late Sep / early Oct 2026 (estimated)",
+   "event": "Q3 quarterly distribution",
+   "why": "Last year's Q3 ex-date was Sep 29 2025; pattern suggests next ex-date around end of September. Not confirmed from issuer."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Treasury yield moves / bond sell-off",
+   "why": "CNBC (Sep 24 2026) headline: 30-year Treasury yield at highest since 2004 as bond rout continues; about 38% of FOPC sits in Treasury, TIPS and MBS ETFs, so rates drive NAV."
+  },
+  {
+   "date": "Upcoming FOMC meetings (dates not verified)",
+   "event": "Fed policy path",
+   "why": "CNBC (Sep 3 2026) headline: Fed's Waller signals support for no rate hike; a hike-vs-hold debate is live and would move intermediate duration."
+  },
+  {
+   "date": "Dec 2026",
+   "event": "~2-year anniversary / AUM viability",
+   "why": "At ~$33M AUM and low volume, sponsor economics are thin; small ETFs this age are sometimes closed or merged (general risk, no announcement found)."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "JPMorgan Core Plus Bond ETF",
+    "note": "$14.6B AUM, 0.37% ER, 5.01% yield, 1y +1.00%; 15% of FOPC",
+    "ticker": "JCPB"
+   },
+   {
+    "name": "TCW Flexible Income ETF",
+    "note": "$3.5B AUM, 0.40% ER, 5.91% yield, 1y +4.63%; 25% of FOPC",
+    "ticker": "FLXR"
+   },
+   {
+    "name": "PIMCO Multisector Bond Active ETF",
+    "note": "$16.0B AUM, 0.64% ER, 6.54% yield, 1y +1.76%; 4.8% of FOPC",
+    "ticker": "PYLD"
+   },
+   {
+    "name": "iShares Core US Aggregate Bond ETF",
+    "note": "$137.7B AUM, 0.03% ER, 4.16% yield, 1y -1.15%",
+    "ticker": "AGG"
+   }
+  ],
+  "share": [
+   {
+    "name": "FLXR",
+    "value": 25.21
+   },
+   {
+    "name": "VGIT",
+    "value": 16.51
+   },
+   {
+    "name": "IGEB",
+    "value": 15.85
+   },
+   {
+    "name": "JCPB",
+    "value": 15
+   },
+   {
+    "name": "SCHP",
+    "value": 7.72
+   },
+   {
+    "name": "MBB",
+    "value": 6.87
+   },
+   {
+    "name": "VTIP",
+    "value": 6.49
+   },
+   {
+    "name": "PYLD",
+    "value": 4.76
+   },
+   {
+    "name": "Cash",
+    "value": 1.59
+   }
+  ],
+  "summary": "Competes in the Intermediate Core-Plus / multisector bond space against large, cheaper active ETFs from JPMorgan, TCW, PIMCO and index funds like AGG. FOPC is tiny by comparison and several of these competitors are its own holdings."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 24.95,
+ "fairLow": 24.5,
+ "fairMid": 24.73,
+ "financials": [
+  {
+   "metric": "Last price",
+   "note": "IBKR snapshot, +0.24% on day; prior close 24.67",
+   "value": "$24.73"
+  },
+  {
+   "metric": "Total net assets",
+   "note": "IBKR $33.01M; StockAnalysis $32.93M",
+   "value": "~$33.0M"
+  },
+  {
+   "metric": "Expense ratio (all-in)",
+   "note": "0.60% mgmt + 0.27% acquired fund fees (issuer site)",
+   "value": "0.87%"
+  },
+  {
+   "metric": "Distribution yield (TTM)",
+   "note": "IBKR 4.31%; StockAnalysis 4.23%, $1.07 TTM",
+   "value": "4.2-4.3%"
+  },
+  {
+   "metric": "Distribution frequency",
+   "note": "Last ex-div Jun 29 2026 ($0.2665); Mar 30 2026 $0.1455; Dec 30 2025 $0.3923; Sep 29 2025 $0.2613",
+   "value": "Quarterly"
+  },
+  {
+   "metric": "1-year total return",
+   "note": "StockAnalysis, incl. dividends",
+   "value": "+1.73%"
+  },
+  {
+   "metric": "52-week range",
+   "note": "IBKR misc statistics; 13w low also 24.03",
+   "value": "$24.03 - $26.05"
+  },
+  {
+   "metric": "30-day historical volatility",
+   "note": "IBKR",
+   "value": "5.3% annualized"
+  },
+  {
+   "metric": "Avg 90-day dollar volume",
+   "note": "IBKR; wide spreads likely, use limit orders",
+   "value": "~$57k/day"
+  },
+  {
+   "metric": "Holdings",
+   "note": "As of Sep 24 2026 (StockAnalysis)",
+   "value": "8 ETFs + 1.6% cash"
+  },
+  {
+   "metric": "Inception",
+   "note": "Issuer site",
+   "value": "Dec 19, 2024"
+  },
+  {
+   "metric": "NAV / premium-discount / SEC yield / duration",
+   "note": "Issuer site shows placeholders; Morningstar page did not show them",
+   "value": "Not found"
+  }
+ ],
+ "insiders": {
+  "rows": [],
+  "summary": "Not applicable: FOPC is an ETF, so there are no Form 4 corporate insider trades. Portfolio managers: Clifford Stanton CFA, Paul Wright CFA, Ali Toyran (issuer site)."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "New position (headline only)",
+    "date": "Q4 2024 / Q1 2025 13F",
+    "detail": "612,514 shares reported in Apr 2025 headline; article not readable",
+    "holder": "JPMorgan Chase & Co."
+   }
+  ],
+  "summary": "13F coverage is sparse. Quiver's institutional table was empty. A Defense World headline (Apr 2025) reported JPMorgan Chase & Co. bought 612,514 shares (likely a seed/market-maker position, roughly half of today's 1.31M shares outstanding), but the article itself could not be opened, so details are unverified."
+ },
+ "name": "Frontier Asset Opportunistic Credit ETF",
+ "options": {
+  "callWall": null,
+  "expectedMove": null,
+  "expiry": null,
+  "gexNote": "No listed options: IBKR contract search shows only STK for FOPC, so GEX, walls and P/C ratio cannot be computed.",
+  "ivNote": "No option IV. 30-day realized vol ~5.3% annualized (IBKR), i.e. a 1-sigma monthly move of roughly +/-$0.38.",
+  "pcRatio": null,
+  "putWall": null,
+  "strategy": "No options strategy available. If holding for income, use limit orders given ~$57k average daily dollar volume.",
+  "zeroGamma": null
+ },
+ "politicians": {
+  "summary": "No US Congress member trades found: Quiver Quantitative shows 'No Congress Trading data for this ticker'.",
+  "trades": []
+ },
+ "price": 24.73,
+ "requestedAt": "2026-09-27T11:09:15.437Z",
+ "scores": {
+  "financial": {
+   "note": "Tiny fund: ~$33M AUM, 1.31M shares, avg 90d dollar volume only ~$57k; closure/liquidity risk for a fund launched Dec 2024.",
+   "score": 2
+  },
+  "flows": {
+   "note": "Very thin trading; no Congress trades; 13F data sparse. Weekly volume mostly a few thousand shares.",
+   "score": 2
+  },
+  "growth": {
+   "note": "Income vehicle, no earnings growth. TTM distributions $1.07 (~4.3% yield), quarterly and uneven ($0.15-$0.39).",
+   "score": 2
+  },
+  "moat": {
+   "note": "No moat: portfolio is 8 widely available ETFs; replicable by the investor at lower cost.",
+   "score": 1
+  },
+  "momentum": {
+   "note": "Price 24.73 near 52w low 24.03 (high 26.05); down from ~25.9 a year ago; 1y price +1.85% per IBKR performance field vs 1y total return +1.73% (StockAnalysis). 30d realized vol ~5.3%.",
+   "score": 2
+  },
+  "valuation": {
+   "note": "ETF trades near NAV; fair value = NAV. NAV/premium data was not available from sources read, so range is a +/-1% band around the last price.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "FOPC | Frontier Asset ETFs (issuer page)",
+   "url": "https://funds.frontierasset.com/opportunistic-credit-etf"
+  },
+  {
+   "title": "FOPC Holdings - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/fopc/holdings/"
+  },
+  {
+   "title": "FOPC overview & dividends - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/fopc/"
+  },
+  {
+   "title": "JCPB - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/jcpb/"
+  },
+  {
+   "title": "FLXR - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/flxr/"
+  },
+  {
+   "title": "PYLD - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/pyld/"
+  },
+  {
+   "title": "AGG - StockAnalysis",
+   "url": "https://stockanalysis.com/etf/agg/"
+  },
+  {
+   "title": "FOPC quote - Morningstar",
+   "url": "https://www.morningstar.com/etfs/arcx/fopc/quote"
+  },
+  {
+   "title": "FOPC - Quiver Quantitative (Congress/13F)",
+   "url": "https://www.quiverquant.com/stock/FOPC/"
+  },
+  {
+   "title": "CNBC: 30-year Treasury yield hits highest level since 2004 (headline, Sep 24 2026)",
+   "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html"
+  },
+  {
+   "title": "CNBC: Treasury yields fall after Waller signals support for no rate hike (headline, Sep 3 2026)",
+   "url": "https://www.cnbc.com/2026/09/03/us-treasury-yields-bonds.html"
+  },
+  {
+   "title": "Defense World: JPMorgan buys 612,514 FOPC shares (headline, Apr 2025)",
+   "url": "https://www.defenseworld.net/2025/04/13/612514-shares-in-frontier-asset-opportunistic-credit-etf-nysearcafopc-purchased-by-jpmorgan-chase-co.html"
+  },
+  {
+   "title": "Interactive Brokers market data (snapshot, 1y weekly history, contract search)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Underweight",
+ "startedAt": "2026-09-27T11:12:00Z",
+ "status": "done",
+ "summary": "FOPC is not a company but a small ($33M) actively managed fund-of-funds that holds 8 bond ETFs (FLXR, VGIT, IGEB, JCPB, SCHP, MBB, VTIP, PYLD), so its fair value is its NAV and it trades close to it; there is no mispricing to exploit. The real question is cost: it charges 0.87% all-in (0.60% management + 0.27% underlying fund fees) to hold ETFs you can buy directly for ~0.03-0.64%. Its 1-year total return (+1.73%) is in line with core-plus peers and ahead of AGG, but at a 52-week low as long-dated Treasury yields hit multi-decade highs. Morningstar's quantitative rating is Negative; prefer holding the underlying funds (e.g. JCPB/FLXR) directly.",
+ "ticker": "FOPC",
+ "updatedAt": "2026-09-27T11:25:00Z",
+ "upsidePct": 0,
+ "valuation": {
+  "method": "ETF adaptation of the spec: P/E, EV/Sales and DCF do not apply to a bond fund-of-funds. Fair value = NAV (ETF creation/redemption keeps price near NAV); range set at +/-1% of last price because NAV was not available from sources read. Peer check uses 1y total return, expense ratio and yield (columns 'growth' and 'opMargin' repurposed). No analyst targets exist for this ETF.",
+  "note": "On cost-adjusted basis FOPC is expensive: three of its top holdings (FLXR 25%, JCPB 15%, PYLD 5%) are available directly at 0.37-0.64% with higher yields, and the Treasury/TIPS/MBS sleeves (VGIT, SCHP, VTIP, MBB ~38%) cost a few bps. FOPC's 1y return matched peers, so the active allocation has not yet added enough to justify the fee layer.",
+  "rows": [
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "1y TR +1.73%",
+    "opMargin": "ER 0.87%, yield 4.23%",
+    "pe": null,
+    "ticker": "FOPC"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "1y TR +1.00%",
+    "opMargin": "ER 0.37%, yield 5.01%",
+    "pe": null,
+    "ticker": "JCPB"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "1y TR +4.63%",
+    "opMargin": "ER 0.40%, yield 5.91%",
+    "pe": null,
+    "ticker": "FLXR"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "1y TR +1.76%",
+    "opMargin": "ER 0.64%, yield 6.54%",
+    "pe": null,
+    "ticker": "PYLD"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "1y TR -1.15%",
+    "opMargin": "ER 0.03%, yield 4.16%",
+    "pe": null,
+    "ticker": "AGG"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

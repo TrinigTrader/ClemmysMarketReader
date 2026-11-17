@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-15T04:15:00Z",
+ "cat": "Macro",
+ "impact": "Fed officials are not backing off December hike talk despite Treasury pressure, keeping yields high; that weighs on long-duration growth names like PLTR, NBIS and BE, while higher short rates support C's net interest income.",
+ "level": "Medium",
+ "published": "2026-11-14T14:00:00Z",
+ "source": "24/7 Wall St. / AOL (Reuters)",
+ "summary": "Treasury Secretary Bessent told CNBC the Fed should treat the war-driven energy price jump as a fading supply shock and not raise rates too much, also calling four recent Treasury auctions the strongest in 20 years. Chicago Fed's Goolsbee said price pressures go well beyond oil, and San Francisco Fed's Daly said a hike is likely given recent inflation data. The 2-year yield closed Friday at 4.88%, up from 4.51% on Nov. 6.",
+ "tickers": [
+  "TLT",
+  "SPY",
+  "QQQ"
+ ],
+ "title": "Bessent urges Fed not to over-hike; Goolsbee, Daly push back",
+ "tone": "negative",
+ "url": "https://247wallst.com/investing/2026/11/14/bessent-tells-the-fed-not-to-hike-too-much/"
+}

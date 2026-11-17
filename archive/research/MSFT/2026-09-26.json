@@ -1,0 +1,551 @@
+{
+ "analysts": {
+  "count": 55,
+  "rating": "Strong Buy",
+  "summary": "Median target $572.50 (~11% above price). Recent moves: RBC Buy $640 (Sep 25); Stifel upgraded Hold to Buy with a $575 target (from $530); Oppenheimer Outperform $570 (from $515); Cantor $608 (from $522, Sep 21); Barclays $512. FY27 consensus: EPS $19.76 (+14%), revenue $391B.",
+  "targetAvg": 576.4,
+  "targetHigh": 870,
+  "targetLow": 440
+ },
+ "bear": [
+  "~$175B capex plan compresses FCF (Q4 FCF -23%); if AI returns lag, the FCF DCF points to ~$340",
+  "RPO growth is concentrated in OpenAI, which is now multi-cloud with a capped revenue share",
+  "Azure share is flat at 20% while Google and neoclouds gain",
+  "FTC antitrust probe into cloud, AI and bundling",
+  "Consistent insider selling; shift to usage-based pricing may make revenue less predictable; Devices & Consumer declining"
+ ],
+ "bull": [
+  "Azure growing 43% and still capacity-constrained, with ~45% guided for the Sep quarter",
+  "Commercial RPO of $678B (+84%) gives multi-year revenue visibility",
+  "Best-in-class ~46% operating margin and a net-cash balance sheet",
+  "Copilot monetisation accelerating: 30M+ paid seats, a usage-based agent model, and seat net adds doubling quarter on quarter",
+  "Analyst targets average $576 with recent upgrades; IV is cheap for the upcoming earnings"
+ ],
+ "catalysts": [
+  {
+   "date": "2026-10-28",
+   "event": "FY27 Q1 earnings (after close)",
+   "why": "First report under the new Agents & Infra / Devices & Consumer segments; guide is revenue $89.85-90.95B and Azure ~44-45%. Capex and capacity commentary will move the stock."
+  },
+  {
+   "date": "2026-11-17",
+   "event": "Microsoft Ignite (Nov 17-20, San Francisco)",
+   "why": "Copilot/agent roadmap and pricing (the new pay-as-you-go Autopilot agent) after the Sep 25 Copilot redesign."
+  },
+  {
+   "date": "2026-11-19",
+   "event": "Ex-dividend $0.98 (paid Dec 10)",
+   "why": "First payment after the 8% dividend increase."
+  },
+  {
+   "date": "Ongoing",
+   "event": "FTC antitrust probe (cloud, AI, bundling)",
+   "why": "Civil investigative demands went to rivals in Feb 2026; no dated milestones found, but it is a headline risk."
+  },
+  {
+   "date": "Ongoing",
+   "event": "OpenAI multi-cloud shift",
+   "why": "The Apr 2026 amendment lets OpenAI sell on AWS and Google Cloud; watch for Azure consumption effects."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Amazon (AWS)",
+    "note": "Cloud leader at 28% share; cheapest on EV/Sales (3.6x) but 12% op margin",
+    "ticker": "AMZN"
+   },
+   {
+    "name": "Alphabet (Google Cloud)",
+    "note": "Gaining share (15%); 17x trailing P/E, revenue +20%",
+    "ticker": "GOOGL"
+   },
+   {
+    "name": "Oracle",
+    "note": "Fast AI-infra growth (+30% latest quarter) but -$28.7B FCF; 16x forward P/E",
+    "ticker": "ORCL"
+   },
+   {
+    "name": "Salesforce",
+    "note": "Competes in CRM and agents (Dynamics/Copilot); 16x forward, growth 11%",
+    "ticker": "CRM"
+   },
+   {
+    "name": "Meta Platforms",
+    "note": "AI model and capex peer; 23x forward, revenue +28%",
+    "ticker": "META"
+   }
+  ],
+  "share": [
+   {
+    "name": "AWS",
+    "value": 28
+   },
+   {
+    "name": "Microsoft Azure",
+    "value": 20
+   },
+   {
+    "name": "Google Cloud",
+    "value": 15
+   },
+   {
+    "name": "Others",
+    "value": 37
+   }
+  ],
+  "summary": "MSFT is #2 in cloud infrastructure at 20% share (Synergy, Q2 2026). That share has been flat since Q3 2025 while Google rose from 13% to 15%, and neoclouds (CoreWeave, Oracle, Nebius) plus OpenAI/Anthropic are taking share in a market growing 43%. Productivity is dominant: 30M+ paid M365 Copilot seats (~6.5% of an estimated ~464M commercial seats) and 50M GitHub Copilot users. MSFT holds ~27% of OpenAI, but the Apr 2026 amendment ended IP exclusivity and let OpenAI go multi-cloud."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 575,
+ "fairLow": 470,
+ "fairMid": 520,
+ "financials": [
+  {
+   "metric": "Revenue FY26 (TTM)",
+   "note": "+18% YoY; Q4 $90.0B (+18%) vs $87.6B consensus",
+   "value": "$331.8B"
+  },
+  {
+   "metric": "Azure growth (Q4 FY26)",
+   "note": "Azure passed $100B annual run-rate; Q1 FY27 guide ~44-45%",
+   "value": "+43%"
+  },
+  {
+   "metric": "Microsoft Cloud revenue (Q4)",
+   "note": "+27% YoY",
+   "value": "$59.3B"
+  },
+  {
+   "metric": "Gross margin (Q4)",
+   "note": "down from 68.6% on AI infrastructure costs",
+   "value": "67.2%"
+  },
+  {
+   "metric": "Operating margin",
+   "note": "FY26 operating income $155.2B (+21%)",
+   "value": "~45% (Q4); 46.8% TTM"
+  },
+  {
+   "metric": "EPS FY26",
+   "note": "Q4 GAAP $4.81 incl. $3.2B Anthropic investment gain; FY27 consensus $19.76",
+   "value": "$17.95 GAAP / $17.28 non-GAAP"
+  },
+  {
+   "metric": "Free cash flow FY26",
+   "note": "OCF $182.9B minus PP&E $115.9B; Q4 FCF $19.6B (-23%)",
+   "value": "~$67.0B"
+  },
+  {
+   "metric": "Capex",
+   "note": "Q1 FY27 guided >$50B; ~$175B planned for the year (sources differ on calendar vs fiscal basis)",
+   "value": "$41B in Q4 (+69%)"
+  },
+  {
+   "metric": "Cash & short-term investments",
+   "note": "as of Jun 30, 2026",
+   "value": "$76.8B"
+  },
+  {
+   "metric": "Total debt",
+   "note": "$9.2B current + $31.1B long-term (stockanalysis shows $128.8B, which likely includes leases)",
+   "value": "$40.3B"
+  },
+  {
+   "metric": "Shareholder returns FY26",
+   "note": "diluted shares 7,443M in Q4; dividend raised 8% to $0.98/qtr",
+   "value": "$22.3B buybacks + $26.4B dividends"
+  },
+  {
+   "metric": "Commercial RPO",
+   "note": "+84% YoY; +25% excluding the OpenAI commitment",
+   "value": "$678B"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sale",
+    "amount": "41,674 sh @ $498.27 (~$20.8M)",
+    "date": "2026-09-14",
+    "who": "Amy Hood (CFO)"
+   },
+   {
+    "action": "Sale (10b5-1)",
+    "amount": "86,525 sh @ $501.46 (~$43.4M)",
+    "date": "2026-09-01",
+    "who": "Satya Nadella (CEO)"
+   },
+   {
+    "action": "Sale",
+    "amount": "10,000 sh @ $487.89 (~$4.9M)",
+    "date": "2026-08-05",
+    "who": "Judson Althoff (EVP/CCO)"
+   },
+   {
+    "action": "Sale",
+    "amount": "4,810 sh @ $496.48 (~$2.4M)",
+    "date": "2026-08-04",
+    "who": "Takeshi Numoto (EVP)"
+   },
+   {
+    "action": "Sale",
+    "amount": "15,500 sh @ $460.99 (~$7.2M)",
+    "date": "2026-06-01",
+    "who": "Judson Althoff"
+   },
+   {
+    "action": "Sale",
+    "amount": "12,321 sh @ $409.52 (~$5.1M)",
+    "date": "2026-03-06",
+    "who": "Kathleen Hogan (EVP)"
+   },
+   {
+    "action": "Purchase",
+    "amount": "5,000 sh @ $397.35 (~$2.0M)",
+    "date": "2026-02-18",
+    "who": "John W. Stanton (Director)"
+   },
+   {
+    "action": "Sale",
+    "amount": "12,750 sh @ $491.52 (~$6.3M)",
+    "date": "2025-12-02",
+    "who": "Judson Althoff"
+   }
+  ],
+  "summary": "Insiders were net sellers over 12 months: ~$114.6M sold by 7 insiders vs one $1.99M purchase by director John Stanton at $397 in Feb 2026. The largest recent sales were CEO Nadella ($43.4M on Sep 1, under a 10b5-1 plan on vested RSUs) and CFO Hood ($20.8M on Sep 14). Mostly routine plan and RSU-related selling."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+2.4%, ~$226.6B position",
+    "holder": "BlackRock"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+0.6%, ~$181B",
+    "holder": "Vanguard"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+2.9%, ~$117.7B",
+    "holder": "State Street"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+6.3%, ~$49.8B",
+    "holder": "JPMorgan Chase"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+24.4%, ~$17.8B",
+    "holder": "Franklin Resources"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q2 2026",
+    "detail": "-2.2%, ~$69.4B",
+    "holder": "FMR (Fidelity)"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q2 2026",
+    "detail": "-10.7%",
+    "holder": "Capital World Investors"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "~+10%; 5,654,078 shares, 15.3% of portfolio",
+    "holder": "Pershing Square (Ackman)"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q1 2026",
+    "detail": "Cut from ~10% to ~1% of portfolio (~$8B sold)",
+    "holder": "TCI (Chris Hohn)"
+   }
+  ],
+  "summary": "About 7,976 institutions hold ~82.7% of shares (Fintel). Q2 2026 13F activity was mixed (225 buyers vs 220 sellers among 445 tracked holders). The big index managers added; Fidelity and Capital World trimmed. Pershing Square added ~10% and MSFT is now ~15% of its book, while TCI cut its stake sharply in Q1."
+ },
+ "name": "Microsoft Corp",
+ "options": {
+  "callWall": 550,
+  "expectedMove": "+/-$16.4 (~3.2%) to Oct 2; +/-$13.4 to Sep 30 (underlying IV 24.6%)",
+  "expiry": "2026-10-02 (6 DTE); 2026-09-30 (4 DTE) also included in GEX",
+  "gexNote": "Net dealer GEX ≈ +$220M per 1% move, concentrated at 505 (+$76M; 16.1k Oct-2 calls), 530 (+$38M) and 520/550. Positive gamma should dampen volatility and pin price around $505-530 into Oct 2; 550 is the largest call-OI wall (20.5k). Put OI is thin (P/C 0.10), with the only meaningful support at 500 (2.6k puts).",
+  "ivNote": "IV 24.6% vs 30-day historical vol 23.8%. IV percentile is low (22% of the 52-week range; 13% over 26 weeks), so premium is cheap relative to the year even with Oct 28 earnings ahead.",
+  "pcRatio": 0.1,
+  "putWall": 500,
+  "strategy": "Idea only, not an order: with IV cheap and valuation near fair, holders could collar (for example, sell the Nov 20 ~$575 call and buy a ~$480 put) to protect gains through earnings. New buyers could wait for $470-490 or use a Nov 20 call debit spread to express upside with defined risk.",
+  "zeroGamma": "Not reached between $470 and $570 on the sampled $490-550 strikes (net GEX positive throughout)"
+ },
+ "politicians": {
+  "summary": "Five recent disclosed MSFT trades (Aug 2026, filed in Sep) were readable: three Republican House sales, one Democratic purchase, and a Gottheimer (D) roll of call options. Congressstock.com reports 18 members traded MSFT over the full period, but earlier rows (Sep 2025-Jul 2026) could not be retrieved.",
+  "trades": [
+   {
+    "action": "Sale",
+    "amount": "$15,001-$50,000",
+    "date": "2026-08-27",
+    "member": "Thomas Kean Jr. (House)",
+    "party": "R",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$1,001-$15,000",
+    "date": "2026-08-26",
+    "member": "David J. Taylor (House)",
+    "party": "R",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$15,001-$50,000",
+    "date": "2026-08-21",
+    "member": "Kevin Hern (House)",
+    "party": "R",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$15,001-$50,000",
+    "date": "2026-08-18",
+    "member": "Gilbert Cisneros (House)",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Options roll: sold Dec-26 $335/$340 calls, bought Oct-26 $330/$340 calls",
+    "amount": "$250K-$1M per leg",
+    "date": "2026-08-14",
+    "member": "Josh Gottheimer (House)",
+    "party": "D",
+    "source": "FinanceFeeds / PelosiTracker"
+   }
+  ]
+ },
+ "price": 517.91,
+ "requestedAt": "2026-09-26T17:04:27.776Z",
+ "scores": {
+  "financial": {
+   "note": "FY26 op income $155.2B (+21%), net income $133.7B; $76.8B cash vs $40.3B debt; AAA-type balance sheet.",
+   "score": 5
+  },
+  "flows": {
+   "note": "Index giants and Pershing Square added in Q2; Fidelity, Capital World and TCI trimmed. Insiders net sellers (~$115M vs $2M bought). Congress trades mixed.",
+   "score": 3
+  },
+  "growth": {
+   "note": "Revenue +18%, Azure +43%, RPO +84%; Q1 FY27 guide +16-17%. Consumer/Devices shrinking (-4%).",
+   "score": 4
+  },
+  "moat": {
+   "note": "Entrenched M365/Azure/GitHub franchises; OpenAI exclusivity loosened in the Apr 2026 amendment and Azure share is flat at 20% while Google gains.",
+   "score": 4
+  },
+  "momentum": {
+   "note": "+48% from 52w low $349.20, at 13/26-week high $519.40; still ~6% below 52w high $550.29 and lags tech YTD (+7.6%).",
+   "score": 4
+  },
+  "valuation": {
+   "note": "28.8x trailing / 26.1x forward P/E, 11.7x EV/Sales: premium to GOOGL/AMZN/META on sales; roughly at fair-value mid.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "Microsoft Source – FY26 Q4 results press release",
+   "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/"
+  },
+  {
+   "title": "Microsoft IR – FY26 Q4 press release & webcast",
+   "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+  },
+  {
+   "title": "TradingKey – MSFT Q4 earnings beat, Azure 43%, RPO 84%",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262062364-microsoft-msft-q4-earnings-beat-azure-43-percent-rpo-84-percent-stock-up-tradingkey"
+  },
+  {
+   "title": "Webull – MSFT Q4 2026 earnings",
+   "url": "https://www.webull.com/blog/295-MSFT-Q4-2026-Earnings-Microsoft-Reports-90-Billion-in-Revenue-Azure-Grows-43"
+  },
+  {
+   "title": "Yahoo Finance – Microsoft Q4 earnings call highlights",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-call-highlights-000355148.html"
+  },
+  {
+   "title": "StockTitan – MSFT 8-K (segment change, Sep 2 2026)",
+   "url": "https://www.stocktitan.net/sec-filings/MSFT/8-k-microsoft-corp-reports-material-event-f8a7cf7d3af8.html"
+  },
+  {
+   "title": "StockAnalysis – MSFT statistics",
+   "url": "https://stockanalysis.com/stocks/msft/statistics/"
+  },
+  {
+   "title": "StockAnalysis – MSFT forecast",
+   "url": "https://stockanalysis.com/stocks/msft/forecast/"
+  },
+  {
+   "title": "StockAnalysis – peer statistics (GOOGL/AMZN/ORCL/CRM/META)",
+   "url": "https://stockanalysis.com/stocks/googl/statistics/"
+  },
+  {
+   "title": "Moscone – Microsoft Ignite 2026",
+   "url": "https://www.moscone.com/events/microsoft-ignite-2026"
+  },
+  {
+   "title": "Microsoft – quarterly dividend increase (Sep 15 2026)",
+   "url": "https://news.microsoft.com/source/2026/09/15/microsoft-announces-quarterly-dividend-increase-7/"
+  },
+  {
+   "title": "Android Headlines – FTC escalates antitrust probe",
+   "url": "https://www.androidheadlines.com/2026/06/ftc-escalates-antitrust-probe-microsoft-cloud-ai.html"
+  },
+  {
+   "title": "Motley Fool – Why Microsoft stock is up today (Sep 25)",
+   "url": "https://www.fool.com/investing/2026/09/25/why-microsoft-stock-is-up-today/"
+  },
+  {
+   "title": "24/7 Wall St – Oppenheimer lifts target to $570",
+   "url": "https://247wallst.com/investing/2026/09/25/microsoft-climbs-3-as-oppenheimer-lifts-target-to-570-on-copilot-enterprise-pivot-alphabet-ticks-up/"
+  },
+  {
+   "title": "TIKR – Microsoft jumped 5% after Burry went long",
+   "url": "https://www.tikr.com/blog/microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-heres-where-msft-could-go-in-2026"
+  },
+  {
+   "title": "Synergy Research – Q2 cloud market passes $143B",
+   "url": "https://www.srgresearch.com/articles/q2-cloud-market-passes-143-billion-highest-growth-rate-in-eight-years"
+  },
+  {
+   "title": "office365itpros – FY26 Q4 results, Azure tops $100B",
+   "url": "https://office365itpros.com/2026/07/30/fy26-q4-microsoft-results/"
+  },
+  {
+   "title": "Directions on Microsoft – Microsoft, OpenAI amend agreement",
+   "url": "https://www.directionsonmicrosoft.com/microsoft-openai-amend-their-agreement-again/"
+  },
+  {
+   "title": "Gulf News – Microsoft holds 27% of OpenAI",
+   "url": "https://gulfnews.com/technology/companies/microsoft-holds-27-of-openai-in-revamped-partnership-2-1.500324696"
+  },
+  {
+   "title": "HoldingsIntel – MSFT institutional changes Q2 2026",
+   "url": "https://www.holdingsintel.com/stocks/MSFT"
+  },
+  {
+   "title": "InsiderSet – MSFT top institutional shareholders",
+   "url": "https://www.insiderset.com/investors/stocks/MSFT/top-shareholders"
+  },
+  {
+   "title": "Fintel – MSFT institutional ownership",
+   "url": "https://fintel.io/so/us/msft"
+  },
+  {
+   "title": "Motley Fool – Ackman sold Amazon, bought Microsoft",
+   "url": "https://www.fool.com/investing/2026/08/28/billionaire-bill-ackman-just-sold-amazon-and-bough/"
+  },
+  {
+   "title": "Hedgeweek – TCI slashes $8bn Microsoft position",
+   "url": "https://www.hedgeweek.com/tci-slashes-8bn-microsoft-position-amid-ai-disruption-concerns/"
+  },
+  {
+   "title": "MarketBeat – MSFT insider trades",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/MSFT/insider-trades/"
+  },
+  {
+   "title": "SECform4 – Microsoft Form 4 filings",
+   "url": "https://www.secform4.com/insider-trading/789019.htm"
+  },
+  {
+   "title": "Benzinga – Nadella's $44M sale",
+   "url": "https://www.benzinga.com/trading-ideas/insider-trades/26/09/61633915/microsoft-stock-nadella-sale"
+  },
+  {
+   "title": "Quiver Quantitative – MSFT Congress trading",
+   "url": "https://www.quiverquant.com/congresstrading/stock/MSFT"
+  },
+  {
+   "title": "PelosiTracker – MSFT congressional trades",
+   "url": "https://pelositracker.app/stock/msft"
+  },
+  {
+   "title": "FinanceFeeds – Gottheimer MSFT calls roll",
+   "url": "https://financefeeds.com/congress-stock-trades-gottheimer-msft-calls-roll/"
+  },
+  {
+   "title": "Interactive Brokers – live quote, IV/HV, 1y weekly history, option chain & open interest (Sep 30 / Oct 2 expiries)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-26T17:06:00Z",
+ "status": "done",
+ "summary": "Microsoft is executing very well: FY26 revenue was $331.8B (+18%), Azure grew 43% last quarter, and commercial RPO jumped 84% to $678B. After rallying from a ~$349 June low to ~$518, the stock trades at ~26x forward EPS, a premium to peers that is justified by ~46% operating margins but leaves little upside against a triangulated fair value of $470-575 (mid $520). Heavy AI capex (~$175B guided) is crushing free cash flow, so a strict FCF DCF looks expensive; the bull case relies on capex turning into earnings. Neutral / hold with a bias to add on pullbacks toward the $470-490 area, and watch the Oct 28 earnings for Azure capacity and capex updates.",
+ "ticker": "MSFT",
+ "updatedAt": "2026-09-26T17:17:23Z",
+ "upsidePct": 0.004,
+ "valuation": {
+  "method": "Triangulation. (a) Peer multiples: peer median forward P/E 23.3x; MSFT merits a premium for margin and durability, so we apply 24-28x to FY27 consensus EPS of $19.76, giving $474-553. (b) Earnings power: FY27 EPS $19.76 grown 12-14%/yr for 4 years, then a 22-24x exit multiple, discounted at 9% plus dividends, gives ~$460-535. A strict FCF DCF on depressed FY26 FCF ($67B, 15%/8% growth, 8.5% WACC, 3% terminal) gives only ~$340 ($265-455 across scenarios), a reminder of what happens if AI capex never normalises. (c) Analysts: $440 low / $576 average / $870 high (55 analysts). Blended fair range $470-575, mid $520.",
+  "note": "Multiples from stockanalysis.com at the Sep 25, 2026 close. The FCF DCF is shown as a bear-case anchor and is not weighted in the range.",
+  "rows": [
+   {
+    "evSales": 11.71,
+    "fwdPe": 26.12,
+    "growth": "17.8%",
+    "opMargin": "46.8%",
+    "pe": 28.76,
+    "ticker": "MSFT"
+   },
+   {
+    "evSales": 9.16,
+    "fwdPe": 25.72,
+    "growth": "20.1%",
+    "opMargin": "33.1%",
+    "pe": 17.26,
+    "ticker": "GOOGL"
+   },
+   {
+    "evSales": 3.64,
+    "fwdPe": 26.64,
+    "growth": "15.8%",
+    "opMargin": "12.1%",
+    "pe": 20.08,
+    "ticker": "AMZN"
+   },
+   {
+    "evSales": 7.63,
+    "fwdPe": 16.09,
+    "growth": "21.6%",
+    "opMargin": "34.3%",
+    "pe": 21.5,
+    "ticker": "ORCL"
+   },
+   {
+    "evSales": 5.09,
+    "fwdPe": 15.95,
+    "growth": "11.2%",
+    "opMargin": "21.5%",
+    "pe": 21.69,
+    "ticker": "CRM"
+   },
+   {
+    "evSales": 8.49,
+    "fwdPe": 23.27,
+    "growth": "27.7%",
+    "opMargin": "38.1%",
+    "pe": 28.32,
+    "ticker": "META"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

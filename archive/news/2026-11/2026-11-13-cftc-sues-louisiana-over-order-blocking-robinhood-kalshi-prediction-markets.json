@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-15T06:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-15T06:15:00Z",
+ "cat": "Trade & policy",
+ "impact": "Prediction markets are HOOD's fastest-growing line (event contracts up 136% y/y to 5.9B), so state-by-state blocks are a direct revenue risk; a federal win would protect that growth, while more states copying Louisiana would hurt HOOD and COIN.",
+ "level": "Medium",
+ "published": "2026-11-13T22:00:00Z",
+ "source": "Crypto Briefing / Legal Sports Report / AOL",
+ "summary": "A Louisiana state judge on Nov. 12 issued a temporary restraining order, sought by Attorney General Liz Murrill, ordering 31 prediction market entities including Kalshi, Polymarket, Robinhood and Coinbase to block Louisiana customers from sports, election and awards contracts. On Nov. 13 the CFTC and DOJ reportedly sued Louisiana in federal court to invalidate the order and confirm federal oversight under the Commodity Exchange Act, the twelfth state the CFTC has sued over these contracts.",
+ "tickers": [
+  "HOOD",
+  "COIN"
+ ],
+ "title": "CFTC sues Louisiana over order blocking Robinhood, Kalshi event contracts",
+ "tone": "negative",
+ "url": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/"
+}

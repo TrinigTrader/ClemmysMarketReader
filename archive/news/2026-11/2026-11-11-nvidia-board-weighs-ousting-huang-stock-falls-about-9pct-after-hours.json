@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-12T02:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T02:11:37Z",
+ "cat": "AI & tech",
+ "impact": "A leadership shock at the AI bellwether threatens Wednesday's rebound; MU, DRAM and SNXX are most exposed, and NBIS reports before Thursday's open with options pricing about ±14%. A quick, orderly succession could limit the damage.",
+ "level": "High",
+ "published": "2026-11-12T00:30:00Z",
+ "source": "WSJ via CNBC / Reuters / Bloomberg",
+ "summary": "The Wall Street Journal reported Wednesday evening that Nvidia's board is preparing to oust CEO Jensen Huang and was meeting to decide his future; Bloomberg said the board has worked with an outside firm on successors and could name an interim chief. No decision had been announced. Nvidia fell about 8% to 10% after hours to around $160, and Nasdaq 100 futures dropped about 1%. The reports follow disclosures of two extramarital affairs, one with a woman US officials believe was a Chinese spy.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS",
+  "MSFT",
+  "GOOGL"
+ ],
+ "title": "Nvidia board weighs ousting CEO Huang; NVDA ~-9% after hours",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+}

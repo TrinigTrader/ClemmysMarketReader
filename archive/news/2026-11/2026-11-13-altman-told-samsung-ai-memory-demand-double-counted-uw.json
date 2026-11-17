@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-13T20:16:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-14T00:16:00Z",
+ "cat": "AI & tech",
+ "impact": "Feeds the memory-cycle worry that is already hitting MU, DRAM and SNXX, and the neocloud-bubble concern weighing on NBIS; the long-term demand view limits the damage.",
+ "level": "Medium",
+ "published": "2026-11-13T18:35:00Z",
+ "source": "Financial News (Korea) / Unusual Whales",
+ "summary": "OpenAI CEO Sam Altman told about 50 Samsung presidents in an Oct. 31 closed-door session that some AI demand, particularly for memory chips and data centers, had been double-counted, Korea's Financial News reported on Nov. 11 from Q&A notes. He said only OpenAI and Anthropic were driving major demand growth, warned of short-term fluctuations and a possible supply shock, but expects AI demand to grow enormously over time. He did not say which demand was double-counted.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS",
+  "005930.KS"
+ ],
+ "title": "Altman told Samsung AI memory demand was 'double-counted'",
+ "tone": "negative",
+ "url": "https://en.fnnews.com/news/202611111610393909",
+ "uw": true
+}

@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-11T14:20:00Z",
+ "cat": "Trade & policy",
+ "impact": "Small, routine trades with no direct read on Clement's holdings; the Cisco buy comes ahead of Cisco's Nov 12 earnings, a read for NOK and telecom equipment.",
+ "level": "Low",
+ "published": "2026-11-11T12:00:00Z",
+ "source": "House disclosures via Unusual Whales",
+ "summary": "Rep. Gilbert Cisneros (D) disclosed selling Nvidia and Uber shares and buying Cisco shares, each in the $1,001 to $15,000 range, traded Oct 20 and filed Nov 11, per House disclosures tracked by Unusual Whales.",
+ "tickers": [
+  "NVDA",
+  "CSCO",
+  "UBER"
+ ],
+ "title": "Rep. Cisneros (D) sells NVDA and UBER, buys CSCO (K-$15K each)",
+ "tone": "neutral",
+ "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+ "uw": true
+}

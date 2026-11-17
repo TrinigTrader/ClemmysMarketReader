@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "Macro",
+ "impact": "Higher-for-longer rates weigh on long-duration holdings (NBIS, PLTR, BE) and support bank net interest income (C).",
+ "level": "Medium",
+ "published": "2026-11-09T12:00:00Z",
+ "source": "Forbes",
+ "summary": "Odds of a hike at the Dec 8-9 FOMC rose to about 85% after the October jobs report. UBS expects 25bp hikes in December and March. Waller still entertains further hikes; the 10-year yield is around 4.85%.",
+ "tickers": [
+  "TLT",
+  "C",
+  "NBIS",
+  "PLTR"
+ ],
+ "title": "December Fed hike odds near 85% after hot jobs data",
+ "tone": "negative",
+ "url": "https://www.forbes.com/sites/simonmoore/2026/11/09/what-to-expect-from-the-feds-december-meeting/"
+}

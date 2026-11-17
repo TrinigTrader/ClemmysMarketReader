@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-16T04:14:00Z",
+ "cat": "Macro",
+ "impact": "A soft print, but commentary says it may not stop a Bank of Japan hike in December; a BoJ hike would firm the yen and can tighten global liquidity for high-multiple tech like NBIS and PLTR.",
+ "level": "Low",
+ "published": "2026-11-15T23:50:00Z",
+ "source": "Xinhua / investingLive",
+ "summary": "Japan's real GDP fell 0.1% annualised in Q3 (flat q/q) vs about +0.3% expected. Private consumption fell 0.3% q/q, imports rose 2.5% and exports fell 0.2%, while business investment rose 1.6%. The GDP deflator rose 2.4% y/y.",
+ "tickers": [
+  "EWJ",
+  "USDJPY"
+ ],
+ "title": "Japan Q3 GDP shrinks 0.1% annualised, missing forecasts for growth",
+ "tone": "negative",
+ "url": "https://english.news.cn/20261116/0c28de96af58410caa740fd0f0001fe6/c.html"
+}

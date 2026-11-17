@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-10T12:16:10Z",
+ "cat": "AI & tech",
+ "impact": "A clean range resets the AI IPO after Monday's wobble; GOOGL and AMZN stakes get a public mark, and demand will set the tone for AI infrastructure names like NBIS.",
+ "level": "Medium",
+ "published": "2026-11-10T11:30:00Z",
+ "source": "CNBC",
+ "summary": "Anthropic's amended S-1 sets an indicative range of $70 to $78 for 825M shares, raising up to about $64.4B on Nasdaq under ticker ANT. The top of the range implies up to $1.02T on outstanding shares (Reuters) or $1.405T fully diluted (CNBC), replacing Monday's retracted $70-$80 draft.",
+ "tickers": [
+  "GOOGL",
+  "AMZN",
+  "NBIS"
+ ],
+ "title": "Anthropic sets IPO range at $70-$78, raising up to $64.4B",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+}

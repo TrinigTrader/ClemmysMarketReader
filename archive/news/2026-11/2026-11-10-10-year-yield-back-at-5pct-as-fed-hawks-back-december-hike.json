@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-10T18:20:00Z",
+ "cat": "Macro",
+ "impact": "A 5% 10-year raises the discount rate on long-duration growth names (NBIS, PLTR, BE) and keeps pressure on the AI trade into CoreWeave and Nvidia earnings; banks like C benefit from a steeper rate backdrop.",
+ "level": "Low",
+ "published": "2026-11-10T19:00:00Z",
+ "source": "CNBC",
+ "summary": "The 10-year Treasury yield climbed about 14bp to roughly 5.00% after hot CPI and Governor Waller's comments. Futures now fully price a 25bp December hike with about 12.5% odds of 50bp. Dallas Fed's Logan said the Fed needs at least two more 25bp hikes and St. Louis Fed's Musalem said more firming is needed soon.",
+ "tickers": [
+  "TLT",
+  "NBIS",
+  "PLTR",
+  "BE",
+  "C"
+ ],
+ "title": "10-year yield back at 5% as Fed hawks line up behind a December hike",
+ "tone": "negative",
+ "url": "https://cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+}

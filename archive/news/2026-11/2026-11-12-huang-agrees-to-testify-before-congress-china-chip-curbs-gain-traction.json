@@ -1,0 +1,15 @@
+{
+ "addedAt": "2026-11-13T02:20:00Z",
+ "cat": "Trade & policy",
+ "impact": "Keeps political and export-control risk on Nvidia into its Nov 17 earnings; tighter China curbs would weigh on the AI chip chain including MU and DRAM.",
+ "level": "Medium",
+ "published": "2026-11-12T23:30:00Z",
+ "source": "CNBC / Reuters / Yahoo Finance via CNN live",
+ "summary": "CNBC reports Jensen Huang has agreed to testify before Congress following his resignation as Nvidia CEO. Reuters reports that curbs on China's access to Nvidia chips are gaining traction in Congress, and Yahoo Finance reports top Democrats urged the Trump administration to preserve all records related to planned Nvidia investigations. Nvidia's market value fell below $4 trillion in early trading Thursday for the first time since 2025.",
+ "tickers": [
+  "NVDA"
+ ],
+ "title": "Huang agrees to testify before Congress; China chip curbs gain traction",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+}

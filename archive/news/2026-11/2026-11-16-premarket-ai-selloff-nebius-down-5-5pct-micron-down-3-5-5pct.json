@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-16T12:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-16T12:11:54Z",
+ "cat": "AI & tech",
+ "impact": "A direct hit to NBIS, MU, DRAM and SNXX a day before Nvidia earnings, following Seoul's memory rout; crypto weakness also weighs on HOOD. Nvidia's Tuesday guide is the swing factor.",
+ "level": "Medium",
+ "published": "2026-11-16T11:00:00Z",
+ "source": "Yahoo Finance / Reuters / CNBC",
+ "summary": "The selloff carried into Monday's session: the Nasdaq Composite was down about 1.4% by 11 a.m. ET and the S&P 500 about 1%. Nebius fell about 8% and CoreWeave 5.2%, Micron lost 5% to 7%, Broadcom 3.7% and Nvidia about 2%. Before the open, Nebius had been -5.5%, Micron -3.5% to -5% and bitcoin touched $64,000. Reuters noted some investors may sell tech holdings to make room for the Anthropic IPO.",
+ "tickers": [
+  "NBIS",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NVDA",
+  "HOOD"
+ ],
+ "title": "AI selloff deepens at the open: Nebius -8%, Micron -5% to -7%, Nasdaq -1.4%",
+ "tone": "negative",
+ "updatedAt": "2026-11-16T16:14:00Z",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+}

@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-13T22:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-14T00:16:00Z",
+ "cat": "Macro",
+ "impact": "The late recovery trimmed losses in AI hardware, but MU, DRAM, SNXX and NBIS head into Nvidia's Nov. 17 earnings with the 10-year near 5.1% and the CEO question unresolved.",
+ "level": "Medium",
+ "published": "2026-11-13T21:30:00Z",
+ "source": "Kiplinger / CNBC / Yahoo Finance",
+ "summary": "The S&P 500 fell about 0.4% to 7,561.67 and the Nasdaq 0.91% to 25,136.27 on Friday, while the Dow edged up about 0.1% to roughly 52,347 after a chip-led sell-off eased from its lows. For the week the S&P rose about 2.5%, the Nasdaq about 2.3% (its first weekly gain in five weeks) and the Dow about 2%. Nvidia closed down about 2% at $162.86, after falling as much as 14% earlier in the week, and AMD fell about 8.8%.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "NVDA",
+  "AMD",
+  "MU",
+  "NBIS"
+ ],
+ "title": "S&P -0.4%, Nasdaq -0.9% Friday, but Nasdaq logs first weekly gain in 5 weeks",
+ "tone": "mixed",
+ "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today"
+}

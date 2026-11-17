@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-10T06:16:30Z",
+ "cat": "Trade & policy",
+ "impact": "Signals HOOD wants a seat in regulated tokenized equities alongside NYSE and ICE efforts, a long-term positive for its crypto and 24/7 trading push but no near-term revenue.",
+ "level": "Low",
+ "published": "2026-11-09T20:00:00Z",
+ "source": "CoinDesk",
+ "summary": "Robinhood told CoinDesk it did not object to its shares trading as tokens on the planned OKX-ICE venue, joining only Securitize and BitGo; 56 of 62 companies proposed have opposed it. The venue relies on the SEC's innovation exemption and has no launch date.",
+ "tickers": [
+  "HOOD",
+  "ICE"
+ ],
+ "title": "Robinhood backs tokenized trading of its stock on OKX-ICE venue",
+ "tone": "positive",
+ "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+}

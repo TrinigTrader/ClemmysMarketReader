@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-16T00:15:00Z",
+ "cat": "Macro",
+ "impact": "A calm open into a heavy catalyst week. Nvidia's report Tuesday after the close is the swing factor for MU, DRAM, SNXX, NBIS and the AI power trade (BE); a soft guide would hit the whole AI complex.",
+ "level": "Low",
+ "published": "2026-11-15T23:30:00Z",
+ "source": "CNBC / FX Leaders",
+ "summary": "Nasdaq-100 futures rose 0.4-0.6% and S&P 500 futures 0.1-0.3% Sunday evening, with Dow futures near flat, as traders braced for Nvidia earnings Tuesday, Fed minutes Wednesday and the Anthropic IPO later in the week. All three indexes gained over 2% last week, their best week since August, even as Nvidia fell 13%.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "NVDA",
+  "MU",
+  "NBIS"
+ ],
+ "title": "US futures tick higher Sunday night, Nasdaq futures up about 0.4%",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+}

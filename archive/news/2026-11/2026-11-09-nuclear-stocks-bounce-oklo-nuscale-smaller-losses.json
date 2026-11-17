@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "AI & tech",
+ "impact": "Mild positive read-through for the AI power trade including BE, though data-centre permitting risk remains.",
+ "level": "Low",
+ "published": "2026-11-09T15:00:00Z",
+ "source": "GuruFocus",
+ "summary": "Nuclear shares rebounded after Oklo and NuScale reported smaller-than-expected quarterly losses, following a rough post-midterm week driven by worries about data-centre scrutiny and policy shifts.",
+ "tickers": [
+  "OKLO",
+  "SMR",
+  "BE"
+ ],
+ "title": "Nuclear stocks bounce as Oklo and NuScale post smaller losses",
+ "tone": "positive",
+ "url": "https://www.gurufocus.com/news/9185020/nuclear-stocks-jump-after-brutal-election-week"
+}

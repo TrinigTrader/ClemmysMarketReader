@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-13T00:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T00:25:00Z",
+ "cat": "AI & tech",
+ "impact": "Mixed for HOOD: strong deposits, margin and prediction-market growth, but crypto revenue is under pressure with bitcoin weak and assets slipped with the market.",
+ "level": "Medium",
+ "published": "2026-11-12T21:30:00Z",
+ "source": "Robinhood investor relations / Seeking Alpha",
+ "summary": "Robinhood's October operating data showed 28.9M funded customers, up about 130K from September, and net deposits of $15.1B, a 46% annualized growth rate. Total platform assets fell 3% month over month to $383B but are up 12% year over year. Crypto notional volume dropped 21% from September and 48% year over year to $17.0B, while event contracts rose 136% year over year to 5.9B and margin balances rose 4% to $22.9B. Equity volume was $325B, up 1%, and options contracts were flat at 289M.",
+ "tickers": [
+  "HOOD",
+  "COIN"
+ ],
+ "title": "Robinhood October: $15.1B net deposits, crypto volume down 21%",
+ "tone": "mixed",
+ "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-october-2026-operating-data"
+}

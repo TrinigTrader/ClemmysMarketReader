@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-11T12:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-11T12:16:17Z",
+ "cat": "AI & tech",
+ "impact": "GOOGL and MU deepen ties with one of their largest AI customers, locking in TPU and memory demand, though it ties up cash at a rich valuation. A strong ANT debut would support the wider AI trade including NBIS; a weak one would add to AI-bubble worries.",
+ "level": "Medium",
+ "published": "2026-11-10T23:00:00Z",
+ "source": "Motley Fool / CNBC",
+ "summary": "Anthropic disclosed in an updated IPO prospectus on Tuesday that seven technology companies, including Nvidia, Alphabet's Google and Micron, have agreed to buy a combined $26 billion of its stock when it goes public. CNBC reported Anthropic aims to price on Nov 18 and start trading on Nasdaq on Nov 19. Micron shares rose about 1.5% premarket Wednesday to around $736.",
+ "tickers": [
+  "GOOGL",
+  "MU",
+  "NVDA",
+  "MSFT"
+ ],
+ "title": "Google, Nvidia and Micron among 7 firms buying $26B of Anthropic IPO stock",
+ "tone": "positive",
+ "url": "https://www.fool.com/investing/2026/11/10/nvidia-alphabet-and-micron-just-agreed-to-buy-26-billion-of-stock-in-one-of-their-biggest-customers/"
+}

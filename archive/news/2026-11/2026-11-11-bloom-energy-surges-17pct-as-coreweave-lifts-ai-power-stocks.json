@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-11T20:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T00:12:58Z",
+ "cat": "AI & tech",
+ "impact": "Recovers much of BE's recent slide; the AI power trade stays tied to neocloud financing news, so Nebius's Thursday report and yields are the next tests for BE.",
+ "level": "Medium",
+ "published": "2026-11-11T19:00:00Z",
+ "source": "Seeking Alpha / 24/7 Wall St. / Yahoo Finance",
+ "summary": "Bloom Energy rose about 17% to roughly $217 on Wednesday as CoreWeave's results eased worries about how data-center build-outs get funded. FuelCell Energy climbed about 5%. Bloom is still down about 24% over the past month but up about 145% year to date.",
+ "tickers": [
+  "BE",
+  "FCEL",
+  "CRWV"
+ ],
+ "title": "Bloom Energy surges ~17% as CoreWeave lifts AI power stocks",
+ "tone": "positive",
+ "url": "https://247wallst.com/investing/2026/11/11/bloom-energy-surges-15-as-coreweaves-results-lift-ai-power-stocks-fuelcell-energy-climbs-5-plug-power-dips/"
+}

@@ -1,0 +1,353 @@
+{
+ "analysts": {
+  "count": 77,
+  "rating": "Buy (consensus)",
+  "summary": "MarketBeat reported a consensus target of $318.85 (Nov 6) and another source $327.14 (Nov 9); mix ~78% bullish / 18% neutral / 4% bearish across 77 ratings (FN2), with Seaport as the one Sell. Melius cut its target from $420 to $315 on Nov 2. Low and high targets were not found. Targets likely lag the sell-off.",
+  "targetAvg": 319,
+  "targetHigh": null,
+  "targetLow": null
+ },
+ "bear": [
+  "Gross margin guided down to 74% then 71-72% (memory/wafer cost pressure)",
+  "Q2 FCF fell to $21.3B from $48.6B as inventory rose to $32B",
+  "Custom silicon and AMD erode share; China share is falling",
+  "AI capex/regulatory fears and extreme vol: IV 60% (99th pct); Nov 17 print could gap either way",
+  "Evidence for this report is mostly search-summary level; several figures conflict across sources"
+ ],
+ "bull": [
+  "Revenue +106% y/y with 75% gross margin; Q3 guide $108B and ~70% FY28 growth signalled",
+  "Stock at 52-week lows (~19x annualised Q2 EPS) after a sector-wide sell-off with no company-specific bad news",
+  "~$99B buyback capacity and strong cash generation",
+  "Vera Rubin ramp and supply-constrained demand; China is upside if H200 licences flow"
+ ],
+ "catalysts": [
+  {
+   "date": "2026-11-17",
+   "event": "Q3 FY27 earnings (release ~1:20pm PT, call 2pm PT)",
+   "why": "Guide was $108B +/-2% and 74% GM; the market is testing whether AI capex fears are justified. Reaction is likely to be large given ~60% IV."
+  },
+  {
+   "date": "2026 (undated)",
+   "event": "Vera Rubin launch ramp",
+   "why": "Inventory rose to $32B in preparation; execution drives FY28 growth (~70% guided)."
+  },
+  {
+   "date": "Ongoing",
+   "event": "China H200 export licensing",
+   "why": "BIS moved to case-by-case review in Jan 2026; no China data-center compute revenue booked as of the May 2026 results per press reports."
+  },
+  {
+   "date": "Ongoing",
+   "event": "US data-center politics / post-midterm regulation, hyperscaler capex",
+   "why": "Cited by press as drivers of the Nov 5 sell-off."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Advanced Micro Devices",
+    "note": "MI450/Helios 2026; OpenAI 1GW with option to 6GW; share below 5%",
+    "ticker": "AMD"
+   },
+   {
+    "name": "Broadcom",
+    "note": "~80% of custom-ASIC market, large backlog; Citi sees ~$12B cut to NVDA GPU sales in 2026 from custom XPUs",
+    "ticker": "AVGO"
+   },
+   {
+    "name": "Alphabet (TPU)",
+    "note": "Seven million TPUs by 2028 (Morgan Stanley projection)",
+    "ticker": "GOOGL"
+   },
+   {
+    "name": "Marvell",
+    "note": "Custom silicon/networking competitor per IBKR connections",
+    "ticker": "MRVL"
+   },
+   {
+    "name": "Intel",
+    "note": "Listed as competitor by IBKR; minimal AI accelerator share",
+    "ticker": "INTC"
+   }
+  ],
+  "share": [
+   {
+    "name": "NVDA - global AI processor revenue (Mar 2026)",
+    "value": "~85%"
+   },
+   {
+    "name": "Custom ASICs",
+    "value": ">10%"
+   },
+   {
+    "name": "AMD",
+    "value": "<5%"
+   },
+   {
+    "name": "NVDA China AI chips H1 2026",
+    "value": "34%"
+   },
+   {
+    "name": "Huawei China H1 2026",
+    "value": "28%"
+   }
+  ],
+  "summary": "NVDA still dominates AI accelerators globally but is losing ground at the edges: custom ASICs (Broadcom/Google TPU) are above 10% of AI processor revenue, AMD is below 5% but launching MI450 Helios in 2026 (OpenAI 1GW deal), and in China Nvidia's share fell to 34% in H1 2026 (Huawei 28%) per IDC as reported. Figures come from secondary aggregators."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 240,
+ "fairLow": 180,
+ "fairMid": 205,
+ "financials": [
+  {
+   "metric": "Revenue (Q2 FY27, qtr to Jul 26 2026)",
+   "note": "+106% y/y, +18% q/q",
+   "value": "$96.2B"
+  },
+  {
+   "metric": "Data Center revenue",
+   "note": "+117% y/y",
+   "value": "$89.0B"
+  },
+  {
+   "metric": "Gross margin",
+   "note": "vs 72.5% a year earlier; Q3 guide 74.0% +/-50bp; Q4 expected to trough 71-72%",
+   "value": "75.0% GAAP & non-GAAP"
+  },
+  {
+   "metric": "EPS (Q2)",
+   "note": "Non-GAAP now includes SBC (restated). GAAP figure from search summary; one copy of the release showed mismatching GAAP numbers",
+   "value": "$2.22 non-GAAP / $2.46 GAAP"
+  },
+  {
+   "metric": "Q3 FY27 revenue guide",
+   "note": "~+12% q/q at midpoint; Q3 reports Nov 17",
+   "value": "$108B +/-2%"
+  },
+  {
+   "metric": "Free cash flow (Q2)",
+   "note": "Q1 FY27 was $48.6B; Q2 FY26 $13.5B. Inventory rose to $32B ahead of Vera Rubin",
+   "value": "$21.3B"
+  },
+  {
+   "metric": "Cash & securities",
+   "note": "Another source shows cash & equivalents of $22.4B; likely excludes marketable securities. Unverified against the 10-Q",
+   "value": "$56.6B (one source)"
+  },
+  {
+   "metric": "Debt",
+   "note": "$1.0B short-term + $32.4B long-term per one source; unverified",
+   "value": "~$33.4B"
+  },
+  {
+   "metric": "Capital return",
+   "note": "~$99B buyback authorization remaining; ~60% of FCF returned YTD",
+   "value": "~$26B in Q2"
+  },
+  {
+   "metric": "Operating margin / TTM revenue / share count",
+   "note": "Not available in the search summaries read; page fetches were blocked in this session",
+   "value": "Not found"
+  },
+  {
+   "metric": "Dividend yield / 90d USD volume",
+   "note": "IBKR snapshot returned avg 90d USD volume ~$22.0B; no dividend-yield field returned",
+   "value": "see note"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sold (10b5-1)",
+    "amount": "24,990 shares; $5.19M at $205.65-$211.76 (2025 data)",
+    "date": "2025-10-29",
+    "who": "Jensen Huang (CEO)"
+   }
+  ],
+  "summary": "No 2026 Form 4 filings were retrieved. Background: Jensen Huang ran a 10b5-1 plan in 2025 (up to 6M shares through year-end; sales continued at $205-$212 in late Oct 2025) and directly owned ~69.7M shares afterwards. Aggregator data shows 23 of 34 recent open-market sale filings were pre-arranged 10b5-1 sales. Check SEC EDGAR for current activity."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Added",
+    "date": "Q2 2026 13F",
+    "detail": "~1.9B shares, +15% vs prior filing; ~$388.6B (aggregator, approximate)",
+    "holder": "BlackRock"
+   },
+   {
+    "action": "Held",
+    "date": "Q2 2026 13F",
+    "detail": "~$308.3B (aggregator)",
+    "holder": "Vanguard Capital Management"
+   },
+   {
+    "action": "Held",
+    "date": "Q2 2026 13F",
+    "detail": "~$102B (aggregator)",
+    "holder": "Vanguard Portfolio Management"
+   }
+  ],
+  "summary": "BlackRock and Vanguard are the largest holders. One aggregator shows BlackRock ~1.9B shares (+15% q/q, ~$389B at Q2 2026) and Vanguard entities at ~$308B (Capital Mgmt) and ~$102B (Portfolio Mgmt); aggregators disagree. Net 13F activity is mixed: 228 institutions opened/added vs 219 trimmed/exited (Q2 2026, one source)."
+ },
+ "name": "NVIDIA Corp",
+ "options": {
+  "callWall": 175,
+  "expectedMove": "+/-$12.83 (7.7%) using IV 60.2%; likely understates an earnings move",
+  "expiry": "2026-11-18 (DTE 6, spans Nov 17 earnings). Nov 16 expiry not analysed (IBKR rate limit).",
+  "gexNote": "Computed from IBKR OI at 8 strikes ($150-$185 in steps of $5) for Nov 18 only, BS gamma with underlying IV. Peak call GEX at $175 (+$4.3M per 1%), peak put GEX at $160 (-$4.1M). Net GEX at spot ~+$0.6M, essentially flat/at the zero-gamma flip (~$165.5): below it dealers are net short gamma (moves amplify), above it long gamma. Biggest raw OI: calls $180 (6,615), puts $160 (5,421). P/C OI 0.82 (20,495 puts / 25,020 calls) covers only these strikes, so it is a partial view.",
+  "ivNote": "Underlying IV 60.2% vs 30-day historical vol 46.9%; IV percentile ~98-99.6% across 13/26/52w windows. Options are priced rich into earnings. No Unusual Whales cache was available.",
+  "pcRatio": 0.82,
+  "putWall": 160,
+  "strategy": "Educational only, not an order instruction: with IV in its top percentile, outright long premium is expensive; defined-risk structures that benefit from IV falling after the Nov 17 print (or simply owning shares sized for a +/-8-10% earnings gap) fit the Overweight view better.",
+  "zeroGamma": 165.5
+ },
+ "politicians": {
+  "summary": "Search results point to ongoing congressional trading in NVDA in 2026 but I could not verify individual trade dates, sizes or parties. Rep. Meuser (R-PA) is reported by Benzinga/Quiver to be a repeated seller (seven 2026 sales headlined). Quiver listings mention Ro Khanna, Sheldon Whitehouse and Cleo Fields, mostly in $1,001-$15,000 bands. Disclosed Capitol indexes 804 NVDA congressional trades overall. No trade rows are listed because they could not be confirmed from pages read; check Quiver/Capitol Trades directly.",
+  "trades": []
+ },
+ "price": 166.08,
+ "requestedAt": "2026-11-12T16:23:13.651Z",
+ "scores": {
+  "financial": {
+   "note": "75% gross margin, $96.2B quarterly revenue, $21.3B Q2 free cash flow (Q1: $48.6B), ~$99B buyback authorization left. Balance-sheet cash/debt figures conflict across sources.",
+   "score": 5
+  },
+  "flows": {
+   "note": "IBKR: -4.4% on the day, 90d avg USD volume ~$22B, IV percentile ~99% (52w). 13F: mixed (228 added vs 219 trimmed per one aggregator). No 2026 Form 4 data retrieved. Neutral.",
+   "score": 3
+  },
+  "growth": {
+   "note": "Q2 revenue +106% y/y, Data Center +117%; Q3 guide $108B +/-2%; management signalled ~70% FY28 growth (supply-constrained).",
+   "score": 5
+  },
+  "moat": {
+   "note": "Leads AI accelerators (~85% of AI processor revenue per a Morgan Stanley figure quoted by an aggregator), CUDA/NVLink/networking stack. Eroding in China (34% H1 2026 per IDC via press) and to custom ASICs.",
+   "score": 4
+  },
+  "momentum": {
+   "note": "Price 166.08 vs 52w high 243.37 (-32%); 13w/26w low is 165.89, so the stock is at its lows. Fell ~23% from Oct 7 to Nov 5 per press coverage.",
+   "score": 1
+  },
+  "valuation": {
+   "note": "~19x annualised Q2 non-GAAP EPS ($2.22 x 4); secondary sources cite ~24-26x forward P/E vs Broadcom ~30-32x. Margin guide (74% Q3, 71-72% trough in Q4) is the offset.",
+   "score": 4
+  }
+ },
+ "sources": [
+  {
+   "title": "IBKR price snapshot, price history, option chain and open interest (NVDA, queried 2026-11-12)",
+   "url": "https://www.interactivebrokers.com"
+  },
+  {
+   "title": "NVIDIA Q2 FY27 results (press release)",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+  },
+  {
+   "title": "SEC 8-K Q2 FY27 press release",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27pr.htm"
+  },
+  {
+   "title": "CNBC: Nvidia earnings takeaways, FY28 growth forecast",
+   "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
+  },
+  {
+   "title": "MarketBeat: Q2 earnings call highlights",
+   "url": "https://www.marketbeat.com/instant-alerts/transcript-nvidia-q2-earnings-call-highlights-2026-08-26/"
+  },
+  {
+   "title": "Constellation Research: $432B run rate on Q2 surge",
+   "url": "https://www.constellationr.com/insights/news/nvidia-projects-432-billion-annual-revenue-run-rate-q2-surge"
+  },
+  {
+   "title": "NVIDIA sets Q3 FY27 conference call",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+  },
+  {
+   "title": "Motley Fool: why Nvidia stock is getting punished (Nov 5)",
+   "url": "https://www.fool.com/investing/2026/11/05/why-nvidia-stock-is-getting-punished-today/"
+  },
+  {
+   "title": "TIKR: Nvidia sinks 9% on midterm data-center fears",
+   "url": "https://www.tikr.com/blog/nvidia-sinks-9-as-midterm-data-center-fears-deepen-ai-chip-rout-absolute-slaughter"
+  },
+  {
+   "title": "247WallSt: only one analyst rates Nvidia a Sell",
+   "url": "https://247wallst.com/investing/2026/11/09/only-one-analyst-rates-nvidia-a-sell-is-the-lone-bear-onto-something/"
+  },
+  {
+   "title": "MarketBeat: Nvidia price/analyst consensus",
+   "url": "https://www.marketbeat.com/instant-alerts/price-nvidia-nasdaq-nvda-shares-up-28-should-you-buy-2026-11-06/"
+  },
+  {
+   "title": "Entrepreneur: Jensen Huang stock sales (2025)",
+   "url": "https://www.entrepreneur.com/business-news/nvidia-ceo-starts-selling-stock-865m-by-end-of-year/493732"
+  },
+  {
+   "title": "Investing.com: Huang sells $5.19M (2025)",
+   "url": "https://ng.investing.com/news/insider-trading-news/nvidia-ceo-huang-sells-519-million-in-shares-93CH-2179647"
+  },
+  {
+   "title": "HoldingsIntel NVDA 13F",
+   "url": "https://www.holdingsintel.com/stocks/NVDA"
+  },
+  {
+   "title": "Quiver Quantitative NVDA",
+   "url": "https://www.quiverquant.com/insiders/NVDA"
+  },
+  {
+   "title": "Disclosed Capitol NVDA",
+   "url": "https://www.disclosedcapitol.com/tickers/NVDA"
+  },
+  {
+   "title": "Igor's Lab: China AI accelerator share",
+   "url": "https://www.igorslab.de/en/china-is-shifting-the-balance-of-power-in-the-ai-accelerator-market-nvidia-remains-in-the-lead-but-is-clearly-losing-ground/"
+  },
+  {
+   "title": "TIKR: Broadcom vs Nvidia valuation",
+   "url": "https://www.tikr.com/blog/broadcom-vs-nvidia-are-investors-still-overpaying-for-ai-growth"
+  },
+  {
+   "title": "Webull/Motley Fool: AMD vs Broadcom",
+   "url": "https://www.webull.com/news/15707326448993280"
+  }
+ ],
+ "stance": "Overweight",
+ "startedAt": "2026-11-12T16:25:00Z",
+ "status": "done",
+ "summary": "NVDA trades at $166.08, about 32% below its 52-week high of $243.37 after an AI-chip sell-off that began in October and deepened on Nov 5 (-9%, no company-specific news reported). Fundamentals are still very strong: Q2 FY27 revenue was $96.2B (+106% y/y) at a 75% gross margin, and the Q3 guide is $108B. At roughly 19x annualised Q2 non-GAAP EPS, the stock sits below our $180-$240 fair range. Conviction is only Medium because earnings land on Nov 17 (3 days away), implied vol is ~60% (99th percentile for the year), gross margin is guided down, and China and custom-silicon share losses are real.",
+ "ticker": "NVDA",
+ "updatedAt": "2026-11-12T17:05:00Z",
+ "upsidePct": 0.234,
+ "valuation": {
+  "method": "Three-way triangulation. (a) Peers: forward P/E ~24-26x NVDA vs ~30-32x AVGO and 80x+ AMD (secondary aggregators, undated, differing price dates). (b) Earnings power: Q2 non-GAAP EPS $2.22 x4 = $8.88 run-rate; 20x/23x/27x gives $178/$204/$240; assumes no further margin loss beyond guide and revenue flat-to-up from Q2's level (Q3 guide is +12% q/q), ignores FY28 growth upside. (c) Street: consensus target ~$319-327 (Nov 6-9), which is a high anchor and likely stale after the sell-off. Fair range set at $180 / $205 / $240, well below the Street.",
+  "note": "Peer P/E (TTM), EV/Sales, growth and operating margin were not obtainable from sources read, so those cells are null rather than guessed. Peer multiples conflict across sources and are unreliable as a precise anchor.",
+  "rows": [
+   {
+    "evSales": null,
+    "fwdPe": 25,
+    "growth": "+106% y/y (Q2)",
+    "opMargin": null,
+    "pe": null,
+    "ticker": "NVDA"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 31,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "AVGO"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 83,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "AMD"
+   }
+  ]
+ },
+ "verdict": "Undervalued"
+}

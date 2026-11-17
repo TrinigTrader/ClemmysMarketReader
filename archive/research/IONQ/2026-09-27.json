@@ -1,0 +1,407 @@
+{
+ "analysts": {
+  "count": 14,
+  "rating": "Buy / Strong Buy consensus",
+  "summary": "MarketBeat: 9 Buy / 4 Hold / 1 Sell, average $64.18 (range $35–100). StockAnalysis: 13 analysts, average $67.14, median $65, low $41.85. Recent calls: Wedbush Buy $75 (9/22), B. Riley Buy $100 (9/21), Jefferies Buy $80 (9/9), Northland $70 (9/10), Mizuho cut to $52 (9/9), DA Davidson Neutral $35.",
+  "targetAvg": 65.5,
+  "targetHigh": 100,
+  "targetLow": 35
+ },
+ "bear": [
+  "TTM FCF ≈ -$484M and a Q2 net loss of $1.87B; no profitability targets given at Investor Day",
+  "Share count +50% YoY from stock-funded M&A; further dilution is likely",
+  "The foundry mix lowers gross margin (25% in Q2) and makes the growth rate less comparable",
+  "The valuation depends on 2027–28 fault-tolerance milestones; any slip or a competitor leap (IBM, Quantinuum) could re-rate the stock sharply (beta ≈3.3)"
+ ],
+ "bull": [
+  "Revenue scale far ahead of peers, with 2026 guide raised to $450–460M and RPO +297% YoY",
+  "NVIDIA partnership (first on-prem system at NVIDIA's AQRC) and a real-time error-correction decoder demo strengthen the fault-tolerance roadmap",
+  "≈$2B net cash funds several years of burn; the owned fab reduces supply risk",
+  "IV sits near 52w lows with bullish analyst targets (median ≈$65), so upside convexity is cheap"
+ ],
+ "catalysts": [
+  {
+   "date": "2026-10-16",
+   "event": "Monthly options expiry",
+   "why": "Largest near-term OI clusters at 40/45 strikes; can pin price into expiry"
+  },
+  {
+   "date": "2026-11-04",
+   "event": "Q3 2026 earnings (first full quarter with SkyWater)",
+   "why": "First look at combined margins, cash burn and whether the $450–460M guide holds"
+  },
+  {
+   "date": "2026 (late)",
+   "event": "Superion 256 installation at NVIDIA's Accelerated Quantum Research Center",
+   "why": "First on-prem quantum deployment at NVIDIA (NVQLink/CUDA-Q); validates the hybrid quantum-classical story"
+  },
+  {
+   "date": "2027",
+   "event": "Superion 256 customer deliveries; fault-tolerance lab demo",
+   "why": "Key roadmap proof points from the Sep 8 Investor Day"
+  },
+  {
+   "date": "2028",
+   "event": "Manufacturable commercial fault-tolerant system",
+   "why": "The milestone the long-term valuation rests on"
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Rigetti Computing",
+    "note": "Superconducting; Q2 rev $5.1M; EV ≈ $5.2B",
+    "ticker": "RGTI"
+   },
+   {
+    "name": "D-Wave Quantum",
+    "note": "Annealing; Q2 rev $3.1M; EV ≈ $6.0B",
+    "ticker": "QBTS"
+   },
+   {
+    "name": "Infleqtion",
+    "note": "Neutral atom; Q2 rev $12.6M; FY26 guide $40M",
+    "ticker": "INFQ"
+   },
+   {
+    "name": "IBM",
+    "note": "Superconducting roadmap leader; profitable diversified giant",
+    "ticker": "IBM"
+   },
+   {
+    "name": "Quantinuum",
+    "note": "Trapped-ion rival; Q2 rev $8M; $2.1B cash after SPAC",
+    "ticker": "Quantinuum"
+   }
+  ],
+  "share": [
+   {
+    "name": "IonQ",
+    "value": 67.2
+   },
+   {
+    "name": "Infleqtion",
+    "value": 10.6
+   },
+   {
+    "name": "IQM",
+    "value": 8.6
+   },
+   {
+    "name": "Quantinuum",
+    "value": 6.7
+   },
+   {
+    "name": "Rigetti",
+    "value": 4.3
+   },
+   {
+    "name": "D-Wave",
+    "value": 2.6
+   }
+  ],
+  "summary": "IonQ is the scale leader among listed quantum pure-plays. Its Q2 revenue of $80.1M exceeded the combined Q2 revenue of D-Wave, Rigetti, Infleqtion, IQM and Quantinuum (≈$39M). The owned SkyWater fab adds vertical integration but also lower-margin foundry revenue. IBM and Quantinuum (≈$2.1B cash) are the best-funded technical rivals."
+ },
+ "conviction": "Low",
+ "currency": "USD",
+ "fairHigh": 60,
+ "fairLow": 36,
+ "fairMid": 48,
+ "financials": [
+  {
+   "metric": "Revenue TTM",
+   "note": "stockanalysis.com",
+   "value": "$246.5M"
+  },
+  {
+   "metric": "Q2 2026 revenue",
+   "note": "Record quarter; pre-SkyWater (deal closed Jul 31)",
+   "value": "$80.1M (+287% YoY)"
+  },
+  {
+   "metric": "FY2026 revenue guidance",
+   "note": "Raised Sep 8 from $280–290M; includes SkyWater from Jul 31",
+   "value": "$450–460M"
+  },
+  {
+   "metric": "Gross margin",
+   "note": "Foundry mix will likely weigh on margin going forward",
+   "value": "25% (Q2) / 30.9% TTM"
+  },
+  {
+   "metric": "Operating margin",
+   "note": "Q2 operating loss $337.2M",
+   "value": "-382% TTM"
+  },
+  {
+   "metric": "Adjusted EBITDA (Q2)",
+   "note": "No updated EBITDA guidance given at Investor Day",
+   "value": "-$120.3M"
+  },
+  {
+   "metric": "Net loss / EPS (Q2)",
+   "note": "Net loss far exceeds operating loss, i.e. large non-operating charges; TTM EPS -$3.99",
+   "value": "-$1,867.7M / -$5.08"
+  },
+  {
+   "metric": "Free cash flow TTM",
+   "note": "6M 2026 operating cash flow -$254.8M",
+   "value": "-$483.9M"
+  },
+  {
+   "metric": "Cash & investments",
+   "note": "$3.0B at Jun 30; ≈$2.0B pro forma after SkyWater cash consideration",
+   "value": "≈$2.0–2.1B"
+  },
+  {
+   "metric": "Total debt",
+   "note": "Net cash ≈ $2.06B",
+   "value": "$54.5M"
+  },
+  {
+   "metric": "Shares outstanding",
+   "note": "Acquisitions paid in stock (SkyWater: $15 cash + 0.4883 IONQ sh per SKYT share); no buybacks",
+   "value": "397.3M (+50% YoY)"
+  },
+  {
+   "metric": "Market cap / EV",
+   "note": "stockanalysis.com",
+   "value": "$18.1B / $16.0B"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell (tax withholding)",
+    "amount": "16,121 sh @ $37.09 ≈ $598K; ≈1.12M sh retained",
+    "date": "2026-09-11",
+    "who": "Niccolo de Masi (Chairman & CEO)"
+   }
+  ],
+  "summary": "Recent Form 4 activity is non-discretionary sales to cover taxes on vesting RSUs. No open-market insider buying found. Insiders own about 0.5%."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Added",
+    "date": "2026-01-29 filing",
+    "detail": "34.77M sh (+18.5%)",
+    "holder": "Vanguard Group"
+   },
+   {
+    "action": "Trimmed slightly",
+    "date": "2026-05-13 filing",
+    "detail": "29.87M sh (-0.7%)",
+    "holder": "BlackRock"
+   },
+   {
+    "action": "Trimmed",
+    "date": "2026-02-13 filing",
+    "detail": "19.57M sh (-25.7%)",
+    "holder": "Morgan Stanley"
+   },
+   {
+    "action": "Added",
+    "date": "2026-02-13 filing",
+    "detail": "8.96M sh (+42.3%)",
+    "holder": "State Street"
+   },
+   {
+    "action": "Added",
+    "date": "2026-02-09 filing",
+    "detail": "8.07M sh (+21.9%)",
+    "holder": "Geode Capital"
+   },
+   {
+    "action": "Added",
+    "date": "2026-05-05 filing",
+    "detail": "5.81M sh (+37.4%)",
+    "holder": "UBS Group"
+   },
+   {
+    "action": "Added",
+    "date": "2026-02-17 filing",
+    "detail": "4.01M sh (+23.5%)",
+    "holder": "T. Rowe Price"
+   }
+  ],
+  "summary": "About 50–60% institutional ownership (225.8M shares per Fintel). The big index managers added in the most recent filings shown (mostly Q4 2025/Q1 2026 13Fs); Morgan Stanley trimmed about 26%. Q2 2026 13F detail was not available on the free pages read."
+ },
+ "name": "IonQ, Inc.",
+ "options": {
+  "callWall": "$45 (2,607 OI Oct 2; 1,380 Oct 9); next $51",
+  "expectedMove": "±$3.70 (±8.2%) to Oct 2; ±$5.73 (±12.6%) to Oct 9 (IV 69.8%). The ATM straddle marks ≈$3.7 (Oct 2) and ≈$5.0 (Oct 9)",
+  "expiry": "2026-10-02 (5 DTE) and 2026-10-09 (12 DTE)",
+  "gexNote": "Net GEX is positive (≈+$1.7M per 1% move for Oct 2, ≈+$0.6M for Oct 9) and concentrated at 43–46, so dealer hedging should dampen moves and pin near $45 into Friday. A break below ~$40–37.5 would flip dealers short gamma and amplify selling.",
+  "ivNote": "Underlying IV 69.8% vs 30-day HV 81.1%. IV percentile is 2.8% (52w), 5.6% (26w) and 10.9% (13w), so IV is very cheap relative to its own history.",
+  "pcRatio": "0.37 (Oct 2, strikes 36–55); 0.17 (Oct 9 sample)",
+  "putWall": "$40 (1,673 OI Oct 2); secondary $42",
+  "strategy": "Cheap IV relative to realized volatility and the Nov 4 earnings event favor buying defined-risk premium, e.g. a Nov 20 call debit spread (45/55) for the bull case or a Nov 20 straddle/strangle for a volatility view, instead of selling premium. Idea only; no orders placed.",
+  "zeroGamma": "≈$37.5 (Oct 2 chain)"
+ },
+ "politicians": {
+  "summary": "One disclosed trade in the last 12 months per Quiver Quantitative: a small purchase by Rep. Greg Steube. No sales found.",
+  "trades": [
+   {
+    "action": "Purchase",
+    "amount": "$1,001–$15,000",
+    "date": "2026-03-18",
+    "member": "Greg Steube (House, FL)",
+    "party": "R",
+    "source": "Quiver Quantitative (filed 2026-04-14)"
+   }
+  ]
+ },
+ "price": 45.3,
+ "requestedAt": "2026-09-27T04:38:25.925Z",
+ "scores": {
+  "financial": {
+   "note": "≈$2.0–2.1B cash, ~$55M debt, but TTM FCF ≈ -$484M and Q2 operating loss $337M; runway is fine, profitability is years away.",
+   "score": 3
+  },
+  "flows": {
+   "note": "Insider sales are tax-withholding only; one small Congress buy (Mar 2026); big index holders added, Morgan Stanley trimmed; short interest ≈10.4% of float.",
+   "score": 3
+  },
+  "growth": {
+   "note": "Q2 revenue +287% YoY; 2026 guide raised twice to $450–460M (includes SkyWater from Jul 31); RPO +297% YoY.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Trapped-ion leader with revenue scale, owned fab (SkyWater) and NVIDIA partnership; technology race with IBM, Quantinuum and others is still wide open.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "-33% over 1y and 46% below the 52w high of $84.64, but up from the $25.90 low; +11% on Sep 23 news; last weekly close $45.48.",
+   "score": 3
+  },
+  "valuation": {
+   "note": "≈65x TTM EV/Sales, ≈26x forward P/S. Cheap vs RGTI/QBTS (388x/482x) but only supported by a DCF with aggressive 2030 assumptions.",
+   "score": 2
+  }
+ },
+ "sources": [
+  {
+   "title": "IonQ Q2 2026 results press release",
+   "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+  },
+  {
+   "title": "IonQ raises 2026 guidance after SkyWater acquisition",
+   "url": "https://www.ionq.com/news/ionq-announces-increased-full-year-2026-financial-outlook-following-skywater-acquisition"
+  },
+  {
+   "title": "The Quantum Insider: IonQ Investor Day roadmap",
+   "url": "https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/"
+  },
+  {
+   "title": "Motley Fool: IonQ raises 2026 guidance on Investor Day",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/09/08/stock-market-today-sept-8-ionq-raises-2026-revenue-guidance-on-investor-day/"
+  },
+  {
+   "title": "24/7 Wall St: IonQ surges on NVIDIA deal and decoder breakthrough",
+   "url": "https://247wallst.com/investing/2026/09/23/ionq-surges-11-as-nvidia-research-center-deal-follows-error-decoder-breakthrough-d-wave-climbs-5-rigetti-rises-4/"
+  },
+  {
+   "title": "TradingView: SkyWater deal terms",
+   "url": "https://www.tradingview.com/news/tradingview:6c748726a9b76:0-ionq-completes-acquisition-of-skywater-issues-cash-and-stock-consideration/"
+  },
+  {
+   "title": "StockAnalysis: IONQ statistics",
+   "url": "https://stockanalysis.com/stocks/ionq/statistics/"
+  },
+  {
+   "title": "StockAnalysis: IONQ forecast",
+   "url": "https://stockanalysis.com/stocks/ionq/forecast/"
+  },
+  {
+   "title": "MarketBeat: IONQ forecast",
+   "url": "https://www.marketbeat.com/stocks/NYSE/IONQ/forecast/"
+  },
+  {
+   "title": "StockAnalysis: RGTI statistics",
+   "url": "https://stockanalysis.com/stocks/rgti/statistics/"
+  },
+  {
+   "title": "StockAnalysis: QBTS statistics",
+   "url": "https://stockanalysis.com/stocks/qbts/statistics/"
+  },
+  {
+   "title": "StockAnalysis: IBM statistics",
+   "url": "https://stockanalysis.com/stocks/ibm/statistics/"
+  },
+  {
+   "title": "DCD: Quantum earnings Q2 2026",
+   "url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q2-2026-d-wave-ionq-and-rigetti-publish-financial-results-alongside-newly-ipo-ed-iqm-quantum-computers/"
+  },
+  {
+   "title": "Quiver Quantitative: IONQ congress trading",
+   "url": "https://www.quiverquant.com/congresstrading/stock/IONQ"
+  },
+  {
+   "title": "Fintel: IONQ institutional ownership",
+   "url": "https://fintel.io/so/us/ionq"
+  },
+  {
+   "title": "Motley Fool: IonQ CEO tax-withholding sale",
+   "url": "https://www.fool.com/coverage/filings/2026/09/16/ionq-ceo-sells-over-16-000-shares-worth-nearly-usd600-000-after-the-company-raised-its-full-year-sales-outlook/"
+  },
+  {
+   "title": "Interactive Brokers market data (price, IV/HV, option OI), snapshot 2026-09-27",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-27T04:40:00Z",
+ "status": "done",
+ "summary": "IonQ is the revenue leader in listed quantum computing (Q2 revenue $80.1M, +287% YoY, about two-thirds of the listed pure-play group's Q2 revenue) and has raised 2026 guidance to $450–460M after closing the SkyWater foundry deal. At $45.30 (≈$18B market cap, ≈$16B EV) it trades far below pure-play peers on EV/Sales but far above anything a cash-flow model can justify, with ~$484M TTM free-cash burn and 50% share-count growth in a year. Triangulating peer multiples, a 2030 earnings-power DCF and the analyst range gives a fair value of roughly $36–60 (mid $48), so the stock looks fairly valued with wide error bars. Stay Neutral; options IV (~70%) sits near a 52-week low and below 30-day realized vol (~81%), which favors defined-risk long-premium structures over outright stock.",
+ "ticker": "IONQ",
+ "updatedAt": "2026-09-27T04:42:23Z",
+ "upsidePct": 0.0596,
+ "valuation": {
+  "method": "Equal-weight triangulation. (a) Peer multiples: 20–35x NTM EV/Sales (a discount to RGTI/QBTS because of low-margin foundry mix) × ≈$687M NTM revenue implied by the 26.3x forward P/S, plus $2.06B net cash, over 397.3M shares → $40–66. (b) 2030 earnings-power DCF: revenue $1.6B base / $2.5B bull at 8–10x EV/Sales, discounted 4 years at 15%, plus ≈$0.8B net cash after burn, over ≈420M diluted shares → $19–36. (c) Analysts: low $35–42, median $65, high $100. Blended mid ≈ $48; range $36–60.",
+  "note": "No P/E is meaningful for the quantum pure-plays, since all are loss-making. IBM is shown as the profitable scale competitor. The valuation depends heavily on whether fault-tolerant systems arrive in 2027–28 on schedule; the DCF leg alone says the stock is expensive.",
+  "rows": [
+   {
+    "evSales": 64.9,
+    "fwdPe": null,
+    "growth": "+287% (Q2 YoY)",
+    "opMargin": "-382%",
+    "pe": null,
+    "ticker": "IONQ"
+   },
+   {
+    "evSales": 387.5,
+    "fwdPe": null,
+    "growth": "TTM rev $13.4M",
+    "opMargin": "-728%",
+    "pe": null,
+    "ticker": "RGTI"
+   },
+   {
+    "evSales": 481.8,
+    "fwdPe": null,
+    "growth": "TTM rev $12.4M; Q2 flat QoQ",
+    "opMargin": "-1,373%",
+    "pe": null,
+    "ticker": "QBTS"
+   },
+   {
+    "evSales": null,
+    "fwdPe": null,
+    "growth": "+116% YoY (Q2); FY26 guide $40M",
+    "opMargin": "n/a (Q2 net loss $25.5M)",
+    "pe": null,
+    "ticker": "INFQ"
+   },
+   {
+    "evSales": 3.9,
+    "fwdPe": 17.7,
+    "growth": "~4.5% 3y fcst",
+    "opMargin": "18.5%",
+    "pe": 20.1,
+    "ticker": "IBM"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

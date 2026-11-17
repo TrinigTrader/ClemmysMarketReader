@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-10T16:20:00Z",
+ "cat": "Macro",
+ "impact": "Gives back part of Monday's rebound in rate-sensitive holdings (NBIS, PLTR, BE, HOOD) ahead of CoreWeave tonight and NBIS Thursday.",
+ "level": "Low",
+ "published": "2026-11-10T21:15:00Z",
+ "source": "Investing.com / Kiplinger",
+ "summary": "US stocks finished lower Tuesday after the hot October CPI report. The Dow fell 0.3% to 52,231.89, the S&P 500 fell about 0.4% to roughly 7,520 and the Nasdaq Composite fell 0.74% to 25,065.87, paring deeper intraday losses. Nvidia was the worst Dow performer, down 5.47% at $168.89 and nearly 30% below early October. Decliners beat advancers about 2 to 1 on the NYSE.",
+ "tickers": [
+  "QQQ",
+  "SPY"
+ ],
+ "title": "Stocks close lower after hot CPI; Nvidia drops 5.5%",
+ "tone": "negative",
+ "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-030-5016940"
+}

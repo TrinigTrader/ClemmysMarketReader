@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-11T00:12:00Z",
+ "cat": "Trade & policy",
+ "impact": "Sticky tariffs keep goods inflation elevated, adding to the case for a December Fed hike that weighs on growth holdings like NBIS, PLTR and BE; import-heavy hardware supply chains for SKM and NOK also stay under cost pressure.",
+ "level": "Low",
+ "published": "2026-11-10T20:00:00Z",
+ "source": "CNBC",
+ "summary": "The White House said it will press ahead with its tariff policy days after Republicans lost ground in the midterms over rising prices, with a senior official defending the tariffs at a Chamber of Commerce summit. A Reuters/Ipsos poll released Tuesday found 62% of Americans support repealing the tariffs, as October CPI showed prices up 0.4%.",
+ "tickers": [
+  "SPY",
+  "NBIS",
+  "PLTR",
+  "NOK"
+ ],
+ "title": "White House vows to keep tariffs despite midterm backlash over prices",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
+}

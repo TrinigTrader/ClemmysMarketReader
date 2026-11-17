@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-17T08:16:00Z",
+ "cat": "Macro",
+ "impact": "Weak crypto prices weigh on HOOD trading revenue and on COIN; a rebound would likely need tech risk appetite to recover after Nvidia.",
+ "level": "Low",
+ "published": "2026-11-17T05:00:00Z",
+ "source": "NordFX Market Pulse",
+ "summary": "Bitcoin traded around $64,600 on Tuesday, up about 0.4% on the day but down about 13% over seven days, with Ether near $1,828. The slide has tracked the broader risk-off move in tech ahead of Nvidia's results.",
+ "tickers": [
+  "BTC",
+  "COIN",
+  "HOOD"
+ ],
+ "title": "Bitcoin near $64,600, down about 13% in a week",
+ "tone": "negative",
+ "url": "https://nordfx.com/market-news/market-pulse-november-17-2026"
+}

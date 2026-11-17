@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-17T10:16:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-17T10:16:00Z",
+ "cat": "AI & tech",
+ "impact": "A headline risk for MU and DRAM on top of the chip rout, but the halt covers a demolition area, not fabs; watch for any sign it spreads to production or delays Taiwan HBM expansion.",
+ "level": "Medium",
+ "published": "2026-11-16T09:00:00Z",
+ "source": "Focus Taiwan / Taipei Times / Newsquawk",
+ "summary": "An excavator overturned during demolition work at a Micron site in Taichung's Houli District on Monday, killing the contract operator. Taiwan's Central Taiwan Science Park Bureau ordered work at the site suspended until the cause is clarified and safety is improved, and Micron said it voluntarily halted work in the affected area. Newsquawk reported chip production is not impacted; Micron shares were down about 4.8% premarket Monday amid the wider chip selloff.",
+ "tickers": [
+  "MU",
+  "DRAM"
+ ],
+ "title": "Fatal accident halts work at Micron's Taichung site; production reportedly unaffected",
+ "tone": "negative",
+ "url": "https://focustaiwan.tw/society/202611160023"
+}

@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-16T04:14:00Z",
+ "cat": "AI & tech",
+ "impact": "Korean memory names are trading cautiously into Nvidia's report; weakness in SK hynix and Samsung tends to spill over to MU, DRAM and SNXX at the US open.",
+ "level": "Low",
+ "published": "2026-11-16T00:15:00Z",
+ "source": "Korea Times",
+ "summary": "The Kospi opened 0.28% higher Monday then turned lower, at 5,286.32 by 9:15 a.m., with SK hynix down 1.4% and Samsung flat as traders wait for Nvidia earnings and the Anthropic IPO.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SKM"
+ ],
+ "title": "Kospi reverses lower after flat open, SK hynix slips ahead of Nvidia",
+ "tone": "negative",
+ "url": "https://www.koreatimes.co.kr/economy/20261116/seoul-stocks-open-tad-higher-ahead-of-nvidia-earnings-key-events"
+}

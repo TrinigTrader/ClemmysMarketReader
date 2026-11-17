@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-11T22:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T00:12:58Z",
+ "cat": "Trade & policy",
+ "impact": "Low odds of passing for now, but rising bipartisan backlash over power bills is a policy risk for AI build-outs, touching BE, GOOGL, MSFT and NBIS; watch whether other Republicans sign on in the lame-duck session.",
+ "level": "Medium",
+ "published": "2026-11-11T21:22:00Z",
+ "source": "Politico via Political Wire / Unusual Whales",
+ "summary": "Sen. Josh Hawley (R-Mo.) on Wednesday endorsed a temporary nationwide moratorium on data center construction until Congress passes a ratepayer 'bill of rights' guaranteeing no electricity rate increases, Politico reported. He is the highest-ranking Republican to back the idea, joining progressive Democrats such as Bernie Sanders. The Senate moratorium bill reportedly has no cosponsors yet.",
+ "tickers": [
+  "BE",
+  "GOOGL",
+  "MSFT",
+  "NBIS",
+  "VST",
+  "CEG"
+ ],
+ "title": "Sen. Hawley backs nationwide pause on data center construction",
+ "tone": "negative",
+ "url": "https://politicalwire.com/2026/11/11/hawley-backs-nationwide-data-center-moratorium/",
+ "uw": true
+}

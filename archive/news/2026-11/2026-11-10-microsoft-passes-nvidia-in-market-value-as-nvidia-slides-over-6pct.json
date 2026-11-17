@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-10T20:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-11T00:12:20Z",
+ "cat": "AI & tech",
+ "impact": "Nvidia weakness a week before its Nov 17 earnings weighs on the AI chain: MU and DRAM memory names, neoclouds like NBIS and CoreWeave, and AI power plays like BE. MSFT holding up relatively well cushions the hyperscaler side of the portfolio.",
+ "level": "Medium",
+ "published": "2026-11-10T19:30:00Z",
+ "source": "Reuters via Investing.com",
+ "summary": "Microsoft overtook Nvidia as the second most valuable company on Tuesday, the first time since June 2025, per Reuters. Nvidia fell more than 6% to about $167, after a 4% drop the prior session, on doubts over the AI outlook and the probe into whether CEO Jensen Huang was targeted by a foreign intelligence effort. Microsoft traded roughly flat to down 2.5% at about $543.",
+ "tickers": [
+  "NVDA",
+  "MSFT",
+  "MU",
+  "NBIS",
+  "DRAM",
+  "BE"
+ ],
+ "title": "Microsoft passes Nvidia in market value as Nvidia slides over 6%",
+ "tone": "negative",
+ "url": "https://www.investing.com/news/stock-market-news/microsoft-tops-nvidias-market-cap-for-first-time-since-june-2025-5016363"
+}

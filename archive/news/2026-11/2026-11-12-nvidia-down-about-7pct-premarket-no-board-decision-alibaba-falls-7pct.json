@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-12T10:15:00Z",
+ "cat": "AI & tech",
+ "impact": "Keeps pressure on the AI chip chain into the US open, a headwind for MU, DRAM and SNXX; NBIS reports before the open, which could steer neocloud sentiment either way.",
+ "level": "Low",
+ "published": "2026-11-12T09:35:00Z",
+ "source": "CNBC / Investing.com / The Private Banker",
+ "summary": "Nvidia was down about 6% to 7% in US premarket trading and about 7% in Frankfurt on Thursday, with no board decision announced after Wednesday's meeting on CEO Jensen Huang's future. Alibaba fell about 7% on worries about access to Nvidia chips, while AMD gained about 3.9% and Broadcom about 3%. US and European chip stocks dipped.",
+ "tickers": [
+  "NVDA",
+  "BABA",
+  "AMD",
+  "AVGO",
+  "MU",
+  "DRAM",
+  "NBIS"
+ ],
+ "title": "Nvidia ~-7% premarket as board weighs Huang; Alibaba falls 7%",
+ "tone": "negative",
+ "url": "https://leprivatebanker.com/2026/11/12/nvidia-sinks-as-its-board-weighs-jensen-huangs-future-dragging-alibaba-down-7-on-chip-access-fears/"
+}

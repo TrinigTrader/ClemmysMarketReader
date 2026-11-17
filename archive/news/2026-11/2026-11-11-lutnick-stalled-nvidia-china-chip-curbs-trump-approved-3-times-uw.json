@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-12T04:15:00Z",
+ "cat": "Trade & policy",
+ "impact": "Raises the odds of tighter China chip-diversion curbs soon, adding export-control risk for NVDA and the AI chip chain, including MU and DRAM.",
+ "level": "Medium",
+ "published": "2026-11-11T22:00:00Z",
+ "source": "Axios / Unusual Whales",
+ "summary": "Axios reported, citing six high-level sources, that Commerce Secretary Howard Lutnick repeatedly delayed restrictions on companies suspected of diverting Nvidia AI chips to China, even though Trump approved action in May, August and on Nov 5. Lutnick reportedly warned the move would start a trade war with China. The restrictions have still not been put in place.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM"
+ ],
+ "title": "Axios: Lutnick stalled Nvidia China chip curbs Trump approved 3 times",
+ "tone": "negative",
+ "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+ "uw": true
+}

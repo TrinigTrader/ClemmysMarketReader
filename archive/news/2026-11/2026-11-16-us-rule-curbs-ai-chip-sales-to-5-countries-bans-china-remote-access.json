@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-17T04:16:00Z",
+ "cat": "Trade & policy",
+ "impact": "Adds export risk to Nvidia's results tonight and weighed on Asian chip stocks Tuesday; indirect pressure on the AI hardware chain including MU, DRAM and SNXX.",
+ "level": "Medium",
+ "published": "2026-11-16T22:00:00Z",
+ "source": "CNN / Bloomberg / NBC News",
+ "summary": "The Commerce Department issued an interim rule Monday requiring data-center customers in Indonesia, Malaysia, Singapore, Thailand and Brazil to get a special license to buy advanced AI chips from US firms such as Nvidia and AMD. It also bans offshore data centers from providing significant computing to companies in arms-embargoed countries like China, and formally rescinds the Biden-era AI Diffusion Rule. It follows scrutiny of Singapore-based Megaspeed over possible chip diversion and comes days before Trump's China trip.",
+ "tickers": [
+  "NVDA",
+  "AMD",
+  "SMH"
+ ],
+ "title": "US rule requires licenses for AI chip sales to 5 countries, curbs China remote access",
+ "tone": "negative",
+ "url": "https://edition.cnn.com/2026/11/16/politics/ai-chips-restrictions-china"
+}

@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-13T12:15:00Z",
+ "cat": "Macro",
+ "impact": "A broad chip reversal despite a benign PPI hits MU, DRAM and SNXX directly and weighs on NBIS ahead of Nvidia's earnings next week.",
+ "level": "Medium",
+ "published": "2026-11-13T20:00:00Z",
+ "source": "Reuters via Investing.com / Yahoo Finance / 24/7 Wall St.",
+ "summary": "US stocks opened higher Friday after a softer-than-expected October PPI (+0.3% vs 0.4%), then reversed as chip stocks sold off. At 11:23 a.m. ET Reuters had the S&P 500 down 1.01% at 7,515.49, the Nasdaq down 1.74% at 24,923.79 and the Dow down 0.23%. The Philadelphia Semiconductor index fell about 4.2%, AMD about 10% to $525.77, Broadcom and Intel about 6%, Nvidia 2.9% to $161.41 and Micron about 4% to $766.83, with the 10-year yield back at 5.10%.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "NVDA",
+  "AMD",
+  "AVGO",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS"
+ ],
+ "title": "Chip sell-off deepens: Nasdaq -1.7%, AMD -10%, Nvidia -3%",
+ "tone": "negative",
+ "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge-5024713"
+}

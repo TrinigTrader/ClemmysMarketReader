@@ -1,0 +1,23 @@
+{
+ "addedAt": "2026-11-12T14:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T14:15:28Z",
+ "cat": "AI & tech",
+ "impact": "Leadership vacuum at the AI bellwether before Nov 17 earnings weighs on MU, DRAM and SNXX and adds to NBIS's post-earnings drop; Nvidia's results are the key test of whether demand holds.",
+ "level": "High",
+ "published": "2026-11-12T13:00:00Z",
+ "source": "CNBC / Quartz / Cointelegraph",
+ "summary": "Nvidia's board said co-founder Jensen Huang resigned as president, CEO and board member effective immediately. CFO Colette Kress will serve as interim CEO while remaining CFO, and former Synopsys CEO Harvey C. Jones was named the company's first board chair. The board will consider internal and external candidates. No reason was given; the exit follows reports of two extramarital affairs, including one with a suspected Chinese spy. Nvidia fell about 9% to 10% premarket.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS",
+  "MSFT",
+  "GOOGL"
+ ],
+ "title": "Jensen Huang resigns as Nvidia CEO; Kress interim, NVDA ~-10% premarket",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+}

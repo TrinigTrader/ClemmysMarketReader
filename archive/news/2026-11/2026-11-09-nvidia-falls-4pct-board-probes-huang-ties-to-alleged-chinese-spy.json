@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "alerted": true,
+ "alertedAt": "2026-11-09T23:05:04Z",
+ "cat": "AI & tech",
+ "impact": "Key-man and governance risk on the AI bellwether a week before its Nov 17 earnings; money rotated to AMD. Watch for read-through to MU, NBIS and the memory complex if the probe widens.",
+ "level": "High",
+ "published": "2026-11-09T16:00:00Z",
+ "source": "CNN",
+ "summary": "Nvidia's board opened an investigation into CEO Jensen Huang's relationship with a woman US intelligence agencies say is a Chinese spy, and into reports he was the target of a foreign intelligence effort. Trump said the FBI is looking into it. Shares closed down about 4.2% at $178.81, erasing roughly $192B, while the market rallied.",
+ "tickers": [
+  "NVDA",
+  "AMD",
+  "MU",
+  "NBIS"
+ ],
+ "title": "Nvidia falls 4.2% as board probes Jensen Huang's ties to alleged Chinese spy",
+ "tone": "negative",
+ "url": "https://www.cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation"
+}

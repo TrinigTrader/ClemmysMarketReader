@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-15T14:15:00Z",
+ "cat": "Trade & policy",
+ "impact": "A headwind for airline stocks (DAL, UAL, AAL) at Monday's open and fuel for air traffic control modernization spending; no direct hit to Clement's holdings.",
+ "level": "Low",
+ "published": "2026-11-15T06:00:00Z",
+ "source": "Al Jazeera / ABC News / FAA",
+ "summary": "The FAA grounded all US flights for more than four hours on Friday, Nov. 13, after communication failures hit multiple air route traffic control centers, the longest nationwide ground stop in 25 years. Transportation Secretary Duffy blamed outdated, overloaded equipment, and reporting since traced it to a routine router upgrade; officials said there is no evidence of a cyberattack. Lawmakers are demanding answers as hundreds of flights stayed delayed.",
+ "tickers": [
+  "DAL",
+  "UAL",
+  "AAL",
+  "JETS"
+ ],
+ "title": "Friday's 4-hour FAA ground stop, longest in 25 years, blamed on router switch",
+ "tone": "negative",
+ "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know"
+}

@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-13T12:15:00Z",
+ "cat": "AI & tech",
+ "impact": "Shows Samsung pushing deeper into AI data-center infrastructure beyond memory; a modest positive read for AI power and cooling names like BE and for DRAM's top holding.",
+ "level": "Low",
+ "published": "2026-11-13T00:58:00Z",
+ "source": "Bloomberg via Yahoo Finance / Seoul Economic Daily",
+ "summary": "Bloomberg reports Samsung Electronics is in talks to acquire Modine Manufacturing, a US maker of data-center cooling systems, with a deal possible within weeks. Reported valuations range from about $5.6B to $7.5B to $8B, and neither company commented. Modine's data-center revenue rose 95% year over year to $439.7M last quarter, and its shares jumped about 25% to 29% premarket.",
+ "tickers": [
+  "MOD",
+  "DRAM",
+  "BE"
+ ],
+ "title": "Samsung in talks to buy data-center cooling maker Modine; MOD +25%",
+ "tone": "positive",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-talks-buy-data-center-005809830.html"
+}

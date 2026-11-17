@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-15T02:15:00Z",
+ "cat": "Geopolitics & war",
+ "impact": "Easing oil helps the inflation picture at the margin, but with Brent still near $96 it does little to cool December Fed hike bets that weigh on yields, C's rate-sensitive peers and long-duration tech like PLTR and NBIS.",
+ "level": "Low",
+ "published": "2026-11-13T21:00:00Z",
+ "source": "CNBC",
+ "summary": "Brent futures settled at $95.84 a barrel and WTI at $88.56 on Friday, Nov. 13, a second straight weekly decline. The IEA pointed to a growing global oil surplus as Gulf producers lift output around Hormuz risks and US inventories rose, even as Trump said the US could forgo an Iran deal.",
+ "tickers": [
+  "CL",
+  "BZ",
+  "XLE"
+ ],
+ "title": "Oil posts second weekly drop, Brent settles at $95.84",
+ "tone": "neutral",
+ "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
+}

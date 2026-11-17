@@ -1,0 +1,15 @@
+{
+ "addedAt": "2026-11-10T02:12:00Z",
+ "cat": "AI & tech",
+ "impact": "Political scrutiny keeps a governance overhang on NVDA and the AI chip trade ahead of its Nov 17 earnings, a sentiment risk for MU, DRAM and NBIS.",
+ "level": "Low",
+ "published": "2026-11-09T20:00:00Z",
+ "source": "CNBC",
+ "summary": "Democrats in Congress are pressing for oversight after Nvidia's board opened an independent probe into CEO Jensen Huang's ties to a woman US intelligence believes was a Chinese state security asset. House Democratic leader Hakeem Jeffries called it a significant issue of concern; Nvidia says Huang will keep leading without interruption.",
+ "tickers": [
+  "NVDA"
+ ],
+ "title": "Congress Democrats press Nvidia on Huang affair, Jeffries flags concern",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html"
+}

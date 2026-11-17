@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-11T22:25:00Z",
+ "cat": "AI & tech",
+ "impact": "The neocloud and chip rally lifts NBIS into its Thursday premarket report and supports MU and DRAM; with bonds shut, Thursday's yield move and Friday's PPI could quickly test the rebound.",
+ "level": "Low",
+ "published": "2026-11-11T21:10:00Z",
+ "source": "Yahoo Finance / TheStreet / Benzinga",
+ "summary": "The Nasdaq Composite closed up about 1.6% at 25,466.19, the S&P 500 up about 1.3% at 7,619.38 and the Dow up about 0.5% at 52,486.49 on Wednesday. CoreWeave surged about 24% after its Q3 beat and raised outlook, Nvidia gained about 4% despite a Baird downgrade to Neutral, and the VanEck Semiconductor ETF jumped about 6%. The Nasdaq erased its post-election losses; bonds were closed for Veterans Day.",
+ "tickers": [
+  "CRWV",
+  "NVDA",
+  "NBIS",
+  "MU",
+  "DRAM",
+  "AVGO"
+ ],
+ "title": "Nasdaq closes +1.6%, S&P +1.3% as CoreWeave's 24% jump revives AI trade",
+ "tone": "positive",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+}

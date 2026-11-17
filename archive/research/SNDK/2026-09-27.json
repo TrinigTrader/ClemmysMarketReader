@@ -1,0 +1,481 @@
+{
+ "analysts": {
+  "count": 27,
+  "rating": "Buy",
+  "summary": "21 Buy, 3 Strong Buy, 3 Hold, 0 Sell (MarketBeat). Recent actions: Rosenblatt initiated Buy at $2,400 (9/22), JPMorgan initiated Overweight at $2,250 (8/14), Wedbush Outperform at $2,000, Mizuho trimmed to $1,875 (8/25), UBS Overweight at $1,750, and Zacks cut to Hold (9/7). Consensus EPS is ~$209 for FY27 and ~$252 for FY28.",
+  "targetAvg": 2015.61,
+  "targetHigh": 3050,
+  "targetLow": 322
+ },
+ "bear": [
+  "Peak-cycle margins (84.6% GM) in a commodity industry that has historically reversed sharply.",
+  "Slowest QoQ growth among the top five NAND vendors in 2Q26, and it's the smallest by share.",
+  "CEO sold ~$105M in September; no insider buying.",
+  "Beta ~5 and 75% realised vol: 25% drawdowns (June to August) are routine.",
+  "Competitors (Micron, SK hynix) are adding NAND supply; any capex shift from DRAM/HBM to NAND would pressure pricing."
+ ],
+ "bull": [
+  "Guided Q1 FY27 revenue $10.3–10.8B and EPS $44–46, above consensus, with GM of 83–85%.",
+  "Over 1/3 of FY27 output is pre-sold on multi-year contracts with price floors, which smooths the cycle.",
+  "Net cash, $11.5B FCF and $15.5B of buyback capacity (~6% of market cap).",
+  "~8x forward P/E is cheap if AI-storage demand keeps NAND tight into 2027–28.",
+  "IV near 52-week lows makes hedged or long-premium exposure inexpensive."
+ ],
+ "catalysts": [
+  {
+   "date": "2026-09-30",
+   "event": "Micron FQ4 2026 earnings",
+   "why": "First read on NAND/DRAM pricing and enterprise SSD demand for the Sep quarter; memory names trade together."
+  },
+  {
+   "date": "2026-10-02",
+   "event": "Weekly options expiry (heavy $1,600 and $2,000 call OI)",
+   "why": "Positive dealer gamma may pin/damp moves near $1,750–1,800."
+  },
+  {
+   "date": "Early Nov 2026 (est., not confirmed)",
+   "event": "Sandisk Q1 FY27 earnings",
+   "why": "Guide $10.3–10.8B revenue / $44–46 EPS vs $41.45 consensus; watch GM sustainability and FY27 contract coverage."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Multi-year supply contracts & NAND contract pricing",
+   "why": "Over 1/3 of FY27 output is pre-sold with price floors; new contracts or price resets drive the earnings-duration debate."
+  },
+  {
+   "date": "Ongoing",
+   "event": "CEO 10b5-1 sales",
+   "why": "~$105M sold Sep 14–17; continued sales are a sentiment overhang."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Samsung Electronics",
+    "note": "#1 NAND, $23.06B 2Q26 NAND revenue",
+    "ticker": "005930.KS"
+   },
+   {
+    "name": "SK hynix / Solidigm",
+    "note": "$14.27B, +89.5% QoQ; strong enterprise SSD",
+    "ticker": "000660.KS"
+   },
+   {
+    "name": "Micron",
+    "note": "$11.85B NAND, +99.2% QoQ; ~7.4x fwd P/E; reports 9/30",
+    "ticker": "MU"
+   },
+   {
+    "name": "Kioxia",
+    "note": "$10.72B; JV partner sharing fabs with Sandisk",
+    "ticker": "285A.T"
+   },
+   {
+    "name": "Western Digital",
+    "note": "Former parent, now HDD-only; 22.7x fwd P/E",
+    "ticker": "WDC"
+   }
+  ],
+  "share": [
+   {
+    "name": "Samsung",
+    "value": 29.3
+   },
+   {
+    "name": "SK hynix/Solidigm",
+    "value": 18.1
+   },
+   {
+    "name": "Micron",
+    "value": 15.1
+   },
+   {
+    "name": "Kioxia",
+    "value": 13.6
+   },
+   {
+    "name": "Sandisk",
+    "value": 11.4
+   },
+   {
+    "name": "Others",
+    "value": 12.5
+   }
+  ],
+  "summary": "Sandisk is the #5 NAND vendor by revenue. In 2Q26 its revenue grew 50.7% QoQ, the slowest of the top five, as it kept bit-shipment growth conservative while Micron (+99%) took third place. It competes with Samsung, SK hynix/Solidigm, Micron and its own JV partner Kioxia. Its edge is BiCS8 density and a high datacenter mix. AI enterprise-SSD demand plus suppliers prioritising DRAM/HBM capex keep NAND tight into 3Q26 (TrendForce)."
+ },
+ "conviction": "Low",
+ "currency": "USD",
+ "fairHigh": 2075,
+ "fairLow": 1500,
+ "fairMid": 1790,
+ "financials": [
+  {
+   "metric": "Revenue FY26",
+   "note": "+175% YoY",
+   "value": "$20.25B"
+  },
+  {
+   "metric": "Revenue Q4 FY26",
+   "note": "+372% YoY, +51% QoQ",
+   "value": "$8.97B"
+  },
+  {
+   "metric": "Gross margin Q4 FY26",
+   "note": "GAAP and non-GAAP; +58 pts YoY",
+   "value": "84.6%"
+  },
+  {
+   "metric": "Operating income Q4 FY26",
+   "note": "~78% operating margin; TTM op margin 61.6%",
+   "value": "$7.04B GAAP"
+  },
+  {
+   "metric": "EPS FY26",
+   "note": "Q4 non-GAAP $39.25 vs $33.28 consensus",
+   "value": "$73.76 GAAP / $70.88 non-GAAP"
+  },
+  {
+   "metric": "Free cash flow FY26",
+   "note": "Operating cash flow $11.67B",
+   "value": "$11.49B"
+  },
+  {
+   "metric": "Cash",
+   "note": "Debt ~$0.2B → net cash",
+   "value": "$4.76B"
+  },
+  {
+   "metric": "Shares",
+   "note": "Market cap ~$260B",
+   "value": "~146M outstanding / ~155M diluted"
+  },
+  {
+   "metric": "Buybacks",
+   "note": "$15.5B remaining",
+   "value": "$14B new authorization"
+  },
+  {
+   "metric": "Segments FY26",
+   "note": "Datacenter +437% YoY",
+   "value": "Edge $12.16B, Datacenter $5.15B, Consumer $2.94B"
+  },
+  {
+   "metric": "Q1 FY27 guidance",
+   "note": "Non-GAAP GM 83–85%; above $41.45 consensus",
+   "value": "Rev $10.3–10.8B; EPS $44–46"
+  },
+  {
+   "metric": "Short interest",
+   "note": "Institutional ownership ~80%",
+   "value": "4.15% of float"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Sell (10b5-1)",
+    "amount": "33,841 sh @ $1,574.21 ≈ $53.3M",
+    "date": "2026-09-17",
+    "who": "David Goeckeler (Chair & CEO)"
+   },
+   {
+    "action": "Sell (10b5-1)",
+    "amount": "33,838 sh @ $1,527.87 ≈ $51.7M",
+    "date": "2026-09-14",
+    "who": "David Goeckeler (Chair & CEO)"
+   },
+   {
+    "action": "Sell",
+    "amount": "579 sh @ $1,503.11",
+    "date": "2026",
+    "who": "Director"
+   },
+   {
+    "action": "Sell (planned)",
+    "amount": "600 sh",
+    "date": "2026",
+    "who": "Chief Legal Officer"
+   }
+  ],
+  "summary": "Selling only, with no open-market buys. CEO David Goeckeler sold ~67.7K shares (~$105M) on Sep 14 and Sep 17 under a 10b5-1 plan and still holds 382,865 shares. Smaller planned sales came from a director and the legal chief. Insider ownership is ~0.44%."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Holds",
+    "date": "Q2 2026",
+    "detail": "9.8M shares, ~$22.2B (13F may include options)",
+    "holder": "Citadel Advisors (Ken Griffin)"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "2.5M shares, ~$5.7B; 28% of portfolio",
+    "holder": "Situational Awareness LP (L. Aschenbrenner)"
+   },
+   {
+    "action": "Holds",
+    "date": "Q2 2026",
+    "detail": "596K shares, ~$1.4B",
+    "holder": "Millennium Management"
+   },
+   {
+    "action": "Exited",
+    "date": "2026",
+    "detail": "Position closed since earlier 2026 filing",
+    "holder": "Appaloosa (David Tepper)"
+   },
+   {
+    "action": "Exited",
+    "date": "2026",
+    "detail": "Position closed since earlier 2026 filing",
+    "holder": "Soros Fund Management"
+   },
+   {
+    "action": "Disposed",
+    "date": "2026-06-22",
+    "detail": "Exchanged 1,038,681 SNDK shares for own stock",
+    "holder": "Western Digital"
+   }
+  ],
+  "summary": "About 80% institutionally owned. In the Q2 2026 13Fs, multi-strategy and quant funds dominate the tracked holders. Situational Awareness LP added (28% of its portfolio). David Tepper and George Soros have exited since earlier 2026 filings. Western Digital swapped away its remaining ~1.04M-share stake on Jun 22, removing that overhang. A full top-10 holder list wasn't available from the pages read (Nasdaq and HedgeFollow tables were empty)."
+ },
+ "name": "Sandisk Corporation",
+ "options": {
+  "callWall": 2000,
+  "expectedMove": "±$144 (±8.1%) to Oct 2; ±$223 (±12.6%) to Oct 9",
+  "expiry": "2026-10-02 (also sampled 2026-10-09)",
+  "gexNote": "Net dealer gamma is positive (~+$37M per 1% move on sampled 50-pt strikes). The largest call OI is the $1,600 strike (4,325 contracts, now in the money), and above spot $2,000 (1,698) and $1,900 (1,128) are the call walls. Put OI is thin, with most at $1,500 (597) and $1,600 (541). No zero-gamma flip found between $1,400 and $2,200.",
+  "ivNote": "Underlying IV 69.5% vs 30-day realised 74.9%. IV sits at the 4th percentile of its 52-week range and 16th of 13-week, so options are cheap relative to the stock's own history. Data is Friday's close (market status frozen).",
+  "pcRatio": 0.32,
+  "putWall": 1500,
+  "strategy": "With IV near 52-week lows ahead of Micron (9/30) and Sandisk earnings in November, buying premium is better value than selling it. Holders could collar (sell ~$2,000 call, buy ~$1,500 put) to protect gains cheaply. Directional bulls could use a Nov $1,800/$2,100 call spread. Informational only; no orders placed.",
+  "zeroGamma": null
+ },
+ "politicians": {
+  "summary": "Nine small ($1K–15K) congressional trades in the past ~8 months, mostly purchases. Ro Khanna (D) bought four times and sold once on Sep 4 2026. Josh Gottheimer and Gilbert Cisneros (D) and Alan Armstrong (R, listed as Senate by Quiver) also bought. Sizes are too small to matter as a signal.",
+  "trades": [
+   {
+    "action": "Sale",
+    "amount": "$1K–15K",
+    "date": "2026-09-04",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-07-21",
+    "member": "Alan Armstrong",
+    "party": "R",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-06-09",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-06-03",
+    "member": "Josh Gottheimer",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-05-11",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-04-07",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-04-07",
+    "member": "Gilbert Cisneros",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-02-13",
+    "member": "Gilbert Cisneros",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–15K",
+    "date": "2026-02-06",
+    "member": "Ro Khanna",
+    "party": "D",
+    "source": "Quiver Quantitative"
+   }
+  ]
+ },
+ "price": 1772.04,
+ "requestedAt": "2026-09-27T11:09:38.021Z",
+ "scores": {
+  "financial": {
+   "note": "FY26 FCF $11.5B, cash $4.76B vs ~$0.2B debt; $15.5B buyback capacity.",
+   "score": 5
+  },
+  "flows": {
+   "note": "Put/call OI 0.32 and positive dealer gamma are supportive; CEO selling ~$105M in Sept and some hedge funds exited.",
+   "score": 3
+  },
+  "growth": {
+   "note": "Q4 FY26 revenue +372% YoY, +51% QoQ; Q1 FY27 guide implies another ~+18% QoQ at midpoint.",
+   "score": 5
+  },
+  "moat": {
+   "note": "BiCS8 density edge and Kioxia JV scale, but #5 NAND vendor (~11% share) in a commodity market.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "YTD +646% but ~25% below the $2,354 52-week high (Jun 22); rebounded from the $998 13-week low.",
+   "score": 3
+  },
+  "valuation": {
+   "note": "~24x TTM / ~8.3x forward P/E; cheap on peak earnings, fair on cycle-adjusted cash flow.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "Sandisk Reports Fiscal Fourth Quarter 2026 Financial Results (Business Wire, Aug 5 2026)",
+   "url": "https://www.businesswire.com/news/home/20260805455789/en/Sandisk-Reports-Fiscal-Fourth-Quarter-2026-Financial-Results"
+  },
+  {
+   "title": "MarketBeat – SNDK analyst forecast",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/SNDK/forecast/"
+  },
+  {
+   "title": "MarketBeat – SNDK earnings",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/SNDK/earnings/"
+  },
+  {
+   "title": "MarketBeat – CEO sells 33,841 shares (Sep 21 2026)",
+   "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-sandisk-nasdaq-sndk-ceo-sells-33841-shares-2026-09-21/"
+  },
+  {
+   "title": "StockTitan – SNDK Form 4 filings",
+   "url": "https://www.stocktitan.net/sec-filings/SNDK/form-4-sandisk-corp-insider-trading-activity-d6ff5ad0e663.html"
+  },
+  {
+   "title": "Quiver Quantitative – SNDK Congress trading",
+   "url": "https://www.quiverquant.com/congresstrading/stock/SNDK"
+  },
+  {
+   "title": "Quiver Quantitative – Western Digital share swap (Jun 22 2026)",
+   "url": "https://www.quiverquant.com/news/Sandisk+Rises+as+AI+Memory+Demand+Story+and+Western+Digital+Share+Swap+Stay+in+Focus"
+  },
+  {
+   "title": "InvestorLens – SNDK institutional holders & 13F history",
+   "url": "https://www.investorlens.capital/stocks/SNDK"
+  },
+  {
+   "title": "TrendForce – Top five NAND brands 2Q26 revenue (Aug 18 2026)",
+   "url": "https://www.trendforce.com/presscenter/news/20260818-13186.html"
+  },
+  {
+   "title": "StockAnalysis – SNDK statistics",
+   "url": "https://stockanalysis.com/stocks/sndk/statistics/"
+  },
+  {
+   "title": "StockAnalysis – MU statistics",
+   "url": "https://stockanalysis.com/stocks/mu/statistics/"
+  },
+  {
+   "title": "StockAnalysis – WDC statistics",
+   "url": "https://stockanalysis.com/stocks/wdc/statistics/"
+  },
+  {
+   "title": "StockAnalysis – STX statistics",
+   "url": "https://stockanalysis.com/stocks/stx/statistics/"
+  },
+  {
+   "title": "Motley Fool – September effect: memory stocks (Sep 16 2026)",
+   "url": "https://www.fool.com/investing/2026/09/16/september-effect-memory-stocks-buy-market-dip/"
+  },
+  {
+   "title": "Forbes – SanDisk stock September edition",
+   "url": "https://www.forbes.com/sites/investor-hub/article/sandisk-stock-over-574-where-its-heading-2026/"
+  },
+  {
+   "title": "Sandisk IR – Events",
+   "url": "https://investor.sandisk.com/news-events/events"
+  },
+  {
+   "title": "Micron to report FQ4 results on Sep 30 2026 (GlobeNewswire)",
+   "url": "https://www.globenewswire.com/news-release/2026/08/26/3351673/14450/en/micron-technology-to-report-fiscal-fourth-quarter-results-on-september-30-2026.html"
+  },
+  {
+   "title": "IBKR market data: price, IV, OI (snapshot 2026-09-27)",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-09-27T11:10:30Z",
+ "status": "done",
+ "summary": "Sandisk is a pure-play NAND supplier riding an AI-driven flash shortage: FY26 revenue rose 175% to $20.2B, Q4 gross margin hit 84.6% and Q1 FY27 guidance ($10.3–10.8B revenue, $44–46 EPS) points higher still. At $1,772 the stock trades ~8.3x forward earnings, in line with Micron (~7.4x), and our peer-multiple, cycle-adjusted DCF and analyst-target checks converge on a ~$1,500–2,075 fair range with a ~$1,790 midpoint, so it looks fairly valued. The debate is duration of peak margins, not current earnings; multi-year contracts help, but memory is historically boom-bust and the CEO is selling steadily under a 10b5-1 plan. Neutral, low conviction: the range is wide and highly sensitive to NAND pricing.",
+ "ticker": "SNDK",
+ "updatedAt": "2026-09-27T11:14:47Z",
+ "upsidePct": 0.0101,
+ "valuation": {
+  "method": "(a) Peer multiples: 7–9x forward P/E (memory peer MU at 7.4x) on consensus FY27 EPS ~$209 → $1,463–1,881 (mid $1,672). HDD peers WDC/STX trade at 23–26x but have less cyclical pricing, so they were not used for the core range. (b) Cycle-adjusted DCF: FCF $28B FY27, $32B FY28, $24B FY29 (normalisation), terminal FCF $18B growing 2%, 10% discount rate, +$4.6B net cash, 147M shares → ~$1,680. (c) Analyst targets: avg ~$2,016 (range $322–3,050). Triangulated mid = average of the three centres ≈ $1,790; range $1,500–2,075.",
+  "note": "Peer revenue growth wasn't available on the pages read. The forward P/E is on peak-cycle consensus EPS. If NAND pricing holds into FY28 (management targets mid/high-teens growth and ~80% GM for FY28–30), fair value moves toward $2,300+. A pricing reversal like 2023 would cut it well below $1,500.",
+  "rows": [
+   {
+    "evSales": 12.54,
+    "fwdPe": 8.31,
+    "growth": "+175% (FY26)",
+    "opMargin": "61.6%",
+    "pe": 24.1,
+    "ticker": "SNDK"
+   },
+   {
+    "evSales": 13.28,
+    "fwdPe": 7.38,
+    "growth": "n/a",
+    "opMargin": "65.7%",
+    "pe": 24.42,
+    "ticker": "MU"
+   },
+   {
+    "evSales": 12.72,
+    "fwdPe": 22.74,
+    "growth": "n/a",
+    "opMargin": "35.8%",
+    "pe": 18.82,
+    "ticker": "WDC"
+   },
+   {
+    "evSales": 17.28,
+    "fwdPe": 25.62,
+    "growth": "n/a",
+    "opMargin": "34.7%",
+    "pe": 65.96,
+    "ticker": "STX"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

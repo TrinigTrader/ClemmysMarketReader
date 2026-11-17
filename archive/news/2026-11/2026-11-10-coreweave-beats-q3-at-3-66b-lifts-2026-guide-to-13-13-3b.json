@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-10T22:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-11T00:12:20Z",
+ "cat": "AI & tech",
+ "impact": "A clean beat and raise from the biggest neocloud eases AI-bubble fears around NBIS ahead of its Nov 12 report (options price about +/-17%). The $132.5B backlog also supports GPU and memory demand for MU and DRAM, though heavy capex and debt stay the bear case.",
+ "level": "Medium",
+ "published": "2026-11-10T21:10:00Z",
+ "source": "Yahoo Finance / Benzinga",
+ "summary": "CoreWeave Q3 revenue rose 168% to $3.66B vs about $3.55B expected, and the loss per share of $1.27 was narrower than forecast. It raised 2026 revenue guidance to $13B-$13.3B vs $12.86B consensus, expects to exit the year at a $20B-$21B run-rate, and ended the quarter with a $132.5B backlog. Full-year capex is guided at $37B-$39B. Shares closed at $48.73 and rose roughly 2% to 7% after hours, after falling more than 40% in a month.",
+ "tickers": [
+  "CRWV",
+  "NBIS",
+  "MU",
+  "DRAM",
+  "NVDA"
+ ],
+ "title": "CoreWeave beats Q3 at $3.66B, lifts 2026 revenue guide to $13-13.3B",
+ "tone": "positive",
+ "url": "https://www.benzinga.com/markets/earnings/26/11/63123969/coreweave-reports-q3-double-beat-raises-guidance-this-was-a-breakout-quarter"
+}

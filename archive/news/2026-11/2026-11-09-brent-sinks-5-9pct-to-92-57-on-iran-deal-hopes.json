@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "alerted": true,
+ "alertedAt": "2026-11-09T23:05:04Z",
+ "cat": "Geopolitics & war",
+ "impact": "Lower oil eases inflation and rate-hike pressure, which helps long-duration growth names (NBIS, PLTR, MU) and banks' credit outlook. Oil is still up more than 50% this year and Hormuz shipping attacks continue.",
+ "level": "High",
+ "published": "2026-11-09T19:00:00Z",
+ "source": "Rigzone",
+ "summary": "Oil fell sharply Monday on hopes for a diplomatic end to the Iran war. Brent settled at $92.57 (down 5.9%) after Trump said new strikes were highly unlikely while talks on Tehran's nuclear program and reopening the Strait of Hormuz progress. JP Morgan estimated an October global surplus of about 1.4M barrels a day.",
+ "tickers": [
+  "USO",
+  "XLE",
+  "C",
+  "NBIS"
+ ],
+ "title": "Brent sinks 5.9% to $92.57 as Trump signals restraint on Iran",
+ "tone": "positive",
+ "url": "https://www.rigzone.com/news/wire/oil_prices_sink_on_iran_peace_hopes-09-nov-2026-185046-article/"
+}

@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-10T00:14:00Z",
+ "cat": "Macro",
+ "impact": "A hot CPI would cement a December hike and pressure high-multiple holdings (NBIS, PLTR, BE); a soft print extends Monday's relief rally.",
+ "level": "Low",
+ "published": "2026-11-10T00:00:00Z",
+ "source": "CNBC",
+ "summary": "S&P 500 futures were up 0.07% and Nasdaq-100 futures up 0.19% Monday night ahead of October CPI (consensus +0.3% headline, +0.2% core). CME FedWatch puts about 80% odds on a December hike; WTI settled down more than 4%.",
+ "tickers": [
+  "SPY",
+  "QQQ"
+ ],
+ "title": "US futures flat ahead of CPI, December hike odds near 80%",
+ "tone": "neutral",
+ "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+}

@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-11T22:25:00Z",
+ "cat": "Trade & policy",
+ "impact": "Adds export-control and political pressure on NVDA a week before its Nov 17 earnings; tighter chip curbs would weigh on the AI chip complex including MU and DRAM.",
+ "level": "Medium",
+ "published": "2026-11-11T21:12:00Z",
+ "source": "Reuters via US News / Unusual Whales",
+ "summary": "Reuters reported that Northwestern Polytechnical University, on the US Entity List since 2001, paid about $123,000 for two Nvidia H200 chips in October through a domestic supplier. A Reuters review of 26 records found other Chinese universities buying restricted Nvidia chips or renting Nvidia-powered compute. Three Republican committee chairs have requested a Nov 18 briefing with Nvidia's CEO over separate spy allegations.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM"
+ ],
+ "title": "PLA-linked Chinese university bought Nvidia H200s despite US blacklist",
+ "tone": "negative",
+ "url": "https://www.usnews.com/news/top-news/articles/2026-11-11/exclusive-pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show",
+ "uw": true
+}

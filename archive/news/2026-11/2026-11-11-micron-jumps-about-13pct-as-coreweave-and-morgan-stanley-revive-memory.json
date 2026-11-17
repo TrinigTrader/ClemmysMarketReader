@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-11T20:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T00:12:58Z",
+ "cat": "AI & tech",
+ "impact": "Direct lift for MU and DRAM after a month of losses; the rebound still depends on yields, with bonds reopening Thursday after Veterans Day and PPI due Friday, and MU reports Dec 16 (options price about ±9%).",
+ "level": "Medium",
+ "published": "2026-11-11T19:00:00Z",
+ "source": "Tokenpost / Motley Fool / TradingKey",
+ "summary": "Micron rose as much as about 13% on Wednesday to around $824, reversing a monthlong slide, as CoreWeave's Q3 beat eased worries about AI compute demand. Morgan Stanley said the recent valuation pullback improves memory stocks' risk-reward. SanDisk and Western Digital also rallied.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SNDK",
+  "WDC"
+ ],
+ "title": "Micron jumps ~13% as CoreWeave beat and Morgan Stanley revive memory",
+ "tone": "positive",
+ "url": "https://www.fool.com/investing/2026/11/11/why-micron-stock-popped-today/"
+}

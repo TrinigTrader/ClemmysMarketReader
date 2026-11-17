@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-10T00:14:00Z",
+ "cat": "Trade & policy",
+ "impact": "Adds a second front to Nvidia's governance headlines and raises the risk Washington tightens China chip licences, a headwind for NVDA and the wider AI chip and memory complex (MU, DRAM).",
+ "level": "Medium",
+ "published": "2026-11-09T18:00:00Z",
+ "source": "Daily Caller (citing NYT)",
+ "summary": "The New York Times reports the Commerce Department approved about two dozen Chinese companies to buy or handle Nvidia H200 chips, including one assembler whose registered office appeared vacant and another analysts link to sanctioned server maker Inspur.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM"
+ ],
+ "title": "NYT: Commerce cleared Nvidia H200 buyers with empty offices",
+ "tone": "negative",
+ "url": "https://dailycaller.com/2026/11/09/nvidia-chip-sales-china-commerce-department-report/",
+ "uw": true
+}

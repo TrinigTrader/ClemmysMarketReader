@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-10T08:13:50Z",
+ "cat": "AI & tech",
+ "impact": "A big AI investor posting losses keeps pressure on AI-funding sentiment around MSFT, NBIS and the chip complex, though the OpenAI stake itself was not marked down.",
+ "level": "Medium",
+ "published": "2026-11-10T07:00:00Z",
+ "source": "CNBC",
+ "summary": "SoftBank Group reported a fiscal Q2 net loss of 1.12T yen (about $7.1B), its first in almost two years, vs a 2.5T yen profit a year ago and a 129B yen profit expected per Bloomberg. Falling Arm, Intel and Coupang shares and higher financing costs drove it; reports say no OpenAI gain or loss was booked.",
+ "tickers": [
+  "SFTBY",
+  "ARM",
+  "INTC"
+ ],
+ "title": "SoftBank swings to $7.1B Q2 net loss as Arm, Intel, Coupang slide",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+}

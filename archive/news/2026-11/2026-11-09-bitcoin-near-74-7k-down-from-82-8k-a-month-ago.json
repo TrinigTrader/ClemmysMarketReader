@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "Macro",
+ "impact": "Weak crypto prices keep pressure on HOOD's crypto trading revenue.",
+ "level": "Low",
+ "published": "2026-11-09T22:00:00Z",
+ "source": "Coinbase",
+ "summary": "Bitcoin traded around $74,700 on Coinbase, down about 1.3% on the day and below $82,807 a month ago.",
+ "tickers": [
+  "BTC",
+  "HOOD",
+  "COIN"
+ ],
+ "title": "Bitcoin near $74.7K, down from $82.8K a month ago",
+ "tone": "negative",
+ "url": "https://www.coinbase.com/price/bitcoin"
+}

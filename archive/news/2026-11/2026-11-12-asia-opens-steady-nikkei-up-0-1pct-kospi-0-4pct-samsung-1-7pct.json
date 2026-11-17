@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-12T06:20:00Z",
+ "cat": "Macro",
+ "impact": "Asian memory and chip names are holding up, a mild support for MU, DRAM and SKM, but Nvidia's after-hours slide and Nasdaq futures down about 1% could still weigh at the US open.",
+ "level": "Low",
+ "published": "2026-11-12T04:30:00Z",
+ "source": "Yahoo Finance (AFP) / TradingKey",
+ "summary": "Asian stocks extended gains on Thursday even as traders watched Nvidia's leadership crisis. By midday the Nikkei 225 was up about 0.8% at 61,714 and the Kospi up about 1.2% at 5,464, while Hong Kong's Hang Seng fell about 1.1% to 24,044. Samsung opened up about 1.7% after the Philadelphia Semiconductor Index jumped 5.66% on Wednesday.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SKM",
+  "005930.KS",
+  "000660.KS"
+ ],
+ "title": "Asia extends gains despite Nvidia crisis: Kospi +1.2%, Nikkei +0.8%",
+ "tone": "neutral",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-extend-gains-traders-025559054.html"
+}

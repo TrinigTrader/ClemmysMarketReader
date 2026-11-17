@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "Macro",
+ "impact": "A core print of 0.3% or more would harden December hike bets and pressure growth holdings; a soft print extends the rebound.",
+ "level": "Medium",
+ "published": "2026-11-09T12:00:00Z",
+ "source": "Kiplinger",
+ "summary": "The BLS releases October CPI at 8:30am ET Tuesday Nov 10. Consensus is +0.3% headline and +0.2% core month on month; the Cleveland Fed nowcast is 0.24% and 0.21%. No year-over-year figures will be published because October 2025 data was not collected during the shutdown.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "TLT"
+ ],
+ "title": "October CPI due Tuesday: 0.3% headline, 0.2% core expected",
+ "tone": "neutral",
+ "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect"
+}

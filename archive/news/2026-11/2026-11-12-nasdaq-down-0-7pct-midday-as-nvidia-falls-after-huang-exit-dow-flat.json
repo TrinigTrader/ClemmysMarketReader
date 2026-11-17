@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-12T22:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T00:25:00Z",
+ "cat": "Macro",
+ "impact": "A rough day for NBIS (about -16%) and softer for MU and DRAM, while GOOGL held up. Rising yields and December hike odds hit small caps hardest; PPI on Friday is next.",
+ "level": "Medium",
+ "published": "2026-11-12T21:15:00Z",
+ "source": "StockTitan / YourNews / MarketBeat / Tickeron",
+ "summary": "Stocks gave up an afternoon bounce and closed lower Thursday. The S&P 500 fell 0.35% to 7,592.40, the Dow 0.36% to 52,297.09 and the Nasdaq 0.39% to 25,366.09, while the Russell 2000 dropped about 1.66%. Nvidia closed down 4.34% at $166.19 after falling as much as 14% at the open on Huang's resignation. Nebius fell about 16% to around $129 after its Q3 report, and Micron was down about $18 near $793 midday. Energy, Broadcom, AMD, Alphabet and Amazon gained.",
+ "tickers": [
+  "NVDA",
+  "NBIS",
+  "MU",
+  "DRAM",
+  "GOOGL",
+  "QQQ"
+ ],
+ "title": "Stocks close lower: S&P -0.35%, Nasdaq -0.39%; Nvidia -4.3%, Nebius ~-16%",
+ "tone": "negative",
+ "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+}

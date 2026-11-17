@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-10T04:11:00Z",
+ "cat": "AI & tech",
+ "impact": "Legal risk adds to the board probe and congressional scrutiny, keeping a governance discount on NVDA into its Nov 17 earnings and a sentiment drag on AI chip holdings like MU and DRAM.",
+ "level": "Medium",
+ "published": "2026-11-10T01:00:00Z",
+ "source": "Rappler (Reuters)",
+ "summary": "A proposed securities class action filed Nov 9 in San Jose alleges Nvidia and CEO Jensen Huang misled shareholders by hiding his relationship with a woman US authorities consider a Chinese intelligence asset. It covers buyers from Oct 9, 2025 to Nov 8, 2026; Nvidia shares closed down 4.3% Monday, about $190B in value.",
+ "tickers": [
+  "NVDA"
+ ],
+ "title": "Nvidia and Huang hit with securities class action over spy ties",
+ "tone": "negative",
+ "url": "https://www.rappler.com/technology/nvidia-jensen-huang-sued-disclosures-suspected-chinese-spy/",
+ "uw": true
+}

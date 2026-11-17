@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-16T10:16:00Z",
+ "cat": "Macro",
+ "impact": "Money is rotating away from AI-heavy markets toward Europe ahead of Nvidia; that is a mild headwind for AI names like NBIS and MU and neutral for C and NOK.",
+ "level": "Low",
+ "published": "2026-11-16T08:13:00Z",
+ "source": "Reuters via Investing.com",
+ "summary": "The Stoxx 600 edged up 0.09% to 664.76 early Monday, helped by low AI exposure and a Morgan Stanley upgrade of European equities to overweight. Chip names lagged, with Infineon down 2.3% and Aixtron 1.9%, and Siemens Energy fell 1.6%.",
+ "tickers": [
+  "VGK",
+  "NOK"
+ ],
+ "title": "European stocks steady, Stoxx 600 up 0.1% as chip names slip",
+ "tone": "neutral",
+ "url": "https://www.investing.com/news/stock-market-news/european-shares-hover-near-record-highs-tech-stocks-lag-5028657"
+}

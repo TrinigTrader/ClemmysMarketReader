@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "alerted": true,
+ "alertedAt": "2026-11-09T23:05:04Z",
+ "cat": "AI & tech",
+ "impact": "Supports GOOGL's in-house AI chip story and adds competitive pressure on Nvidia; positive for your GOOGL position.",
+ "level": "Medium",
+ "published": "2026-11-09T16:00:00Z",
+ "source": "Investing.com",
+ "summary": "Alphabet rose about 3.3% in morning trading to around $294 after Google launched two new tensor processing unit variants. JPMorgan removed it from its focus list but kept Overweight. The stock is still well below its 52-week high of $408.61.",
+ "tickers": [
+  "GOOGL",
+  "NVDA"
+ ],
+ "title": "Alphabet rises 3.3% as Google launches two new TPU variants",
+ "tone": "positive",
+ "url": "https://investing.com/news/stock-market-news/why-is-alphabet-stock-rallying-today-93CH-5012741"
+}

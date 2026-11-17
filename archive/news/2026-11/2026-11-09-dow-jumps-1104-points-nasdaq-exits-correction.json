@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "cat": "Macro",
+ "impact": "Broad relief after the worst S&P week since April 2025 lifts beaten-down holdings, but Tuesday's CPI and the Nvidia probe can quickly test it.",
+ "level": "Medium",
+ "published": "2026-11-09T21:05:00Z",
+ "source": "CNBC",
+ "summary": "US stocks rebounded hard Monday. The Dow rose 1,104.02 points (2.15%) to 52,389.75, the S&P 500 closed at 7,549.94 and the Nasdaq Composite at 25,253.14, up about 2.7%, leaving correction territory. Falling oil helped, while Nvidia lagged.",
+ "tickers": [
+  "SPY",
+  "QQQ"
+ ],
+ "title": "Dow jumps 1,104 points; Nasdaq up about 2.7% and exits correction",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+}

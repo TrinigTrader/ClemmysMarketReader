@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-12T18:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T00:25:00Z",
+ "cat": "Macro",
+ "impact": "Higher-for-longer rates are the main headwind for long-duration growth names like NBIS, BE, PLTR and MU; C benefits from higher short rates. PPI on Friday is the next test.",
+ "level": "Medium",
+ "published": "2026-11-12T17:30:00Z",
+ "source": "CNBC",
+ "summary": "The 10-year Treasury yield rose more than 7 basis points to about 5.07% on Thursday, the first full session after Veterans Day, and the 2-year climbed more than 11 basis points to about 4.84%. Oil gains and Tuesday's hot October CPI drove the move. Goldman Sachs now expects another quarter-point hike in March, and FedWatch prices a December hike at 100%. Dallas Fed's Lorie Logan said at least two more quarter-point hikes are needed, while Cleveland's Beth Hammack said aggressive increases aren't necessary.",
+ "tickers": [
+  "TLT",
+  "C",
+  "NBIS",
+  "BE",
+  "PLTR",
+  "MU"
+ ],
+ "title": "10-year yield jumps to ~5.07%; Goldman adds a March Fed hike",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+}

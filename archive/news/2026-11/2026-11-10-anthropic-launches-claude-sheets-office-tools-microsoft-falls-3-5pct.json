@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-11T06:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-11T06:18:50Z",
+ "cat": "AI & tech",
+ "impact": "Adds a new competitive risk to MSFT's Office franchise and, to a lesser degree, GOOGL Workspace, at a time when AI capex doubts already weigh on hyperscalers. The early product scope is limited, so the hit is more sentiment than revenue for now.",
+ "level": "Medium",
+ "published": "2026-11-10T18:00:00Z",
+ "source": "Bloomberg",
+ "summary": "Anthropic launched Claude Sheets, Claude Whiteboards and a meeting agent on Tuesday, putting it in direct competition with Microsoft 365 and Google Workspace ahead of its IPO later this month. Meetings debuts first in Google Meet with early partners including Adobe, Atlassian and HubSpot, and Anthropic called Sheets fairly basic for now. Microsoft shares fell more than 3.5% after the announcement before paring some losses.",
+ "tickers": [
+  "MSFT",
+  "GOOGL"
+ ],
+ "title": "Anthropic launches Claude Sheets and office tools; Microsoft falls over 3.5%",
+ "tone": "negative",
+ "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft"
+}

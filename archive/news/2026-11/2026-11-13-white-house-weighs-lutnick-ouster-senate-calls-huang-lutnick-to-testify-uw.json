@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-13T18:16:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-14T00:16:00Z",
+ "cat": "Trade & policy",
+ "impact": "The scandal is widening into export-control politics, raising the odds of tighter China chip curbs that would hit NVDA and spill into MU, DRAM and SNXX.",
+ "level": "Medium",
+ "published": "2026-11-13T17:52:00Z",
+ "source": "CNBC / Reuters / Globe and Mail",
+ "summary": "Senior White House officials have discussed whether Commerce Secretary Howard Lutnick should be pushed out over the Nvidia China-chip scandal, Reuters reported citing two people familiar. Senate Banking Chairman Tim Scott asked Jensen Huang to testify Dec. 3 and Lutnick, who has agreed to appear, on Dec. 10; Scott said he would consider subpoenaing Huang. House chairs separately want Huang and Nvidia's general counsel for closed-door interviews on Dec. 1 and 2.",
+ "tickers": [
+  "NVDA",
+  "AMD",
+  "MU"
+ ],
+ "title": "White House weighs Lutnick ouster; Senate calls Huang, Lutnick to testify",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+ "uw": true
+}

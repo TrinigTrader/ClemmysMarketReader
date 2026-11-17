@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-10T00:14:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-10T00:13:40Z",
+ "cat": "AI & tech",
+ "impact": "Confirms AI labs are buying on-site, behind-the-meter power at scale, which supports demand for BE's fuel cells and CAT/GEV gear, but it also shows gas turbines and recips competing for the same on-site orders BE targets.",
+ "level": "Medium",
+ "published": "2026-11-08T20:00:00Z",
+ "source": "Bloomberg / DCD (citing FT)",
+ "summary": "The FT reports Anthropic agreed to pay about $3.4B for 1.7GW of heavy-duty gas generators from OnePWR Solutions, taking over OnePWR's existing Caterpillar orders. It is the largest known single power-equipment purchase by an AI lab; units are due within about two years and sites are undisclosed. Both companies declined to comment.",
+ "tickers": [
+  "BE",
+  "CAT",
+  "GEV"
+ ],
+ "title": "Anthropic pays $3.4B for 1.7GW of gas generators",
+ "tone": "positive",
+ "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/",
+ "uw": true
+}

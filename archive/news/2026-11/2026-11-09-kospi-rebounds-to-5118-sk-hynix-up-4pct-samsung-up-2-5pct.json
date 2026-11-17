@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-09T23:04:32Z",
+ "alerted": true,
+ "alertedAt": "2026-11-09T23:05:04Z",
+ "cat": "AI & tech",
+ "impact": "Memory names bouncing off extreme valuations is a supportive sign for MU, DRAM and SNXX, but continued foreign selling over US data-centre regulation fears keeps the rebound fragile.",
+ "level": "Medium",
+ "published": "2026-11-09T03:00:00Z",
+ "source": "Invezz",
+ "summary": "Korea's Kospi rose about 1.2% to 5,118 Monday morning after a 6% Friday drop and a near-12% weekly loss. SK Hynix traded up 4.15% and Samsung up 2.49% as retail buyers stepped in, while foreign investors sold for a seventh straight session. Brokers said forward P/Es of 2.6x (SK Hynix) and 3.1x (Samsung) are below their lows since 2013.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SKM"
+ ],
+ "title": "Kospi rebounds to 5,118; SK Hynix up 4.2%, Samsung up 2.5%",
+ "tone": "positive",
+ "url": "https://invezz.com/news/2026/11/09/kospi-today-south-korea-stock-market-rebound/"
+}

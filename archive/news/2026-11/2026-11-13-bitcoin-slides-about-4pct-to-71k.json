@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-15T00:15:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-14T00:16:00Z",
+ "cat": "Macro",
+ "impact": "Weaker crypto prices cut into HOOD's crypto trading revenue, already down 21% m/m in October, and weigh on COIN; watch HOOD at Monday's open.",
+ "level": "Medium",
+ "published": "2026-11-15T00:00:00Z",
+ "source": "Coinbase / OKX / CoinGecko",
+ "summary": "Bitcoin traded around $65,400 early Sunday, Nov. 15 (Coinbase, OKX), down about 5% in 24 hours and roughly 14% over the past week. That extends Saturday's slide to about $67,200, its lowest since August, with crypto fear gauges at extreme fear as bets on a December Fed hike rise.",
+ "tickers": [
+  "BTC",
+  "HOOD",
+  "COIN"
+ ],
+ "title": "Bitcoin drops to ~$65K Sunday, down ~14% on the week",
+ "tone": "negative",
+ "url": "https://www.coinbase.com/price/bitcoin"
+}

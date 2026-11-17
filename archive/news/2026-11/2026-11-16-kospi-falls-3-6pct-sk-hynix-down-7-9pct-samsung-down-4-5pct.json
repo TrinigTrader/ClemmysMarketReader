@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-16T10:16:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-16T10:12:01Z",
+ "cat": "AI & tech",
+ "impact": "A sharp memory selloff in Seoul a day before Nvidia earnings points to a weak open for MU, DRAM and SNXX; SKM's SK hynix exposure is also hit. A strong Nvidia guide Tuesday is the main thing that could reverse it.",
+ "level": "Medium",
+ "published": "2026-11-16T06:45:00Z",
+ "source": "Korea JoongAng Daily / Bloomingbit",
+ "summary": "The Kospi closed down 3.59% at about 5,100 on Monday as foreigners sold about 1.7 trillion won of Korean shares. SK hynix fell 7.89% to 1.12 million won and Samsung Electronics 4.47% to 196,800 won, while the Kosdaq dropped 4.86%. Reports tie the selloff to uncertainty over the AI ecosystem after Jensen Huang's exit from Nvidia, with one report also citing falling NAND spot prices.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SKM",
+  "NVDA"
+ ],
+ "title": "Kospi falls 3.6% as SK hynix sinks 7.9%, Samsung 4.5%",
+ "tone": "negative",
+ "url": "https://www.koreajoongangdaily.com/business/kospi-tanks-over-3-with-tech-share-selloff-as-nvidia-turmoil-stokes-ai-bubble-concerns/12975391"
+}

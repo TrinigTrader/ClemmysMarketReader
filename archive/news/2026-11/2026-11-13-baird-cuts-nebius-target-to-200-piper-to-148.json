@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-13T10:35:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-13T10:36:00Z",
+ "cat": "AI & tech",
+ "impact": "Target cuts and tighter neocloud financing keep pressure on NBIS after its roughly 16% drop; Baird's $200 still implies big upside from about $129 if funding holds.",
+ "level": "Medium",
+ "published": "2026-11-13T09:00:00Z",
+ "source": "Investing.com / 24/7 Wall St. / TheStreet",
+ "summary": "Analysts cut price targets on Nebius after its Q3 report: Baird lowered its target to $200 from $340 and Piper Sandler to $148 from $185, both keeping their ratings. The cuts follow Nebius raising 2026 capex to about $27B and setting a preliminary 2027 capex target of $40B to $45B, despite Q3 revenue of $980.8M beating the $907.5M LSEG consensus. CoreWeave fell about 10% and IREN about 7% alongside Nebius on Thursday, and TheStreet reports banks are hesitating to fund neoclouds.",
+ "tickers": [
+  "NBIS",
+  "CRWV",
+  "IREN"
+ ],
+ "title": "Baird cuts Nebius target to $200 from $340; Piper to $148",
+ "tone": "negative",
+ "url": "https://investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5024606"
+}

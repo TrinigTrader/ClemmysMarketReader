@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-16T00:15:00Z",
+ "cat": "AI & tech",
+ "impact": "MU and DRAM go into Nvidia earnings after a big run, so the bar is high; a strong Nvidia data-center guide supports HBM demand, a miss could unwind last week's gain.",
+ "level": "Low",
+ "published": "2026-11-15T12:00:00Z",
+ "source": "FinanceFeeds",
+ "summary": "A FinanceFeeds week-ahead note puts Micron at $778 after a 12.8% gain last week, with a bull case of $885 and a bear case of $690 around Nvidia's results on Nov 17.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NVDA"
+ ],
+ "title": "Micron at $778 after 12.8% weekly gain heading into Nvidia week",
+ "tone": "positive",
+ "url": "https://financefeeds.com/micron-mu-stock-778-sunday-week-ahead-nvidia-results-17-november-bull-885-bear-690/"
+}

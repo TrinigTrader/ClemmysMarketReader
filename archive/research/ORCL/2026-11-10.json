@@ -1,0 +1,340 @@
+{
+ "analysts": {
+  "count": 43,
+  "rating": "Moderate Buy / Buy",
+  "summary": "S&P Global (43 analysts, Oct 13, 2026) shows a $237.97 average target; MarketBeat shows $251.72-$265.03 with a high of $400 and a low of about $135-160 depending on the snapshot. These are far above the $120 price, which suggests many targets predate the selloff. Treat with caution.",
+  "targetAvg": 238,
+  "targetHigh": 400,
+  "targetLow": 135
+ },
+ "bear": [
+  "Free cash flow is negative (about -$5B in Q1) while capex runs near $28B a quarter",
+  "Funding relies on debt and equity: $20B ATM in Q1, reports of about $40B more in FY27, dilution of about 3%",
+  "RPO is concentrated in a few AI customers, notably OpenAI",
+  "Insiders are net sellers and price momentum is deeply negative",
+  "Put-heavy options positioning with negative gamma below 130"
+ ],
+ "bull": [
+  "OCI growth accelerating (+121%) and RPO of $664B gives multi-year visibility",
+  "Guided FY27 EPS of $8.10 puts the stock near 15x, below hyperscaler multiples",
+  "Stock is about 52% below its 52-week high and near the low",
+  "Analyst consensus is Buy, with average targets well above price"
+ ],
+ "catalysts": [
+  {
+   "date": "2026-12-10 (est.)",
+   "event": "Q2 FY27 earnings",
+   "why": "Calendar sites project Dec 8-10, unconfirmed. Watch OCI growth, capex, FCF, and financing."
+  },
+  {
+   "date": "Ongoing",
+   "event": "Debt/equity raises",
+   "why": "Reports of a roughly $40B FY27 financing plan; any new issuance moves the stock."
+  },
+  {
+   "date": "Ongoing",
+   "event": "OpenAI contract and funding news",
+   "why": "Large share of RPO; Oracle says it is highly confident in OpenAI's ability to pay."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Microsoft",
+    "note": "Azure plus applications; 46.8% operating margin per a screener",
+    "ticker": "MSFT"
+   },
+   {
+    "name": "Amazon (AWS)",
+    "note": "Largest cloud infrastructure provider",
+    "ticker": "AMZN"
+   },
+   {
+    "name": "Alphabet (Google Cloud)",
+    "note": "Cloud and AI competitor",
+    "ticker": "GOOGL"
+   },
+   {
+    "name": "Salesforce",
+    "note": "CRM/applications rival",
+    "ticker": "CRM"
+   },
+   {
+    "name": "Workday",
+    "note": "HCM/ERP rival to Fusion",
+    "ticker": "WDAY"
+   }
+  ],
+  "share": [],
+  "summary": "Oracle competes with Microsoft, Amazon and Alphabet in cloud infrastructure, with Workday and Salesforce in applications, and with IBM and Snowflake elsewhere (IBKR connections). OCI is the fastest-growing cloud (+121%) but from a small base. I did not find reliable market share figures."
+ },
+ "conviction": "Low",
+ "currency": "USD",
+ "fairHigh": 165,
+ "fairLow": 105,
+ "fairMid": 135,
+ "financials": [
+  {
+   "metric": "Revenue (Q1 FY27)",
+   "note": "+30% y/y; quarter ended Aug 31, 2026",
+   "value": "$19.3B"
+  },
+  {
+   "metric": "Cloud revenue",
+   "note": "+62% y/y",
+   "value": "$11.6B"
+  },
+  {
+   "metric": "OCI revenue",
+   "note": "+121% y/y, up from +93% in Q4",
+   "value": "$7.4B"
+  },
+  {
+   "metric": "RPO",
+   "note": "More than $30B added in Q1; reportedly concentrated in a few AI customers",
+   "value": "$664B"
+  },
+  {
+   "metric": "EPS (Q1)",
+   "note": "Non-GAAP +30%, GAAP +55%; consensus about $1.73",
+   "value": "Non-GAAP $1.92 / GAAP $1.56"
+  },
+  {
+   "metric": "Operating cash flow (Q1)",
+   "note": "+184% y/y",
+   "value": "$23B"
+  },
+  {
+   "metric": "Capex (Q1)",
+   "note": "Single source (Storage Newsletter); FY26 capex reportedly $55.7B",
+   "value": "~$28B"
+  },
+  {
+   "metric": "Free cash flow (Q1)",
+   "note": "FY26 FCF reportedly -$23.7B",
+   "value": "about -$5B"
+  },
+  {
+   "metric": "Equity issuance",
+   "note": "Completed in Q1; diluted shares about 3.00B, +3%",
+   "value": "$20B ATM"
+  },
+  {
+   "metric": "FY27 guidance",
+   "note": "Q2 revenue growth guided to +30-34%; Q2 EPS guided to -19% to -15% (distorted by a prior-year one-time gain)",
+   "value": "Revenue of at least $90B; non-GAAP EPS $8.10"
+  },
+  {
+   "metric": "Cash / total debt / margins",
+   "note": "I did not find the Q1 balance sheet or operating margin in sources I could read; investor.oracle.com is not reachable from this session",
+   "value": "Not found"
+  },
+  {
+   "metric": "Dividend yield",
+   "note": "IBKR",
+   "value": "1.72%"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Exercised 400,000 options and sold shares at about $156-159",
+    "amount": "not stated",
+    "date": "2026-06-24",
+    "who": "Jeffrey Henley (Vice Chairman)"
+   },
+   {
+    "action": "Sold 15,000 shares (10b5-1) at about $176.19",
+    "amount": "$2.64M",
+    "date": "2026-04-16",
+    "who": "Stuart Levey (EVP, CLO)"
+   },
+   {
+    "action": "Sold 10,000 shares",
+    "amount": "not stated",
+    "date": "2026-02",
+    "who": "Clayton Magouyrk (CEO)"
+   },
+   {
+    "action": "Sold 35,000 shares",
+    "amount": "not stated",
+    "date": "2026-01",
+    "who": "Douglas Kehring (EVP, PFO)"
+   }
+  ],
+  "summary": "Net selling, mostly pre-arranged. Aggregators show Safra Catz selling about $1.83B over a trailing year across 31 transactions (single source, undated). I found no insider open-market buys."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Added",
+    "date": "2026-06-30",
+    "detail": "about 145.4M shares, up about 2.0M q/q (earningswhispers)",
+    "holder": "BlackRock"
+   },
+   {
+    "action": "Added (per SentiSense)",
+    "date": "2026-06-30",
+    "detail": "about 187M shares on one aggregator; other sources show different totals",
+    "holder": "Vanguard"
+   }
+  ],
+  "summary": "BlackRock and Vanguard are the largest holders per aggregators, which disagree on share counts. Q2 2026 13F data shows BlackRock at about 145.4M shares (+2.0M). No clear large-holder trims confirmed."
+ },
+ "name": "Oracle Corp",
+ "options": {
+  "callWall": 130,
+  "expectedMove": "±$11.9 (±9.9%)",
+  "expiry": "2026-11-20 (10 DTE)",
+  "gexNote": "Partial: strikes 110-130 on a 5-point grid only, one expiry (Nov 20). Net GEX about -$19.7M per 1% move, negative below 130 and positive at 130. P/C ratio is calls/puts OI in the sampled strikes (0.29 means put-heavy). The Nov 13 weekly was not sampled.",
+  "ivNote": "IV 59.6% vs historical vol 63.5%; IV percentile 54% (52-week), 44% (26-week).",
+  "pcRatio": 0.29,
+  "putWall": 110,
+  "strategy": "Information only, not an order: put-heavy OI and negative gamma below 130 mean moves can accelerate around the 110 and 130 strikes. Earnings around Dec 10 fall after the Nov 20 expiry.",
+  "zeroGamma": "about 128 (rough)"
+ },
+ "politicians": {
+  "summary": "I found no verified ORCL trades by members of Congress dated within the last 12 months. Quiver's page reports 6 trades in an undated prior six months (1 buy, 5 sales); Disclosed Capitol counts 369 trades overall as of July 2026. I could not read individual trade details for the window.",
+  "trades": []
+ },
+ "price": 120.4,
+ "requestedAt": "2026-11-10T05:29:21.152Z",
+ "scores": {
+  "financial": {
+   "note": "Operating cash flow of $23B in Q1 FY27, but FCF about -$5B, FY26 FCF reportedly -$23.7B, heavy debt and equity raises ($20B ATM in Q1).",
+   "score": 2
+  },
+  "flows": {
+   "note": "BlackRock and Vanguard are the top holders and stable to slightly higher per aggregators. Insider sales (Henley, Levey, Catz per aggregators) are mostly 10b5-1. Option OI skews to puts (C/P 0.29).",
+   "score": 2
+  },
+  "growth": {
+   "note": "Revenue +30%, cloud +62%, OCI +121%, RPO $664B; FY27 revenue guided to at least $90B.",
+   "score": 5
+  },
+  "moat": {
+   "note": "Entrenched database and ERP base, plus a large AI-infrastructure backlog; the moat in AI cloud rests on a few counterparties.",
+   "score": 4
+  },
+  "momentum": {
+   "note": "About -49% over 52 weeks (open_52w $237 vs $120.4). Near the 52-week low of $109.21; 13-week high $170.67.",
+   "score": 1
+  },
+  "valuation": {
+   "note": "About 14.9x guided FY27 non-GAAP EPS of $8.10 (computed). Aggregator pages put forward P/E at about 26x, which conflicts with this; peer data is undated.",
+   "score": 3
+  }
+ },
+ "sources": [
+  {
+   "title": "Oracle Q1 FY27 results press release",
+   "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/"
+  },
+  {
+   "title": "Storage Newsletter: Oracle fiscal 1Q27 results",
+   "url": "https://storagenewsletter.com/2026/09/23/oracle-fiscal-1q27-financial-results"
+  },
+  {
+   "title": "Newsquawk: ORCL Q1 2027",
+   "url": "https://www.newsquawk.com/headlines/oracle-orcl-q1-2027-usd-adj-eps-192-exp-173-revenue-193bln-exp-1913bln-"
+  },
+  {
+   "title": "Investing.com: Q1 FY2027 slides",
+   "url": "https://www.investing.com/news/company-news/oracle-q1-fy2027-slides-cloud-infrastructure-surges-121-guides-90b-93CH-4897025"
+  },
+  {
+   "title": "MarketBeat ORCL forecast",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/ORCL/forecast/"
+  },
+  {
+   "title": "Earnings date projection: days.to",
+   "url": "https://days.to/oracle-earnings"
+  },
+  {
+   "title": "Insider trades: bullfincher Form 4",
+   "url": "https://bullfincher.io/companies/oracle-corporation/report/2026-4-0001341439-26-000099"
+  },
+  {
+   "title": "Insider activity: insidertrades.com",
+   "url": "https://www.insidertrades.com/alerts/nyse-orcl-insider-buying-and-selling-2026-04-21/"
+  },
+  {
+   "title": "Congress trades: Disclosed Capitol",
+   "url": "https://www.disclosedcapitol.com/tickers/ORCL"
+  },
+  {
+   "title": "13F holders: earningswhispers",
+   "url": "https://www.earningswhispers.com/whales/ORCL"
+  },
+  {
+   "title": "13F holders: SentiSense",
+   "url": "https://app.sentisense.ai/stocks/ORCL/holders"
+  },
+  {
+   "title": "Oracle financing and stock selloff: Fortune",
+   "url": "https://fortune.com/2026/02/03/oracle-debt-openai-stock-movement-key-risk-hyperscaler-market/"
+  },
+  {
+   "title": "Peer comparison: vcpscanner",
+   "url": "https://vcpscanner.com/compare/adbe-vs-orcl-vs-crm-vs-msft-vs-amzn"
+  },
+  {
+   "title": "Interactive Brokers (IBKR connector): quote, IV, options OI, history",
+   "url": "https://www.interactivebrokers.com"
+  }
+ ],
+ "stance": "Neutral",
+ "startedAt": "2026-11-10T05:31:00.000Z",
+ "status": "done",
+ "summary": "Oracle trades at about $120, roughly 52% below its 52-week high of $249 and near its 52-week low of $109. Operations are strong: Q1 FY27 revenue grew 30%, OCI grew 121%, and RPO is $664B. Funding is the problem. Free cash flow was about -$5B in the quarter, capex is huge, $20B of stock was sold through the ATM, and backlog depends heavily on a few AI customers. At about 15x guided FY27 EPS of $8.10 the stock looks fairly valued with a wide range, so we stay Neutral with low conviction until the cash-flow path is clearer. Note that the analyst targets I found ($238-$265) look stale against the current price.",
+ "ticker": "ORCL",
+ "updatedAt": "2026-11-10T06:10:00.000Z",
+ "upsidePct": 0.121,
+ "valuation": {
+  "method": "Earnings-power check: guided FY27 non-GAAP EPS $8.10 x 13-20x (software-peer to hyperscaler range) = $105-$162; midpoint about 16.5x = $134. Analyst targets ($238-$265 average, some sources) look stale against a $120 price, so I gave them little weight. DCF skipped because FCF is deeply negative and capex path is unknowable from sources read.",
+  "note": "Peer data is thin: I found no consistent, dated trailing P/E or EV/Sales for peers. Some cells are null. ORCL forward P/E is computed from price and guided EPS; aggregator pages show about 26x on a different EPS basis. Peer figures come from undated sources.",
+  "rows": [
+   {
+    "evSales": null,
+    "fwdPe": 14.9,
+    "growth": 0.3,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "ORCL"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 23,
+    "growth": null,
+    "opMargin": 0.468,
+    "pe": null,
+    "ticker": "MSFT"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 25,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "AMZN"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 13,
+    "growth": null,
+    "opMargin": null,
+    "pe": null,
+    "ticker": "CRM"
+   },
+   {
+    "evSales": null,
+    "fwdPe": 12.5,
+    "growth": null,
+    "opMargin": 0.089,
+    "pe": null,
+    "ticker": "WDAY"
+   }
+  ]
+ },
+ "verdict": "Fairly valued"
+}

@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-10T10:12:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-10T10:12:30Z",
+ "cat": "AI & tech",
+ "impact": "A messy launch for the biggest AI IPO risks denting AI sentiment; GOOGL and AMZN own stakes, and the pricing will set a marker for AI infrastructure names like NBIS.",
+ "level": "Medium",
+ "published": "2026-11-10T02:00:00Z",
+ "source": "Investing.com (Reuters)",
+ "summary": "Reuters reports Anthropic emailed bankers IPO details late Monday showing about 867M shares at $70 to $80 each, a raise of up to about $69B, then retracted them saying the pricing details were inaccurate and would be updated. The roadshow was expected to start Tuesday, with trading targeted around Nov 19-20.",
+ "tickers": [
+  "GOOGL",
+  "AMZN",
+  "NBIS"
+ ],
+ "title": "Anthropic sends, then retracts IPO terms: 867M shares at $70-$80",
+ "tone": "negative",
+ "url": "https://www.investing.com/news/stock-market-news/anthropic-retracts-ipo-details-after-sending-filing-to-bankers--reuters-5013961"
+}

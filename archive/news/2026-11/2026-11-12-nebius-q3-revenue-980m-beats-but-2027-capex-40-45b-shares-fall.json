@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-12T14:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-12T14:15:28Z",
+ "cat": "AI & tech",
+ "impact": "Direct hit to NBIS, giving back Wednesday's CoreWeave-driven jump; the capex surge raises funding and dilution worries even though prepayments and contract-backed debt could cover 75% to 85% of 2027 capex.",
+ "level": "High",
+ "published": "2026-11-12T12:00:00Z",
+ "source": "CNBC / FinanceFeeds / Finimize",
+ "summary": "Nebius reported Q3 revenue of $980.8M, up 571% and above the ~$907M consensus, with adjusted EBITDA of $465.8M and a $37.5M net loss from continuing operations. It said 2026 revenue is tracking at the low end of $3.0B to $3.4B and raised 2026 capex to about $27B, then guided 2027 revenue of $12B to $13B and 2027 capex of $40B to $45B versus about $28.8B expected. Reports say it will drop ARR as a headline metric. Shares fell about 10% to 15% premarket to around $136.",
+ "tickers": [
+  "NBIS",
+  "CRWV",
+  "NVDA"
+ ],
+ "title": "Nebius Q3 revenue $980.8M beats, but $40-45B 2027 capex sinks stock ~10-15%",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
+}

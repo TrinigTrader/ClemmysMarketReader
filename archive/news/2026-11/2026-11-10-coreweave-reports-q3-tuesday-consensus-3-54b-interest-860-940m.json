@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-10T00:14:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-10T00:13:40Z",
+ "cat": "AI & tech",
+ "impact": "The first big neocloud print of the week sets the tone for NBIS, which reports Nov 12 premarket with options pricing about a 17% move. Financing costs and backlog conversion are the swing factors.",
+ "level": "Medium",
+ "published": "2026-11-09T15:00:00Z",
+ "source": "TechTimes",
+ "summary": "CoreWeave reports Q3 after the bell on Nov 10 (call 5pm ET). Consensus is about $3.54B revenue, up roughly 159% y/y, against company guidance of $3.45B to $3.6B. Interest expense is guided at $860M to $940M; backlog was $104.2B at end of Q2.",
+ "tickers": [
+  "CRWV",
+  "NBIS",
+  "NVDA"
+ ],
+ "title": "CoreWeave reports Q3 Tuesday after close, $3.54B expected",
+ "tone": "neutral",
+ "url": "https://www.techtimes.com/articles/330277/20261109/coreweave-q3-earnings-159-revenue-growth-vs-900m-quarterly-interest-tuesday.htm"
+}

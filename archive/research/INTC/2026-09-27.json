@@ -1,0 +1,503 @@
+{
+ "analysts": {
+  "count": 49,
+  "rating": "Buy (StockAnalysis/S&P) · Hold-heavy per TheStreet",
+  "summary": "The mean target ($116) and median ($112) are below the price. Recent calls: Bernstein Hold $110 (Sep 21), Tigress Buy $145 (Sep 15), Piper Sandler Hold $110 (Sep 9), Northland Outperform $120 (Sep 8), Mizuho Hold $92 (Sep 3), BofA Buy $145 (cut from $160), TD Cowen $115. TheStreet counted 5 Buy / 24 Hold / 2 Sell among 31 analysts.",
+  "targetAvg": 116.37,
+  "targetHigh": 200,
+  "targetLow": 75
+ },
+ "bear": [
+  "Valuation already prices in success: ~73x forward EPS and 11.7x sales on a 7.8% operating margin, versus TSMC at ~20x forward P/E.",
+  "Dilution: shares +13% YoY and ~$20B of new equity; capex rising sharply in 2027 while Q2 adjusted FCF was −$8.4B.",
+  "Losing x86 share to AMD in every segment; Apple is phasing out Intel Macs; Arm PCs keep gaining.",
+  "Foundry customer commitments beyond Tesla are unconfirmed; 14A high-volume production isn't until 2028.",
+  "GAAP results swing with the stock price through the escrowed-share mark-to-market; beta ~2.2 and 74% IV mean violent drawdowns (−36% from Jun to Aug 2026)."
+ ],
+ "bull": [
+  "Data-center revenue +59% YoY as AI servers pull CPUs; server CPU supply reportedly tight into 2027 (Mizuho).",
+  "Foundry validation: Tesla is the first 14A customer, the Apple deal was reported in June, and High-NA EUV and 18A are hitting targets; Google, AMD and Nvidia are reportedly evaluating 14A.",
+  "Gross margin up ~12 pts YoY to ~42%; a planned ~10% PC CPU price increase signals pricing power.",
+  "Deep-pocketed strategic holders (US government, Nvidia, SoftBank), plus a $10M CEO purchase and large Pelosi buys.",
+  "A fresh ~$20B of equity de-risks funding for 14A capex."
+ ],
+ "catalysts": [
+  {
+   "date": "Early Oct 2026",
+   "event": "Reported ~10% PC CPU price increase",
+   "why": "Tests pricing power; supports gross margin into Q4."
+  },
+  {
+   "date": "Oct 16, 2026",
+   "event": "Monthly options expiry",
+   "why": "Large call open interest at $110–130 can pin or unwind as it expires."
+  },
+  {
+   "date": "Oct 22, 2026",
+   "event": "Q3 2026 earnings (after close)",
+   "why": "Guide $15.8–16.8B / $0.38; consensus $16.4B / $0.39. Watch 2027 capex, foundry losses, 14A customers, escrow-share accounting."
+  },
+  {
+   "date": "Late 2026",
+   "event": "14A process design kits to customers",
+   "why": "Google, Apple, AMD and Nvidia reportedly deciding on 14A commitments; a named second customer would support the bull case."
+  },
+  {
+   "date": "TBD",
+   "event": "Apple foundry deal formal terms; SK Hynix Ohio fab talks",
+   "why": "Apple deal announced via a presidential post in June, not yet confirmed with volumes; SK Hynix talks are reported only."
+  },
+  {
+   "date": "Late 2027 / 2028",
+   "event": "14A risk production, then high-volume manufacturing",
+   "why": "Execution milestone for the heavy capex being funded now."
+  }
+ ],
+ "competition": {
+  "peers": [
+   {
+    "name": "Advanced Micro Devices",
+    "note": "x86 share gainer in client and server; EPYC vs Xeon",
+    "ticker": "AMD"
+   },
+   {
+    "name": "Taiwan Semiconductor",
+    "note": "Leading-edge foundry leader; 19.8x forward P/E",
+    "ticker": "TSM"
+   },
+   {
+    "name": "Nvidia",
+    "note": "AI accelerator leader; also a ~$30B Intel shareholder and partner",
+    "ticker": "NVDA"
+   },
+   {
+    "name": "Qualcomm",
+    "note": "Arm-based PC chips (Snapdragon X) competing in client",
+    "ticker": "QCOM"
+   }
+  ],
+  "share": [
+   {
+    "name": "x86 overall (units): Intel / AMD",
+    "value": "65.9% / 34.1%"
+   },
+   {
+    "name": "Server x86: Intel / AMD",
+    "value": "65.5% / 34.5%"
+   },
+   {
+    "name": "Mobile: Intel / AMD",
+    "value": "71.1% / 28.9%"
+   },
+   {
+    "name": "Desktop: Intel / AMD",
+    "value": "65.1% / 34.9%"
+   }
+  ],
+  "summary": "AMD keeps taking x86 share in every segment (Mercury Research, Q2 2026: +7.3 pts YoY in servers and +8.4 pts in mobile). Intel still ships about two-thirds of x86 units. In foundry, TSMC dominates leading-edge manufacturing at 56% operating margins; Intel's pitch is a US-based alternative (18A/18A-P now, 14A in 2027–28) with Tesla as the first 14A customer and a reported Apple deal. Arm-based chips (Apple silicon, Qualcomm) are a structural threat in client, and Apple is dropping Intel Mac support."
+ },
+ "conviction": "Medium",
+ "currency": "USD",
+ "fairHigh": 120,
+ "fairLow": 80,
+ "fairMid": 100,
+ "financials": [
+  {
+   "metric": "Revenue (TTM)",
+   "note": "StockAnalysis; Q2 2026 revenue $16.1B, +25% YoY",
+   "value": "$57.0B"
+  },
+  {
+   "metric": "Segments (Q2)",
+   "note": "+13% / +59% / +31% YoY (Foundry includes internal sales)",
+   "value": "CCG $8.9B / DCAI $6.3B / Foundry $5.8B"
+  },
+  {
+   "metric": "Gross margin (Q2)",
+   "note": "Up ~12 pts YoY; Q3 guide 42.0% non-GAAP",
+   "value": "41.8% non-GAAP / 40.4% GAAP"
+  },
+  {
+   "metric": "Operating margin",
+   "note": "Q2 non-GAAP operating income $2.77B (~17% of revenue)",
+   "value": "7.8% TTM"
+  },
+  {
+   "metric": "EPS",
+   "note": "GAAP hit by $12.5B mark-to-market loss on escrowed shares for the US government; TTM GAAP EPS −$2.30",
+   "value": "Q2 $0.42 non-GAAP / −$2.16 GAAP"
+  },
+  {
+   "metric": "Q3 2026 guidance",
+   "note": "Consensus $16.4B / $0.39; reports Oct 22",
+   "value": "Rev $15.8–16.8B, EPS $0.38 non-GAAP"
+  },
+  {
+   "metric": "Free cash flow",
+   "note": "Q2 operating cash flow $7.0B; definitions differ between 8-K and StockAnalysis",
+   "value": "Q2 adj. FCF −$8.4B; TTM $2.8B"
+  },
+  {
+   "metric": "Cash & ST investments",
+   "note": "As of June 27, 2026",
+   "value": "$29.7B"
+  },
+  {
+   "metric": "Total debt",
+   "note": "Net debt ~$21B before the Aug–Sep equity raise",
+   "value": "$50.5B"
+  },
+  {
+   "metric": "Share count",
+   "note": "No buybacks; ~$20B equity raise Aug–Sep 2026 (reported ~210M shares at ~$95); no dividend",
+   "value": "5.25B (+13.3% YoY)"
+  },
+  {
+   "metric": "Capex",
+   "note": "2027 guided 'significantly above' 2026, mostly US fabs (14A)",
+   "value": "2026: $20B+"
+  },
+  {
+   "metric": "2026 consensus",
+   "note": "S&P Global via StockAnalysis",
+   "value": "Rev $63.1B, EPS $1.52"
+  }
+ ],
+ "insiders": {
+  "rows": [
+   {
+    "action": "Buy",
+    "amount": "105,263 sh @ $95.00 (~$10.0M)",
+    "date": "2026-08-11",
+    "who": "Lip-Bu Tan (CEO)"
+   }
+  ],
+  "summary": "CEO Lip-Bu Tan bought 105,263 shares at $95.00 (~$10.0M) on Aug 11, 2026 through a family trust (Form 4), bringing him to ~1.33M shares. No other material 2026 insider buys or sells were found in the sources read."
+ },
+ "institutions": {
+  "rows": [
+   {
+    "action": "Holds",
+    "date": "13F 6/30/2026",
+    "detail": "214.8M shares (~$30B), 47% of its 13F portfolio",
+    "holder": "Nvidia"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "+2.53M shares (+1.2%) to 216.8M (~4.3%)",
+    "holder": "State Street"
+   },
+   {
+    "action": "Holds",
+    "date": "13F 6/30/2026",
+    "detail": "87.0M shares (~$12.1B), 67% of its US 13F portfolio",
+    "holder": "SoftBank Group"
+   },
+   {
+    "action": "New",
+    "date": "Q2 2026",
+    "detail": "12.1M shares (~$1.7B)",
+    "holder": "Coatue Management"
+   },
+   {
+    "action": "Added",
+    "date": "Q2 2026",
+    "detail": "Increased existing position",
+    "holder": "Tiger Global"
+   },
+   {
+    "action": "Trimmed",
+    "date": "Q2 2026",
+    "detail": "Reduced positions",
+    "holder": "D.E. Shaw / Renaissance / Point72"
+   },
+   {
+    "action": "Puts",
+    "date": "Q2 2026",
+    "detail": "Put position on 7.4M underlying shares",
+    "holder": "Millennium Management"
+   },
+   {
+    "action": "Escrow",
+    "date": "Ongoing",
+    "detail": "Escrowed shares released as CHIPS 'Secure Enclave' milestones are met; marked to market each quarter",
+    "holder": "US Dept. of Commerce"
+   }
+  ],
+  "summary": "Institutions own ~64.5% of Intel. The register is unusually strategic: Nvidia, SoftBank and the US government (via escrowed CHIPS Act shares) all hold large stakes. Q2 13Fs show Coatue opening a position and Tiger adding, while D.E. Shaw, Renaissance and Point72 trimmed and Millennium disclosed puts."
+ },
+ "name": "Intel Corporation",
+ "options": {
+  "callWall": "$115 (max call gamma, below spot); overhead cluster $125–130",
+  "expectedMove": "±$10.6 (±8.7%) to Oct 2; ±$8.2 to Sep 30",
+  "expiry": "Sep 30 (3 DTE) + Oct 2 (5 DTE)",
+  "gexNote": "Open interest near spot is overwhelmingly calls (~61.9k calls vs ~10.2k puts across $105–145 in the two front weeklies), so modeled dealer gamma is positive throughout $90–148 and peaks around $118–122. That tends to dampen moves near the current price. With puts this thin, the downside has little dealer support below ~$110. Snapshot from Friday's close (IBKR data frozen over the weekend).",
+  "ivNote": "Underlying IV 73.9% vs 30-day realized 63.1%, so options are rich. IV sits at the 67th percentile over 52 weeks and 52nd over 13 weeks.",
+  "pcRatio": "0.16",
+  "putWall": "$120 (max put gamma); most put OI at $110",
+  "strategy": "Premium is rich and valuation is stretched. Holders could consider covered calls above the $130 cluster or a collar before Oct 22 earnings. A bearish view is better expressed with a small defined-risk put debit spread than naked shorts, since strategic buyers and momentum can squeeze. Idea only; no order.",
+  "zeroGamma": "None found $90–148 (net GEX positive)"
+ },
+ "politicians": {
+  "summary": "11 disclosed congressional INTC trades in the last 12 months (Quiver Quantitative). Most notable: Rep. Nancy Pelosi disclosed purchases (Jun 23: $1M–$5M; Aug 21: two purchases totaling $750k–$1.5M). The others are small sales and buys.",
+  "trades": [
+   {
+    "action": "Sale",
+    "amount": "$1K–$15K",
+    "date": "2026-09-04",
+    "member": "Ro Khanna",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$500K–$1M",
+    "date": "2026-08-21",
+    "member": "Nancy Pelosi",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$250K–$500K",
+    "date": "2026-08-21",
+    "member": "Nancy Pelosi",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$1K–$15K",
+    "date": "2026-08-04",
+    "member": "Shelley Moore Capito",
+    "party": "R-Senate",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase + Sale",
+    "amount": "$1K–$15K each",
+    "date": "2026-07-06",
+    "member": "Ro Khanna",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$1K–$15K",
+    "date": "2026-06-24",
+    "member": "Dwight Evans",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1M–$5M",
+    "date": "2026-06-23",
+    "member": "Nancy Pelosi",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$1K–$15K",
+    "date": "2026-06-17",
+    "member": "Matthew Van Epps",
+    "party": "R-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Sale",
+    "amount": "$100K–$250K",
+    "date": "2026-06-10",
+    "member": "Michael McCaul",
+    "party": "R-House",
+    "source": "Quiver Quantitative"
+   },
+   {
+    "action": "Purchase",
+    "amount": "$1K–$15K",
+    "date": "2026-06-09",
+    "member": "Ro Khanna",
+    "party": "D-House",
+    "source": "Quiver Quantitative"
+   }
+  ]
+ },
+ "price": 122.95,
+ "requestedAt": "2026-09-27T04:39:05.614Z",
+ "scores": {
+  "financial": {
+   "note": "$50.5B debt vs $29.7B cash; Q2 adjusted FCF −$8.4B; GAAP loss from escrow-share mark-to-market; 2026 capex $20B+.",
+   "score": 2
+  },
+  "flows": {
+   "note": "Nvidia 214.8M sh, SoftBank 87M sh, CEO $10M buy, Pelosi purchases; offset by ~$20B equity issuance.",
+   "score": 4
+  },
+  "growth": {
+   "note": "Q2 revenue +25% YoY; DCAI +59%, Foundry +31%; Q3 guide $15.8–16.8B.",
+   "score": 4
+  },
+  "moat": {
+   "note": "Still ~66% x86 unit share but losing ground to AMD in every segment; US-based leading-edge foundry is strategically unique.",
+   "score": 3
+  },
+  "momentum": {
+   "note": "+251% over 52 weeks ($35 → $123); 14% below the $142.35 high after a −3.5% Friday.",
+   "score": 4
+  },
+  "valuation": {
+   "note": "~73x forward P/E, 11.7x EV/sales on 7.8% op margin; above the average analyst target.",
+   "score": 1
+  }
+ },
+ "sources": [
+  {
+   "title": "Intel Q2 2026 8-K summary (StockTitan)",
+   "url": "https://www.stocktitan.net/sec-filings/INTC/8-k-intel-corp-reports-material-event-449f74ec41b4.html"
+  },
+  {
+   "title": "Intel Is Up 220% in 2026 (Motley Fool, Sep 26 2026)",
+   "url": "https://www.fool.com/investing/2026/09/26/intel-is-up-220-in-2026-can-it-reach-150-before-20/"
+  },
+  {
+   "title": "Intel Q2 2026 escrowed shares & GAAP gap (FourWeekMBA)",
+   "url": "https://fourweekmba.com/ai-intel-q2-2026-non-gaap-gaap-gap-chips-act-escrowed-shares/"
+  },
+  {
+   "title": "Apple-Intel deal reshapes foundry race (Investing.com)",
+   "url": "https://www.investing.com/analysis/appleintel-chip-manufacturing-deal-reshapes-foundry-race-200682398"
+  },
+  {
+   "title": "Intel sells $15B in stock (TechTimes, Aug 10 2026)",
+   "url": "https://www.techtimes.com/articles/323749/20260810/intel-sells-15b-stock-fund-chip-factory-customers-who-havent-signed.htm"
+  },
+  {
+   "title": "Intel $20B equity raise and Nvidia stake (StocksToTrade)",
+   "url": "https://stockstotrade.com/news/intel-corporation-intc-news-2026_09_08/"
+  },
+  {
+   "title": "Tesla first 14A customer (TrendForce)",
+   "url": "https://www.trendforce.com/news/2026/04/23/news-intel-tapped-as-tesla-wins-first-14a-customer-spot-in-terafab-push/"
+  },
+  {
+   "title": "Intel stock Sep 21 2026 catalysts (Timothy Sykes)",
+   "url": "https://www.timothysykes.com/news/intel-corporation-intc-news-2026_09_21-2/"
+  },
+  {
+   "title": "Intel pulls back as Apple moves on (Timothy Sykes)",
+   "url": "https://www.timothysykes.com/news/intel-corporation-intc-news-2026_09_24-3/"
+  },
+  {
+   "title": "INTC analyst forecast (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/intc/forecast/"
+  },
+  {
+   "title": "Mizuho resets Intel target (TheStreet)",
+   "url": "https://www.thestreet.com/investing/stocks/intc-intel-stock-price-target-mizuho-september-2026"
+  },
+  {
+   "title": "Intel Q3 2026 earnings date (MarketBeat)",
+   "url": "https://www.marketbeat.com/earnings/reports/2026-10-22-intel-co-stock/"
+  },
+  {
+   "title": "CEO Lip-Bu Tan $10M buy (24/7 Wall St.)",
+   "url": "https://247wallst.com/investing/2026/08/28/insiders-only-buy-for-one-reason-intels-ceo-just-bet-10-million-on-his-companys-stock-its-now-even-cheaper-to-get-in/"
+  },
+  {
+   "title": "INTC Congress trading (Quiver Quantitative)",
+   "url": "https://www.quiverquant.com/congresstrading/stock/INTC"
+  },
+  {
+   "title": "State Street raises Intel holdings (Stock Observer)",
+   "url": "https://www.thestockobserver.com/2026/09/22/state-street-corp-raises-stock-holdings-in-intel-corporation-intc.html"
+  },
+  {
+   "title": "Intel and AMD fall as 13F filings reveal chip bets (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-fall-4-13f-133444261.html"
+  },
+  {
+   "title": "CPU market share Q2 2026 (Basic Tutorials / Mercury Research)",
+   "url": "https://basic-tutorials.com/news/cpu-market-share-q2-2026-amd-breaks-the-30-percent-mark-intel-loses-ground-across-the-board/"
+  },
+  {
+   "title": "INTC statistics (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/intc/statistics/"
+  },
+  {
+   "title": "AMD statistics (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/amd/statistics/"
+  },
+  {
+   "title": "NVDA statistics (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/nvda/statistics/"
+  },
+  {
+   "title": "TSM statistics (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/tsm/statistics/"
+  },
+  {
+   "title": "QCOM statistics (StockAnalysis)",
+   "url": "https://stockanalysis.com/stocks/qcom/statistics/"
+  },
+  {
+   "title": "IBKR market data: INTC price snapshot, 1-year weekly history, option chains and open interest (Sep 30 / Oct 2 2026 expiries)",
+   "url": ""
+  }
+ ],
+ "stance": "Underweight",
+ "startedAt": "2026-09-27T04:41:00Z",
+ "status": "done",
+ "summary": "Intel's turnaround is real: Q2 revenue grew 25%, data-center sales jumped 59%, gross margin recovered about 12 points to ~42%, and it has landed Tesla (14A) plus a reported Apple foundry deal. At $123 (up ~250% in a year) the stock trades at ~73x forward earnings and ~11.7x sales on a 7.8% operating margin, above the average analyst target ($116) and well above what peer multiples or a base-case earnings-power model support (~$80–120). Strategic holders (Nvidia, SoftBank, the US government) and momentum can keep it elevated, but the price already assumes the foundry succeeds, while ~$20B of new shares and heavy capex dilute the payoff. Fairly valued at best near $120; we'd be underweight and wait for pullbacks or 14A customer proof.",
+ "ticker": "INTC",
+ "updatedAt": "2026-09-27T04:43:52Z",
+ "upsidePct": -0.187,
+ "valuation": {
+  "method": "Triangulated three ways. (a) Peer multiples: peer forward P/E median ~21x (57x for AMD); giving Intel a 25–45x turnaround premium on ~$2.08 2027 EPS (implied by 59x per Motley Fool) = $52–94. Intel's EV/sales (11.7x) is close to TSMC's (13.9x) with one-seventh of the margin. (b) Earnings power (2029): base $80B revenue × 25% op margin, 15% tax, 5.3B shares → ~$3.2 EPS × 30x = $96, discounted 2 years at 10% ≈ $80; bull $100B × 30% → ~$4.8 × 35x = $168 → ~$139; bear $65B × 15% → ~$1.6 × 20x ≈ $31. (c) Analysts: $75–$200, mean $116, median $112.",
+  "note": "Blended fair value $80–120 (mid $100) gives weight to the strategic premium (US-government, Nvidia and Apple ties) that pure multiples ignore. Price $122.95 is above the top of the range. Peer data from StockAnalysis, Sep 25–26, 2026; TSMC growth is in TWD.",
+  "rows": [
+   {
+    "evSales": "11.7",
+    "fwdPe": "73.0",
+    "growth": "+25% (Q2)",
+    "opMargin": "7.8%",
+    "pe": "n/m (loss)",
+    "ticker": "INTC"
+   },
+   {
+    "evSales": "24.7",
+    "fwdPe": "57.0",
+    "growth": "+39.5%",
+    "opMargin": "15.8%",
+    "pe": "161.0",
+    "ticker": "AMD"
+   },
+   {
+    "evSales": "17.9",
+    "fwdPe": "18.7",
+    "growth": "+83.4%",
+    "opMargin": "65.2%",
+    "pe": "28.5",
+    "ticker": "NVDA"
+   },
+   {
+    "evSales": "13.9",
+    "fwdPe": "19.8",
+    "growth": "+30.6%",
+    "opMargin": "56.1%",
+    "pe": "28.9",
+    "ticker": "TSM"
+   },
+   {
+    "evSales": "5.1",
+    "fwdPe": "21.9",
+    "growth": "+1.9%",
+    "opMargin": "23.7%",
+    "pe": "23.5",
+    "ticker": "QCOM"
+   }
+  ]
+ },
+ "verdict": "Overvalued"
+}

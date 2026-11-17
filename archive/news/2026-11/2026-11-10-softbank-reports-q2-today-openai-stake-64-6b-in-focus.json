@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-10T04:11:00Z",
+ "cat": "AI & tech",
+ "impact": "Any OpenAI markdown or funding strain would hit AI infrastructure sentiment including NBIS and MSFT; a strong print supports the AI rebound.",
+ "level": "Low",
+ "published": "2026-11-09T22:00:00Z",
+ "source": "Euronext (Reuters)",
+ "summary": "SoftBank Group reports fiscal Q2 results at 06:30 GMT Tuesday. Forecasts range from a 233B yen profit to a 113B yen loss; its cumulative OpenAI investment is about $64.6B (about 13%), and it faces roughly $30B of OpenAI-related obligations in the second half of 2026.",
+ "tickers": [
+  "SFTBY",
+  "MSFT",
+  "NBIS"
+ ],
+ "title": "SoftBank reports Q2 today, $64.6B OpenAI stake in focus",
+ "tone": "neutral",
+ "url": "https://live.euronext.com/en/financial-news/softbank-face-scrutiny-ai-strategy-second-quarter-earnings-after-selloff"
+}

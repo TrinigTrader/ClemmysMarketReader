@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-11T18:15:00Z",
+ "cat": "Geopolitics & war",
+ "impact": "Firmer oil adds to inflation pressure behind the December hike debate, a headwind for growth holdings like NBIS, PLTR and BE; it also keeps geopolitical risk in play for markets broadly.",
+ "level": "Low",
+ "published": "2026-11-11T03:00:00Z",
+ "source": "Business Standard / Reuters",
+ "summary": "Brent rose about 1% to around $92 and WTI to about $86-87 on Wednesday, recovering from a two-month low. A UK maritime agency reported another tanker attack off Oman, and Iran's Revolutionary Guards said two tankers caught fire after hitting naval mines on an unauthorized route. LSEG analysts said flows would depend on mine clearance, insurance costs and shipowners' willingness even if a US-Iran deal is reached.",
+ "tickers": [
+  "USO",
+  "XLE",
+  "NBIS",
+  "PLTR",
+  "BE"
+ ],
+ "title": "Oil rebounds to ~$92 Brent as tankers hit mines in Hormuz",
+ "tone": "negative",
+ "url": "https://www.business-standard.com/amp/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html"
+}
