@@ -83,9 +83,12 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 ### Re-screen snapshots
 
 - 2026-11-16: Published as artifact v47 ("Re-screen 16 Nov"). IBKR was flaky (many 503s; retried until all 25 underlyings loaded). SPY $747.95 (−0.9%), IV 16.0% vs HV 13.7%. S&P 500 closed 13 Nov at 7,561.67 (−0.4%, +2.5% on the week). Nvidia reports ~Nov 18 after close (est.); Anthropic IPO this week. Brent ~$96.30, gold −0.9%. December Fed hike priced near-certain. Bitcoin ~$73k on 14 Nov. No live option bid/
+- 2026-11-17: Published as artifact v48 ("Re-screen 17 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 16 Nov at 7,416.59 (−1.92%); Nasdaq 24,509.76 (−2.49%, correction territory). SPY $738.59, IV 18.2%. Nvidia reports today Nov 17 after the close (confirmed). Anthropic IPO expected to start trading Thursday. No live option bid/ask at 9:40 ET; W uses IBKR model values as 
 
 ### News headlines (last 30 days)
 
+- 2026-11-17 [Low] Stocks lose ground before Nvidia; Nasdaq 100 on track for worst November since 2008 (QQQ, SPY, NVDA)
+- 2026-11-17 [Low] Home Depot beats with comps up 2.2%, names Richard McPhail CEO (HD, XRT)
 - 2026-11-17 [Medium] Nvidia cuts Intel stake by 25%; Intel falls 3.3% premarket (INTC, NVDA)
 - 2026-11-17 [Low] US futures slip 0.4% ahead of Nvidia results after Monday's chip rout (SPY, QQQ, NVDA, SOXX)
 - 2026-11-17 [Low] Bitcoin near $64,600, down about 13% in a week (BTC, COIN, HOOD)

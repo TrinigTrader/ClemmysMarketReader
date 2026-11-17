@@ -1,14 +1,14 @@
 {
  "ticker": "MSFT",
  "url": "https://unusualwhales.com/stock/MSFT/overview",
- "iv": "35.2%",
+ "iv": "42.7%",
  "ivExpiry": "2026-11-25",
- "ivRank1y": "42.5",
- "impliedMove": "\u00b1$19.39 (3.7%)",
+ "ivRank1y": "56.3",
+ "impliedMove": "\u00b1$21.64 (4.3%)",
  "name": "MICROSOFT",
  "sector": "Technology",
  "marketCap": "$3.85T",
- "maxPain": "$527.5",
+ "maxPain": "$525",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
   "next": "Jan 27, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 28, 2026",
   "lastEps": "4.89",
   "lastNextDayMove": "-0.16%",
-  "sinceLastReport": "-2.45%"
+  "sinceLastReport": "-5.53%"
  },
- "price": 517.99,
- "fetchedAt": "2026-11-17T12:02:47Z"
+ "price": 501.6317,
+ "fetchedAt": "2026-11-17T18:02:38Z"
 }

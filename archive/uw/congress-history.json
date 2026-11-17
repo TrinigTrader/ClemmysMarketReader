@@ -2,6 +2,22 @@
  {
   "action": "Sell",
   "amount": "$1,001 - $15,000",
+  "asset": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-17",
+  "holding": false,
+  "id": "bee1d756-4c13-4882-bcc8-6c601289f0ed",
+  "member": "Byron Donalds",
+  "party": "republican",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+  "ticker": "ZTS",
+  "traded": "2026-10-02",
+  "watched": false
+ },
+ {
+  "action": "Sell",
+  "amount": "$1,001 - $15,000",
   "asset": "JBG SMITH Properties Common Shares (JBGS) [ST]",
   "big": false,
   "chamber": "house",
