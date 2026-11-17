@@ -1,0 +1,24 @@
+{
+ "ticker": "RKLB",
+ "url": "https://unusualwhales.com/stock/RKLB/overview",
+ "iv": "87.9%",
+ "ivExpiry": "2026-11-27",
+ "ivRank1y": "41.0",
+ "impliedMove": "\u00b1$5.88 (10.2%)",
+ "name": "ROCKET LAB USA",
+ "sector": "Industrials",
+ "marketCap": "$36.26B",
+ "maxPain": "$58",
+ "maxPainExpiry": "2026-11-13",
+ "earnings": {
+  "next": "Feb 25, 2027",
+  "time": "unknown",
+  "epsEst": "-0.05",
+  "lastReport": "Nov 9, 2026",
+  "lastEps": "-0.09",
+  "lastNextDayMove": "+6.54%",
+  "sinceLastReport": "-2.53%"
+ },
+ "price": 57.37,
+ "fetchedAt": "2026-11-17T12:02:47Z"
+}

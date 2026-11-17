@@ -1,0 +1,24 @@
+{
+ "ticker": "SOUN",
+ "url": "https://unusualwhales.com/stock/SOUN/overview",
+ "iv": "74.4%",
+ "ivExpiry": "2026-11-27",
+ "ivRank1y": "29.4",
+ "impliedMove": "\u00b1$0.31 (9.7%)",
+ "name": "SOUNDHOUND AI",
+ "sector": "Technology",
+ "marketCap": "$1.47B",
+ "maxPain": "$4",
+ "maxPainExpiry": "2026-11-13",
+ "earnings": {
+  "next": "Feb 25, 2027",
+  "time": "unknown",
+  "epsEst": "-0.12",
+  "lastReport": "Nov 5, 2026",
+  "lastEps": "-0.1",
+  "lastNextDayMove": "-3.52%",
+  "sinceLastReport": "-24.18%"
+ },
+ "price": 3.23,
+ "fetchedAt": "2026-11-17T12:02:47Z"
+}

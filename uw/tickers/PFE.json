@@ -1,0 +1,24 @@
+{
+ "ticker": "PFE",
+ "url": "https://unusualwhales.com/stock/PFE/overview",
+ "iv": "25.1%",
+ "ivExpiry": "2026-11-27",
+ "ivRank1y": "68.8",
+ "impliedMove": "\u00b1$0.85 (3.0%)",
+ "name": "PFIZER",
+ "sector": "Healthcare",
+ "marketCap": "$164.5B",
+ "maxPain": "$29.5",
+ "maxPainExpiry": "2026-11-13",
+ "earnings": {
+  "next": "Feb 2, 2027",
+  "time": "unknown",
+  "epsEst": "0.69",
+  "lastReport": "Nov 3, 2026",
+  "lastEps": "0.87",
+  "lastNextDayMove": "-2.18%",
+  "sinceLastReport": "-5.90%"
+ },
+ "price": 28.86,
+ "fetchedAt": "2026-11-17T12:02:47Z"
+}

@@ -1,0 +1,24 @@
+{
+ "ticker": "NBIS",
+ "url": "https://unusualwhales.com/stock/NBIS/overview",
+ "iv": "117.0%",
+ "ivExpiry": "2026-11-27",
+ "ivRank1y": "40.4",
+ "impliedMove": "\u00b1$14.64 (13.7%)",
+ "name": "Nebius Group NV",
+ "sector": "Communication Services",
+ "marketCap": "$23.51B",
+ "maxPain": "$146",
+ "maxPainExpiry": "2026-11-13",
+ "earnings": {
+  "next": "Feb 11, 2027",
+  "time": "unknown",
+  "epsEst": "-0.67",
+  "lastReport": "Nov 12, 2026",
+  "lastEps": "0.3",
+  "lastNextDayMove": "-16.84%",
+  "sinceLastReport": "-30.75%"
+ },
+ "price": 107.13,
+ "fetchedAt": "2026-11-17T12:02:47Z"
+}

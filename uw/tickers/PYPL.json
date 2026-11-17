@@ -1,0 +1,24 @@
+{
+ "ticker": "PYPL",
+ "url": "https://unusualwhales.com/stock/PYPL/overview",
+ "iv": "29.3%",
+ "ivExpiry": "2026-11-27",
+ "ivRank1y": "15.2",
+ "impliedMove": "\u00b1$2.02 (3.4%)",
+ "name": "PAYPAL",
+ "sector": "Financial Services",
+ "marketCap": "$48.87B",
+ "maxPain": "$58",
+ "maxPainExpiry": "2026-11-13",
+ "earnings": {
+  "next": "Feb 2, 2027",
+  "time": "unknown",
+  "epsEst": "1.43",
+  "lastReport": "Oct 27, 2026",
+  "lastEps": "1.45",
+  "lastNextDayMove": "+2.00%",
+  "sinceLastReport": "+6.98%"
+ },
+ "price": 58.83,
+ "fetchedAt": "2026-11-17T12:02:47Z"
+}
