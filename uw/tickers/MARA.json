@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.79 (12.3%)",
  "name": "MARATHON DIGITAL",
  "sector": "Financial Services",
- "marketCap": "$2.57B",
+ "marketCap": "$2.49B",
  "maxPain": "$6",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-3.31%"
  },
  "price": 6.42,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

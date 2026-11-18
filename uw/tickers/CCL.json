@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$1.45 (5.2%)",
  "name": "CARNIVAL",
  "sector": "Consumer Cyclical",
- "marketCap": "$39.03B",
+ "marketCap": "$37.86B",
  "maxPain": "$29",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "+27.19%"
  },
  "price": 28.16,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

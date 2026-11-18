@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-18T02:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-18T02:26:00Z",
+ "cat": "AI & tech",
+ "impact": "Losing part of Nvidia's backing dents the AI-networking story behind NOK's rally and can weigh on the stock near term, though Nvidia still holds a sizeable position and the 13F reflects Q3 trades, not new selling.",
+ "level": "Medium",
+ "published": "2026-11-17T15:00:00Z",
+ "source": "Investing.com / Benzinga",
+ "summary": "Nokia shares fell more than 4% Tuesday after Nvidia's quarterly 13F filing showed it cut its Nokia stake by 56% in Q3, to 72.86 million shares worth $738.8M at Sept. 30 from 166.39 million at the end of June. The same filing showed Nvidia trimming its Intel stake. Separately, Nokia announced a partnership with Nscale, Skeleton, Telia and Verda to set up an AI Gigafactory Northern.",
+ "tickers": [
+  "NOK",
+  "NVDA"
+ ],
+ "title": "Nvidia cuts Nokia stake by 56%; Nokia falls more than 4%",
+ "tone": "negative",
+ "url": "https://investing.com/news/stock-market-news/nokia-stock-tumbles-after-nvidia-cuts-stake-by-more-than-half-5032045"
+}

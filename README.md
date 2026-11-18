@@ -87,8 +87,11 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
-- 2026-11-17 [High] Nvidia Q3 revenue $115.8B (+103%), guides Q4 to $130B; shares up after hours (NVDA, MU, DRAM, SNXX, NBIS, MSFT, GOOGL, SMH)
+- 2026-11-18 [Low] Kospi's Nvidia rally fades: opened up 3%, slipped by late morning (EWY, SMH)
+- 2026-11-17 [High] Nvidia beats, guides Q4 to $130B and lifts FY28 growth view to ~75% (NVDA, MU, DRAM, SNXX, NBIS, MSFT, GOOGL, SMH)
+- 2026-11-17 [Medium] Jensen Huang says he would be honored to return as Nvidia CEO (NVDA)
 - 2026-11-17 [Low] Dow drops 849 points, S&P 500 at lowest close since July before Nvidia (QQQ, SPY, NVDA)
+- 2026-11-17 [Medium] Nvidia cuts Nokia stake by 56%; Nokia falls more than 4% (NOK, NVDA)
 - 2026-11-17 [Low] Home Depot beats with comps up 2.2%, names Richard McPhail CEO (HD, XRT)
 - 2026-11-17 [Medium] Nvidia cuts Intel stake by 25%; Intel falls 3.3% premarket (INTC, NVDA)
 - 2026-11-17 [Low] US futures slip 0.4% ahead of Nvidia results after Monday's chip rout (SPY, QQQ, NVDA, SOXX)
@@ -107,7 +110,6 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-16 [Low] Kospi reverses lower after flat open, SK hynix slips ahead of Nvidia (MU, DRAM, SNXX, SKM)
 - 2026-11-15 [Low] Japan Q3 GDP shrinks 0.1% annualised, missing forecasts for growth (EWJ, USDJPY)
 - 2026-11-15 [Low] US futures tick higher Sunday night, Nasdaq futures up about 0.4% (SPY, QQQ, NVDA, MU, NBIS)
-- 2026-11-15 [Medium] Jensen Huang weighs Nvidia CEO return as allies lobby the board (NVDA)
 - 2026-11-15 [Low] Micron at $778 after 12.8% weekly gain heading into Nvidia week (MU, DRAM, SNXX, NVDA)
 - 2026-11-15 [Low] Friday's 4-hour FAA ground stop, longest in 25 years, blamed on router switch (DAL, UAL, AAL, JETS)
 - 2026-11-15 [Medium] Bitcoin drops to ~$65K Sunday, down ~14% on the week (BTC, HOOD, COIN)

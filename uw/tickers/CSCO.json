@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$4.18 (4.4%)",
  "name": "CISCO SYSTEMS",
  "sector": "Technology",
- "marketCap": "$372.65B",
+ "marketCap": "$374.97B",
  "maxPain": "$101",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-6.76%"
  },
  "price": 95.11,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

@@ -7,7 +7,7 @@
  "level": "High",
  "published": "2026-11-17T21:20:00Z",
  "source": "Nvidia release via StockTitan / Investing.com / FXStreet / Motley Fool",
- "summary": "Nvidia reported fiscal Q3 2027 revenue of $115.8B, up 103% y/y and 20% q/q, versus about $108.9B expected, with adjusted EPS of $2.68 vs $2.47 expected. It guided Q4 revenue to $130B plus or minus 3% versus about $125B consensus, assuming no data center compute revenue from China, but guided gross margin down to 71% to 72% from about 74.8%. It was the first report under interim CEO Colette Kress; shares rose roughly 2% to 4% after hours (above $160) after closing down 0.4%, a smaller move than the roughly 8% options had priced.",
+ "summary": "Nvidia reported fiscal Q3 2027 revenue of $115.8B, up 103% y/y, vs about $108.9B expected, and adjusted EPS of $2.68 vs $2.47. It guided Q4 revenue to $130B plus or minus 3% vs about $125B consensus, assuming no China data center compute revenue, with gross margin guided down to 71% to 72% from about 74.8%. On the call, interim CEO Colette Kress said Vera Rubin generated nearly $20B in its first quarter of shipments and lifted the fiscal 2028 revenue growth outlook to about 75% from 70%, with demand far exceeding supply; China sales of approved products were about $2.4B. Shares rose about 2% to 5% after hours.",
  "tickers": [
   "NVDA",
   "MU",
@@ -18,7 +18,8 @@
   "GOOGL",
   "SMH"
  ],
- "title": "Nvidia Q3 revenue $115.8B (+103%), guides Q4 to $130B; shares up after hours",
+ "title": "Nvidia beats, guides Q4 to $130B and lifts FY28 growth view to ~75%",
  "tone": "positive",
+ "updatedAt": "2026-11-18T04:25:00Z",
  "url": "https://www.stocktitan.net/news/NVDA/nvidia-announces-financial-results-for-third-quarter-fiscal-fpx9dw5egxqa.html"
 }

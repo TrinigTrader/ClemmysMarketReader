@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$22.02 (4.3%)",
  "name": "MICROSOFT",
  "sector": "Technology",
- "marketCap": "$3.85T",
+ "marketCap": "$3.76T",
  "maxPain": "$525",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-4.66%"
  },
  "price": 506.24,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

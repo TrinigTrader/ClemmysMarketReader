@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$2.32 (10.4%)",
  "name": "OKLO",
  "sector": "Utilities",
- "marketCap": "$4.5B",
+ "marketCap": "$4.37B",
  "maxPain": "$24.5",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "+16.51%"
  },
  "price": 22.37,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

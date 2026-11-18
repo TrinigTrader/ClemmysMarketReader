@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.96 (6.7%)",
  "name": "SOFI TECHNOLOGIES",
  "sector": "Financial Services",
- "marketCap": "$19.27B",
+ "marketCap": "$18.53B",
  "maxPain": "$16",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-1.24%"
  },
  "price": 14.28,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }

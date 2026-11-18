@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$4.53 (3.8%)",
  "name": "CITIGROUP",
  "sector": "Financial Services",
- "marketCap": "$200.81B",
+ "marketCap": "$198.53B",
  "maxPain": "$123",
  "maxPainExpiry": "2026-11-13",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-9.08%"
  },
  "price": 119.94,
- "fetchedAt": "2026-11-18T00:03:05Z"
+ "fetchedAt": "2026-11-18T06:02:54Z"
 }
