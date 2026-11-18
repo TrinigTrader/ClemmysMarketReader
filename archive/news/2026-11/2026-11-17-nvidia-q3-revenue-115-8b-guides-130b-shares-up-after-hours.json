@@ -1,0 +1,24 @@
+{
+ "addedAt": "2026-11-17T22:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-18T00:11:19Z",
+ "cat": "AI & tech",
+ "impact": "A clean beat and raise eases fears that AI demand is cracking, which supports the memory names (MU, DRAM, SNXX) and AI infrastructure (NBIS) after a heavy November selloff, and backs the capex story for MSFT and GOOGL. The lower margin guide and the extra week in Q4 temper it, so watch whether the after-hours gain holds at Wednesday's open.",
+ "level": "High",
+ "published": "2026-11-17T21:20:00Z",
+ "source": "Nvidia release via StockTitan / Investing.com / FXStreet / Motley Fool",
+ "summary": "Nvidia reported fiscal Q3 2027 revenue of $115.8B, up 103% y/y and 20% q/q, versus about $108.9B expected, with adjusted EPS of $2.68 vs $2.47 expected. It guided Q4 revenue to $130B plus or minus 3% versus about $125B consensus, assuming no data center compute revenue from China, but guided gross margin down to 71% to 72% from about 74.8%. It was the first report under interim CEO Colette Kress; shares rose roughly 2% to 4% after hours (above $160) after closing down 0.4%, a smaller move than the roughly 8% options had priced.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "DRAM",
+  "SNXX",
+  "NBIS",
+  "MSFT",
+  "GOOGL",
+  "SMH"
+ ],
+ "title": "Nvidia Q3 revenue $115.8B (+103%), guides Q4 to $130B; shares up after hours",
+ "tone": "positive",
+ "url": "https://www.stocktitan.net/news/NVDA/nvidia-announces-financial-results-for-third-quarter-fiscal-fpx9dw5egxqa.html"
+}

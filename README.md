@@ -87,7 +87,8 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
-- 2026-11-17 [Low] Stocks lose ground before Nvidia; Nasdaq 100 on track for worst November since 2008 (QQQ, SPY, NVDA)
+- 2026-11-17 [High] Nvidia Q3 revenue $115.8B (+103%), guides Q4 to $130B; shares up after hours (NVDA, MU, DRAM, SNXX, NBIS, MSFT, GOOGL, SMH)
+- 2026-11-17 [Low] Dow drops 849 points, S&P 500 at lowest close since July before Nvidia (QQQ, SPY, NVDA)
 - 2026-11-17 [Low] Home Depot beats with comps up 2.2%, names Richard McPhail CEO (HD, XRT)
 - 2026-11-17 [Medium] Nvidia cuts Intel stake by 25%; Intel falls 3.3% premarket (INTC, NVDA)
 - 2026-11-17 [Low] US futures slip 0.4% ahead of Nvidia results after Monday's chip rout (SPY, QQQ, NVDA, SOXX)

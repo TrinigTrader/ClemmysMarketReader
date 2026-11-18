@@ -1,10 +1,10 @@
 {
  "ticker": "SKM",
  "url": "https://unusualwhales.com/stock/SKM/overview",
- "iv": "54.2%",
+ "iv": "55.1%",
  "ivExpiry": "2026-12-18",
- "ivRank1y": "53.8",
- "impliedMove": "\u00b1$3.76 (11.1%)",
+ "ivRank1y": "51.5",
+ "impliedMove": "\u00b1$3.81 (11.2%)",
  "name": "SK TELECOM CO",
  "sector": "Communication Services",
  "marketCap": "$12.77B",
@@ -17,8 +17,8 @@
   "lastReport": "Apr 26, 2017",
   "lastEps": "0.81",
   "lastNextDayMove": "-3.13%",
-  "sinceLastReport": "-1.09%"
+  "sinceLastReport": "-0.75%"
  },
- "price": 33.855,
- "fetchedAt": "2026-11-17T18:02:38Z"
+ "price": 33.97,
+ "fetchedAt": "2026-11-18T00:03:05Z"
 }
