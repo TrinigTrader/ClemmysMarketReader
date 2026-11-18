@@ -1,15 +1,15 @@
 {
  "ticker": "SLV",
  "url": "https://unusualwhales.com/stock/SLV/overview",
- "iv": "43.7%",
+ "iv": "47.3%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "13.7",
- "impliedMove": "\u00b1$2.08 (4.9%)",
+ "ivRank1y": "17.1",
+ "impliedMove": "\u00b1$2.07 (5.1%)",
  "name": "ISHARES SILVER TRUST",
  "sector": null,
  "marketCap": "$24.09B",
- "maxPain": "$46",
- "maxPainExpiry": "2026-11-13",
+ "maxPain": "$44.5",
+ "maxPainExpiry": "2026-11-16",
  "earnings": {
   "next": null,
   "time": null,
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 42.64,
- "fetchedAt": "2026-11-18T12:02:47Z"
+ "price": 40.65,
+ "fetchedAt": "2026-11-18T18:03:09Z"
 }

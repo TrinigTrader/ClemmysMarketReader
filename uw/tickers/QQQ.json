@@ -1,15 +1,15 @@
 {
  "ticker": "QQQ",
  "url": "https://unusualwhales.com/stock/QQQ/overview",
- "iv": "35.6%",
+ "iv": "32.9%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "85.9",
- "impliedMove": "\u00b1$26.08 (4.0%)",
+ "ivRank1y": "75.0",
+ "impliedMove": "\u00b1$23.10 (3.5%)",
  "name": "INVESCO QQQ ",
  "sector": null,
- "marketCap": "$462.85B",
- "maxPain": "$686",
- "maxPainExpiry": "2026-11-13",
+ "marketCap": "$457.88B",
+ "maxPain": "$680",
+ "maxPainExpiry": "2026-11-16",
  "earnings": {
   "next": null,
   "time": null,
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 656.95,
- "fetchedAt": "2026-11-18T12:02:47Z"
+ "price": 659.35,
+ "fetchedAt": "2026-11-18T18:03:09Z"
 }

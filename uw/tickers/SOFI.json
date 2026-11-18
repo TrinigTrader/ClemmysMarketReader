@@ -1,15 +1,15 @@
 {
  "ticker": "SOFI",
  "url": "https://unusualwhales.com/stock/SOFI/overview",
- "iv": "58.9%",
+ "iv": "55.7%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "39.0",
- "impliedMove": "\u00b1$0.96 (6.7%)",
+ "ivRank1y": "35.2",
+ "impliedMove": "\u00b1$0.86 (6.0%)",
  "name": "SOFI TECHNOLOGIES",
  "sector": "Financial Services",
  "marketCap": "$18.53B",
  "maxPain": "$16",
- "maxPainExpiry": "2026-11-13",
+ "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Jan 29, 2027",
   "time": "unknown",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 27, 2026",
   "lastEps": "0.18",
   "lastNextDayMove": "+13.42%",
-  "sinceLastReport": "-1.24%"
+  "sinceLastReport": "-0.76%"
  },
- "price": 14.28,
- "fetchedAt": "2026-11-18T12:02:47Z"
+ "price": 14.35,
+ "fetchedAt": "2026-11-18T18:03:09Z"
 }

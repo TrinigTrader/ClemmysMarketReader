@@ -84,9 +84,12 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 - 2026-11-16: Published as artifact v47 ("Re-screen 16 Nov"). IBKR was flaky (many 503s; retried until all 25 underlyings loaded). SPY $747.95 (−0.9%), IV 16.0% vs HV 13.7%. S&P 500 closed 13 Nov at 7,561.67 (−0.4%, +2.5% on the week). Nvidia reports ~Nov 18 after close (est.); Anthropic IPO this week. Brent ~$96.30, gold −0.9%. December Fed hike priced near-certain. Bitcoin ~$73k on 14 Nov. No live option bid/
 - 2026-11-17: Published as artifact v48 ("Re-screen 17 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 16 Nov at 7,416.59 (−1.92%); Nasdaq 24,509.76 (−2.49%, correction territory). SPY $738.59, IV 18.2%. Nvidia reports today Nov 17 after the close (confirmed). Anthropic IPO expected to start trading Thursday. No live option bid/ask at 9:40 ET; W uses IBKR model values as 
+- 2026-11-18: Published as artifact v49 ("Re-screen 18 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 17 Nov at 7,340.53 (−1.03%, fourth straight loss, lowest close since July); Dow −849; Nasdaq 24,328.38 (−0.74%). Nvidia Q3 FY27 revenue $115.8bn (+103%), Q4 guide $130bn (no China data-center sales assumed). Futures rose overnight but SPY $730.95 (−0.2%) at 9:42 ET; IV 2
 
 ### News headlines (last 30 days)
 
+- 2026-11-18 [Low] Nvidia bounce fizzles; Dow down ~625 points midday before Fed minutes (NVDA, SMH, QQQ)
+- 2026-11-18 [Low] Lowe's beats with comps up 1.8%, lifts sales outlook; shares slip premarket (LOW, XRT)
 - 2026-11-18 [Low] Target comps jump 5.6%, raises guidance; tariff refund adds ~50 cents EPS (TGT, XRT)
 - 2026-11-18 [Low] Nasdaq futures up about 1% as Nvidia rises ~3% premarket; Fed minutes, Anthropic pricing today (QQQ, SPY, NVDA)
 - 2026-11-18 [Low] Kospi's Nvidia rally fades: opened up 3%, slipped by late morning (EWY, SMH)
