@@ -87,6 +87,8 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-18 [Low] Target comps jump 5.6%, raises guidance; tariff refund adds ~50 cents EPS (TGT, XRT)
+- 2026-11-18 [Low] Nasdaq futures up about 1% as Nvidia rises ~3% premarket; Fed minutes, Anthropic pricing today (QQQ, SPY, NVDA)
 - 2026-11-18 [Low] Kospi's Nvidia rally fades: opened up 3%, slipped by late morning (EWY, SMH)
 - 2026-11-17 [High] Nvidia beats, guides Q4 to $130B and lifts FY28 growth view to ~75% (NVDA, MU, DRAM, SNXX, NBIS, MSFT, GOOGL, SMH)
 - 2026-11-17 [Medium] Jensen Huang says he would be honored to return as Nvidia CEO (NVDA)

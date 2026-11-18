@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-18T06:02:54Z",
+ "fetchedAt": "2026-11-18T12:02:47Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -2497,6 +2497,12 @@
  },
  "news": [
   {
+   "title": "Mary Peltola Wins the Alaska Senate Race, Defeating Dan Sullivan",
+   "published": "2026-11-18T10:15:49.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/peltola-wins-alaska-senate-race-defeats-sullivan-ap"
+  },
+  {
    "title": "The Pentagon Has Failed Its Financial Audit for the Ninth Year in a Row",
    "published": "2026-11-18T03:58:50.000+00:00",
    "tags": null,
@@ -2609,12 +2615,6 @@
    "published": "2026-11-17T10:28:15.000+00:00",
    "tags": null,
    "url": "https://unusualwhales.com/news/google-era-autonomous-attacks-ai-hackers-threat-intelligence"
-  },
-  {
-   "title": "The Biggest Risk to Nvidia Was Jensen Huang Himself, per Business Insider",
-   "published": "2026-11-17T10:21:33.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/biggest-risk-nvidia-jensen-huang-himself-business-insider"
   }
  ],
  "tickers": [
@@ -2640,7 +2640,7 @@
     "sinceLastReport": "+4.03%"
    },
    "price": 503.41,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "BAC",
@@ -2664,7 +2664,7 @@
     "sinceLastReport": "-8.38%"
    },
    "price": 49.44,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "BE",
@@ -2688,7 +2688,7 @@
     "sinceLastReport": "-20.35%"
    },
    "price": 173.46,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "C",
@@ -2712,7 +2712,7 @@
     "sinceLastReport": "-9.08%"
    },
    "price": 119.94,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "CCL",
@@ -2736,7 +2736,7 @@
     "sinceLastReport": "+27.19%"
    },
    "price": 28.16,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "CSCO",
@@ -2760,7 +2760,7 @@
     "sinceLastReport": "-6.76%"
    },
    "price": 95.11,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "DRAM",
@@ -2784,7 +2784,7 @@
     "sinceLastReport": null
    },
    "price": 38.93,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "F",
@@ -2808,7 +2808,7 @@
     "sinceLastReport": "-5.10%"
    },
    "price": 11.34,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "GDX",
@@ -2832,7 +2832,7 @@
     "sinceLastReport": null
    },
    "price": 79.57,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "GOOGL",
@@ -2856,7 +2856,7 @@
     "sinceLastReport": "-13.76%"
    },
    "price": 280.2,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "HIMS",
@@ -2880,7 +2880,7 @@
     "sinceLastReport": "-23.50%"
    },
    "price": 17.55,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "HOOD",
@@ -2904,7 +2904,7 @@
     "sinceLastReport": "-26.83%"
    },
    "price": 69.19,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "INTC",
@@ -2928,7 +2928,7 @@
     "sinceLastReport": "-40.08%"
    },
    "price": 55.17,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "IONQ",
@@ -2952,7 +2952,7 @@
     "sinceLastReport": "-6.02%"
    },
    "price": 24.84,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "MARA",
@@ -2976,7 +2976,7 @@
     "sinceLastReport": "-3.31%"
    },
    "price": 6.42,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "MSFT",
@@ -3000,7 +3000,7 @@
     "sinceLastReport": "-4.66%"
    },
    "price": 506.24,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "MU",
@@ -3024,7 +3024,7 @@
     "sinceLastReport": "-33.11%"
    },
    "price": 712.42,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "NBIS",
@@ -3048,7 +3048,7 @@
     "sinceLastReport": "-31.45%"
    },
    "price": 106.035,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "NOK",
@@ -3072,7 +3072,7 @@
     "sinceLastReport": "-17.95%"
    },
    "price": 7.59,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "NVDA",
@@ -3096,7 +3096,7 @@
     "sinceLastReport": "0.00%"
    },
    "price": 155.46,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "OKLO",
@@ -3120,7 +3120,7 @@
     "sinceLastReport": "+16.51%"
    },
    "price": 22.37,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "PFE",
@@ -3144,7 +3144,7 @@
     "sinceLastReport": "-7.17%"
    },
    "price": 28.47,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "PLTR",
@@ -3168,7 +3168,7 @@
     "sinceLastReport": "-12.21%"
    },
    "price": 156.56,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "PYPL",
@@ -3192,7 +3192,7 @@
     "sinceLastReport": "+5.67%"
    },
    "price": 58.11,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "QQQ",
@@ -3216,7 +3216,7 @@
     "sinceLastReport": null
    },
    "price": 656.95,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "RKLB",
@@ -3240,7 +3240,7 @@
     "sinceLastReport": "-6.47%"
    },
    "price": 55.05,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SKM",
@@ -3264,7 +3264,7 @@
     "sinceLastReport": "-0.75%"
    },
    "price": 33.97,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SLV",
@@ -3288,7 +3288,7 @@
     "sinceLastReport": null
    },
    "price": 42.64,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SNXX",
@@ -3312,7 +3312,7 @@
     "sinceLastReport": null
    },
    "price": 2.87,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SOFI",
@@ -3336,7 +3336,7 @@
     "sinceLastReport": "-1.24%"
    },
    "price": 14.28,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SOUN",
@@ -3360,7 +3360,7 @@
     "sinceLastReport": "-28.17%"
    },
    "price": 3.06,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "SPY",
@@ -3384,7 +3384,7 @@
     "sinceLastReport": null
    },
    "price": 732.44,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   },
   {
    "ticker": "UBER",
@@ -3408,7 +3408,7 @@
     "sinceLastReport": "+3.32%"
    },
    "price": 68.81,
-   "fetchedAt": "2026-11-18T06:02:54Z"
+   "fetchedAt": "2026-11-18T12:02:47Z"
   }
  ],
  "errors": []
