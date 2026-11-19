@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-18T18:03:09Z",
+ "fetchedAt": "2026-11-19T00:02:56Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -2497,6 +2497,78 @@
  },
  "news": [
   {
+   "title": "About 1 in 5 Salaried Workers Say They Will Take Time Off for GTA VI",
+   "published": "2026-11-18T20:08:54.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/workers-take-time-off-gta-vi-launch-bamboohr-usa-today"
+  },
+  {
+   "title": "Trump Has \"Grown Frustrated\" With Vance Over the Iran War and the Midterms",
+   "published": "2026-11-18T20:06:13.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/trump-frustrated-vance-iran-war-midterm-losses-nyt"
+  },
+  {
+   "title": "Renaissance Technologies Sold Almost All of Its Nvidia Stake",
+   "published": "2026-11-18T20:03:32.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/renaissance-technologies-sold-almost-all-nvidia-stake-13f"
+  },
+  {
+   "title": "Vance Says the Government Is Preparing for \"Worst Outcomes\" Amid the Outages",
+   "published": "2026-11-18T20:00:49.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/vance-government-preparing-worst-outcomes-outages-fox"
+  },
+  {
+   "title": "Anthropic's IPO Has Drawn Nearly $500 Billion in Orders",
+   "published": "2026-11-18T19:57:50.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/anthropic-ipo-500-billion-investor-orders-cnbc"
+  },
+  {
+   "title": "Senators Say AI Cyber Threats Are Outpacing Defenses",
+   "published": "2026-11-18T19:55:29.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/senators-ai-cyber-threats-outpacing-defenses-reuters"
+  },
+  {
+   "title": "A Ransomware Group Has Listed Nvidia on Its Extortion Site",
+   "published": "2026-11-18T19:52:16.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/ransomware-group-the-gentlemen-lists-nvidia-extortion-site-cybernews"
+  },
+  {
+   "title": "Nvidia Introduced Alibaba to Alice Huang, Per The Information",
+   "published": "2026-11-18T19:49:22.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/nvidia-introduced-alibaba-alice-huang-information"
+  },
+  {
+   "title": "Trump, Putin and Xi Have Held the First Ever Trilateral Meeting",
+   "published": "2026-11-18T19:43:44.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/trump-putin-xi-first-trilateral-meeting-shenzhen"
+  },
+  {
+   "title": "Iran Has Launched Strikes Against Kuwait and Bahrain",
+   "published": "2026-11-18T19:40:42.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/iran-launches-strikes-kuwait-bahrain-wsj"
+  },
+  {
+   "title": "An AI Agent Found a Critical Flaw in Java in About an Hour",
+   "published": "2026-11-18T19:38:36.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/ai-uncovers-java4shell-critical-flaw-openjdk"
+  },
+  {
+   "title": "GTA 6 Pre-Orders Have Already Passed $1.5 Billion",
+   "published": "2026-11-18T19:36:28.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/gta-6-preorders-surpass-1-5-billion-cnn"
+  },
+  {
    "title": "Mary Peltola Wins the Alaska Senate Race, Defeating Dan Sullivan",
    "published": "2026-11-18T10:15:49.000+00:00",
    "tags": null,
@@ -2543,88 +2615,16 @@
    "published": "2026-11-18T03:44:13.000+00:00",
    "tags": null,
    "url": "https://unusualwhales.com/news/huang-willing-return-nvidia-ceo-if-asked-wsj"
-  },
-  {
-   "title": "NSA's Classified Internal Network, NSA Net, Is Down, per CNN",
-   "published": "2026-11-18T03:40:46.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/nsa-net-classified-network-down-cnn"
-  },
-  {
-   "title": "Charles Schwab Website Down for Some Users as Akamai Reports Problems",
-   "published": "2026-11-18T03:37:10.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/charles-schwab-website-down-akamai-load-balancer"
-  },
-  {
-   "title": "Michael Burry Says Anthropic Is Betting Its Entire Existence on Optimism",
-   "published": "2026-11-18T03:34:30.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/michael-burry-anthropic-betting-entire-existence-optimism"
-  },
-  {
-   "title": "Anthropic Says IPO Pricing Is Unchanged at $70 to $78 Per Share",
-   "published": "2026-11-18T03:28:54.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/anthropic-ipo-pricing-unchanged-70-to-78-per-share"
-  },
-  {
-   "title": "Cantor Fitzgerald's Reported Nvidia Share Count Fell by Nearly Half During the Lutnick Chip Smuggling Pressure Period",
-   "published": "2026-11-18T03:25:59.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/cantor-fitzgerald-nvidia-share-count-fell-half-lutnick-cnbc"
-  },
-  {
-   "title": "Hackers Planted Malware on Websites of at Least 178 Major Organizations Through an Optimizely Flaw",
-   "published": "2026-11-18T03:23:19.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/hackers-malware-178-organizations-optimizely-flaw-report-uri"
-  },
-  {
-   "title": "Nationwide Emergency Alert Test Set for Tuesday at 2:20 PM ET, Officials Say Do Not Be Alarmed",
-   "published": "2026-11-18T03:20:48.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/nationwide-emergency-alert-test-tuesday-220-pm-et-cnn"
-  },
-  {
-   "title": "Senior Nvidia Employee Warns Board: Bring Back Huang or Lose Irreplaceable Talent",
-   "published": "2026-11-18T03:18:48.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/nvidia-employee-letter-board-reinstate-huang-irreplaceable-talent-wsj"
-  },
-  {
-   "title": "US Babies Are Being Born With Measles for the First Time in Decades",
-   "published": "2026-11-18T03:16:50.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/us-babies-born-with-measles-first-time-decades-ap"
-  },
-  {
-   "title": "Deutsche Bank Sent 1,586 Private Bank Clients' Tax Statements to One Accountant",
-   "published": "2026-11-18T03:14:06.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/deutsche-bank-sent-1586-clients-tax-statements-one-accountant-ft"
-  },
-  {
-   "title": "Iran Is Developing Plans to Target Senior Trump Officials With a Dirty Bomb or Chemical Weapon in Washington, per CNN",
-   "published": "2026-11-17T10:29:51.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/iran-plans-dirty-bomb-chemical-weapon-trump-officials-cnn"
-  },
-  {
-   "title": "Google Says \"the Era of Autonomous Attacks Has Arrived\" as Hackers Use AI to Turn Patches Into Exploits",
-   "published": "2026-11-17T10:28:15.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/google-era-autonomous-attacks-ai-hackers-threat-intelligence"
   }
  ],
  "tickers": [
   {
    "ticker": "AMD",
    "url": "https://unusualwhales.com/stock/AMD/overview",
-   "iv": "82.9%",
+   "iv": "78.2%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "67.3",
-   "impliedMove": "\u00b1$45.56 (8.8%)",
+   "ivRank1y": "63.5",
+   "impliedMove": "\u00b1$43.82 (8.3%)",
    "name": "ADVANCED MICRO DEVICES",
    "sector": "Technology",
    "marketCap": "$825.64B",
@@ -2637,18 +2637,18 @@
     "lastReport": "Nov 3, 2026",
     "lastEps": "1.84",
     "lastNextDayMove": "+1.01%",
-    "sinceLastReport": "+6.78%"
+    "sinceLastReport": "+9.56%"
    },
-   "price": 516.73,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 530.14,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "BAC",
    "url": "https://unusualwhales.com/stock/BAC/overview",
-   "iv": "28.3%",
+   "iv": "27.9%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "43.6",
-   "impliedMove": "\u00b1$1.47 (3.0%)",
+   "ivRank1y": "45.1",
+   "impliedMove": "\u00b1$1.45 (3.0%)",
    "name": "BANK OF AMERICA",
    "sector": "Financial Services",
    "marketCap": "$341.15B",
@@ -2661,18 +2661,18 @@
     "lastReport": "Oct 14, 2026",
     "lastEps": "1.08",
     "lastNextDayMove": "-4.76%",
-    "sinceLastReport": "-9.17%"
+    "sinceLastReport": "-9.36%"
    },
-   "price": 49.01,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 48.91,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "BE",
    "url": "https://unusualwhales.com/stock/BE/overview",
-   "iv": "103.6%",
+   "iv": "102.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "21.4",
-   "impliedMove": "\u00b1$19.04 (11.0%)",
+   "ivRank1y": "23.1",
+   "impliedMove": "\u00b1$18.57 (10.8%)",
    "name": "BLOOM ENERGY",
    "sector": "Industrials",
    "marketCap": "$51.28B",
@@ -2685,18 +2685,18 @@
     "lastReport": "Oct 22, 2026",
     "lastEps": "0.76",
     "lastNextDayMove": "-11.24%",
-    "sinceLastReport": "-20.48%"
+    "sinceLastReport": "-21.49%"
    },
-   "price": 173.1699,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 170.98,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "C",
    "url": "https://unusualwhales.com/stock/C/overview",
-   "iv": "34.8%",
+   "iv": "32.6%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "36.8",
-   "impliedMove": "\u00b1$4.39 (3.7%)",
+   "ivRank1y": "33.5",
+   "impliedMove": "\u00b1$4.07 (3.5%)",
    "name": "CITIGROUP",
    "sector": "Financial Services",
    "marketCap": "$198.53B",
@@ -2709,18 +2709,18 @@
     "lastReport": "Oct 13, 2026",
     "lastEps": "2.85",
     "lastNextDayMove": "-5.60%",
-    "sinceLastReport": "-10.40%"
+    "sinceLastReport": "-11.05%"
    },
-   "price": 118.195,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 117.34,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "CCL",
    "url": "https://unusualwhales.com/stock/CCL/overview",
    "iv": "41.2%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "47.8",
-   "impliedMove": "\u00b1$1.30 (4.4%)",
+   "ivRank1y": "42.7",
+   "impliedMove": "\u00b1$1.26 (4.4%)",
    "name": "CARNIVAL",
    "sector": "Consumer Cyclical",
    "marketCap": "$37.86B",
@@ -2733,18 +2733,18 @@
     "lastReport": "Sep 29, 2026",
     "lastEps": "1.43",
     "lastNextDayMove": "+13.41%",
-    "sinceLastReport": "+32.35%"
+    "sinceLastReport": "+30.85%"
    },
-   "price": 29.3033,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 28.97,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "CSCO",
    "url": "https://unusualwhales.com/stock/CSCO/overview",
-   "iv": "37.1%",
+   "iv": "35.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "43.7",
-   "impliedMove": "\u00b1$3.83 (4.0%)",
+   "ivRank1y": "45.6",
+   "impliedMove": "\u00b1$3.62 (3.7%)",
    "name": "CISCO SYSTEMS",
    "sector": "Technology",
    "marketCap": "$374.97B",
@@ -2757,18 +2757,18 @@
     "lastReport": "Nov 12, 2026",
     "lastEps": "1.21",
     "lastNextDayMove": "-6.24%",
-    "sinceLastReport": "-5.23%"
+    "sinceLastReport": "-4.73%"
    },
-   "price": 96.675,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 97.18,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "DRAM",
    "url": "https://unusualwhales.com/stock/DRAM/overview",
-   "iv": "84.5%",
+   "iv": "81.3%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "51.2",
-   "impliedMove": "\u00b1$3.51 (9.0%)",
+   "ivRank1y": "51.7",
+   "impliedMove": "\u00b1$3.37 (8.6%)",
    "name": "Roundhill Memory ETF",
    "sector": null,
    "marketCap": "$286.48K",
@@ -2783,16 +2783,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 38.92,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 39.15,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "F",
    "url": "https://unusualwhales.com/stock/F/overview",
-   "iv": "31.4%",
+   "iv": "31.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "38.4",
-   "impliedMove": "\u00b1$0.39 (3.4%)",
+   "ivRank1y": "46.1",
+   "impliedMove": "\u00b1$0.41 (3.6%)",
    "name": "FORD",
    "sector": "Consumer Cyclical",
    "marketCap": "$44.48B",
@@ -2805,18 +2805,18 @@
     "lastReport": "Oct 28, 2026",
     "lastEps": "0.49",
     "lastNextDayMove": "+3.43%",
-    "sinceLastReport": "-4.94%"
+    "sinceLastReport": "-5.61%"
    },
-   "price": 11.36,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 11.28,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "GDX",
    "url": "https://unusualwhales.com/stock/GDX/overview",
-   "iv": "49.1%",
+   "iv": "47.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "41.9",
-   "impliedMove": "\u00b1$3.87 (5.2%)",
+   "ivRank1y": "36.5",
+   "impliedMove": "\u00b1$3.73 (5.0%)",
    "name": "VANECK GOLD MINERS ETF",
    "sector": null,
    "marketCap": "$24.14B",
@@ -2831,16 +2831,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 74.23,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 74.82,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "GOOGL",
    "url": "https://unusualwhales.com/stock/GOOGL/overview",
-   "iv": "37.1%",
+   "iv": "36.8%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "55.9",
-   "impliedMove": "\u00b1$11.11 (4.0%)",
+   "ivRank1y": "55.3",
+   "impliedMove": "\u00b1$10.99 (3.9%)",
    "name": "ALPHABET",
    "sector": "Communication Services",
    "marketCap": "$1.65T",
@@ -2853,18 +2853,18 @@
     "lastReport": "Oct 28, 2026",
     "lastEps": "2.12",
     "lastNextDayMove": "-12.64%",
-    "sinceLastReport": "-13.39%"
+    "sinceLastReport": "-13.07%"
    },
-   "price": 281.375,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 282.44,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "HIMS",
    "url": "https://unusualwhales.com/stock/HIMS/overview",
-   "iv": "77.8%",
+   "iv": "74.2%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "32.2",
-   "impliedMove": "\u00b1$1.46 (8.4%)",
+   "ivRank1y": "31.3",
+   "impliedMove": "\u00b1$1.34 (7.8%)",
    "name": "HIMS & HERS HEALTH",
    "sector": "Consumer Defensive",
    "marketCap": "$3.97B",
@@ -2877,18 +2877,18 @@
     "lastReport": "Nov 9, 2026",
     "lastEps": "0.03",
     "lastNextDayMove": "-16.61%",
-    "sinceLastReport": "-23.84%"
+    "sinceLastReport": "-25.68%"
    },
-   "price": 17.47,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 17.05,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "HOOD",
    "url": "https://unusualwhales.com/stock/HOOD/overview",
-   "iv": "74.4%",
+   "iv": "71.0%",
    "ivExpiry": "2026-11-27",
    "ivRank1y": "50.0",
-   "impliedMove": "\u00b1$5.46 (7.9%)",
+   "impliedMove": "\u00b1$5.19 (7.5%)",
    "name": "ROBINHOOD",
    "sector": "Technology",
    "marketCap": "$54.9B",
@@ -2901,18 +2901,18 @@
     "lastReport": "Oct 27, 2026",
     "lastEps": "0.6",
     "lastNextDayMove": "-3.31%",
-    "sinceLastReport": "-26.81%"
+    "sinceLastReport": "-26.85%"
    },
-   "price": 69.21,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 69.17,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "INTC",
    "url": "https://unusualwhales.com/stock/INTC/overview",
-   "iv": "81.0%",
+   "iv": "78.2%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "49.5",
-   "impliedMove": "\u00b1$4.68 (8.6%)",
+   "ivRank1y": "47.9",
+   "impliedMove": "\u00b1$4.54 (8.3%)",
    "name": "INTEL",
    "sector": "Technology",
    "marketCap": "$293.23B",
@@ -2925,18 +2925,18 @@
     "lastReport": "Oct 29, 2026",
     "lastEps": "0.41",
     "lastNextDayMove": "-28.58%",
-    "sinceLastReport": "-40.76%"
+    "sinceLastReport": "-40.62%"
    },
-   "price": 54.54,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 54.67,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "IONQ",
    "url": "https://unusualwhales.com/stock/IONQ/overview",
-   "iv": "92.3%",
+   "iv": "94.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "47.4",
-   "impliedMove": "\u00b1$2.35 (9.9%)",
+   "ivRank1y": "48.2",
+   "impliedMove": "\u00b1$2.33 (10.0%)",
    "name": "IONQ",
    "sector": "Technology",
    "marketCap": "$10.74B",
@@ -2945,22 +2945,22 @@
    "earnings": {
     "next": "Feb 24, 2027",
     "time": "unknown",
-    "epsEst": "-0.79",
+    "epsEst": "-0.94",
     "lastReport": "Nov 5, 2026",
     "lastEps": "-0.67",
     "lastNextDayMove": "+23.42%",
-    "sinceLastReport": "-9.70%"
+    "sinceLastReport": "-11.16%"
    },
-   "price": 23.865,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 23.48,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "MARA",
    "url": "https://unusualwhales.com/stock/MARA/overview",
-   "iv": "106.4%",
+   "iv": "104.6%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "45.2",
-   "impliedMove": "\u00b1$0.74 (11.3%)",
+   "ivRank1y": "43.5",
+   "impliedMove": "\u00b1$0.72 (11.0%)",
    "name": "MARATHON DIGITAL",
    "sector": "Financial Services",
    "marketCap": "$2.49B",
@@ -2969,22 +2969,22 @@
    "earnings": {
     "next": "Feb 25, 2027",
     "time": "unknown",
-    "epsEst": "-0.39",
+    "epsEst": "-0.38",
     "lastReport": "Nov 9, 2026",
     "lastEps": "-0.5",
     "lastNextDayMove": "+10.54%",
-    "sinceLastReport": "-0.45%"
+    "sinceLastReport": "-1.20%"
    },
-   "price": 6.61,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 6.56,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "MSFT",
    "url": "https://unusualwhales.com/stock/MSFT/overview",
-   "iv": "35.8%",
+   "iv": "34.3%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "52.8",
-   "impliedMove": "\u00b1$19.23 (3.8%)",
+   "ivRank1y": "50.3",
+   "impliedMove": "\u00b1$18.45 (3.6%)",
    "name": "MICROSOFT",
    "sector": "Technology",
    "marketCap": "$3.76T",
@@ -2997,18 +2997,18 @@
     "lastReport": "Oct 28, 2026",
     "lastEps": "4.89",
     "lastNextDayMove": "-0.16%",
-    "sinceLastReport": "-4.94%"
+    "sinceLastReport": "-4.28%"
    },
-   "price": 504.76,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 508.29,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "MU",
    "url": "https://unusualwhales.com/stock/MU/overview",
-   "iv": "86.0%",
+   "iv": "82.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "51.7",
-   "impliedMove": "\u00b1$64.10 (9.2%)",
+   "ivRank1y": "47.8",
+   "impliedMove": "\u00b1$61.16 (8.7%)",
    "name": "MICRON TECHNOLOGY",
    "sector": "Technology",
    "marketCap": "$806.05B",
@@ -3021,18 +3021,18 @@
     "lastReport": "Sep 30, 2026",
     "lastEps": "33.19",
     "lastNextDayMove": "+3.03%",
-    "sinceLastReport": "-34.24%"
+    "sinceLastReport": "-33.78%"
    },
-   "price": 700.4,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 705.27,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "NBIS",
    "url": "https://unusualwhales.com/stock/NBIS/overview",
-   "iv": "119.3%",
+   "iv": "115.5%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "41.9",
-   "impliedMove": "\u00b1$13.70 (12.7%)",
+   "ivRank1y": "41.1",
+   "impliedMove": "\u00b1$13.05 (12.2%)",
    "name": "Nebius Group NV",
    "sector": "Communication Services",
    "marketCap": "$23.27B",
@@ -3045,18 +3045,18 @@
     "lastReport": "Nov 12, 2026",
     "lastEps": "0.3",
     "lastNextDayMove": "-16.84%",
-    "sinceLastReport": "-29.96%"
+    "sinceLastReport": "-30.86%"
    },
-   "price": 108.35,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 106.96,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "NOK",
    "url": "https://unusualwhales.com/stock/NOK/overview",
    "iv": "60.6%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "52.1",
-   "impliedMove": "\u00b1$0.49 (6.5%)",
+   "ivRank1y": "52.4",
+   "impliedMove": "\u00b1$0.49 (6.4%)",
    "name": "NOKIA",
    "sector": "Technology",
    "marketCap": "$43.58B",
@@ -3069,42 +3069,42 @@
     "lastReport": "Oct 22, 2026",
     "lastEps": "0.1",
     "lastNextDayMove": "-14.81%",
-    "sinceLastReport": "-18.22%"
+    "sinceLastReport": "-17.95%"
    },
-   "price": 7.565,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 7.59,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "NVDA",
    "url": "https://unusualwhales.com/stock/NVDA/overview",
-   "iv": "59.5%",
+   "iv": "55.9%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "67.5",
-   "impliedMove": "\u00b1$9.65 (6.4%)",
+   "ivRank1y": "60.8",
+   "impliedMove": "\u00b1$8.90 (5.9%)",
    "name": "NVIDIA",
    "sector": "Technology",
    "marketCap": "$3.75T",
    "maxPain": "$162.5",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
-    "next": null,
-    "time": null,
-    "epsEst": null,
+    "next": "Feb 24, 2027",
+    "time": "unknown",
+    "epsEst": "2.72",
     "lastReport": "Nov 17, 2026",
-    "lastEps": null,
-    "lastNextDayMove": null,
-    "sinceLastReport": "-2.35%"
+    "lastEps": "2.68",
+    "lastNextDayMove": "-2.96%",
+    "sinceLastReport": "-2.89%"
    },
-   "price": 151.8,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 150.96,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "OKLO",
    "url": "https://unusualwhales.com/stock/OKLO/overview",
-   "iv": "88.0%",
+   "iv": "82.3%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "46.7",
-   "impliedMove": "\u00b1$2.06 (9.4%)",
+   "ivRank1y": "45.7",
+   "impliedMove": "\u00b1$1.91 (8.7%)",
    "name": "OKLO",
    "sector": "Utilities",
    "marketCap": "$4.37B",
@@ -3117,18 +3117,18 @@
     "lastReport": "Nov 6, 2026",
     "lastEps": "-0.28",
     "lastNextDayMove": "+22.66%",
-    "sinceLastReport": "+14.31%"
+    "sinceLastReport": "+13.54%"
    },
-   "price": 21.9476,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 21.8,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "PFE",
    "url": "https://unusualwhales.com/stock/PFE/overview",
-   "iv": "24.8%",
+   "iv": "26.1%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "75.2",
-   "impliedMove": "\u00b1$0.76 (2.7%)",
+   "ivRank1y": "78.8",
+   "impliedMove": "\u00b1$0.77 (2.8%)",
    "name": "PFIZER",
    "sector": "Healthcare",
    "marketCap": "$162.27B",
@@ -3141,18 +3141,18 @@
     "lastReport": "Nov 3, 2026",
     "lastEps": "0.87",
     "lastNextDayMove": "-2.18%",
-    "sinceLastReport": "-8.02%"
+    "sinceLastReport": "-8.51%"
    },
-   "price": 28.21,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 28.06,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "PLTR",
    "url": "https://unusualwhales.com/stock/PLTR/overview",
-   "iv": "60.4%",
+   "iv": "58.5%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "52.5",
-   "impliedMove": "\u00b1$9.97 (6.4%)",
+   "ivRank1y": "49.9",
+   "impliedMove": "\u00b1$9.73 (6.2%)",
    "name": "PALANTIR",
    "sector": "Technology",
    "marketCap": "$361.14B",
@@ -3165,18 +3165,18 @@
     "lastReport": "Nov 2, 2026",
     "lastEps": "0.32",
     "lastNextDayMove": "-1.65%",
-    "sinceLastReport": "-12.93%"
+    "sinceLastReport": "-12.15%"
    },
-   "price": 155.285,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 156.67,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "PYPL",
    "url": "https://unusualwhales.com/stock/PYPL/overview",
-   "iv": "31.8%",
+   "iv": "28.5%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "19.5",
-   "impliedMove": "\u00b1$1.98 (3.4%)",
+   "ivRank1y": "19.8",
+   "impliedMove": "\u00b1$1.75 (3.0%)",
    "name": "PAYPAL",
    "sector": "Financial Services",
    "marketCap": "$48.27B",
@@ -3189,18 +3189,18 @@
     "lastReport": "Oct 27, 2026",
     "lastEps": "1.45",
     "lastNextDayMove": "+2.00%",
-    "sinceLastReport": "+6.09%"
+    "sinceLastReport": "+5.27%"
    },
-   "price": 58.34,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 57.89,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "QQQ",
    "url": "https://unusualwhales.com/stock/QQQ/overview",
    "iv": "32.9%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "75.0",
-   "impliedMove": "\u00b1$23.10 (3.5%)",
+   "ivRank1y": "75.5",
+   "impliedMove": "\u00b1$22.94 (3.5%)",
    "name": "INVESCO QQQ ",
    "sector": null,
    "marketCap": "$457.88B",
@@ -3215,16 +3215,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 659.35,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 659.51,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "RKLB",
    "url": "https://unusualwhales.com/stock/RKLB/overview",
-   "iv": "88.3%",
+   "iv": "86.7%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "47.1",
-   "impliedMove": "\u00b1$5.08 (9.4%)",
+   "ivRank1y": "44.0",
+   "impliedMove": "\u00b1$4.86 (9.2%)",
    "name": "ROCKET LAB USA",
    "sector": "Industrials",
    "marketCap": "$34.79B",
@@ -3233,22 +3233,22 @@
    "earnings": {
     "next": "Feb 25, 2027",
     "time": "unknown",
-    "epsEst": "-0.05",
+    "epsEst": "-0.04",
     "lastReport": "Nov 9, 2026",
     "lastEps": "-0.09",
     "lastNextDayMove": "+6.54%",
-    "sinceLastReport": "-8.11%"
+    "sinceLastReport": "-9.84%"
    },
-   "price": 54.0843,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 53.07,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SKM",
    "url": "https://unusualwhales.com/stock/SKM/overview",
-   "iv": "55.3%",
+   "iv": "56.1%",
    "ivExpiry": "2026-12-18",
-   "ivRank1y": "52.9",
-   "impliedMove": "\u00b1$3.63 (10.8%)",
+   "ivRank1y": "50.5",
+   "impliedMove": "\u00b1$3.83 (11.3%)",
    "name": "SK TELECOM CO",
    "sector": "Communication Services",
    "marketCap": "$13.02B",
@@ -3261,18 +3261,18 @@
     "lastReport": "Apr 26, 2017",
     "lastEps": "0.81",
     "lastNextDayMove": "-3.13%",
-    "sinceLastReport": "-1.92%"
+    "sinceLastReport": "-1.02%"
    },
-   "price": 33.57,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 33.88,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SLV",
    "url": "https://unusualwhales.com/stock/SLV/overview",
-   "iv": "47.3%",
+   "iv": "44.9%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "17.1",
-   "impliedMove": "\u00b1$2.07 (5.1%)",
+   "ivRank1y": "16.6",
+   "impliedMove": "\u00b1$1.95 (4.8%)",
    "name": "ISHARES SILVER TRUST",
    "sector": null,
    "marketCap": "$24.09B",
@@ -3287,16 +3287,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 40.65,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 40.7,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SNXX",
    "url": "https://unusualwhales.com/stock/SNXX/overview",
-   "iv": "203.4%",
+   "iv": "187.0%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "24.5",
-   "impliedMove": "\u00b1$0.65 (24.2%)",
+   "ivRank1y": "33.3",
+   "impliedMove": "\u00b1$0.60 (22.0%)",
    "name": "Tradr 2X Long SNDK Daily ETF",
    "sector": null,
    "marketCap": "$13.23M",
@@ -3311,16 +3311,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 2.6929,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 2.71,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SOFI",
    "url": "https://unusualwhales.com/stock/SOFI/overview",
-   "iv": "55.7%",
+   "iv": "56.8%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "35.2",
-   "impliedMove": "\u00b1$0.86 (6.0%)",
+   "ivRank1y": "33.0",
+   "impliedMove": "\u00b1$0.85 (6.0%)",
    "name": "SOFI TECHNOLOGIES",
    "sector": "Financial Services",
    "marketCap": "$18.53B",
@@ -3333,18 +3333,18 @@
     "lastReport": "Oct 27, 2026",
     "lastEps": "0.18",
     "lastNextDayMove": "+13.42%",
-    "sinceLastReport": "-0.76%"
+    "sinceLastReport": "-2.42%"
    },
-   "price": 14.35,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 14.11,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SOUN",
    "url": "https://unusualwhales.com/stock/SOUN/overview",
-   "iv": "72.6%",
+   "iv": "59.0%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "34.7",
-   "impliedMove": "\u00b1$0.23 (7.7%)",
+   "ivRank1y": "33.8",
+   "impliedMove": "\u00b1$0.19 (6.2%)",
    "name": "SOUNDHOUND AI",
    "sector": "Technology",
    "marketCap": "$1.39B",
@@ -3357,18 +3357,18 @@
     "lastReport": "Nov 5, 2026",
     "lastEps": "-0.1",
     "lastNextDayMove": "-3.52%",
-    "sinceLastReport": "-29.46%"
+    "sinceLastReport": "-29.34%"
    },
-   "price": 3.005,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 3.01,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "SPY",
    "url": "https://unusualwhales.com/stock/SPY/overview",
-   "iv": "21.1%",
+   "iv": "21.4%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "53.3",
-   "impliedMove": "\u00b1$16.43 (2.2%)",
+   "ivRank1y": "59.0",
+   "impliedMove": "\u00b1$16.52 (2.3%)",
    "name": "SPDR S&P 500 ETF",
    "sector": null,
    "marketCap": "$783.87B",
@@ -3383,16 +3383,16 @@
     "lastNextDayMove": null,
     "sinceLastReport": null
    },
-   "price": 731.63,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 730.2,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   },
   {
    "ticker": "UBER",
    "url": "https://unusualwhales.com/stock/UBER/overview",
-   "iv": "35.4%",
+   "iv": "35.2%",
    "ivExpiry": "2026-11-27",
-   "ivRank1y": "36.3",
-   "impliedMove": "\u00b1$2.65 (3.8%)",
+   "ivRank1y": "32.4",
+   "impliedMove": "\u00b1$2.57 (3.7%)",
    "name": "UBER",
    "sector": "Technology",
    "marketCap": "$140.5B",
@@ -3405,10 +3405,10 @@
     "lastReport": "Nov 4, 2026",
     "lastEps": "0.25",
     "lastNextDayMove": "+4.91%",
-    "sinceLastReport": "+4.55%"
+    "sinceLastReport": "+3.24%"
    },
-   "price": 69.63,
-   "fetchedAt": "2026-11-18T18:03:09Z"
+   "price": 68.76,
+   "fetchedAt": "2026-11-19T00:02:56Z"
   }
  ],
  "errors": []

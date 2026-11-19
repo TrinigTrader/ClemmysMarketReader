@@ -1,10 +1,10 @@
 {
  "ticker": "AMD",
  "url": "https://unusualwhales.com/stock/AMD/overview",
- "iv": "82.9%",
+ "iv": "78.2%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "67.3",
- "impliedMove": "\u00b1$45.56 (8.8%)",
+ "ivRank1y": "63.5",
+ "impliedMove": "\u00b1$43.82 (8.3%)",
  "name": "ADVANCED MICRO DEVICES",
  "sector": "Technology",
  "marketCap": "$825.64B",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 3, 2026",
   "lastEps": "1.84",
   "lastNextDayMove": "+1.01%",
-  "sinceLastReport": "+6.78%"
+  "sinceLastReport": "+9.56%"
  },
- "price": 516.73,
- "fetchedAt": "2026-11-18T18:03:09Z"
+ "price": 530.14,
+ "fetchedAt": "2026-11-19T00:02:56Z"
 }

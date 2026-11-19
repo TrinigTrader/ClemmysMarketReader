@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-19T00:11:00Z",
+ "cat": "Trade & policy",
+ "impact": "A quant fund rotating from NVDA into MU and GOOGL is a mild positive signal for two holdings, but it reflects positions as of Sep 30, before the recent memory selloff.",
+ "level": "Low",
+ "published": "2026-11-18T20:03:00Z",
+ "source": "FourWeekMBA / Quiver Quant",
+ "summary": "Renaissance Technologies' Q3 13F (filed Nov 12) shows its Nvidia stake fell from 7,091,256 shares to 23,170. Micron became its largest position at $1.62B, ahead of Alphabet ($1.38B) and AMD ($1.21B), and it added a new $620.5M SpaceX stake. A 13F is a quarter-end snapshot and doesn't show timing or prices of the sales.",
+ "tickers": [
+  "NVDA",
+  "MU",
+  "GOOGL"
+ ],
+ "title": "Renaissance cut Nvidia 99.7% in Q3; Micron now its largest holding",
+ "tone": "neutral",
+ "url": "https://fourweekmba.com/ai-renaissance-cut-nvidia-99-7-in-q3-new-621m-spacex-stake/",
+ "uw": true
+}

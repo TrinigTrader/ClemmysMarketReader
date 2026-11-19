@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-19T00:11:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-19T00:11:48Z",
+ "cat": "AI & tech",
+ "impact": "A strong ANT debut supports the AI trade and GOOGL (a backer and placement buyer) and MSFT; the huge share supply could pull money from other AI names like NBIS and MU.",
+ "level": "High",
+ "published": "2026-11-18T22:00:00Z",
+ "source": "CNBC / Fortune / Motley Fool",
+ "summary": "Anthropic priced its IPO at $83 a share, above the $70-78 range, and per CNBC upsized to about 980 million shares, raising about $81.3B, the largest offering on record. A concurrent $26B non-voting private placement to partners including Google and Nvidia lifts the total above $94B; Fortune puts the valuation at about $1.5 trillion. Trading starts Thursday on Nasdaq as ANT. Some reports had no final share count, implying at least $68.5B raised.",
+ "tickers": [
+  "GOOGL",
+  "AMZN",
+  "NVDA",
+  "MSFT"
+ ],
+ "title": "Anthropic prices record IPO at $83, above range; raises about $81B",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+}

@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-18T20:20:00Z",
+ "cat": "Macro",
+ "impact": "Confirms a hawkish Fed into December and keeps pressure on long-duration tech and AI names; a 50bp debate would hit rate-sensitive growth stocks hardest.",
+ "level": "Medium",
+ "published": "2026-11-18T19:00:00Z",
+ "source": "CNBC / Reuters",
+ "summary": "Minutes of the Oct 27-28 meeting (held at 3.75-4%, 10-2 vote with Cook and Hammack dissenting for a hike) show nearly all participants judged further rate increases would likely be appropriate. A couple said a move larger than 25bp could be considered if inflation data disappoint, and many flagged the AI buildout as a material source of inflation risk. Markets price about 96% odds of a December 8-9 hike.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "TLT"
+ ],
+ "title": "Fed minutes: nearly all officials see further hikes, a couple floated a bigger move",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+}

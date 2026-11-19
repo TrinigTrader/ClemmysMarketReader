@@ -1,10 +1,10 @@
 {
  "ticker": "IONQ",
  "url": "https://unusualwhales.com/stock/IONQ/overview",
- "iv": "92.3%",
+ "iv": "94.1%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "47.4",
- "impliedMove": "\u00b1$2.35 (9.9%)",
+ "ivRank1y": "48.2",
+ "impliedMove": "\u00b1$2.33 (10.0%)",
  "name": "IONQ",
  "sector": "Technology",
  "marketCap": "$10.74B",
@@ -13,12 +13,12 @@
  "earnings": {
   "next": "Feb 24, 2027",
   "time": "unknown",
-  "epsEst": "-0.79",
+  "epsEst": "-0.94",
   "lastReport": "Nov 5, 2026",
   "lastEps": "-0.67",
   "lastNextDayMove": "+23.42%",
-  "sinceLastReport": "-9.70%"
+  "sinceLastReport": "-11.16%"
  },
- "price": 23.865,
- "fetchedAt": "2026-11-18T18:03:09Z"
+ "price": 23.48,
+ "fetchedAt": "2026-11-19T00:02:56Z"
 }

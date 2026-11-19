@@ -88,7 +88,11 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
-- 2026-11-18 [Low] Nvidia bounce fizzles; Dow down ~625 points midday before Fed minutes (NVDA, SMH, QQQ)
+- 2026-11-18 [High] Anthropic prices record IPO at $83, above range; raises about $81B (GOOGL, AMZN, NVDA, MSFT)
+- 2026-11-18 [Low] Renaissance cut Nvidia 99.7% in Q3; Micron now its largest holding (NVDA, MU, GOOGL)
+- 2026-11-18 [Medium] Fed minutes: nearly all officials see further hikes, a couple floated a bigger move (SPY, QQQ, TLT)
+- 2026-11-18 [Medium] Iran strikes US air base in Kuwait and targets in Bahrain after US hit on Qeshm Island (USO, XLE)
+- 2026-11-18 [Low] Dow falls 1.1%, S&P 500 fifth straight loss; Nvidia down 2.9% despite beat (NVDA, SMH, QQQ)
 - 2026-11-18 [Low] Lowe's beats with comps up 1.8%, lifts sales outlook; shares slip premarket (LOW, XRT)
 - 2026-11-18 [Low] Target comps jump 5.6%, raises guidance; tariff refund adds ~50 cents EPS (TGT, XRT)
 - 2026-11-18 [Low] Nasdaq futures up about 1% as Nvidia rises ~3% premarket; Fed minutes, Anthropic pricing today (QQQ, SPY, NVDA)
