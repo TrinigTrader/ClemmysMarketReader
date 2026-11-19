@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$13.05 (12.2%)",
  "name": "Nebius Group NV",
  "sector": "Communication Services",
- "marketCap": "$23.27B",
+ "marketCap": "$23.47B",
  "maxPain": "$145",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-30.86%"
  },
  "price": 106.96,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }

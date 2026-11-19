@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.41 (3.6%)",
  "name": "FORD",
  "sector": "Consumer Cyclical",
- "marketCap": "$44.48B",
+ "marketCap": "$44.24B",
  "maxPain": "$12",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-5.61%"
  },
  "price": 11.28,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }

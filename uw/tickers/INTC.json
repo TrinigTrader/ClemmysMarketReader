@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$4.54 (8.3%)",
  "name": "INTEL",
  "sector": "Technology",
- "marketCap": "$293.23B",
+ "marketCap": "$290.57B",
  "maxPain": "$65",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-40.62%"
  },
  "price": 54.67,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }

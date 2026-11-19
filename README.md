@@ -88,6 +88,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-19 [Low] Kospi slips 1.4% below 5,000 as pension funds sell Samsung, SK Hynix (EWY, DRAM)
 - 2026-11-18 [High] Anthropic prices record IPO at $83, above range; raises about $81B (GOOGL, AMZN, NVDA, MSFT)
 - 2026-11-18 [Low] Renaissance cut Nvidia 99.7% in Q3; Micron now its largest holding (NVDA, MU, GOOGL)
 - 2026-11-18 [Medium] Fed minutes: nearly all officials see further hikes, a couple floated a bigger move (SPY, QQQ, TLT)

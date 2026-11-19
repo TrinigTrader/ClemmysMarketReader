@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-19T04:11:00Z",
+ "cat": "Markets",
+ "impact": "Fading follow-through in Korean memory after Nvidia's beat is a soft signal for DRAM, MU and SNXX heading into the US session.",
+ "level": "Low",
+ "published": "2026-11-19T02:26:00Z",
+ "source": "MoneyToday / CNBC",
+ "summary": "The Kospi fell about 1.4% to 4,996.43 by mid-morning Thursday, giving back part of Wednesday's Nvidia-driven rebound (close 5,067.44), as pension funds sold chip stocks. Samsung Electronics traded at 190,900 won (-1.95%) and SK Hynix at 1,132,000 won (-1.05%). The market opened an hour late for Korea's college entrance exam.",
+ "tickers": [
+  "EWY",
+  "DRAM"
+ ],
+ "title": "Kospi slips 1.4% below 5,000 as pension funds sell Samsung, SK Hynix",
+ "tone": "negative",
+ "url": "https://www.mt.co.kr/en/stock/2026/11/19/2026111911261353132"
+}

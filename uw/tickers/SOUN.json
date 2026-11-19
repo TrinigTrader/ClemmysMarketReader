@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.19 (6.2%)",
  "name": "SOUNDHOUND AI",
  "sector": "Technology",
- "marketCap": "$1.39B",
+ "marketCap": "$1.37B",
  "maxPain": "$6",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-29.34%"
  },
  "price": 3.01,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }

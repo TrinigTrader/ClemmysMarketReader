@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$5.19 (7.5%)",
  "name": "ROBINHOOD",
  "sector": "Technology",
- "marketCap": "$54.9B",
+ "marketCap": "$54.88B",
  "maxPain": "$85",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-26.85%"
  },
  "price": 69.17,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-19T00:02:56Z",
+ "fetchedAt": "2026-11-19T06:02:51Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -1697,7 +1697,7 @@
      "Jimmy Patronis"
     ],
     "count": 3,
-    "midValue": "453964792.300"
+    "midValue": "453405033.00"
    },
    {
     "ticker": "SPY",
@@ -1754,7 +1754,7 @@
      "Vern Buchanan"
     ],
     "count": 50,
-    "midValue": "126218455.44"
+    "midValue": "125832445.2"
    },
    {
     "ticker": "AAPL",
@@ -1861,7 +1861,7 @@
      "Wesley Hunt"
     ],
     "count": 100,
-    "midValue": "121922034.78"
+    "midValue": "122109122.10"
    },
    {
     "ticker": "NVDA",
@@ -1932,7 +1932,7 @@
      "Valerie Hoyle"
     ],
     "count": 64,
-    "midValue": "99778269.96"
+    "midValue": "96890052.96"
    },
    {
     "ticker": "SCHW",
@@ -1955,7 +1955,7 @@
      "Tony Wied"
     ],
     "count": 16,
-    "midValue": "70690441.92"
+    "midValue": "71244635.28"
    },
    {
     "ticker": "MSFT",
@@ -2058,7 +2058,7 @@
      "Vincent Michael Arias"
     ],
     "count": 96,
-    "midValue": "70366347.52"
+    "midValue": "70651293.42"
    },
    {
     "ticker": "VOO",
@@ -2122,7 +2122,7 @@
      "Yadira Caraveo"
     ],
     "count": 57,
-    "midValue": "60782998.29"
+    "midValue": "60613251.21"
    },
    {
     "ticker": "AMZN",
@@ -2205,7 +2205,7 @@
      "Valerie Hoyle"
     ],
     "count": 76,
-    "midValue": "58206288.78"
+    "midValue": "60429453.48"
    },
    {
     "ticker": "QQQ",
@@ -2263,7 +2263,7 @@
      "Virginia Foxx"
     ],
     "count": 51,
-    "midValue": "49555052.40"
+    "midValue": "49748158.32"
    },
    {
     "ticker": "GOOG",
@@ -2309,7 +2309,7 @@
      "Valerie Hoyle"
     ],
     "count": 39,
-    "midValue": "48262425.6"
+    "midValue": "48540595.2"
    },
    {
     "ticker": "AVGO",
@@ -2353,7 +2353,7 @@
      "Valerie Hoyle"
     ],
     "count": 37,
-    "midValue": "41975124.8"
+    "midValue": "43504955.90"
    },
    {
     "ticker": "VFLO",
@@ -2365,7 +2365,7 @@
      "Scott Fitzgerald"
     ],
     "count": 5,
-    "midValue": "39829161.24"
+    "midValue": "38964149.40"
    },
    {
     "ticker": "VO",
@@ -2409,7 +2409,7 @@
      "Tim Kaine"
     ],
     "count": 37,
-    "midValue": "38429440.50"
+    "midValue": "38366592.00"
    },
    {
     "ticker": "VTI",
@@ -2457,7 +2457,7 @@
      "Timothy P Sheehy"
     ],
     "count": 41,
-    "midValue": "38249656.67"
+    "midValue": "38174259.64"
    },
    {
     "ticker": "IWF",
@@ -2491,7 +2491,7 @@
      "Timothy P Sheehy"
     ],
     "count": 27,
-    "midValue": "33907962.06"
+    "midValue": "33947770.92"
    }
   ]
  },
@@ -2627,7 +2627,7 @@
    "impliedMove": "\u00b1$43.82 (8.3%)",
    "name": "ADVANCED MICRO DEVICES",
    "sector": "Technology",
-   "marketCap": "$825.64B",
+   "marketCap": "$869.48B",
    "maxPain": "$527.5",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
@@ -2640,7 +2640,7 @@
     "sinceLastReport": "+9.56%"
    },
    "price": 530.14,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "BAC",
@@ -2651,7 +2651,7 @@
    "impliedMove": "\u00b1$1.45 (3.0%)",
    "name": "BANK OF AMERICA",
    "sector": "Financial Services",
-   "marketCap": "$341.15B",
+   "marketCap": "$337.49B",
    "maxPain": "$52",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2664,7 +2664,7 @@
     "sinceLastReport": "-9.36%"
    },
    "price": 48.91,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "BE",
@@ -2675,7 +2675,7 @@
    "impliedMove": "\u00b1$18.57 (10.8%)",
    "name": "BLOOM ENERGY",
    "sector": "Industrials",
-   "marketCap": "$51.28B",
+   "marketCap": "$50.55B",
    "maxPain": "$205",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2688,7 +2688,7 @@
     "sinceLastReport": "-21.49%"
    },
    "price": 170.98,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "C",
@@ -2699,7 +2699,7 @@
    "impliedMove": "\u00b1$4.07 (3.5%)",
    "name": "CITIGROUP",
    "sector": "Financial Services",
-   "marketCap": "$198.53B",
+   "marketCap": "$194.22B",
    "maxPain": "$125",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2712,7 +2712,7 @@
     "sinceLastReport": "-11.05%"
    },
    "price": 117.34,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "CCL",
@@ -2723,7 +2723,7 @@
    "impliedMove": "\u00b1$1.26 (4.4%)",
    "name": "CARNIVAL",
    "sector": "Consumer Cyclical",
-   "marketCap": "$37.86B",
+   "marketCap": "$38.95B",
    "maxPain": "$27",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2736,7 +2736,7 @@
     "sinceLastReport": "+30.85%"
    },
    "price": 28.97,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "CSCO",
@@ -2747,7 +2747,7 @@
    "impliedMove": "\u00b1$3.62 (3.7%)",
    "name": "CISCO SYSTEMS",
    "sector": "Technology",
-   "marketCap": "$374.97B",
+   "marketCap": "$383.13B",
    "maxPain": "$102",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2760,7 +2760,7 @@
     "sinceLastReport": "-4.73%"
    },
    "price": 97.18,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "DRAM",
@@ -2784,7 +2784,7 @@
     "sinceLastReport": null
    },
    "price": 39.15,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "F",
@@ -2795,7 +2795,7 @@
    "impliedMove": "\u00b1$0.41 (3.6%)",
    "name": "FORD",
    "sector": "Consumer Cyclical",
-   "marketCap": "$44.48B",
+   "marketCap": "$44.24B",
    "maxPain": "$12",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2808,7 +2808,7 @@
     "sinceLastReport": "-5.61%"
    },
    "price": 11.28,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "GDX",
@@ -2832,7 +2832,7 @@
     "sinceLastReport": null
    },
    "price": 74.82,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "GOOGL",
@@ -2843,7 +2843,7 @@
    "impliedMove": "\u00b1$10.99 (3.9%)",
    "name": "ALPHABET",
    "sector": "Communication Services",
-   "marketCap": "$1.65T",
+   "marketCap": "$1.66T",
    "maxPain": "$295",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
@@ -2856,7 +2856,7 @@
     "sinceLastReport": "-13.07%"
    },
    "price": 282.44,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "HIMS",
@@ -2867,7 +2867,7 @@
    "impliedMove": "\u00b1$1.34 (7.8%)",
    "name": "HIMS & HERS HEALTH",
    "sector": "Consumer Defensive",
-   "marketCap": "$3.97B",
+   "marketCap": "$3.85B",
    "maxPain": "$22",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2880,7 +2880,7 @@
     "sinceLastReport": "-25.68%"
    },
    "price": 17.05,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "HOOD",
@@ -2891,7 +2891,7 @@
    "impliedMove": "\u00b1$5.19 (7.5%)",
    "name": "ROBINHOOD",
    "sector": "Technology",
-   "marketCap": "$54.9B",
+   "marketCap": "$54.88B",
    "maxPain": "$85",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2904,7 +2904,7 @@
     "sinceLastReport": "-26.85%"
    },
    "price": 69.17,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "INTC",
@@ -2915,7 +2915,7 @@
    "impliedMove": "\u00b1$4.54 (8.3%)",
    "name": "INTEL",
    "sector": "Technology",
-   "marketCap": "$293.23B",
+   "marketCap": "$290.57B",
    "maxPain": "$65",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2928,7 +2928,7 @@
     "sinceLastReport": "-40.62%"
    },
    "price": 54.67,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "IONQ",
@@ -2939,7 +2939,7 @@
    "impliedMove": "\u00b1$2.33 (10.0%)",
    "name": "IONQ",
    "sector": "Technology",
-   "marketCap": "$10.74B",
+   "marketCap": "$10.15B",
    "maxPain": "$34",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2952,7 +2952,7 @@
     "sinceLastReport": "-11.16%"
    },
    "price": 23.48,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "MARA",
@@ -2963,7 +2963,7 @@
    "impliedMove": "\u00b1$0.72 (11.0%)",
    "name": "MARATHON DIGITAL",
    "sector": "Financial Services",
-   "marketCap": "$2.49B",
+   "marketCap": "$2.54B",
    "maxPain": "$7.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2976,7 +2976,7 @@
     "sinceLastReport": "-1.20%"
    },
    "price": 6.56,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "MSFT",
@@ -2987,7 +2987,7 @@
    "impliedMove": "\u00b1$18.45 (3.6%)",
    "name": "MICROSOFT",
    "sector": "Technology",
-   "marketCap": "$3.76T",
+   "marketCap": "$3.77T",
    "maxPain": "$522.5",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
@@ -3000,7 +3000,7 @@
     "sinceLastReport": "-4.28%"
    },
    "price": 508.29,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "MU",
@@ -3011,7 +3011,7 @@
    "impliedMove": "\u00b1$61.16 (8.7%)",
    "name": "MICRON TECHNOLOGY",
    "sector": "Technology",
-   "marketCap": "$806.05B",
+   "marketCap": "$797.96B",
    "maxPain": "$760",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
@@ -3024,7 +3024,7 @@
     "sinceLastReport": "-33.78%"
    },
    "price": 705.27,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "NBIS",
@@ -3035,7 +3035,7 @@
    "impliedMove": "\u00b1$13.05 (12.2%)",
    "name": "Nebius Group NV",
    "sector": "Communication Services",
-   "marketCap": "$23.27B",
+   "marketCap": "$23.47B",
    "maxPain": "$145",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3048,7 +3048,7 @@
     "sinceLastReport": "-30.86%"
    },
    "price": 106.96,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "NOK",
@@ -3072,7 +3072,7 @@
     "sinceLastReport": "-17.95%"
    },
    "price": 7.59,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "NVDA",
@@ -3083,7 +3083,7 @@
    "impliedMove": "\u00b1$8.90 (5.9%)",
    "name": "NVIDIA",
    "sector": "Technology",
-   "marketCap": "$3.75T",
+   "marketCap": "$3.64T",
    "maxPain": "$162.5",
    "maxPainExpiry": "2026-11-16",
    "earnings": {
@@ -3092,11 +3092,11 @@
     "epsEst": "2.72",
     "lastReport": "Nov 17, 2026",
     "lastEps": "2.68",
-    "lastNextDayMove": "-2.96%",
+    "lastNextDayMove": "-2.89%",
     "sinceLastReport": "-2.89%"
    },
    "price": 150.96,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "OKLO",
@@ -3107,7 +3107,7 @@
    "impliedMove": "\u00b1$1.91 (8.7%)",
    "name": "OKLO",
    "sector": "Utilities",
-   "marketCap": "$4.37B",
+   "marketCap": "$4.26B",
    "maxPain": "$26.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3120,7 +3120,7 @@
     "sinceLastReport": "+13.54%"
    },
    "price": 21.8,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "PFE",
@@ -3131,7 +3131,7 @@
    "impliedMove": "\u00b1$0.77 (2.8%)",
    "name": "PFIZER",
    "sector": "Healthcare",
-   "marketCap": "$162.27B",
+   "marketCap": "$159.94B",
    "maxPain": "$29",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3144,7 +3144,7 @@
     "sinceLastReport": "-8.51%"
    },
    "price": 28.06,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "PLTR",
@@ -3155,7 +3155,7 @@
    "impliedMove": "\u00b1$9.73 (6.2%)",
    "name": "PALANTIR",
    "sector": "Technology",
-   "marketCap": "$361.14B",
+   "marketCap": "$361.39B",
    "maxPain": "$170",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3168,7 +3168,7 @@
     "sinceLastReport": "-12.15%"
    },
    "price": 156.67,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "PYPL",
@@ -3179,7 +3179,7 @@
    "impliedMove": "\u00b1$1.75 (3.0%)",
    "name": "PAYPAL",
    "sector": "Financial Services",
-   "marketCap": "$48.27B",
+   "marketCap": "$48.09B",
    "maxPain": "$52.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3192,7 +3192,7 @@
     "sinceLastReport": "+5.27%"
    },
    "price": 57.89,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "QQQ",
@@ -3216,7 +3216,7 @@
     "sinceLastReport": null
    },
    "price": 659.51,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "RKLB",
@@ -3227,7 +3227,7 @@
    "impliedMove": "\u00b1$4.86 (9.2%)",
    "name": "ROCKET LAB USA",
    "sector": "Industrials",
-   "marketCap": "$34.79B",
+   "marketCap": "$33.54B",
    "maxPain": "$58",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3240,7 +3240,7 @@
     "sinceLastReport": "-9.84%"
    },
    "price": 53.07,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SKM",
@@ -3251,7 +3251,7 @@
    "impliedMove": "\u00b1$3.83 (11.3%)",
    "name": "SK TELECOM CO",
    "sector": "Communication Services",
-   "marketCap": "$13.02B",
+   "marketCap": "$12.99B",
    "maxPain": "$32.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3264,7 +3264,7 @@
     "sinceLastReport": "-1.02%"
    },
    "price": 33.88,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SLV",
@@ -3288,7 +3288,7 @@
     "sinceLastReport": null
    },
    "price": 40.7,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SNXX",
@@ -3312,7 +3312,7 @@
     "sinceLastReport": null
    },
    "price": 2.71,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SOFI",
@@ -3323,7 +3323,7 @@
    "impliedMove": "\u00b1$0.85 (6.0%)",
    "name": "SOFI TECHNOLOGIES",
    "sector": "Financial Services",
-   "marketCap": "$18.53B",
+   "marketCap": "$18.31B",
    "maxPain": "$16",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3336,7 +3336,7 @@
     "sinceLastReport": "-2.42%"
    },
    "price": 14.11,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SOUN",
@@ -3347,7 +3347,7 @@
    "impliedMove": "\u00b1$0.19 (6.2%)",
    "name": "SOUNDHOUND AI",
    "sector": "Technology",
-   "marketCap": "$1.39B",
+   "marketCap": "$1.37B",
    "maxPain": "$6",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3360,7 +3360,7 @@
     "sinceLastReport": "-29.34%"
    },
    "price": 3.01,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "SPY",
@@ -3384,7 +3384,7 @@
     "sinceLastReport": null
    },
    "price": 730.2,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   },
   {
    "ticker": "UBER",
@@ -3395,7 +3395,7 @@
    "impliedMove": "\u00b1$2.57 (3.7%)",
    "name": "UBER",
    "sector": "Technology",
-   "marketCap": "$140.5B",
+   "marketCap": "$140.4B",
    "maxPain": "$70",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3408,7 +3408,7 @@
     "sinceLastReport": "+3.24%"
    },
    "price": 68.76,
-   "fetchedAt": "2026-11-19T00:02:56Z"
+   "fetchedAt": "2026-11-19T06:02:51Z"
   }
  ],
  "errors": []

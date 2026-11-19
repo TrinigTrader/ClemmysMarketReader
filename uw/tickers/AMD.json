@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$43.82 (8.3%)",
  "name": "ADVANCED MICRO DEVICES",
  "sector": "Technology",
- "marketCap": "$825.64B",
+ "marketCap": "$869.48B",
  "maxPain": "$527.5",
  "maxPainExpiry": "2026-11-16",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "+9.56%"
  },
  "price": 530.14,
- "fetchedAt": "2026-11-19T00:02:56Z"
+ "fetchedAt": "2026-11-19T06:02:51Z"
 }
