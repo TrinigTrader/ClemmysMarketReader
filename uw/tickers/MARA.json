@@ -1,10 +1,10 @@
 {
  "ticker": "MARA",
  "url": "https://unusualwhales.com/stock/MARA/overview",
- "iv": "104.6%",
+ "iv": "104.4%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "43.5",
- "impliedMove": "\u00b1$0.72 (11.0%)",
+ "ivRank1y": "56.9",
+ "impliedMove": "\u00b1$0.68 (10.7%)",
  "name": "MARATHON DIGITAL",
  "sector": "Financial Services",
  "marketCap": "$2.54B",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 9, 2026",
   "lastEps": "-0.5",
   "lastNextDayMove": "+10.54%",
-  "sinceLastReport": "-1.20%"
+  "sinceLastReport": "-4.07%"
  },
- "price": 6.56,
- "fetchedAt": "2026-11-19T12:02:39Z"
+ "price": 6.3699,
+ "fetchedAt": "2026-11-19T18:03:09Z"
 }

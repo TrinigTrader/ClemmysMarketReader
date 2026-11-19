@@ -1,14 +1,14 @@
 {
  "ticker": "OKLO",
  "url": "https://unusualwhales.com/stock/OKLO/overview",
- "iv": "82.3%",
+ "iv": "91.4%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "45.7",
- "impliedMove": "\u00b1$1.91 (8.7%)",
+ "ivRank1y": "39.1",
+ "impliedMove": "\u00b1$2.00 (9.3%)",
  "name": "OKLO",
  "sector": "Utilities",
  "marketCap": "$4.26B",
- "maxPain": "$26.5",
+ "maxPain": "$26",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Mar 16, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 6, 2026",
   "lastEps": "-0.28",
   "lastNextDayMove": "+22.66%",
-  "sinceLastReport": "+13.54%"
+  "sinceLastReport": "+10.57%"
  },
- "price": 21.8,
- "fetchedAt": "2026-11-19T12:02:39Z"
+ "price": 21.23,
+ "fetchedAt": "2026-11-19T18:03:09Z"
 }

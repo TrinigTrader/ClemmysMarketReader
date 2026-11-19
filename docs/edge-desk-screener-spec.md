@@ -55,17 +55,16 @@ Every wheel pick, option play and passing stock gets a TH entry with: trade (one
 5. Research news for every candidate (web search), write the theses per the standard above, then update the `U`, `W` (incl. conviction), `P` (incl. key/conv/tag), `TH`, `EXP` and `ASOF` constants, the market-read text and sources in the page source. Keep design and code otherwise unchanged. Republish to the artifact URL, and save the updated source back to this project.
 6. Report a 5-line summary covering the top wheel pick, any new or closed plays, stocks that passed, and warnings (earnings this week, IV spikes).
 
-## Snapshot 18 Nov 2026 (9:42 ET)
-- Published as artifact v49 ("Re-screen 18 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded).
-- S&P 500 closed 17 Nov at 7,340.53 (−1.03%, fourth straight loss, lowest close since July); Dow −849; Nasdaq 24,328.38 (−0.74%). Nvidia Q3 FY27 revenue $115.8bn (+103%), Q4 guide $130bn (no China data-center sales assumed). Futures rose overnight but SPY $730.95 (−0.2%) at 9:42 ET; IV 20.0% vs HV 14.3%. Gold at a 14-month low, silver −3% (hawkish Fed, strong dollar). Bitcoin ~$64k on 16 Nov. Anthropic IPO prices this week.
-- No live option bid/ask; W uses IBKR model values as bid = ask (DTE 30).
-- W: PYPL 52.5P $0.53 OI 6,175 Medium (delta .16, edge +$29, funded; strike moved down from $55, now delta .28, $1.05, edge +$34); SLV 37P $0.78 OI 2,647 Low (+$26; SLV $40.86 new 52-week low); DRAM 34P $1.61 OI 8,517 Low (+$14, held shares); SOFI 14P $0.73 Pass (−$12); HIMS 16P $0.64 Pass (−$19).
-- Stock screen: no passers. CCL drops off (IVP52 .566). PFE fails only on IV (.869). Three-check names: PYPL, BE, RKLB, CCL. NOK down to two (IVP52 .526).
-- Account: S$1,689 NLV, S$45 cash. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
+## Snapshot 19 Nov 2026 (9:41 ET)
+- Published as artifact v50 ("Re-screen 19 Nov"). IBKR loaded all 25 underlyings (one 503 on an option, retried). Fixed a build bug that left a 0.0% change blank in U.
+- 18 Nov: S&P 500 −0.23% to 7,323.63 (fifth straight loss), Dow −561, Nasdaq +0.42% to 24,429.88; Nvidia −2.9% (board says Huang won't return as CEO); AMD +5.8%. Anthropic priced IPO at $83 (above $70–78 range, ~$81bn raised), trading today. SPY $736.90 (+0.9%) at 9:41 ET; IV 18.8% vs HV 14.3%. Walmart beat and raised. Bitcoin ~$65k on 17 Nov. SOUN IV percentile read 0 from IBKR (glitch); kept prior values.
+- W (DTE 29, model values as bid = ask): PYPL 52.5P $0.52 OI 6,152 Medium (delta .16, edge +$28, funded); SLV 37P $0.69 OI 3,089 Low (delta .20, +$19); DRAM 34P $1.00 Pass (−$2, IV below HV after +4.6%); SOFI 14P $0.69 Pass (−$15); HIMS 16P $0.95 Pass (−$22).
+- Stock screen: no passers. PFE fails only on IV (.94). Three-check: PYPL, BE, RKLB, NOK, DRAM. CCL now two checks (84.5% of high, IVP52 .625).
+- Account: S$1,772 NLV, S$45 cash. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
 
-## Theses 18 Nov 2026 (summary)
-- PYPL Dec 18 $52.50 put: Medium, funded ($5,250 collateral, ~12% annualised). No earnings before expiry (next Feb 2, 2027); sell at $0.50+ on a live quote. $55 put is the higher-premium alternative.
-- SLV Dec 18 $37 put: Low (down from Medium-Low); silver broke to a new low; wait for it to stop falling. No budget alongside PYPL.
-- DRAM $34 put: Low (adds to held shares). SOFI, HIMS puts: Pass.
-- CCL: Watch, off the screen on IV; Q4 report ~Dec 17–18 (est.). Keep any starter's stop below ~$27.50.
-- Watch: PFE (IV only), PYPL/BE/RKLB (three checks). PLTR: hold 2, don't add.
+## Theses 19 Nov 2026 (summary)
+- PYPL Dec 18 $52.50 put: Medium, funded ($5,250 collateral, ~12% annualised). No earnings before expiry (next Feb 2, 2027); sell at $0.50+ on a live quote.
+- SLV Dec 18 $37 put: Low; wait for silver to stop making new lows. No budget alongside PYPL.
+- DRAM $34 put: Pass (no edge). SOFI, HIMS: Pass.
+- CCL: Watch, off the screen; Q4 report ~Dec 17–18 (est.). Keep any starter's stop below ~$27.50.
+- Watch: PFE (IV only). PLTR: hold 2, don't add.

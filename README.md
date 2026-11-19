@@ -85,9 +85,14 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-16: Published as artifact v47 ("Re-screen 16 Nov"). IBKR was flaky (many 503s; retried until all 25 underlyings loaded). SPY $747.95 (−0.9%), IV 16.0% vs HV 13.7%. S&P 500 closed 13 Nov at 7,561.67 (−0.4%, +2.5% on the week). Nvidia reports ~Nov 18 after close (est.); Anthropic IPO this week. Brent ~$96.30, gold −0.9%. December Fed hike priced near-certain. Bitcoin ~$73k on 14 Nov. No live option bid/
 - 2026-11-17: Published as artifact v48 ("Re-screen 17 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 16 Nov at 7,416.59 (−1.92%); Nasdaq 24,509.76 (−2.49%, correction territory). SPY $738.59, IV 18.2%. Nvidia reports today Nov 17 after the close (confirmed). Anthropic IPO expected to start trading Thursday. No live option bid/ask at 9:40 ET; W uses IBKR model values as 
 - 2026-11-18: Published as artifact v49 ("Re-screen 18 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 17 Nov at 7,340.53 (−1.03%, fourth straight loss, lowest close since July); Dow −849; Nasdaq 24,328.38 (−0.74%). Nvidia Q3 FY27 revenue $115.8bn (+103%), Q4 guide $130bn (no China data-center sales assumed). Futures rose overnight but SPY $730.95 (−0.2%) at 9:42 ET; IV 2
+- 2026-11-19: Published as artifact v50 ("Re-screen 19 Nov"). IBKR loaded all 25 underlyings (one 503 on an option, retried). Fixed a build bug that left a 0.0% change blank in U. 18 Nov: S&P 500 −0.23% to 7,323.63 (fifth straight loss), Dow −561, Nasdaq +0.42% to 24,429.88; Nvidia −2.9% (board says Huang won't return as CEO); AMD +5.8%. Anthropic priced IPO at $83 (above $70–78 range, ~$81bn raised), trading t
 
 ### News headlines (last 30 days)
 
+- 2026-11-19 [High] Anthropic opens at $111.50, up 34% from IPO, near $2 trillion value (GOOGL, AMZN, MSFT, NVDA)
+- 2026-11-19 [Medium] Chips rally at the open: Micron up ~5%, Nvidia ~4% before Anthropic's debut (MU, GOOGL, NVDA, QQQ)
+- 2026-11-19 [Medium] Philly Fed plunges to 6.3, lowest since May; jobless claims 203K vs 197K expected (SPY, TLT)
+- 2026-11-19 [Low] Walmart beats, raises full-year outlook a third time; e-commerce up 17% (WMT, XRT)
 - 2026-11-19 [Medium] Trump filing: sold GOOGL, bought MSFT, NVDA, AMD ($1K-$15K each), filed Nov 19 (GOOGL, MSFT, NVDA, AMD)
 - 2026-11-19 [Medium] Nasdaq futures up 2%, S&P up 1% ahead of Anthropic's debut (QQQ, SPY)
 - 2026-11-19 [Low] Trump, Xi and Putin hold first trilateral; nuclear talk but no deal (FXI, SPY, SMH)

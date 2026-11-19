@@ -1,10 +1,10 @@
 {
  "ticker": "PLTR",
  "url": "https://unusualwhales.com/stock/PLTR/overview",
- "iv": "58.5%",
+ "iv": "59.4%",
  "ivExpiry": "2026-11-27",
- "ivRank1y": "49.9",
- "impliedMove": "\u00b1$9.73 (6.2%)",
+ "ivRank1y": "52.2",
+ "impliedMove": "\u00b1$9.39 (6.0%)",
  "name": "PALANTIR",
  "sector": "Technology",
  "marketCap": "$361.39B",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 2, 2026",
   "lastEps": "0.32",
   "lastNextDayMove": "-1.65%",
-  "sinceLastReport": "-12.15%"
+  "sinceLastReport": "-11.94%"
  },
- "price": 156.67,
- "fetchedAt": "2026-11-19T12:02:39Z"
+ "price": 157.04,
+ "fetchedAt": "2026-11-19T18:03:09Z"
 }

@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-19T16:12:00Z",
+ "cat": "Markets",
+ "impact": "Relief for MU, DRAM, SNXX and GOOGL after the selloff; the question is whether it holds once ANT starts trading and soaks up AI money.",
+ "level": "Medium",
+ "published": "2026-11-19T15:00:00Z",
+ "source": "Fast Company / StockTitan / Yahoo Finance",
+ "summary": "Tech led early Thursday trading: the Nasdaq Composite rose about 1.7% to 24,844.98 and the S&P 500 about 0.9%, with Nvidia up about 4% (still down about 23% this month) and Micron up roughly 5% to 6%; Google and SanDisk also gained. Yahoo Finance later reported the Dow and S&P 500 giving up their gains ahead of Anthropic's first trade, with indications pointing to ANT opening about 25% above its $83 IPO price (around $105).",
+ "tickers": [
+  "MU",
+  "GOOGL",
+  "NVDA",
+  "QQQ"
+ ],
+ "title": "Chips rally at the open: Micron up ~5%, Nvidia ~4% before Anthropic's debut",
+ "tone": "positive",
+ "url": "https://www.fastcompany.com/91645593/tech-memory-chip-stocks-rising-today-goog-mu-sndk-get-relief"
+}
