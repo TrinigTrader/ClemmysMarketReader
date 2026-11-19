@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$3.73 (5.0%)",
  "name": "VANECK GOLD MINERS ETF",
  "sector": null,
- "marketCap": "$24.14B",
+ "marketCap": "$24.42B",
  "maxPain": "$83",
  "maxPainExpiry": "2026-11-16",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": null
  },
  "price": 74.82,
- "fetchedAt": "2026-11-19T06:02:51Z"
+ "fetchedAt": "2026-11-19T12:02:39Z"
 }

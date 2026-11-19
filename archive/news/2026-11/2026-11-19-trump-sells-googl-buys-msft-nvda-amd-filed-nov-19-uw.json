@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-19T12:11:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-19T12:11:33Z",
+ "cat": "Trade & policy",
+ "impact": "Small, two-month-old trades in two holdings (GOOGL, MSFT); a sentiment note only, not a size that moves either stock.",
+ "level": "Medium",
+ "published": "2026-11-19T12:00:00Z",
+ "source": "Unusual Whales / OGE",
+ "summary": "President Trump's OGE 278-T periodic transaction report, filed November 19 and collected by Unusual Whales, shows a sale of Alphabet Class A (GOOGL) and purchases of Microsoft, Nvidia and AMD, each worth $1,001 to $15,000, all traded September 9, 2026.",
+ "tickers": [
+  "GOOGL",
+  "MSFT",
+  "NVDA",
+  "AMD"
+ ],
+ "title": "Trump filing: sold GOOGL, bought MSFT, NVDA, AMD ($1K-$15K each), filed Nov 19",
+ "tone": "neutral",
+ "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf",
+ "uw": true
+}

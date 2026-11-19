@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-19T08:11:00Z",
+ "cat": "Geopolitics",
+ "impact": "Little market impact until a readout; any extension of the trade truce or easing of chip curbs would help NVDA, MU and the memory complex, while a chip clash would hurt them.",
+ "level": "Low",
+ "published": "2026-11-19T06:30:00Z",
+ "source": "CNBC / MLQ / Il Sole 24 Ore",
+ "summary": "After a 35-40 minute Trump-Putin meeting and Trump-Xi bilateral talks, the three leaders held their first trilateral meeting in Shenzhen. Trump said the US, China and Russia are uniquely positioned to reduce nuclear stockpiles and that Iran will not be allowed a nuclear weapon; Xi called for nuclear arms to be comprehensively prohibited and said a nuclear war cannot be won. No joint statement or agreement was reported, and Beijing had earlier called trilateral disarmament talks 'unreasonable'.",
+ "tickers": [
+  "FXI",
+  "SPY",
+  "SMH"
+ ],
+ "title": "Trump, Xi and Putin hold first trilateral; nuclear talk but no deal",
+ "tone": "neutral",
+ "updatedAt": "2026-11-19T10:10:00Z",
+ "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+}

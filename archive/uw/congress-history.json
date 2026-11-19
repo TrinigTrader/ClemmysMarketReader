@@ -1,5 +1,21 @@
 [
  {
+  "action": "Buy",
+  "amount": "$100,001 - $250,000",
+  "asset": "NORTH THURSTON PUB SCHS WA RFDG B/E 5.00 % Due Dec 1, 2027",
+  "big": false,
+  "chamber": "executive",
+  "filed": "2026-11-19",
+  "holding": false,
+  "id": "4b962db8-e926-4bda-953e-d60d538340e1",
+  "member": "Donald J Trump",
+  "party": "republican",
+  "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf",
+  "ticker": "",
+  "traded": "2026-09-16",
+  "watched": false
+ },
+ {
   "action": "Sell",
   "amount": "$1,001 - $15,000",
   "asset": "iShares 10-20 Year Treasury Bond ETF",
