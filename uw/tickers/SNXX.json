@@ -1,14 +1,14 @@
 {
  "ticker": "SNXX",
  "url": "https://unusualwhales.com/stock/SNXX/overview",
- "iv": "211.0%",
- "ivExpiry": "2026-11-27",
- "ivRank1y": "39.8",
- "impliedMove": "\u00b1$0.64 (23.5%)",
+ "iv": "221.0%",
+ "ivExpiry": "2026-12-04",
+ "ivRank1y": "54.5",
+ "impliedMove": "\u00b1$0.54 (25.4%)",
  "name": "Tradr 2X Long SNDK Daily ETF",
  "sector": null,
  "marketCap": "$13.23M",
- "maxPain": "$3.5",
+ "maxPain": "$3",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": null,
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 2.6919,
- "fetchedAt": "2026-11-19T18:03:09Z"
+ "price": 2.09,
+ "fetchedAt": "2026-11-23T23:02:38Z"
 }

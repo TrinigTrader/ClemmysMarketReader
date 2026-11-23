@@ -1,13 +1,13 @@
 {
  "ticker": "CCL",
  "url": "https://unusualwhales.com/stock/CCL/overview",
- "iv": "43.7%",
- "ivExpiry": "2026-11-27",
- "ivRank1y": "37.3",
- "impliedMove": "\u00b1$1.23 (4.4%)",
+ "iv": "43.9%",
+ "ivExpiry": "2026-12-04",
+ "ivRank1y": "53.2",
+ "impliedMove": "\u00b1$1.45 (5.2%)",
  "name": "CARNIVAL",
  "sector": "Consumer Cyclical",
- "marketCap": "$38.95B",
+ "marketCap": "$35.75B",
  "maxPain": "$27",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -17,8 +17,8 @@
   "lastReport": "Sep 29, 2026",
   "lastEps": "1.43",
   "lastNextDayMove": "+13.41%",
-  "sinceLastReport": "+26.72%"
+  "sinceLastReport": "+26.06%"
  },
- "price": 28.055,
- "fetchedAt": "2026-11-19T18:03:09Z"
+ "price": 27.91,
+ "fetchedAt": "2026-11-23T23:02:38Z"
 }

@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-19T20:12:00Z",
+ "cat": "Markets",
+ "impact": "A sixth straight S&P loss below the 200-day puts all AI holdings (MU, DRAM, SNXX, NBIS, GOOGL, MSFT, PLTR) at risk of further de-risking, and suggests ANT is pulling money from existing AI names.",
+ "level": "High",
+ "published": "2026-11-19T18:30:00Z",
+ "source": "CNBC / Yahoo Finance",
+ "summary": "The early tech rally reversed into a broad selloff on Thursday. The Dow fell 1,101.11 points (2.19%) to 49,097.06, the S&P 500 dropped 2.02% to 7,175.83, its sixth straight loss and further below its 200-day average, and the Nasdaq lost 2.25% to 23,879.20. CNBC said Anthropic's record IPO, which opened at $111.50 and then faded, failed to revive the AI trade as investors took profits.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "MU",
+  "NBIS"
+ ],
+ "title": "Dow sinks 1,101 points below 50,000; Nasdaq -2.25% as Anthropic fails to lift AI trade",
+ "tone": "negative",
+ "updatedAt": "2026-11-19T22:12:00Z",
+ "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+}

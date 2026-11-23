@@ -89,6 +89,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-19 [High] Dow sinks 1,101 points below 50,000; Nasdaq -2.25% as Anthropic fails to lift AI trade (SPY, QQQ, MU, NBIS)
 - 2026-11-19 [High] Anthropic opens at $111.50, up 34% from IPO, near $2 trillion value (GOOGL, AMZN, MSFT, NVDA)
 - 2026-11-19 [Medium] Chips rally at the open: Micron up ~5%, Nvidia ~4% before Anthropic's debut (MU, GOOGL, NVDA, QQQ)
 - 2026-11-19 [Medium] Philly Fed plunges to 6.3, lowest since May; jobless claims 203K vs 197K expected (SPY, TLT)

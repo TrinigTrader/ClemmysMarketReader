@@ -1,6 +1,38 @@
 [
  {
   "action": "Sell",
+  "amount": "$50,001 - $100,000",
+  "asset": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-23",
+  "holding": false,
+  "id": "1130d7e2-4504-43c0-b4d3-b7623b5ba07e",
+  "member": "Jennifer McClellan",
+  "party": "democrat",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+  "ticker": "VZ",
+  "traded": "2026-11-19",
+  "watched": false
+ },
+ {
+  "action": "Buy",
+  "amount": "$1,001 - $15,000",
+  "asset": "Apple Inc. - Common Stock (AAPL) [ST] FILING STATUS: New",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-23",
+  "holding": false,
+  "id": "8226fccc-5794-47fa-891f-b612db5ae139",
+  "member": "Ed Case",
+  "party": "democrat",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+  "ticker": "AAPL",
+  "traded": "2026-11-16",
+  "watched": false
+ },
+ {
+  "action": "Sell",
   "amount": "$1,001 - $15,000",
   "asset": "Johnson & Johnson Common Stock (JNJ) [ST]",
   "big": false,

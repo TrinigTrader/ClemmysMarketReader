@@ -1,14 +1,14 @@
 {
  "ticker": "UBER",
  "url": "https://unusualwhales.com/stock/UBER/overview",
- "iv": "35.9%",
- "ivExpiry": "2026-11-27",
- "ivRank1y": "39.7",
- "impliedMove": "\u00b1$2.38 (3.6%)",
+ "iv": "39.4%",
+ "ivExpiry": "2026-12-04",
+ "ivRank1y": "42.7",
+ "impliedMove": "\u00b1$2.98 (4.6%)",
  "name": "UBER",
  "sector": "Technology",
- "marketCap": "$140.4B",
- "maxPain": "$70",
+ "marketCap": "$129.6B",
+ "maxPain": "$69",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Feb 3, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 4, 2026",
   "lastEps": "0.25",
   "lastNextDayMove": "+4.91%",
-  "sinceLastReport": "+0.35%"
+  "sinceLastReport": "-3.80%"
  },
- "price": 66.83,
- "fetchedAt": "2026-11-19T18:03:09Z"
+ "price": 64.07,
+ "fetchedAt": "2026-11-23T23:02:38Z"
 }

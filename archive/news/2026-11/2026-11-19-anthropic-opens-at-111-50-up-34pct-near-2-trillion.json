@@ -5,7 +5,7 @@
  "level": "High",
  "published": "2026-11-19T17:00:00Z",
  "source": "CNN / Yahoo Finance / Fortune",
- "summary": "Anthropic (ANT) opened on Nasdaq at $111.50, 34% above its $83 IPO price, with 108 million shares worth about $12B changing hands in the opening trade and a market value of roughly $2 trillion at that price. The pop moderated during the session, with shares at one point up about 18% at $97.76. The record IPO raised $81.3B.",
+ "summary": "Anthropic (ANT) opened on Nasdaq at $111.50, 34% above its $83 IPO price, with 108 million shares worth about $12B changing hands in the opening trade and a market value of roughly $2 trillion at that price. The pop faded through the session: shares traded around $94.50 (up about 14%) in the afternoon, with more than 640 million shares traded by midday, as the broader market sold off. The record IPO raised $81.3B.",
  "tickers": [
   "GOOGL",
   "AMZN",
@@ -14,5 +14,6 @@
  ],
  "title": "Anthropic opens at $111.50, up 34% from IPO, near $2 trillion value",
  "tone": "positive",
+ "updatedAt": "2026-11-19T20:12:00Z",
  "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
 }
