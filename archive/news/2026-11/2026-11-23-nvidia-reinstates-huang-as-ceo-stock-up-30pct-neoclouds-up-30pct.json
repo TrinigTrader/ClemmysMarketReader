@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-23T23:12:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-23T23:08:59Z",
+ "cat": "AI",
+ "impact": "Removes the leadership overhang that drove the AI selloff since Nov 12. Direct positive for NBIS (up 30%+) and the GPU supply chain feeding MU, DRAM and SNXX memory demand, and for GOOGL/MSFT AI capex sentiment. Huang still faces House testimony on Dec 1-2.",
+ "level": "High",
+ "published": "2026-11-23T14:30:00Z",
+ "source": "SEC 8-K / Yahoo Finance / CNN",
+ "summary": "Nvidia's board unanimously reinstated Jensen Huang as president, CEO and director on Monday, per an SEC 8-K, after input from senior US officials who found no national security risk. Colette Kress returns to CFO and Harvey Jones stays chair. Trump said he played a decisive role in convincing the board. NVDA closed about 30% higher, its best day since 2003, adding roughly $952B in market value. Neoclouds CoreWeave and Nebius rose more than 30%, AMD about 6% and Broadcom about 3%.",
+ "tickers": [
+  "NVDA",
+  "NBIS",
+  "MU",
+  "SMH"
+ ],
+ "title": "Nvidia reinstates Jensen Huang as CEO; NVDA closes up about 30%, Nebius and CoreWeave up 30%+",
+ "tone": "positive",
+ "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+}

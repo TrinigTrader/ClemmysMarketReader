@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-23T23:12:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-23T23:09:00Z",
+ "cat": "Markets",
+ "impact": "A broad relief rally that lifts every AI holding (MU, DRAM, SNXX, NBIS, GOOGL, MSFT, PLTR) off correction lows. One day does not end the correction; the Dec 9 Fed decision, with a hike widely priced, is the next test.",
+ "level": "High",
+ "published": "2026-11-23T21:05:00Z",
+ "source": "CNBC / 24/7 Wall St.",
+ "summary": "Stocks rebounded sharply on Monday after the worst week in more than six years for the Nasdaq and Dow had left all three averages in a correction. The Dow added 1,447.98 points (3.01%) to 49,595.31, the S&P 500 rose 4.73% to 7,237.17 and the Nasdaq jumped 6.51% to 24,089.56. Tech led and energy lagged as the VIX fell.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "NBIS",
+  "MU"
+ ],
+ "title": "Dow soars 1,448 points, Nasdaq +6.5% in best day since April 2025 on Huang return",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+}

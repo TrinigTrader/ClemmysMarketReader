@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-23T23:02:38Z",
+ "fetchedAt": "2026-11-24T00:02:55Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -1605,7 +1605,7 @@
     "big": false
    }
   ],
-  "newSinceLastRun": 93,
+  "newSinceLastRun": 0,
   "watchedTrades": [
    {
     "member": "Donald J Trump",
@@ -2592,7 +2592,7 @@
     "sinceLastReport": "-6.29%"
    },
    "price": 453.46,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "BAC",
@@ -2616,7 +2616,7 @@
     "sinceLastReport": "-10.79%"
    },
    "price": 48.14,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "BE",
@@ -2640,7 +2640,7 @@
     "sinceLastReport": "-22.79%"
    },
    "price": 168.15,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "C",
@@ -2664,7 +2664,7 @@
     "sinceLastReport": "-13.32%"
    },
    "price": 114.35,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "CCL",
@@ -2688,7 +2688,7 @@
     "sinceLastReport": "+26.06%"
    },
    "price": 27.91,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "CSCO",
@@ -2712,7 +2712,7 @@
     "sinceLastReport": "-5.11%"
    },
    "price": 96.8,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "DRAM",
@@ -2736,7 +2736,7 @@
     "sinceLastReport": null
    },
    "price": 39.57,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "F",
@@ -2760,7 +2760,7 @@
     "sinceLastReport": "-2.51%"
    },
    "price": 11.65,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "GDX",
@@ -2784,7 +2784,7 @@
     "sinceLastReport": null
    },
    "price": 72.8,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "GOOGL",
@@ -2808,7 +2808,7 @@
     "sinceLastReport": "-13.17%"
    },
    "price": 282.1,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "HIMS",
@@ -2832,7 +2832,7 @@
     "sinceLastReport": "-34.35%"
    },
    "price": 15.06,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "HOOD",
@@ -2856,7 +2856,7 @@
     "sinceLastReport": "-28.75%"
    },
    "price": 67.37,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "INTC",
@@ -2880,7 +2880,7 @@
     "sinceLastReport": "-35.20%"
    },
    "price": 59.66,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "IONQ",
@@ -2904,7 +2904,7 @@
     "sinceLastReport": "-11.69%"
    },
    "price": 23.34,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "MARA",
@@ -2928,7 +2928,7 @@
     "sinceLastReport": "-15.96%"
    },
    "price": 5.58,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "MSFT",
@@ -2952,7 +2952,7 @@
     "sinceLastReport": "-7.25%"
    },
    "price": 492.5,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "MU",
@@ -2976,7 +2976,7 @@
     "sinceLastReport": "-33.56%"
    },
    "price": 707.7,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "NBIS",
@@ -3000,7 +3000,7 @@
     "sinceLastReport": "-36.78%"
    },
    "price": 97.8,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "NOK",
@@ -3024,7 +3024,7 @@
     "sinceLastReport": "-18.38%"
    },
    "price": 7.55,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "NVDA",
@@ -3048,7 +3048,7 @@
     "sinceLastReport": "+6.17%"
    },
    "price": 165.05,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "OKLO",
@@ -3072,7 +3072,7 @@
     "sinceLastReport": "+8.18%"
    },
    "price": 20.77,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "PFE",
@@ -3096,7 +3096,7 @@
     "sinceLastReport": "-10.66%"
    },
    "price": 27.4,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "PLTR",
@@ -3120,7 +3120,7 @@
     "sinceLastReport": "-10.64%"
    },
    "price": 159.36,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "PYPL",
@@ -3144,7 +3144,7 @@
     "sinceLastReport": "+0.45%"
    },
    "price": 55.24,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "QQQ",
@@ -3168,7 +3168,7 @@
     "sinceLastReport": null
    },
    "price": 651.03,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "RKLB",
@@ -3192,7 +3192,7 @@
     "sinceLastReport": "-15.68%"
    },
    "price": 49.63,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SKM",
@@ -3216,7 +3216,7 @@
     "sinceLastReport": "-19.86%"
    },
    "price": 27.43,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SLV",
@@ -3240,7 +3240,7 @@
     "sinceLastReport": null
    },
    "price": 38.91,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SNXX",
@@ -3264,7 +3264,7 @@
     "sinceLastReport": null
    },
    "price": 2.09,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SOFI",
@@ -3288,7 +3288,7 @@
     "sinceLastReport": "-9.47%"
    },
    "price": 13.09,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SOUN",
@@ -3312,7 +3312,7 @@
     "sinceLastReport": "-32.04%"
    },
    "price": 2.895,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "SPY",
@@ -3336,7 +3336,7 @@
     "sinceLastReport": null
    },
    "price": 722.29,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   },
   {
    "ticker": "UBER",
@@ -3360,7 +3360,7 @@
     "sinceLastReport": "-3.80%"
    },
    "price": 64.07,
-   "fetchedAt": "2026-11-23T23:02:38Z"
+   "fetchedAt": "2026-11-24T00:02:55Z"
   }
  ],
  "errors": []
