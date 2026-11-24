@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-24T18:25:00Z",
+ "cat": "Earnings",
+ "impact": "The largest cybersecurity deal on record consolidates the sector and could pressure rivals like Palo Alto and Fortinet; no direct effect on Clement's holdings.",
+ "level": "Medium",
+ "published": "2026-11-23T21:10:00Z",
+ "source": "SEC 8-K (CrowdStrike)",
+ "summary": "CrowdStrike agreed to acquire Zscaler in an all-stock deal valuing it at about $43.9 billion, announced Nov 23 with its fiscal Q3 results. Each Zscaler share converts into 1.135 CrowdStrike shares. Zscaler may owe a $1.4 billion termination fee in some cases. CrowdStrike says the deal adds network security, expands its addressable market by more than $185 billion and gives a combined business with more than $10 billion in annual recurring revenue.",
+ "tickers": [
+  "CRWD",
+  "ZS",
+  "PANW"
+ ],
+ "title": "CrowdStrike to buy Zscaler in $43.9B all-stock deal",
+ "tone": "neutral",
+ "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000110465926130785/tm2630454d1_ex99-1.htm",
+ "uw": true
+}

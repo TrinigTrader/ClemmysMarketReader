@@ -1,10 +1,10 @@
 {
  "ticker": "NOK",
  "url": "https://unusualwhales.com/stock/NOK/overview",
- "iv": "61.8%",
+ "iv": "64.3%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "50.3",
- "impliedMove": "\u00b1$0.55 (7.3%)",
+ "ivRank1y": "52.4",
+ "impliedMove": "\u00b1$0.55 (7.6%)",
  "name": "NOKIA",
  "sector": "Technology",
  "marketCap": "$43.35B",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 22, 2026",
   "lastEps": "0.1",
   "lastNextDayMove": "-14.81%",
-  "sinceLastReport": "-18.38%"
+  "sinceLastReport": "-21.08%"
  },
- "price": 7.55,
- "fetchedAt": "2026-11-24T12:03:07Z"
+ "price": 7.2999,
+ "fetchedAt": "2026-11-24T18:02:54Z"
 }

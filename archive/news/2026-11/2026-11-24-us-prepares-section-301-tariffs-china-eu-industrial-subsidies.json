@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-24T18:25:00Z",
+ "cat": "Trade & policy",
+ "impact": "Renewed tariff escalation weighed on chips on Tuesday and raises the risk of Chinese retaliation against US tech and memory names; a formal announcement this week could add pressure on semis and Asia-exposed stocks.",
+ "level": "Medium",
+ "published": "2026-11-24T15:00:00Z",
+ "source": "Seeking Alpha (WSJ) / Bloomberg",
+ "summary": "The WSJ and Bloomberg reported on Nov 24 that the administration is preparing new tariffs over industrial subsidies on China, the EU and more than a dozen other economies, with USTR Jamieson Greer expected to announce results as soon as this week. China is expected to face the highest rates; partners with deals such as Japan and the EU may be capped at about 15% or lower, while India and Vietnam could face higher rates. Steel, aluminum and autos would likely be excluded. The measures would use Section 301, not the authority the Supreme Court struck down in February.",
+ "tickers": [
+  "FXI",
+  "SPY",
+  "EWG"
+ ],
+ "title": "US readies new Section 301 tariffs on China, EU and a dozen-plus economies",
+ "tone": "negative",
+ "url": "https://seekingalpha.com/news/4676107-us-prepares-to-raise-tariffs-on-china-eu-other-nations-wsj"
+}

@@ -1,14 +1,14 @@
 {
  "ticker": "HIMS",
  "url": "https://unusualwhales.com/stock/HIMS/overview",
- "iv": "83.9%",
+ "iv": "89.0%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "43.1",
- "impliedMove": "\u00b1$1.48 (9.9%)",
+ "ivRank1y": "47.6",
+ "impliedMove": "\u00b1$1.50 (10.1%)",
  "name": "HIMS & HERS HEALTH",
  "sector": "Consumer Defensive",
  "marketCap": "$3.4B",
- "maxPain": "$20",
+ "maxPain": "$19",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Feb 22, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 9, 2026",
   "lastEps": "0.03",
   "lastNextDayMove": "-16.61%",
-  "sinceLastReport": "-34.35%"
+  "sinceLastReport": "-35.48%"
  },
- "price": 15.06,
- "fetchedAt": "2026-11-24T12:03:07Z"
+ "price": 14.8,
+ "fetchedAt": "2026-11-24T18:02:54Z"
 }

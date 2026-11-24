@@ -1,14 +1,14 @@
 {
  "ticker": "INTC",
  "url": "https://unusualwhales.com/stock/INTC/overview",
- "iv": "83.8%",
+ "iv": "88.9%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "52.8",
- "impliedMove": "\u00b1$5.90 (9.9%)",
+ "ivRank1y": "66.6",
+ "impliedMove": "\u00b1$5.52 (10.1%)",
  "name": "INTEL",
  "sector": "Technology",
  "marketCap": "$317.09B",
- "maxPain": "$60",
+ "maxPain": "$59",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Jan 28, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 29, 2026",
   "lastEps": "0.41",
   "lastNextDayMove": "-28.58%",
-  "sinceLastReport": "-35.20%"
+  "sinceLastReport": "-41.38%"
  },
- "price": 59.66,
- "fetchedAt": "2026-11-24T12:03:07Z"
+ "price": 53.975,
+ "fetchedAt": "2026-11-24T18:02:54Z"
 }

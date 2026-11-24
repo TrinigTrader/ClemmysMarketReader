@@ -1,6 +1,22 @@
 [
  {
   "action": "Sell",
+  "amount": "$1,001 - $15,000",
+  "asset": "MH Built to Last LLC\nCompany: MH Built to Last LLC  (New York, NY)\nDescription: Partnership",
+  "big": false,
+  "chamber": "senate",
+  "filed": "2026-11-24",
+  "holding": false,
+  "id": "bcdd36a2-046f-4236-829d-34001d7f5fb3",
+  "member": "Richard Blumenthal",
+  "party": "democrat",
+  "source": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/",
+  "ticker": "",
+  "traded": "2026-11-06",
+  "watched": false
+ },
+ {
+  "action": "Sell",
   "amount": "$50,001 - $100,000",
   "asset": "Verizon Communications Inc. Common Stock (VZ) [ST]",
   "big": false,
@@ -29,6 +45,22 @@
   "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
   "ticker": "AAPL",
   "traded": "2026-11-16",
+  "watched": false
+ },
+ {
+  "action": "Buy",
+  "amount": "$1,001 - $15,000",
+  "asset": "ServiceNow, Inc. Common Stock (NOW) [ST]",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-23",
+  "holding": false,
+  "id": "ea73b0da-0d0a-4039-811a-f376d35b60c5",
+  "member": "Harriet Hageman",
+  "party": "republican",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+  "ticker": "NOW",
+  "traded": "2026-10-20",
   "watched": false
  },
  {

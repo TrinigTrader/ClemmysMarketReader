@@ -87,14 +87,19 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-18: Published as artifact v49 ("Re-screen 18 Nov"). IBKR flaky again (503s; retried until all 25 underlyings loaded). S&P 500 closed 17 Nov at 7,340.53 (−1.03%, fourth straight loss, lowest close since July); Dow −849; Nasdaq 24,328.38 (−0.74%). Nvidia Q3 FY27 revenue $115.8bn (+103%), Q4 guide $130bn (no China data-center sales assumed). Futures rose overnight but SPY $730.95 (−0.2%) at 9:42 ET; IV 2
 - 2026-11-19: Published as artifact v50 ("Re-screen 19 Nov"). IBKR loaded all 25 underlyings (one 503 on an option, retried). Fixed a build bug that left a 0.0% change blank in U. 18 Nov: S&P 500 −0.23% to 7,323.63 (fifth straight loss), Dow −561, Nasdaq +0.42% to 24,429.88; Nvidia −2.9% (board says Huang won't return as CEO); AMD +5.8%. Anthropic priced IPO at $83 (above $70–78 range, ~$81bn raised), trading t
 - 2026-11-23: SPY $723.20 (+4.8%), IV 21.3% vs HV 16.5%, 52w IV pct 95% (elevated). S&P 500 ~7,238 (+4.7%, best day since Apr 2025) after Nvidia reinstated Jensen Huang; Fri 20 Nov S&P −3.7% to 6,910, Nasdaq −5.3%, week −8.6% (correction). Anthropic (ANT) closed day one 19 Nov at $97.17 (+17% on $83 IPO). Dec 8–9 Fed hike ~98% priced. Account: S$45 cash, S$1,693 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5,
+- 2026-11-24: SPY $715.88 (−0.9%), IV 23.4% vs HV 22.2%, 52w IV pct 98% (elevated). Chips reversing Monday's Nvidia rally: AMD −9.6% (registered ~337M OpenAI/Meta warrant shares for resale, Nov 23), DRAM −7.3%, INTC −5.6%. Mon 23 Nov S&P ~+4.7% (best day since Apr 2025). Dec 8–9 Fed hike ~98% priced; gold at 13-month low (Nov 16). BTC ~$64k (Nov 19). Account: S$45 cash, S$1,592 net liq. Positions BE 2, DRAM 5, 
 
 ### News headlines (last 30 days)
 
+- 2026-11-24 [Medium] Nvidia closes down 7.2%, Nasdaq 100 falls 2.7% as Huang rally reverses (NVDA, QQQ, SMH, AMD)
+- 2026-11-24 [Medium] US readies new Section 301 tariffs on China, EU and a dozen-plus economies (FXI, SPY, EWG)
 - 2026-11-24 [Low] Medtronic Q2 EPS $1.34 edges past, revenue $9.36B misses; shares fall premarket (MDT, XLV)
 - 2026-11-24 [Low] Dell, Workday, HP report after close; Best Buy, ADI before open (DELL, ADI, BBY, MU)
 - 2026-11-24 [Medium] Kospi jumps over 6%, SK Hynix up about 9% as Huang returns to Nvidia (DRAM, SNXX, MU, EWY)
+- 2026-11-23 [Medium] CrowdStrike to buy Zscaler in $43.9B all-stock deal (CRWD, ZS, PANW)
 - 2026-11-23 [High] Dow soars 1,448 points, Nasdaq +6.5% in best day since April 2025 on Huang return (SPY, QQQ, NBIS, MU)
 - 2026-11-23 [High] Nvidia reinstates Jensen Huang as CEO; NVDA closes up about 30%, Nebius and CoreWeave up 30%+ (NVDA, NBIS, MU, SMH)
+- 2026-11-23 [Medium] Rep. Hageman buys MU and NVDA, sells MSFT (filed Nov 23) (MU, MSFT, NVDA)
 - 2026-11-19 [High] Dow sinks 1,101 points below 50,000; Nasdaq -2.25% as Anthropic fails to lift AI trade (SPY, QQQ, MU, NBIS)
 - 2026-11-19 [High] Anthropic opens at $111.50, up 34% from IPO, near $2 trillion value (GOOGL, AMZN, MSFT, NVDA)
 - 2026-11-19 [Medium] Chips rally at the open: Micron up ~5%, Nvidia ~4% before Anthropic's debut (MU, GOOGL, NVDA, QQQ)

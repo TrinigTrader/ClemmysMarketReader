@@ -1,14 +1,14 @@
 {
  "ticker": "NVDA",
  "url": "https://unusualwhales.com/stock/NVDA/overview",
- "iv": "77.4%",
+ "iv": "80.7%",
  "ivExpiry": "2026-12-02",
- "ivRank1y": "66.7",
- "impliedMove": "\u00b1$13.58 (8.2%)",
+ "ivRank1y": "77.7",
+ "impliedMove": "\u00b1$12.54 (8.2%)",
  "name": "NVIDIA",
  "sector": "Technology",
  "marketCap": "$3.98T",
- "maxPain": "$170",
+ "maxPain": "$160",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
   "next": "Feb 24, 2027",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 17, 2026",
   "lastEps": "2.68",
   "lastNextDayMove": "-2.89%",
-  "sinceLastReport": "+6.17%"
+  "sinceLastReport": "-1.36%"
  },
- "price": 165.05,
- "fetchedAt": "2026-11-24T12:03:07Z"
+ "price": 153.3499,
+ "fetchedAt": "2026-11-24T18:02:54Z"
 }

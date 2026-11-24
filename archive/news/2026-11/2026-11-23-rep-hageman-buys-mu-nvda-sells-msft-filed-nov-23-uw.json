@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-24T18:25:00Z",
+ "cat": "Trade & policy",
+ "impact": "Small, months-old trades, so little signal; they touch MU and MSFT in Clement's book but do not change the picture for either.",
+ "level": "Medium",
+ "published": "2026-11-23T12:00:00Z",
+ "source": "House Clerk disclosure (via Unusual Whales)",
+ "summary": "Rep. Harriet Hageman (R) filed a disclosure on Nov 23 showing a Micron buy ($1,001-$15,000, traded Jul 2), an Nvidia buy ($1,001-$15,000, traded Apr 29), and two Microsoft sales ($1,001-$15,000 each, traded Jul 2 and Oct 14). The filing also lists an Uber sale and a Pfizer buy.",
+ "tickers": [
+  "MU",
+  "MSFT",
+  "NVDA"
+ ],
+ "title": "Rep. Hageman buys MU and NVDA, sells MSFT (filed Nov 23)",
+ "tone": "neutral",
+ "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+ "uw": true
+}

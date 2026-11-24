@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-24T16:15:00Z",
+ "cat": "Markets",
+ "impact": "A sharp one-day reversal in chips puts Monday's gains in MU, DRAM, SNXX and NBIS at risk; the rotation into the Dow suggests money is leaving AI hardware rather than the market as a whole. PCE on Wednesday is the next swing factor.",
+ "level": "Medium",
+ "published": "2026-11-24T21:15:00Z",
+ "source": "Benzinga",
+ "summary": "Chips gave back a big part of Monday's surge. Benzinga's close wrap had Nvidia down 7.2% at $153.19, the Nasdaq 100 down 2.7% at 26,034 and the S&P 500 down about 1% at 7,167, while the Dow rose 188 points (0.4%) to 49,783. AMD and Arm fell even harder intraday, and Anthropic slipped below its IPO price. Reports pointed to governance and political doubts over Huang's return, a WSJ report on new tariffs, and caution before Wednesday's October PCE data.",
+ "tickers": [
+  "NVDA",
+  "QQQ",
+  "SMH",
+  "AMD"
+ ],
+ "title": "Nvidia closes down 7.2%, Nasdaq 100 falls 2.7% as Huang rally reverses",
+ "tone": "negative",
+ "updatedAt": "2026-11-24T18:25:00Z",
+ "url": "https://www.benzinga.com/markets/equities/26/11/63596550/stock-market-today-anthropic-below-ipo-price-nvidia-record-rally-reversal"
+}

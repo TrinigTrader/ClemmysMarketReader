@@ -55,15 +55,14 @@ Every wheel pick, option play and passing stock gets a TH entry with: trade (one
 5. Research news for every candidate (web search), write the theses per the standard above, then update the `U`, `W` (incl. conviction), `P` (incl. key/conv/tag), `TH`, `EXP` and `ASOF` constants, the market-read text and sources in the page source. Keep design and code otherwise unchanged. Republish to the artifact URL, and save the updated source back to this project.
 6. Report a 5-line summary covering the top wheel pick, any new or closed plays, stocks that passed, and warnings (earnings this week, IV spikes).
 
-## Snapshot 23 Nov 2026 (6:06 PM ET, after the close; late run, 20 Nov run did not complete)
-- SPY $723.20 (+4.8%), IV 21.3% vs HV 16.5%, 52w IV pct 95% (elevated). S&P 500 ~7,238 (+4.7%, best day since Apr 2025) after Nvidia reinstated Jensen Huang; Fri 20 Nov S&P −3.7% to 6,910, Nasdaq −5.3%, week −8.6% (correction). Anthropic (ANT) closed day one 19 Nov at $97.17 (+17% on $83 IPO). Dec 8–9 Fed hike ~98% priced.
-- Account: S$45 cash, S$1,693 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
-- IBKR returned real option bid/ask this run (end-of-day quotes); W rows use bid/ask, not model price.
-- Stock screen: none pass. Pfizer fails only IV (84%); PayPal fails only start-of-period price; BE, RKLB, NOK pass three.
+## Snapshot 24 Nov 2026 (9:40 ET)
+- SPY $715.88 (−0.9%), IV 23.4% vs HV 22.2%, 52w IV pct 98% (elevated). Chips reversing Monday's Nvidia rally: AMD −9.6% (registered ~337M OpenAI/Meta warrant shares for resale, Nov 23), DRAM −7.3%, INTC −5.6%. Mon 23 Nov S&P ~+4.7% (best day since Apr 2025). Dec 8–9 Fed hike ~98% priced; gold at 13-month low (Nov 16). BTC ~$64k (Nov 19).
+- Account: S$45 cash, S$1,592 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
+- IBKR returned no option bid/ask at the open; W rows use model price as bid = ask (after-close runs do return quotes).
+- Stock screen: none pass. Pfizer fails only IV (87%); PayPal fails only start-of-period price; BE, RKLB pass three.
 
-## Theses 23 Nov 2026 (summary)
-- SLV Dec 18 $35P — Medium-Low, funded ($3,500). Delta −0.20, $0.65/$0.69, OI 13,699, edge ≈ +$31. Directional on silver holding Fri low $36.82.
-- DRAM Dec 18 $33P — Low, not funded. $1.11/$1.26, OI 4,540, edge ≈ +$36; IV≈HV (83/84%); already hold 5 shares.
-- PYPL Dec 18 $50P — Medium-Low (from Medium). Delta −0.15, $0.34/$0.50 (wide, flagged), OI 11,610, edge ≈ +$14; IV 31% < HV 33%; below 52w open.
-- SOFI Dec 18 $11P — Pass (edge ≈ +$4, IV<HV). HIMS Dec 18 $13P — Pass (edge ≈ +$1).
-- Watch: CCL (83.5% of high, IVp 67%), AMD (68%), PLTR hold (75%), PFE (IV only), CSCO (75%).
+## Theses 24 Nov 2026 (summary)
+- SLV Dec 18 $34P — Medium-Low, funded ($3,400). Delta −0.18, model $0.61, OI 7,946, edge ≈ +$18. Directional on silver holding $36.82 low.
+- PYPL Dec 18 $52.50P — Low, not funded. Delta −0.23, model $0.71, OI 6,379, edge ≈ +$8; IV 30% < HV 33%, IV pct 11%.
+- DRAM Dec 18 $31P — Pass (edge ≈ −$1; HV 100% > IV 87%). SOFI $11P — Pass (+$2). HIMS $13P — Pass (−$7).
+- Watch: CCL (83% of high, IVp 65%), AMD (62%, warrant-share overhang), PLTR hold (76%), PFE (IV only), CSCO (73%).
