@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$5.22 (10.5%)",
  "name": "ROCKET LAB USA",
  "sector": "Industrials",
- "marketCap": "$28.71B",
+ "marketCap": "$31.37B",
  "maxPain": "$57",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-15.68%"
  },
  "price": 49.63,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$1.98 (3.6%)",
  "name": "PAYPAL",
  "sector": "Financial Services",
- "marketCap": "$44.27B",
+ "marketCap": "$45.89B",
  "maxPain": "$55",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "+0.45%"
  },
  "price": 55.24,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

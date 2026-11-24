@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$2.98 (4.6%)",
  "name": "UBER",
  "sector": "Technology",
- "marketCap": "$129.6B",
+ "marketCap": "$130.82B",
  "maxPain": "$69",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-3.80%"
  },
  "price": 64.07,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

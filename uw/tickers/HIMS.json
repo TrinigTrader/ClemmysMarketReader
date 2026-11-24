@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$1.48 (9.9%)",
  "name": "HIMS & HERS HEALTH",
  "sector": "Consumer Defensive",
- "marketCap": "$3.3B",
+ "marketCap": "$3.4B",
  "maxPain": "$20",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-34.35%"
  },
  "price": 15.06,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

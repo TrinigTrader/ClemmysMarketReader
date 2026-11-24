@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.55 (7.3%)",
  "name": "NOKIA",
  "sector": "Technology",
- "marketCap": "$39.51B",
+ "marketCap": "$43.35B",
  "maxPain": "$8.5",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-18.38%"
  },
  "price": 7.55,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

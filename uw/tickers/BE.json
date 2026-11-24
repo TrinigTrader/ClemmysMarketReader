@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$22.07 (13.1%)",
  "name": "BLOOM ENERGY",
  "sector": "Industrials",
- "marketCap": "$42.1B",
+ "marketCap": "$49.71B",
  "maxPain": "$190",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-22.79%"
  },
  "price": 168.15,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

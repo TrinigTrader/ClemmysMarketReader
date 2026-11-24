@@ -90,6 +90,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-24 [Medium] Kospi jumps over 6%, SK Hynix up about 9% as Huang returns to Nvidia (DRAM, SNXX, MU, EWY)
 - 2026-11-23 [High] Dow soars 1,448 points, Nasdaq +6.5% in best day since April 2025 on Huang return (SPY, QQQ, NBIS, MU)
 - 2026-11-23 [High] Nvidia reinstates Jensen Huang as CEO; NVDA closes up about 30%, Nebius and CoreWeave up 30%+ (NVDA, NBIS, MU, SMH)
 - 2026-11-19 [High] Dow sinks 1,101 points below 50,000; Nasdaq -2.25% as Anthropic fails to lift AI trade (SPY, QQQ, MU, NBIS)

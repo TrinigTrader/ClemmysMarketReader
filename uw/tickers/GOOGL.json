@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$11.83 (4.2%)",
  "name": "ALPHABET",
  "sector": "Communication Services",
- "marketCap": "$1.56T",
+ "marketCap": "$1.66T",
  "maxPain": "$295",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-13.17%"
  },
  "price": 282.1,
- "fetchedAt": "2026-11-24T00:02:55Z"
+ "fetchedAt": "2026-11-24T06:02:50Z"
 }

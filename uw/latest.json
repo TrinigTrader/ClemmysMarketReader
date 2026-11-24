@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-24T00:02:55Z",
+ "fetchedAt": "2026-11-24T06:02:50Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -1649,7 +1649,78 @@
      "Jimmy Patronis"
     ],
     "count": 3,
-    "midValue": "918002388.93"
+    "midValue": "956149941.285"
+   },
+   {
+    "ticker": "NVDA",
+    "politicians": [
+     "Analilia Mejia",
+     "Angela Griffiths",
+     "Angus King",
+     "Ashley Moody",
+     "Bob Brooks",
+     "Byron Donalds",
+     "Chaz Molder",
+     "Cleo Fields",
+     "Cory Booker",
+     "Dan Meuser",
+     "Dan Newhouse",
+     "David Cheston Rouzer",
+     "David Kustoff",
+     "Derek Tran",
+     "Diana Harshbarger",
+     "Donald J Trump",
+     "Dwight Evans",
+     "Gilbert Cisneros",
+     "Glenn Ivey",
+     "James Comer",
+     "Jared Moskowitz",
+     "Jefferson Shreve",
+     "Jenny Costa Honeycutt",
+     "Jimmy Patronis",
+     "John Beccia",
+     "John Boozman",
+     "John Fetterman",
+     "John McGuire",
+     "Jonathan Jackson",
+     "Josh Gottheimer",
+     "Julia Letlow",
+     "Julie Johnson",
+     "Kathy Manning",
+     "Katie Britt",
+     "Kim Dr Schrier",
+     "Marjorie Taylor Greene",
+     "Mark Charles Teixeira",
+     "Markwayne Mullin",
+     "Michael D. Eisenhauer",
+     "Michael Rulli",
+     "Mitchell Leigh Jacob",
+     "Nancy Pelosi",
+     "Patrick Thomas Roath",
+     "Pete Sessions",
+     "Pia Dandiya",
+     "Rick McCartney",
+     "Riley Montgomery Owen",
+     "Rob Bresnahan",
+     "Robert Ott",
+     "Roger Williams",
+     "Ron Wyden",
+     "Ronny Jackson",
+     "Sam Liccardo",
+     "Shaun Finnie",
+     "Sheldon Whitehouse",
+     "Stephen Lynch",
+     "Sujit Singh",
+     "Susan Collins",
+     "Terri Deboer",
+     "Terri Sewell",
+     "Tim Moore",
+     "Tom Carper",
+     "Tom Suozzi",
+     "Valerie Hoyle"
+    ],
+    "count": 64,
+    "midValue": "127032217.95"
    },
    {
     "ticker": "SPY",
@@ -1706,7 +1777,7 @@
      "Vern Buchanan"
     ],
     "count": 50,
-    "midValue": "118872198.06"
+    "midValue": "124469346.54"
    },
    {
     "ticker": "AAPL",
@@ -1813,78 +1884,7 @@
      "Wesley Hunt"
     ],
     "count": 100,
-    "midValue": "118456562.88"
-   },
-   {
-    "ticker": "NVDA",
-    "politicians": [
-     "Analilia Mejia",
-     "Angela Griffiths",
-     "Angus King",
-     "Ashley Moody",
-     "Bob Brooks",
-     "Byron Donalds",
-     "Chaz Molder",
-     "Cleo Fields",
-     "Cory Booker",
-     "Dan Meuser",
-     "Dan Newhouse",
-     "David Cheston Rouzer",
-     "David Kustoff",
-     "Derek Tran",
-     "Diana Harshbarger",
-     "Donald J Trump",
-     "Dwight Evans",
-     "Gilbert Cisneros",
-     "Glenn Ivey",
-     "James Comer",
-     "Jared Moskowitz",
-     "Jefferson Shreve",
-     "Jenny Costa Honeycutt",
-     "Jimmy Patronis",
-     "John Beccia",
-     "John Boozman",
-     "John Fetterman",
-     "John McGuire",
-     "Jonathan Jackson",
-     "Josh Gottheimer",
-     "Julia Letlow",
-     "Julie Johnson",
-     "Kathy Manning",
-     "Katie Britt",
-     "Kim Dr Schrier",
-     "Marjorie Taylor Greene",
-     "Mark Charles Teixeira",
-     "Markwayne Mullin",
-     "Michael D. Eisenhauer",
-     "Michael Rulli",
-     "Mitchell Leigh Jacob",
-     "Nancy Pelosi",
-     "Patrick Thomas Roath",
-     "Pete Sessions",
-     "Pia Dandiya",
-     "Rick McCartney",
-     "Riley Montgomery Owen",
-     "Rob Bresnahan",
-     "Robert Ott",
-     "Roger Williams",
-     "Ron Wyden",
-     "Ronny Jackson",
-     "Sam Liccardo",
-     "Shaun Finnie",
-     "Sheldon Whitehouse",
-     "Stephen Lynch",
-     "Sujit Singh",
-     "Susan Collins",
-     "Terri Deboer",
-     "Terri Sewell",
-     "Tim Moore",
-     "Tom Carper",
-     "Tom Suozzi",
-     "Valerie Hoyle"
-    ],
-    "count": 64,
-    "midValue": "96615294.27"
+    "midValue": "120711165.84"
    },
    {
     "ticker": "SCHW",
@@ -1907,7 +1907,7 @@
      "Tony Wied"
     ],
     "count": 16,
-    "midValue": "69461878.64"
+    "midValue": "71164526.73"
    },
    {
     "ticker": "MSFT",
@@ -2010,7 +2010,7 @@
      "Vincent Michael Arias"
     ],
     "count": 96,
-    "midValue": "68984504.04"
+    "midValue": "70120672.5"
    },
    {
     "ticker": "VOO",
@@ -2074,7 +2074,53 @@
      "Yadira Caraveo"
     ],
     "count": 57,
-    "midValue": "57383542.14"
+    "midValue": "59945097.81"
+   },
+   {
+    "ticker": "GOOG",
+    "politicians": [
+     "Bill Hagerty",
+     "Byron Donalds",
+     "Chaz Molder",
+     "Cleo Fields",
+     "Clifford Franklin",
+     "Daniel Crenshaw",
+     "David Joyce",
+     "Debbie Dingell",
+     "Deborah  k. Ross",
+     "Diana Harshbarger",
+     "Donald J Trump",
+     "Garret Graves",
+     "Gilbert Cisneros",
+     "James Comer",
+     "Jared Moskowitz",
+     "Jenny Costa Honeycutt",
+     "Jerry Moran",
+     "Jimmy Patronis",
+     "John Beccia",
+     "John Fetterman",
+     "Josh Gottheimer",
+     "Julie Johnson",
+     "Katherine Clark",
+     "Kathy Manning",
+     "Kelly Morrison",
+     "Marjorie Taylor Greene",
+     "Mark Charles Teixeira",
+     "Matt Strickler",
+     "Michael McCaul",
+     "Pete Sessions",
+     "Pia Dandiya",
+     "Rick McCartney",
+     "Ro Khanna",
+     "Rob Bresnahan",
+     "Shri Thanedar",
+     "Tim Moore",
+     "Tom Carper",
+     "Tony Wied",
+     "Valerie Hoyle"
+    ],
+    "count": 39,
+    "midValue": "58547278.97"
    },
    {
     "ticker": "AMZN",
@@ -2157,53 +2203,7 @@
      "Valerie Hoyle"
     ],
     "count": 76,
-    "midValue": "56337405.46"
-   },
-   {
-    "ticker": "GOOG",
-    "politicians": [
-     "Bill Hagerty",
-     "Byron Donalds",
-     "Chaz Molder",
-     "Cleo Fields",
-     "Clifford Franklin",
-     "Daniel Crenshaw",
-     "David Joyce",
-     "Debbie Dingell",
-     "Deborah  k. Ross",
-     "Diana Harshbarger",
-     "Donald J Trump",
-     "Garret Graves",
-     "Gilbert Cisneros",
-     "James Comer",
-     "Jared Moskowitz",
-     "Jenny Costa Honeycutt",
-     "Jerry Moran",
-     "Jimmy Patronis",
-     "John Beccia",
-     "John Fetterman",
-     "Josh Gottheimer",
-     "Julie Johnson",
-     "Katherine Clark",
-     "Kathy Manning",
-     "Kelly Morrison",
-     "Marjorie Taylor Greene",
-     "Mark Charles Teixeira",
-     "Matt Strickler",
-     "Michael McCaul",
-     "Pete Sessions",
-     "Pia Dandiya",
-     "Rick McCartney",
-     "Ro Khanna",
-     "Rob Bresnahan",
-     "Shri Thanedar",
-     "Tim Moore",
-     "Tom Carper",
-     "Tony Wied",
-     "Valerie Hoyle"
-    ],
-    "count": 39,
-    "midValue": "55294536"
+    "midValue": "58293533.67"
    },
    {
     "ticker": "QQQ",
@@ -2261,7 +2261,7 @@
      "Virginia Foxx"
     ],
     "count": 51,
-    "midValue": "45896600.40"
+    "midValue": "49108494.96"
    },
    {
     "ticker": "AVGO",
@@ -2305,19 +2305,7 @@
      "Valerie Hoyle"
     ],
     "count": 37,
-    "midValue": "41115136.65"
-   },
-   {
-    "ticker": "VFLO",
-    "politicians": [
-     "Darrell Issa",
-     "John McGuire",
-     "Joni Ernst",
-     "Morgan McGarvey",
-     "Scott Fitzgerald"
-    ],
-    "count": 5,
-    "midValue": "37226402.4"
+    "midValue": "42349630.75"
    },
    {
     "ticker": "VO",
@@ -2361,7 +2349,19 @@
      "Tim Kaine"
     ],
     "count": 37,
-    "midValue": "36965542.50"
+    "midValue": "38046633.12"
+   },
+   {
+    "ticker": "VFLO",
+    "politicians": [
+     "Darrell Issa",
+     "John McGuire",
+     "Joni Ernst",
+     "Morgan McGarvey",
+     "Scott Fitzgerald"
+    ],
+    "count": 5,
+    "midValue": "37921501.2"
    },
    {
     "ticker": "VTI",
@@ -2409,7 +2409,7 @@
      "Timothy P Sheehy"
     ],
     "count": 41,
-    "midValue": "36107743.86"
+    "midValue": "37727187.11"
    },
    {
     "ticker": "IWF",
@@ -2443,7 +2443,7 @@
      "Timothy P Sheehy"
     ],
     "count": 27,
-    "midValue": "31148901.84"
+    "midValue": "33632362.26"
    }
   ]
  },
@@ -2579,7 +2579,7 @@
    "impliedMove": "\u00b1$45.44 (10.0%)",
    "name": "ADVANCED MICRO DEVICES",
    "sector": "Technology",
-   "marketCap": "$696.04B",
+   "marketCap": "$743.71B",
    "maxPain": "$475",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2592,7 +2592,7 @@
     "sinceLastReport": "-6.29%"
    },
    "price": 453.46,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "BAC",
@@ -2603,7 +2603,7 @@
    "impliedMove": "\u00b1$1.73 (3.6%)",
    "name": "BANK OF AMERICA",
    "sector": "Financial Services",
-   "marketCap": "$324.59B",
+   "marketCap": "$332.18B",
    "maxPain": "$51",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2616,7 +2616,7 @@
     "sinceLastReport": "-10.79%"
    },
    "price": 48.14,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "BE",
@@ -2627,7 +2627,7 @@
    "impliedMove": "\u00b1$22.07 (13.1%)",
    "name": "BLOOM ENERGY",
    "sector": "Industrials",
-   "marketCap": "$42.1B",
+   "marketCap": "$49.71B",
    "maxPain": "$190",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2640,7 +2640,7 @@
     "sinceLastReport": "-22.79%"
    },
    "price": 168.15,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "C",
@@ -2651,7 +2651,7 @@
    "impliedMove": "\u00b1$4.62 (4.0%)",
    "name": "CITIGROUP",
    "sector": "Financial Services",
-   "marketCap": "$183.1B",
+   "marketCap": "$189.27B",
    "maxPain": "$121",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2664,7 +2664,7 @@
     "sinceLastReport": "-13.32%"
    },
    "price": 114.35,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "CCL",
@@ -2675,7 +2675,7 @@
    "impliedMove": "\u00b1$1.45 (5.2%)",
    "name": "CARNIVAL",
    "sector": "Consumer Cyclical",
-   "marketCap": "$35.75B",
+   "marketCap": "$37.53B",
    "maxPain": "$27",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2688,7 +2688,7 @@
     "sinceLastReport": "+26.06%"
    },
    "price": 27.91,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "CSCO",
@@ -2699,7 +2699,7 @@
    "impliedMove": "\u00b1$4.31 (4.5%)",
    "name": "CISCO SYSTEMS",
    "sector": "Technology",
-   "marketCap": "$357.34B",
+   "marketCap": "$381.63B",
    "maxPain": "$100",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2712,7 +2712,7 @@
     "sinceLastReport": "-5.11%"
    },
    "price": 96.8,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "DRAM",
@@ -2736,7 +2736,7 @@
     "sinceLastReport": null
    },
    "price": 39.57,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "F",
@@ -2747,7 +2747,7 @@
    "impliedMove": "\u00b1$0.44 (3.8%)",
    "name": "FORD",
    "sector": "Consumer Cyclical",
-   "marketCap": "$43.81B",
+   "marketCap": "$45.7B",
    "maxPain": "$12",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2760,7 +2760,7 @@
     "sinceLastReport": "-2.51%"
    },
    "price": 11.65,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "GDX",
@@ -2784,7 +2784,7 @@
     "sinceLastReport": null
    },
    "price": 72.8,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "GOOGL",
@@ -2795,7 +2795,7 @@
    "impliedMove": "\u00b1$11.83 (4.2%)",
    "name": "ALPHABET",
    "sector": "Communication Services",
-   "marketCap": "$1.56T",
+   "marketCap": "$1.66T",
    "maxPain": "$295",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2808,7 +2808,7 @@
     "sinceLastReport": "-13.17%"
    },
    "price": 282.1,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "HIMS",
@@ -2819,7 +2819,7 @@
    "impliedMove": "\u00b1$1.48 (9.9%)",
    "name": "HIMS & HERS HEALTH",
    "sector": "Consumer Defensive",
-   "marketCap": "$3.3B",
+   "marketCap": "$3.4B",
    "maxPain": "$20",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2832,7 +2832,7 @@
     "sinceLastReport": "-34.35%"
    },
    "price": 15.06,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "HOOD",
@@ -2843,7 +2843,7 @@
    "impliedMove": "\u00b1$6.08 (9.0%)",
    "name": "ROBINHOOD",
    "sector": "Technology",
-   "marketCap": "$49.33B",
+   "marketCap": "$53.45B",
    "maxPain": "$76",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2856,7 +2856,7 @@
     "sinceLastReport": "-28.75%"
    },
    "price": 67.37,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "INTC",
@@ -2867,7 +2867,7 @@
    "impliedMove": "\u00b1$5.90 (9.9%)",
    "name": "INTEL",
    "sector": "Technology",
-   "marketCap": "$272.55B",
+   "marketCap": "$317.09B",
    "maxPain": "$60",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2880,7 +2880,7 @@
     "sinceLastReport": "-35.20%"
    },
    "price": 59.66,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "IONQ",
@@ -2891,7 +2891,7 @@
    "impliedMove": "\u00b1$2.75 (11.8%)",
    "name": "IONQ",
    "sector": "Technology",
-   "marketCap": "$8.96B",
+   "marketCap": "$10.09B",
    "maxPain": "$28",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2904,7 +2904,7 @@
     "sinceLastReport": "-11.69%"
    },
    "price": 23.34,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "MARA",
@@ -2915,7 +2915,7 @@
    "impliedMove": "\u00b1$0.77 (13.9%)",
    "name": "MARATHON DIGITAL",
    "sector": "Financial Services",
-   "marketCap": "$1.97B",
+   "marketCap": "$2.16B",
    "maxPain": "$7",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2928,7 +2928,7 @@
     "sinceLastReport": "-15.96%"
    },
    "price": 5.58,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "MSFT",
@@ -2939,7 +2939,7 @@
    "impliedMove": "\u00b1$18.20 (3.7%)",
    "name": "MICROSOFT",
    "sector": "Technology",
-   "marketCap": "$3.6T",
+   "marketCap": "$3.66T",
    "maxPain": "$510",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2952,7 +2952,7 @@
     "sinceLastReport": "-7.25%"
    },
    "price": 492.5,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "MU",
@@ -2963,7 +2963,7 @@
    "impliedMove": "\u00b1$65.22 (9.2%)",
    "name": "MICRON TECHNOLOGY",
    "sector": "Technology",
-   "marketCap": "$672.64B",
+   "marketCap": "$800.71B",
    "maxPain": "$760",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2976,7 +2976,7 @@
     "sinceLastReport": "-33.56%"
    },
    "price": 707.7,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "NBIS",
@@ -2987,7 +2987,7 @@
    "impliedMove": "\u00b1$15.06 (15.4%)",
    "name": "Nebius Group NV",
    "sector": "Communication Services",
-   "marketCap": "$17.84B",
+   "marketCap": "$21.46B",
    "maxPain": "$120",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3000,7 +3000,7 @@
     "sinceLastReport": "-36.78%"
    },
    "price": 97.8,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "NOK",
@@ -3011,7 +3011,7 @@
    "impliedMove": "\u00b1$0.55 (7.3%)",
    "name": "NOKIA",
    "sector": "Technology",
-   "marketCap": "$39.51B",
+   "marketCap": "$43.35B",
    "maxPain": "$8.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3024,7 +3024,7 @@
     "sinceLastReport": "-18.38%"
    },
    "price": 7.55,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "NVDA",
@@ -3035,7 +3035,7 @@
    "impliedMove": "\u00b1$13.58 (8.2%)",
    "name": "NVIDIA",
    "sector": "Technology",
-   "marketCap": "$3.03T",
+   "marketCap": "$3.98T",
    "maxPain": "$170",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3048,7 +3048,7 @@
     "sinceLastReport": "+6.17%"
    },
    "price": 165.05,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "OKLO",
@@ -3059,7 +3059,7 @@
    "impliedMove": "\u00b1$2.32 (11.2%)",
    "name": "OKLO",
    "sector": "Utilities",
-   "marketCap": "$3.88B",
+   "marketCap": "$4.06B",
    "maxPain": "$25",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3072,7 +3072,7 @@
     "sinceLastReport": "+8.18%"
    },
    "price": 20.77,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "PFE",
@@ -3096,7 +3096,7 @@
     "sinceLastReport": "-10.66%"
    },
    "price": 27.4,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "PLTR",
@@ -3107,7 +3107,7 @@
    "impliedMove": "\u00b1$11.79 (7.4%)",
    "name": "PALANTIR",
    "sector": "Technology",
-   "marketCap": "$330.99B",
+   "marketCap": "$367.6B",
    "maxPain": "$165",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3120,7 +3120,7 @@
     "sinceLastReport": "-10.64%"
    },
    "price": 159.36,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "PYPL",
@@ -3131,7 +3131,7 @@
    "impliedMove": "\u00b1$1.98 (3.6%)",
    "name": "PAYPAL",
    "sector": "Financial Services",
-   "marketCap": "$44.27B",
+   "marketCap": "$45.89B",
    "maxPain": "$55",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3144,15 +3144,15 @@
     "sinceLastReport": "+0.45%"
    },
    "price": 55.24,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "QQQ",
    "url": "https://unusualwhales.com/stock/QQQ/overview",
-   "iv": "34.0%",
-   "ivExpiry": "2026-12-01",
+   "iv": "34.6%",
+   "ivExpiry": "2026-12-02",
    "ivRank1y": "63.1",
-   "impliedMove": "\u00b1$22.24 (3.4%)",
+   "impliedMove": "\u00b1$23.99 (3.7%)",
    "name": "INVESCO QQQ ",
    "sector": null,
    "marketCap": "$422.87B",
@@ -3168,7 +3168,7 @@
     "sinceLastReport": null
    },
    "price": 651.03,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "RKLB",
@@ -3179,7 +3179,7 @@
    "impliedMove": "\u00b1$5.22 (10.5%)",
    "name": "ROCKET LAB USA",
    "sector": "Industrials",
-   "marketCap": "$28.71B",
+   "marketCap": "$31.37B",
    "maxPain": "$57",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3192,7 +3192,7 @@
     "sinceLastReport": "-15.68%"
    },
    "price": 49.63,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SKM",
@@ -3203,7 +3203,7 @@
    "impliedMove": "\u00b1$2.37 (8.6%)",
    "name": "SK TELECOM CO",
    "sector": "Communication Services",
-   "marketCap": "$10.35B",
+   "marketCap": "$10.52B",
    "maxPain": "$32.5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3216,7 +3216,7 @@
     "sinceLastReport": "-19.86%"
    },
    "price": 27.43,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SLV",
@@ -3240,7 +3240,7 @@
     "sinceLastReport": null
    },
    "price": 38.91,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SNXX",
@@ -3264,7 +3264,7 @@
     "sinceLastReport": null
    },
    "price": 2.09,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SOFI",
@@ -3275,7 +3275,7 @@
    "impliedMove": "\u00b1$0.94 (7.2%)",
    "name": "SOFI TECHNOLOGIES",
    "sector": "Financial Services",
-   "marketCap": "$16.2B",
+   "marketCap": "$16.99B",
    "maxPain": "$15",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3288,7 +3288,7 @@
     "sinceLastReport": "-9.47%"
    },
    "price": 13.09,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SOUN",
@@ -3299,7 +3299,7 @@
    "impliedMove": "\u00b1$0.28 (9.7%)",
    "name": "SOUNDHOUND AI",
    "sector": "Technology",
-   "marketCap": "$1.19B",
+   "marketCap": "$1.32B",
    "maxPain": "$5",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3312,15 +3312,15 @@
     "sinceLastReport": "-32.04%"
    },
    "price": 2.895,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "SPY",
    "url": "https://unusualwhales.com/stock/SPY/overview",
-   "iv": "23.7%",
-   "ivExpiry": "2026-12-01",
+   "iv": "24.0%",
+   "ivExpiry": "2026-12-02",
    "ivRank1y": "53.4",
-   "impliedMove": "\u00b1$17.19 (2.4%)",
+   "impliedMove": "\u00b1$18.49 (2.6%)",
    "name": "SPDR S&P 500 ETF",
    "sector": null,
    "marketCap": "$727B",
@@ -3336,7 +3336,7 @@
     "sinceLastReport": null
    },
    "price": 722.29,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   },
   {
    "ticker": "UBER",
@@ -3347,7 +3347,7 @@
    "impliedMove": "\u00b1$2.98 (4.6%)",
    "name": "UBER",
    "sector": "Technology",
-   "marketCap": "$129.6B",
+   "marketCap": "$130.82B",
    "maxPain": "$69",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3360,7 +3360,7 @@
     "sinceLastReport": "-3.80%"
    },
    "price": 64.07,
-   "fetchedAt": "2026-11-24T00:02:55Z"
+   "fetchedAt": "2026-11-24T06:02:50Z"
   }
  ],
  "errors": []

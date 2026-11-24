@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-24T02:11:50Z",
+ "alerted": true,
+ "alertedAt": "2026-11-24T02:12:14Z",
+ "cat": "Markets",
+ "impact": "Direct lift for the DRAM and SNXX memory holdings, which track SK Hynix and Samsung, and supports MU into the US open. Moves this large reverse easily, as the Kospi fell 3.3% only a day earlier.",
+ "level": "Medium",
+ "published": "2026-11-24T01:30:00Z",
+ "source": "Benzinga / TradingKey / Gulf News",
+ "summary": "Asian chip stocks rallied on Tuesday after Nvidia reinstated Jensen Huang as CEO. The Kospi rose about 5.8% early and topped 7% later, triggering a buy sidecar that paused algorithmic buying. SK Hynix gained roughly 8.5% to 10% and Samsung about 7%. The Nikkei 225 rose more than 3% (as much as 4.45%), with Advantest and Tokyo Electron each up about 12%, and MSCI Asia Pacific rose 1.8%, ending eight straight losses. The Kospi had closed down 3.3% on Monday.",
+ "tickers": [
+  "DRAM",
+  "SNXX",
+  "MU",
+  "EWY"
+ ],
+ "title": "Kospi jumps over 6%, SK Hynix up about 9% as Huang returns to Nvidia",
+ "tone": "positive",
+ "url": "https://www.benzinga.com/markets/equities/26/11/63567504/jensen-huang-is-back-as-nvidia-ceo-sk-hynix-jumps-kospi-rises-us-futures-higher"
+}
