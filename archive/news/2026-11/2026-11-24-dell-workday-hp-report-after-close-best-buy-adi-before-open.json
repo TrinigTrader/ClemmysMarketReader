@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-24T12:16:00Z",
+ "cat": "Earnings",
+ "impact": "Dell's AI server orders and any comments on memory costs are the read-through for MU, DRAM and SNXX, and for neocloud demand at NBIS.",
+ "level": "Low",
+ "published": "2026-11-24T10:00:00Z",
+ "source": "Benzinga / TipRanks",
+ "summary": "Tuesday's earnings slate: Best Buy, Analog Devices (options imply about a 7.5% move), Dollar Tree and Burlington report before the open; Dell, Autodesk, Workday and HP report after the close. Best Buy guided comps up 1% to 3%, and higher memory prices could lift its product costs.",
+ "tickers": [
+  "DELL",
+  "ADI",
+  "BBY",
+  "MU"
+ ],
+ "title": "Dell, Workday, HP report after close; Best Buy, ADI before open",
+ "tone": "neutral",
+ "url": "https://www.benzinga.com/news/26/11/63560430/dell-analog-devices-on-deck-tuesday-as-ai-demand-and-guidance-face-test"
+}

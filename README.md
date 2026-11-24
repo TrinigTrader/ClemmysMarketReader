@@ -90,6 +90,8 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-24 [Low] Medtronic Q2 EPS $1.34 edges past, revenue $9.36B misses; shares fall premarket (MDT, XLV)
+- 2026-11-24 [Low] Dell, Workday, HP report after close; Best Buy, ADI before open (DELL, ADI, BBY, MU)
 - 2026-11-24 [Medium] Kospi jumps over 6%, SK Hynix up about 9% as Huang returns to Nvidia (DRAM, SNXX, MU, EWY)
 - 2026-11-23 [High] Dow soars 1,448 points, Nasdaq +6.5% in best day since April 2025 on Huang return (SPY, QQQ, NBIS, MU)
 - 2026-11-23 [High] Nvidia reinstates Jensen Huang as CEO; NVDA closes up about 30%, Nebius and CoreWeave up 30%+ (NVDA, NBIS, MU, SMH)
