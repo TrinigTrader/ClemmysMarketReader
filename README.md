@@ -91,9 +91,12 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-25 [Medium] Futures slip before PCE; Dell reverses to -7.5% premarket, Workday -9.9% (SPY, QQQ, DELL, WDAY)
 - 2026-11-25 [Medium] Peter Thiel buys $122.3M of Palantir stock (PLTR)
 - 2026-11-25 [High] Micron falls 11%, chip index down 7.9%; Kospi slides nearly 6% Wednesday (MU, DRAM, SNXX, SKM, NVDA)
+- 2026-11-24 [Low] Autodesk beats with $3.20 EPS and raises guide, shares fall about 4% (ADSK, IGV)
 - 2026-11-24 [Medium] Nvidia closes down 7.2%, Nasdaq 100 falls 2.7% as Huang rally reverses (NVDA, QQQ, SMH, AMD)
+- 2026-11-24 [Low] HP Inc Q4 beats at $16.0B revenue, guides FY27 EPS $3.15 to $3.45 (HPQ, DELL)
 - 2026-11-24 [High] Dell Q3 revenue $54.9B, up 103%; AI backlog hits $132.3B, FY guide $202B (DELL, MU, DRAM, NVDA)
 - 2026-11-24 [Low] Workday Q3 beats at $2.705B revenue, raises subscription guide to $9.958B (WDAY, CRM, IGV)
 - 2026-11-24 [Medium] HPE falls 16% as AI server margin squeeze overshadows raised outlook (HPE, DELL, SMCI)

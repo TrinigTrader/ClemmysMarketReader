@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-25T06:02:44Z",
+ "fetchedAt": "2026-11-25T12:03:05Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
@@ -2516,6 +2516,18 @@
  },
  "news": [
   {
+   "title": "Zscaler files 425 on CrowdStrike deal as ZS slips 4.2% premarket",
+   "published": "2026-11-25T11:14:51.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/zscaler-files-425-crowdstrike-merger-communication-2026-11-25"
+  },
+  {
+   "title": "Alibaba reports 2.9% stake in ZTO Express in amended Schedule 13D",
+   "published": "2026-11-25T11:13:09.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/alibaba-13d-amendment-zto-express-zto-2026-11-25"
+  },
+  {
    "title": "Entity tied to Atlassian CEO buys $1.87M of stock under a 10b5-1 trading plan",
    "published": "2026-11-25T05:24:32.000+00:00",
    "tags": null,
@@ -2622,18 +2634,6 @@
    "published": "2026-11-24T18:10:41.000+00:00",
    "tags": null,
    "url": "https://unusualwhales.com/news/trump-says-intervened-nvidia-behalf-usa"
-  },
-  {
-   "title": "Nvidia Stock Jumps 34% on the Day as Huang Is Reinstated",
-   "published": "2026-11-24T18:08:08.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/nvidia-stock-jumps-34-percent-huang-reinstated"
-  },
-  {
-   "title": "Trump Joined Nvidia Board Meeting by Phone to Push for Huang's Return, Semafor Reports",
-   "published": "2026-11-24T18:05:06.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/trump-joined-nvidia-board-meeting-phone-huang-return-semafor"
   }
  ],
  "tickers": [
@@ -2659,7 +2659,7 @@
     "sinceLastReport": "-14.60%"
    },
    "price": 413.27,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "BAC",
@@ -2683,7 +2683,7 @@
     "sinceLastReport": "-10.01%"
    },
    "price": 48.56,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "BE",
@@ -2707,7 +2707,7 @@
     "sinceLastReport": "-28.18%"
    },
    "price": 156.41,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "C",
@@ -2731,7 +2731,7 @@
     "sinceLastReport": "-13.70%"
    },
    "price": 113.85,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "CCL",
@@ -2755,7 +2755,7 @@
     "sinceLastReport": "+28.27%"
    },
    "price": 28.4,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "CSCO",
@@ -2779,7 +2779,7 @@
     "sinceLastReport": "-7.86%"
    },
    "price": 93.99,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "DRAM",
@@ -2803,7 +2803,7 @@
     "sinceLastReport": null
    },
    "price": 35.92,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "F",
@@ -2827,7 +2827,7 @@
     "sinceLastReport": "0.00%"
    },
    "price": 11.95,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "GDX",
@@ -2838,7 +2838,7 @@
    "impliedMove": "\u00b1$4.28 (6.0%)",
    "name": "VANECK GOLD MINERS ETF",
    "sector": null,
-   "marketCap": "$21.26B",
+   "marketCap": "$22.65B",
    "maxPain": "$76",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -2851,7 +2851,7 @@
     "sinceLastReport": null
    },
    "price": 71.37,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "GOOGL",
@@ -2875,7 +2875,7 @@
     "sinceLastReport": "-14.11%"
    },
    "price": 279.05,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "HIMS",
@@ -2899,7 +2899,7 @@
     "sinceLastReport": "-35.75%"
    },
    "price": 14.74,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "HOOD",
@@ -2923,7 +2923,7 @@
     "sinceLastReport": "-30.57%"
    },
    "price": 65.65,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "INTC",
@@ -2947,7 +2947,7 @@
     "sinceLastReport": "-40.48%"
    },
    "price": 54.8,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "IONQ",
@@ -2971,7 +2971,7 @@
     "sinceLastReport": "-15.25%"
    },
    "price": 22.4,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "MARA",
@@ -2995,7 +2995,7 @@
     "sinceLastReport": "-18.52%"
    },
    "price": 5.41,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "MSFT",
@@ -3019,7 +3019,7 @@
     "sinceLastReport": "-6.57%"
    },
    "price": 496.13,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "MU",
@@ -3043,7 +3043,7 @@
     "sinceLastReport": "-40.87%"
    },
    "price": 629.79,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "NBIS",
@@ -3067,7 +3067,7 @@
     "sinceLastReport": "-43.56%"
    },
    "price": 87.31,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "NOK",
@@ -3091,7 +3091,7 @@
     "sinceLastReport": "-20.76%"
    },
    "price": 7.33,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "NVDA",
@@ -3115,7 +3115,7 @@
     "sinceLastReport": "-0.05%"
    },
    "price": 155.38,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "OKLO",
@@ -3139,7 +3139,7 @@
     "sinceLastReport": "0.00%"
    },
    "price": 19.2,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "PFE",
@@ -3163,7 +3163,7 @@
     "sinceLastReport": "-7.21%"
    },
    "price": 28.46,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "PLTR",
@@ -3187,7 +3187,7 @@
     "sinceLastReport": "-9.62%"
    },
    "price": 161.18,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "PYPL",
@@ -3211,7 +3211,7 @@
     "sinceLastReport": "+2.15%"
    },
    "price": 56.17,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "QQQ",
@@ -3222,7 +3222,7 @@
    "impliedMove": "\u00b1$23.56 (3.7%)",
    "name": "INVESCO QQQ ",
    "sector": null,
-   "marketCap": "$422.87B",
+   "marketCap": "$450.58B",
    "maxPain": "$670",
    "maxPainExpiry": "2026-11-20",
    "earnings": {
@@ -3235,7 +3235,7 @@
     "sinceLastReport": null
    },
    "price": 638.1,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "RKLB",
@@ -3259,7 +3259,7 @@
     "sinceLastReport": "-21.88%"
    },
    "price": 45.98,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SKM",
@@ -3283,7 +3283,7 @@
     "sinceLastReport": "-24.07%"
    },
    "price": 25.99,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SLV",
@@ -3307,7 +3307,7 @@
     "sinceLastReport": null
    },
    "price": 36.84,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SNXX",
@@ -3331,7 +3331,7 @@
     "sinceLastReport": null
    },
    "price": 1.65,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SOFI",
@@ -3355,7 +3355,7 @@
     "sinceLastReport": "-11.07%"
    },
    "price": 12.86,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SOUN",
@@ -3379,7 +3379,7 @@
     "sinceLastReport": "-38.38%"
    },
    "price": 2.625,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "SPY",
@@ -3403,7 +3403,7 @@
     "sinceLastReport": null
    },
    "price": 718.78,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   },
   {
    "ticker": "UBER",
@@ -3427,7 +3427,7 @@
     "sinceLastReport": "-2.85%"
    },
    "price": 64.7,
-   "fetchedAt": "2026-11-25T06:02:44Z"
+   "fetchedAt": "2026-11-25T12:03:05Z"
   }
  ],
  "errors": []
