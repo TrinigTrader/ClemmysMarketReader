@@ -1,0 +1,21 @@
+{
+ "addedAt": "2026-11-24T22:25:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-25T00:11:25Z",
+ "cat": "Earnings",
+ "impact": "A huge AI server beat and backlog jump after Tuesday's chip selloff supports demand for memory and GPUs, a plus for MU, DRAM and SNXX and for NBIS's AI infrastructure peers; it contrasts with HPE's margin warning, so watch Dell's margins on the call.",
+ "level": "High",
+ "published": "2026-11-24T21:05:00Z",
+ "source": "Dell Technologies investor relations",
+ "summary": "Dell reported record fiscal Q3 revenue of $54.9 billion, up 103% year over year and well above the roughly $49.3 billion expected, with non-GAAP EPS of $9.45, up 265%. AI-optimized server revenue was $22.0 billion, up 291%, and the Infrastructure Solutions Group made $42.0 billion. It booked $60.2 billion of AI orders and ended with a record $132.3 billion AI backlog. Dell raised full-year revenue guidance to $202 billion from $192 billion, guided Q4 to $56.3 billion, lifted its AI server revenue forecast to $78 billion from $74 billion (Reuters) and added a $25 billion buyback. Shares, down about 12% in Tuesday's session, rose roughly 2% to 5% after hours.",
+ "tickers": [
+  "DELL",
+  "MU",
+  "DRAM",
+  "NVDA"
+ ],
+ "title": "Dell Q3 revenue $54.9B, up 103%; AI backlog hits $132.3B, FY guide $202B",
+ "tone": "positive",
+ "updatedAt": "2026-11-25T00:11:00Z",
+ "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+}

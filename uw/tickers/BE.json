@@ -1,10 +1,10 @@
 {
  "ticker": "BE",
  "url": "https://unusualwhales.com/stock/BE/overview",
- "iv": "119.1%",
+ "iv": "117.0%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "29.7",
- "impliedMove": "\u00b1$20.58 (13.4%)",
+ "ivRank1y": "30.4",
+ "impliedMove": "\u00b1$20.59 (13.2%)",
  "name": "BLOOM ENERGY",
  "sector": "Industrials",
  "marketCap": "$49.71B",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 22, 2026",
   "lastEps": "0.76",
   "lastNextDayMove": "-11.24%",
-  "sinceLastReport": "-29.67%"
+  "sinceLastReport": "-28.18%"
  },
- "price": 153.16,
- "fetchedAt": "2026-11-24T18:02:54Z"
+ "price": 156.41,
+ "fetchedAt": "2026-11-25T00:03:22Z"
 }

@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-24T20:25:00Z",
+ "cat": "Earnings",
+ "impact": "Shows AI server makers struggling to pass on soaring component costs, which hit Dell before its report; rising component costs are a sign of strong memory pricing, a plus for MU and DRAM suppliers.",
+ "level": "Medium",
+ "published": "2026-11-24T16:00:00Z",
+ "source": "Invezz (Reuters)",
+ "summary": "Hewlett Packard Enterprise fell about 16% on Tuesday after its fiscal Q4 report. Revenue rose 50% to $14.5 billion and adjusted EPS of $1.43 beat the $1.29 expected; it raised fiscal 2027 revenue growth guidance to 27% to 35%. But it guided adjusted operating margin to 14% to 15% from 15.1%, with the Cloud and AI unit at about 14% from 15.2%, as CFO Marie Myers said costs are rising faster than pricing. The drop was bigger than the 10.4% move options had priced in.",
+ "tickers": [
+  "HPE",
+  "DELL",
+  "SMCI"
+ ],
+ "title": "HPE falls 16% as AI server margin squeeze overshadows raised outlook",
+ "tone": "negative",
+ "url": "https://invezz.com/news/2026/11/24/hpe-stock-falls-16-as-ai-server-demand-raises-concerns-over-profit-margins/",
+ "uw": true
+}

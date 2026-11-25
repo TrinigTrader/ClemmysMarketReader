@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-24T20:25:00Z",
+ "cat": "Trade & policy",
+ "impact": "Political and governance risk around Nvidia helped drive Tuesday's chip reversal; a tough hearing next week could keep pressure on NVDA and the AI chip names Clement holds through MU, DRAM, SNXX and NBIS.",
+ "level": "Medium",
+ "published": "2026-11-24T14:00:00Z",
+ "source": "The Hill",
+ "summary": "Senate Democratic leader Chuck Schumer said Democrats will use their full power to investigate Jensen Huang, other Nvidia executives and the Trump administration over Huang's reinstatement. Sen. Ruben Gallego called on Congress to investigate stock positions taken before the announcement. Republicans such as Sen. John Cornyn also questioned the board's reference to input from senior US government officials. Huang is due to face lawmakers next week; no formal investigation has been opened yet.",
+ "tickers": [
+  "NVDA",
+  "SMH"
+ ],
+ "title": "Schumer vows probe of Huang's return; Gallego wants trading probe",
+ "tone": "negative",
+ "url": "https://thehill.com/homenews/senate/6237752-schumer-democrats-nvidia-ceo-huang-probe/",
+ "uw": true
+}

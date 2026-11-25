@@ -1,10 +1,10 @@
 {
  "ticker": "HOOD",
  "url": "https://unusualwhales.com/stock/HOOD/overview",
- "iv": "80.5%",
+ "iv": "75.1%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "65.4",
- "impliedMove": "\u00b1$5.90 (9.1%)",
+ "ivRank1y": "62.9",
+ "impliedMove": "\u00b1$5.55 (8.5%)",
  "name": "ROBINHOOD",
  "sector": "Technology",
  "marketCap": "$53.45B",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 27, 2026",
   "lastEps": "0.6",
   "lastNextDayMove": "-3.31%",
-  "sinceLastReport": "-31.10%"
+  "sinceLastReport": "-30.57%"
  },
- "price": 65.1514,
- "fetchedAt": "2026-11-24T18:02:54Z"
+ "price": 65.65,
+ "fetchedAt": "2026-11-25T00:03:22Z"
 }
