@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$68.69 (10.9%)",
  "name": "MICRON TECHNOLOGY",
  "sector": "Technology",
- "marketCap": "$800.71B",
+ "marketCap": "$712.56B",
  "maxPain": "$730",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-40.87%"
  },
  "price": 629.79,
- "fetchedAt": "2026-11-25T00:03:22Z"
+ "fetchedAt": "2026-11-25T06:02:44Z"
 }

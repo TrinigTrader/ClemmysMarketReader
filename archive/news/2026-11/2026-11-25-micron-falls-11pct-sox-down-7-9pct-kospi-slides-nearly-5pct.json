@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-25T02:11:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-25T02:11:33Z",
+ "cat": "Markets",
+ "impact": "Most of Monday's Huang bounce in MU, DRAM and SNXX is gone, and Korea's slide weighs on SKM's home market; Dell's record AI backlog is the offset, with PCE and the tariff decision as the next swing factors.",
+ "level": "High",
+ "published": "2026-11-25T00:30:00Z",
+ "source": "Seoul Economic Daily / Bloomingbit",
+ "summary": "The Philadelphia Semiconductor Index fell 7.9% on Tuesday to about 8,832, giving back 64% of Monday's gain. Micron dropped 11.0% to $629.79, with Texas Instruments down 11.2%, SanDisk 11.1%, Marvell 9.1%, AMD 8.9% and Western Digital 7.8%; Nvidia's loss is reported at 5.9% to 7.2%, and SK Hynix's ADRs fell 9.9%. On Wednesday the Kospi fell 5.54% to 4,728.81 by 11:20 a.m. Seoul time and was down close to 6% near 4,710 by mid-afternoon, after a sell-side sidecar halted program selling; Samsung was down about 9% and SK Hynix about 8.6% at 11:20 a.m. The Nikkei fell more than 3%. Traders cited an overdone rally, tariff and Middle East caution, and PCE data.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SKM",
+  "NVDA"
+ ],
+ "title": "Micron falls 11%, chip index down 7.9%; Kospi slides nearly 6% Wednesday",
+ "tone": "negative",
+ "updatedAt": "2026-11-25T04:20:00Z",
+ "url": "https://en.sedaily.com/market/2026/11/25/kospi-falls-back-to-4700s-a-day-after-topping-5000"
+}

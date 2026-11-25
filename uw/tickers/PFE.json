@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$0.80 (2.8%)",
  "name": "PFIZER",
  "sector": "Healthcare",
- "marketCap": "$156.18B",
+ "marketCap": "$162.22B",
  "maxPain": "$28.5",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-7.21%"
  },
  "price": 28.46,
- "fetchedAt": "2026-11-25T00:03:22Z"
+ "fetchedAt": "2026-11-25T06:02:44Z"
 }

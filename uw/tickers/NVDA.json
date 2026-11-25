@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$14.37 (9.3%)",
  "name": "NVIDIA",
  "sector": "Technology",
- "marketCap": "$3.98T",
+ "marketCap": "$3.74T",
  "maxPain": "$160",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-0.05%"
  },
  "price": 155.38,
- "fetchedAt": "2026-11-25T00:03:22Z"
+ "fetchedAt": "2026-11-25T06:02:44Z"
 }

@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-25T06:10:00Z",
+ "cat": "Markets",
+ "impact": "A direct hit to MU and the DRAM and SNXX memory trades; the call questions the memory upcycle's length, so watch for other analysts following or defending ahead of Micron's Dec 17 earnings.",
+ "level": "Medium",
+ "published": "2026-11-24T12:30:00Z",
+ "source": "GuruFocus",
+ "summary": "BNP Paribas analyst Karl Ackerman downgraded Micron to Neutral from Outperform on November 24 and cut his price target to $775 from $1,700. He cited risks to supply and demand as hyperscalers expand 2028 capacity plans, reduced HBM content in Nvidia's Vera Rubin Ultra (not confirmed by Nvidia), falling PC and phone shipments in 2026 and 2027, and new wafer capacity that could add to oversupply. Micron fell as much as 12% that day; 28 of 30 analysts still rate it a Buy.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX"
+ ],
+ "title": "BNP Paribas cuts Micron to Neutral, slashes target to $775 from $1,700",
+ "tone": "negative",
+ "url": "https://www.gurufocus.com/news/9217030/bnp-paribas-downgrades-micron-mu-amid-hyperscaler-risks-shares-slide-premarket"
+}

@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$11.24 (7.0%)",
  "name": "PALANTIR",
  "sector": "Technology",
- "marketCap": "$367.6B",
+ "marketCap": "$371.79B",
  "maxPain": "$160",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-9.62%"
  },
  "price": 161.18,
- "fetchedAt": "2026-11-25T00:03:22Z"
+ "fetchedAt": "2026-11-25T06:02:44Z"
 }

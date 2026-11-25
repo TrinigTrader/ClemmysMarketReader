@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-25T06:10:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-25T06:11:14Z",
+ "cat": "Trade & policy",
+ "impact": "A large insider buy by Palantir's co-founder during the AI selloff supports PLTR sentiment near $143 to $145; the 10b5-1 plan means timing was pre-set, and defense budgets and contract wins still drive the trend.",
+ "level": "Medium",
+ "published": "2026-11-25T01:11:00Z",
+ "source": "Investing.com / SEC Form 4",
+ "summary": "Palantir director Peter Thiel bought 850,100 Class A shares on November 20 in three open-market lots at weighted average prices of $142.91 to $144.61, about $122.3 million in total, according to a Form 4 filed November 25. The shares are held by PLTR Holdings II LLC, which he solely owns, and were bought under a Rule 10b5-1 trading plan.",
+ "tickers": [
+  "PLTR"
+ ],
+ "title": "Peter Thiel buys $122.3M of Palantir stock",
+ "tone": "positive",
+ "url": "https://www.investing.com/news/insider-trading-news/peter-thiel-buys-1223m-of-palantir-technologies-stock-93CH-5049539",
+ "uw": true
+}

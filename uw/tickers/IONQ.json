@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$2.51 (11.2%)",
  "name": "IONQ",
  "sector": "Technology",
- "marketCap": "$10.09B",
+ "marketCap": "$9.69B",
  "maxPain": "$25.5",
  "maxPainExpiry": "2026-11-20",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-15.25%"
  },
  "price": 22.4,
- "fetchedAt": "2026-11-25T00:03:22Z"
+ "fetchedAt": "2026-11-25T06:02:44Z"
 }
