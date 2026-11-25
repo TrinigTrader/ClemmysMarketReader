@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-25T14:10:00Z",
+ "cat": "Trade & policy",
+ "impact": "Small trade in a non-holding chip name; little signal for Clement's positions.",
+ "level": "Low",
+ "published": "2026-11-25T12:00:00Z",
+ "source": "House Clerk disclosure (via Unusual Whales)",
+ "summary": "Rep. Kevin Hern (R) filed a disclosure on Nov 25 showing an Intel sale of $15,001 to $50,000, traded Nov 9.",
+ "tickers": [
+  "INTC"
+ ],
+ "title": "Rep. Kevin Hern sells $15K-$50K of Intel (filed Nov 25)",
+ "tone": "neutral",
+ "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf",
+ "uw": true
+}

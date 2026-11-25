@@ -1,0 +1,22 @@
+{
+ "addedAt": "2026-11-25T14:10:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-25T14:11:31Z",
+ "cat": "Macro",
+ "impact": "Hot core inflation locks in a December hike and lifts January odds, pressuring yields-sensitive growth names MU, DRAM, SNXX, NBIS, PLTR and HOOD; C is the relative winner from higher rates.",
+ "level": "High",
+ "published": "2026-11-25T13:30:00Z",
+ "source": "Benzinga / Investing.com",
+ "summary": "October core PCE rose 3.3% year over year versus 3.2% expected and 3.1% in September; headline PCE was 3.8%, in line, and both rose 0.3% on the month. Q3 GDP was revised up to a 4.3% annualized pace from 3.4%, above the 3.5% consensus, while real consumer spending was flat in October. Traders already priced about a 96% chance of a December 9 Fed hike; the Nasdaq-100 fund was down 2.9% before the bell.",
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "TLT",
+  "MU",
+  "NBIS",
+  "HOOD"
+ ],
+ "title": "Core PCE runs hot at 3.3%; Q3 GDP revised up to 4.3%",
+ "tone": "negative",
+ "url": "https://www.benzinga.com/markets/economic-data/26/11/63619838/pce-inflation-october-gdp-second-estimate"
+}

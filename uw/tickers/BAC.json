@@ -1,15 +1,15 @@
 {
  "ticker": "BAC",
  "url": "https://unusualwhales.com/stock/BAC/overview",
- "iv": "29.2%",
+ "iv": "32.2%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "41.2",
- "impliedMove": "\u00b1$1.59 (3.3%)",
+ "ivRank1y": "50.3",
+ "impliedMove": "\u00b1$1.67 (3.5%)",
  "name": "BANK OF AMERICA",
  "sector": "Financial Services",
  "marketCap": "$335.07B",
- "maxPain": "$51",
- "maxPainExpiry": "2026-11-20",
+ "maxPain": "$49",
+ "maxPainExpiry": "2026-11-27",
  "earnings": {
   "next": "Jan 15, 2027, before market open",
   "time": "premarket",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 14, 2026",
   "lastEps": "1.08",
   "lastNextDayMove": "-4.76%",
-  "sinceLastReport": "-10.01%"
+  "sinceLastReport": "-11.16%"
  },
- "price": 48.56,
- "fetchedAt": "2026-11-25T12:03:05Z"
+ "price": 47.94,
+ "fetchedAt": "2026-11-25T18:02:53Z"
 }

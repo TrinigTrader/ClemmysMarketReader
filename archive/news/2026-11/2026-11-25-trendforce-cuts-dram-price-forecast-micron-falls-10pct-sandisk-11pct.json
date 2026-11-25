@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-25T16:20:00Z",
+ "cat": "Markets",
+ "impact": "A second straight double-digit hit to MU and the memory trade behind DRAM and SNXX, now on fundamentals (pricing) as well as sentiment; Micron's Dec 17 earnings and guide are the next real test.",
+ "level": "High",
+ "published": "2026-11-25T14:45:00Z",
+ "source": "The Motley Fool / TradingView",
+ "summary": "TrendForce lowered its forecast for 2027 DRAM contract price increases, citing reduced 2027 memory orders from Chinese cloud providers and weaker demand for older DRAM, and warned of NAND oversupply, though it still expects DRAM to stay undersupplied in 2027. Micron fell as much as 10.7% early Wednesday after an 11% drop on Tuesday, with SanDisk down 11.5%, Western Digital 9.0%, Seagate 8.9% and Lam Research 9.7%. The US tariff proposal and Tuesday's BNP Paribas downgrade added to the pressure.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SNXX",
+  "SNDK",
+  "WDC"
+ ],
+ "title": "TrendForce trims DRAM price forecast; Micron falls ~10%, SanDisk 11.5%",
+ "tone": "negative",
+ "url": "https://www.fool.com/investing/2026/11/25/why-micron-stock-just-dropped-again/"
+}

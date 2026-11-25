@@ -55,14 +55,13 @@ Every wheel pick, option play and passing stock gets a TH entry with: trade (one
 5. Research news for every candidate (web search), write the theses per the standard above, then update the `U`, `W` (incl. conviction), `P` (incl. key/conv/tag), `TH`, `EXP` and `ASOF` constants, the market-read text and sources in the page source. Keep design and code otherwise unchanged. Republish to the artifact URL, and save the updated source back to this project.
 6. Report a 5-line summary covering the top wheel pick, any new or closed plays, stocks that passed, and warnings (earnings this week, IV spikes).
 
-## Snapshot 24 Nov 2026 (9:40 ET)
-- SPY $715.88 (−0.9%), IV 23.4% vs HV 22.2%, 52w IV pct 98% (elevated). Chips reversing Monday's Nvidia rally: AMD −9.6% (registered ~337M OpenAI/Meta warrant shares for resale, Nov 23), DRAM −7.3%, INTC −5.6%. Mon 23 Nov S&P ~+4.7% (best day since Apr 2025). Dec 8–9 Fed hike ~98% priced; gold at 13-month low (Nov 16). BTC ~$64k (Nov 19).
-- Account: S$45 cash, S$1,592 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
-- IBKR returned no option bid/ask at the open; W rows use model price as bid = ask (after-close runs do return quotes).
-- Stock screen: none pass. Pfizer fails only IV (87%); PayPal fails only start-of-period price; BE, RKLB pass three.
+## Snapshot 25 Nov 2026 (9:40 ET)
+- SPY $698.10 (−2.9%), IV 26.7%, 52w IV pct 99.6%; VIX above 26. Drivers: hot PCE (3.8%), new 20% tariffs, chip rout. Silver broke its $36.72 low (SLV $35.09, −4.8%). Thanksgiving: closed Thu 26 Nov, early close Fri 27 Nov.
+- Account: S$45 cash, S$1,458 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1.
+- IBKR returned no option bid/ask at the open; W rows use model price as bid = ask.
+- Stock screen: none pass. Pfizer (90% of high) fails only IV (99%).
 
-## Theses 24 Nov 2026 (summary)
-- SLV Dec 18 $34P — Medium-Low, funded ($3,400). Delta −0.18, model $0.61, OI 7,946, edge ≈ +$18. Directional on silver holding $36.82 low.
-- PYPL Dec 18 $52.50P — Low, not funded. Delta −0.23, model $0.71, OI 6,379, edge ≈ +$8; IV 30% < HV 33%, IV pct 11%.
-- DRAM Dec 18 $31P — Pass (edge ≈ −$1; HV 100% > IV 87%). SOFI $11P — Pass (+$2). HIMS $13P — Pass (−$7).
-- Watch: CCL (83% of high, IVp 65%), AMD (62%, warrant-share overhang), PLTR hold (76%), PFE (IV only), CSCO (73%).
+## Theses 25 Nov 2026 (summary)
+- PYPL Dec 18 $52.50P — Medium-Low, funded ($5,250 collateral, $83 premium, 1.58% in 23 days). Delta −0.26, OI 6,384, edge ≈ +$13; holding up better than the market, no earnings before expiry.
+- SLV Dec 18 $31P — Low, not funded. Edge ≈ +$46 (IV 60% vs HV 49%), but silver broke the thesis break point ($36.72 low); directional.
+- DRAM Dec 18 $27P — Low (edge ≈ +$20; Clement holds 5 shares). SOFI $10P — Pass (+$3). HIMS $12P — Pass ($0).

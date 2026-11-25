@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-25T16:20:00Z",
+ "cat": "Trade & policy",
+ "impact": "Korea and Taiwan are on the list, raising costs and retaliation risk across the chip supply chain that feeds MU, DRAM and SNXX and weighing on SKM's home market; the delay before taking effect leaves room for deals.",
+ "level": "High",
+ "published": "2026-11-25T14:30:00Z",
+ "source": "CNBC",
+ "summary": "USTR Jamieson Greer on November 25 proposed new Section 301 tariffs on 14 trading partners after an eight-month probe into excess industrial capacity: China, Bangladesh, Cambodia, the EU, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand and Vietnam. China faces a 20% rate stacked on the 25% 2018 tariffs, which could rise to 40% without a favorable deal, with an exemption proposed for about $30 billion of Chinese goods; the other new tariffs will not stack on duties finalized in July. Greer does not expect them to take effect for at least a couple of months, pending public comment and a hearing. China called the overcapacity rationale a false proposition.",
+ "tickers": [
+  "FXI",
+  "EWY",
+  "EWT",
+  "SMH",
+  "SKM"
+ ],
+ "title": "US proposes Section 301 tariffs on 14 partners; China faces extra 20%",
+ "tone": "negative",
+ "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+}

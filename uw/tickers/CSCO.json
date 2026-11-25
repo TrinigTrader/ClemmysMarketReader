@@ -1,15 +1,15 @@
 {
  "ticker": "CSCO",
  "url": "https://unusualwhales.com/stock/CSCO/overview",
- "iv": "41.4%",
+ "iv": "43.2%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "54.1",
- "impliedMove": "\u00b1$4.37 (4.7%)",
+ "ivRank1y": "61.9",
+ "impliedMove": "\u00b1$4.30 (4.6%)",
  "name": "CISCO SYSTEMS",
  "sector": "Technology",
  "marketCap": "$370.55B",
- "maxPain": "$100",
- "maxPainExpiry": "2026-11-20",
+ "maxPain": "$95",
+ "maxPainExpiry": "2026-11-27",
  "earnings": {
   "next": "Feb 10, 2027",
   "time": "unknown",
@@ -17,8 +17,8 @@
   "lastReport": "Nov 12, 2026",
   "lastEps": "1.21",
   "lastNextDayMove": "-6.24%",
-  "sinceLastReport": "-7.86%"
+  "sinceLastReport": "-8.80%"
  },
- "price": 93.99,
- "fetchedAt": "2026-11-25T12:03:05Z"
+ "price": 93.0301,
+ "fetchedAt": "2026-11-25T18:02:53Z"
 }

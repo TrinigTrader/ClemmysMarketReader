@@ -1,15 +1,15 @@
 {
  "ticker": "F",
  "url": "https://unusualwhales.com/stock/F/overview",
- "iv": "32.8%",
+ "iv": "36.0%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "36.9",
- "impliedMove": "\u00b1$0.44 (3.7%)",
+ "ivRank1y": "43.9",
+ "impliedMove": "\u00b1$0.47 (3.9%)",
  "name": "FORD",
  "sector": "Consumer Cyclical",
  "marketCap": "$46.87B",
  "maxPain": "$11.5",
- "maxPainExpiry": "2026-11-20",
+ "maxPainExpiry": "2026-11-27",
  "earnings": {
   "next": "Feb 9, 2027",
   "time": "unknown",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 28, 2026",
   "lastEps": "0.49",
   "lastNextDayMove": "+3.43%",
-  "sinceLastReport": "0.00%"
+  "sinceLastReport": "+1.05%"
  },
- "price": 11.95,
- "fetchedAt": "2026-11-25T12:03:05Z"
+ "price": 12.075,
+ "fetchedAt": "2026-11-25T18:02:53Z"
 }

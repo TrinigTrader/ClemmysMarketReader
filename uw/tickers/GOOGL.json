@@ -1,15 +1,15 @@
 {
  "ticker": "GOOGL",
  "url": "https://unusualwhales.com/stock/GOOGL/overview",
- "iv": "40.1%",
+ "iv": "45.6%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "61.7",
- "impliedMove": "\u00b1$12.61 (4.5%)",
+ "ivRank1y": "86.1",
+ "impliedMove": "\u00b1$13.22 (4.9%)",
  "name": "ALPHABET",
  "sector": "Communication Services",
  "marketCap": "$1.64T",
- "maxPain": "$290",
- "maxPainExpiry": "2026-11-20",
+ "maxPain": "$277.5",
+ "maxPainExpiry": "2026-11-23",
  "earnings": {
   "next": "Feb 3, 2027",
   "time": "unknown",
@@ -17,8 +17,8 @@
   "lastReport": "Oct 28, 2026",
   "lastEps": "2.12",
   "lastNextDayMove": "-12.64%",
-  "sinceLastReport": "-14.11%"
+  "sinceLastReport": "-17.39%"
  },
- "price": 279.05,
- "fetchedAt": "2026-11-25T12:03:05Z"
+ "price": 268.4,
+ "fetchedAt": "2026-11-25T18:02:53Z"
 }

@@ -1,6 +1,38 @@
 [
  {
   "action": "Sell",
+  "amount": "$50,001 - $100,000",
+  "asset": "Rockwell Automation, Inc. Common Stock (ROK) [ST] FILING STATUS: New",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-25",
+  "holding": false,
+  "id": "4543e113-5872-4808-b54e-a9d4bd0f87ad",
+  "member": "Kevin Hern",
+  "party": "republican",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf",
+  "ticker": "ROK",
+  "traded": "2026-11-17",
+  "watched": false
+ },
+ {
+  "action": "Sell",
+  "amount": "$15,001 - $50,000",
+  "asset": "Mondelez International, Inc. - Class A\nCommon Stock (MDLZ) [ST] FILING STATUS: New SUBHOLDING OF: Edward Jones Acct",
+  "big": false,
+  "chamber": "house",
+  "filed": "2026-11-25",
+  "holding": false,
+  "id": "0572adf4-0200-41cc-8635-c8abfb9ad117",
+  "member": "Robert Onder",
+  "party": "republican",
+  "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+  "ticker": "MDLZ",
+  "traded": "2026-10-29",
+  "watched": false
+ },
+ {
+  "action": "Sell",
   "amount": "$1,001 - $15,000",
   "asset": "MH Built to Last LLC\nCompany: MH Built to Last LLC  (New York, NY)\nDescription: Partnership",
   "big": false,

@@ -88,9 +88,16 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-19: Published as artifact v50 ("Re-screen 19 Nov"). IBKR loaded all 25 underlyings (one 503 on an option, retried). Fixed a build bug that left a 0.0% change blank in U. 18 Nov: S&P 500 −0.23% to 7,323.63 (fifth straight loss), Dow −561, Nasdaq +0.42% to 24,429.88; Nvidia −2.9% (board says Huang won't return as CEO); AMD +5.8%. Anthropic priced IPO at $83 (above $70–78 range, ~$81bn raised), trading t
 - 2026-11-23: SPY $723.20 (+4.8%), IV 21.3% vs HV 16.5%, 52w IV pct 95% (elevated). S&P 500 ~7,238 (+4.7%, best day since Apr 2025) after Nvidia reinstated Jensen Huang; Fri 20 Nov S&P −3.7% to 6,910, Nasdaq −5.3%, week −8.6% (correction). Anthropic (ANT) closed day one 19 Nov at $97.17 (+17% on $83 IPO). Dec 8–9 Fed hike ~98% priced. Account: S$45 cash, S$1,693 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5,
 - 2026-11-24: SPY $715.88 (−0.9%), IV 23.4% vs HV 22.2%, 52w IV pct 98% (elevated). Chips reversing Monday's Nvidia rally: AMD −9.6% (registered ~337M OpenAI/Meta warrant shares for resale, Nov 23), DRAM −7.3%, INTC −5.6%. Mon 23 Nov S&P ~+4.7% (best day since Apr 2025). Dec 8–9 Fed hike ~98% priced; gold at 13-month low (Nov 16). BTC ~$64k (Nov 19). Account: S$45 cash, S$1,592 net liq. Positions BE 2, DRAM 5, 
+- 2026-11-25: SPY $698.10 (−2.9%), IV 26.7%, 52w IV pct 99.6%; VIX above 26. Drivers: hot PCE (3.8%), new 20% tariffs, chip rout. Silver broke its $36.72 low (SLV $35.09, −4.8%). Thanksgiving: closed Thu 26 Nov, early close Fri 27 Nov. Account: S$45 cash, S$1,458 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1. IBKR returned no option bid/ask at the open; W rows use model price as bid = ask.
 
 ### News headlines (last 30 days)
 
+- 2026-11-25 [High] Nasdaq slides up to 4% on hot PCE, tariffs and chip rout; Nasdaq 100 hits bear market intraday (QQQ, SMH, NVDA, ORCL, NBIS)
+- 2026-11-25 [High] TrendForce trims DRAM price forecast; Micron falls ~10%, SanDisk 11.5% (MU, DRAM, SNXX, SNDK, WDC)
+- 2026-11-25 [High] US proposes Section 301 tariffs on 14 partners; China faces extra 20% (FXI, EWY, EWT, SMH, SKM)
+- 2026-11-25 [High] Core PCE runs hot at 3.3%; Q3 GDP revised up to 4.3% (SPY, QQQ, TLT, MU, NBIS, HOOD)
+- 2026-11-25 [Low] Rep. Kevin Hern sells $15K-$50K of Intel (filed Nov 25) (INTC)
+- 2026-11-25 [Low] Deere misses at $3.89 EPS on farm weakness, shares down over 3% (DE, CAT)
 - 2026-11-25 [Medium] Futures slip before PCE; Dell reverses to -7.5% premarket, Workday -9.9% (SPY, QQQ, DELL, WDAY)
 - 2026-11-25 [Medium] Peter Thiel buys $122.3M of Palantir stock (PLTR)
 - 2026-11-25 [High] Micron falls 11%, chip index down 7.9%; Kospi slides nearly 6% Wednesday (MU, DRAM, SNXX, SKM, NVDA)
