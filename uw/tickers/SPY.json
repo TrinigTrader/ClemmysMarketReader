@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$20.00 (2.8%)",
  "name": "SPDR S&P 500 ETF",
  "sector": null,
- "marketCap": "$771.54B",
+ "marketCap": "$769.73B",
  "maxPain": "$706",
  "maxPainExpiry": "2026-11-23",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": null
  },
  "price": 716.7,
- "fetchedAt": "2026-11-26T00:02:49Z"
+ "fetchedAt": "2026-11-26T06:02:55Z"
 }

@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$1.57 (3.2%)",
  "name": "BANK OF AMERICA",
  "sector": "Financial Services",
- "marketCap": "$335.07B",
+ "marketCap": "$334.94B",
  "maxPain": "$49",
  "maxPainExpiry": "2026-11-27",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-10.04%"
  },
  "price": 48.54,
- "fetchedAt": "2026-11-26T00:02:49Z"
+ "fetchedAt": "2026-11-26T06:02:55Z"
 }

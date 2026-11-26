@@ -3,11 +3,11 @@
  "alerted": true,
  "alertedAt": "2026-11-26T00:11:42Z",
  "cat": "Trade & policy",
- "impact": "Korea and Taiwan are on the list, raising costs and retaliation risk across the chip supply chain that feeds MU, DRAM and SNXX and weighing on SKM's home market; the delay before taking effect leaves room for deals.",
+ "impact": "Less severe for the memory chain than first feared: Korea and Taiwan sit in the capped 15% tier and chips may be exempt, which eases the hit to MU, DRAM, SNXX and SKM's home market. China remains the main target.",
  "level": "High",
  "published": "2026-11-25T14:30:00Z",
- "source": "CNBC",
- "summary": "USTR Jamieson Greer on November 25 proposed new Section 301 tariffs on 14 trading partners after an eight-month probe into excess industrial capacity: China, Bangladesh, Cambodia, the EU, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand and Vietnam. China faces a 20% rate stacked on the 25% 2018 tariffs, which could rise to 40% without a favorable deal, with an exemption proposed for about $30 billion of Chinese goods; the other new tariffs will not stack on duties finalized in July. Greer does not expect them to take effect for at least a couple of months, pending public comment and a hearing. China called the overcapacity rationale a false proposition.",
+ "source": "CNBC / SCMP",
+ "summary": "USTR Jamieson Greer on November 25 proposed new Section 301 tariffs on 14 trading partners after an eight-month probe into excess industrial capacity: China, Bangladesh, Cambodia, the EU, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand and Vietnam. China faces a 20% rate stacked on the 25% 2018 tariffs, which could rise to 40% without a favorable deal, with an exemption proposed for about $30 billion of Chinese goods. Update Nov 26: rates for the EU, Japan, South Korea and Taiwan are capped at 15% under existing trade deals, and one report says semiconductors and other high-tech goods from Taiwan and Korea are proposed for exemption. China's foreign ministry called the rationale a false issue, but analysts expect no countermeasures. With a comment period and hearings, nothing takes effect before January 2027 at the earliest.",
  "tickers": [
   "FXI",
   "EWY",
@@ -17,5 +17,6 @@
  ],
  "title": "US proposes Section 301 tariffs on 14 partners; China faces extra 20%",
  "tone": "negative",
+ "updatedAt": "2026-11-26T04:20:00Z",
  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
 }

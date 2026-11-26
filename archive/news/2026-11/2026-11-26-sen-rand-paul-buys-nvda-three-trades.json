@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-26T02:20:00Z",
+ "cat": "Trade & policy",
+ "impact": "Small-dollar buys into the AI chip leader during its selloff; a sentiment signal only, with limited direct read-through to MU, DRAM, SNXX or NBIS.",
+ "level": "Low",
+ "published": "2026-11-25T23:00:00Z",
+ "source": "Unusual Whales (congress disclosures)",
+ "summary": "Senator Rand Paul (R) disclosed three purchases of Nvidia stock, each in the $1,001 to $15,000 range, in a filing dated November 25, per Unusual Whales congressional trade data.",
+ "tickers": [
+  "NVDA"
+ ],
+ "title": "Sen. Rand Paul discloses three Nvidia purchases of $1K to $15K each",
+ "tone": "neutral",
+ "url": "https://unusualwhales.com/politics",
+ "uw": true
+}

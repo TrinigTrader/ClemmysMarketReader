@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$26.92 (4.2%)",
  "name": "INVESCO QQQ ",
  "sector": null,
- "marketCap": "$450.58B",
+ "marketCap": "$443.63B",
  "maxPain": "$630",
  "maxPainExpiry": "2026-11-23",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": null
  },
  "price": 633.93,
- "fetchedAt": "2026-11-26T00:02:49Z"
+ "fetchedAt": "2026-11-26T06:02:55Z"
 }

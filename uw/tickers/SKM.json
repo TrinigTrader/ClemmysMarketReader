@@ -7,7 +7,7 @@
  "impliedMove": "\u00b1$2.74 (10.3%)",
  "name": "SK TELECOM CO",
  "sector": "Communication Services",
- "marketCap": "$9.96B",
+ "marketCap": "$10.25B",
  "maxPain": "$35",
  "maxPainExpiry": "2026-12-18",
  "earnings": {
@@ -20,5 +20,5 @@
   "sinceLastReport": "-21.88%"
  },
  "price": 26.74,
- "fetchedAt": "2026-11-26T00:02:49Z"
+ "fetchedAt": "2026-11-26T06:02:55Z"
 }

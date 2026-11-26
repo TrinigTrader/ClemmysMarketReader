@@ -1,0 +1,18 @@
+{
+ "addedAt": "2026-11-26T02:20:00Z",
+ "cat": "Markets",
+ "impact": "A relief bounce in the memory names that drive MU, DRAM and SNXX sentiment, but it recovers only part of Wednesday's losses. A higher Korean policy rate is a mild headwind for SKM.",
+ "level": "Medium",
+ "published": "2026-11-26T01:00:00Z",
+ "source": "AP via Yahoo Finance / CNBC",
+ "summary": "Asian chip stocks led a rebound on Thursday after Wednesday's crash, when the Kospi fell 6.16% to 4,697.51 and the Taiex 4.8%. Late in the session AP had the Kospi up 1.2% at 4,755.29 and the Taiex up 2.6%; the Nikkei 225 rose about 1.2% to 1.7% depending on the report. SK Hynix rose 3.7% after being up as much as 5.5% in the morning, while Kioxia and SoftBank jumped by double digits. CNBC said the Bank of Korea raised its policy rate to 3.25%. Analysts cautioned the bounce may be a short-lived relief rally. US markets are closed for Thanksgiving.",
+ "tickers": [
+  "EWY",
+  "EWJ",
+  "SMH"
+ ],
+ "title": "Asia rebounds after chip rout: Taiex up 2.6%, Kospi 1.2%, SK Hynix 3.7%; Bank of Korea hikes",
+ "tone": "positive",
+ "updatedAt": "2026-11-26T06:20:00Z",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html"
+}
