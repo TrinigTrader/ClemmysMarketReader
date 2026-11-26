@@ -114,7 +114,7 @@ def main():
     news = []
     try:
         pp = page_props("/news")
-        for a in pp.get("featuredArticles") or pp.get("posts") or []:
+        for a in pp.get("featuredArticles") or pp.get("posts") or (pp.get("more") or {}).get("posts") or []:
             news.append({"title": a.get("title"), "published": a.get("created_at"), "tags": a.get("tags"),
                          "url": f"{BASE}/news/{a.get('slug')}"})
     except Exception as e:
