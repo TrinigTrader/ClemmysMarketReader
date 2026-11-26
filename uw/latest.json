@@ -1,9 +1,41 @@
 {
- "fetchedAt": "2026-11-26T06:02:55Z",
+ "fetchedAt": "2026-11-26T12:03:04Z",
  "source": "unusualwhales.com public pages (no login)",
  "notes": "Options flow and dark pool are NOT included: they need a paid UW API key.",
  "congress": {
   "trades": [
+   {
+    "member": "Douglas J Burgum",
+    "party": "republican",
+    "chamber": "executive",
+    "ticker": "",
+    "asset": "Arthur Ventures V - Pearly Holdings, Inc (dental collection software)",
+    "action": "Buy",
+    "amount": "$100,001 - $250,000",
+    "traded": "2025-04-18",
+    "filed": "2026-11-26",
+    "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C3A67886D03C683985258EBB00331765/$FILE/Douglas-J-Burgum-08.31.2026-278T.pdf",
+    "id": "e0b1d8a2-64e0-46e0-9efb-3da9f9b05013",
+    "watched": false,
+    "holding": false,
+    "big": false
+   },
+   {
+    "member": "Douglas J Burgum",
+    "party": "republican",
+    "chamber": "executive",
+    "ticker": "",
+    "asset": "Arthur Venture V, LP - Pearly Holdings, Inc (dental collection software)",
+    "action": "Buy",
+    "amount": "$1,001 - $15,000",
+    "traded": "2025-04-18",
+    "filed": "2026-11-26",
+    "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C3A67886D03C683985258EBB00331765/$FILE/Douglas-J-Burgum-08.31.2026-278T.pdf",
+    "id": "e0b1d8a2-64e0-46e0-9efb-3da9f9b05013",
+    "watched": false,
+    "holding": false,
+    "big": false
+   },
    {
     "member": "Rand Paul",
     "party": "republican",
@@ -1571,41 +1603,9 @@
     "watched": false,
     "holding": false,
     "big": false
-   },
-   {
-    "member": "Harriet Hageman",
-    "party": "republican",
-    "chamber": "house",
-    "ticker": "SNOW",
-    "asset": "Snowflake Inc. Common Stock (SNOW) [ST]",
-    "action": "Buy",
-    "amount": "$1,001 - $15,000",
-    "traded": "2026-04-26",
-    "filed": "2026-11-23",
-    "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
-    "id": "ea73b0da-0d0a-4039-811a-f376d35b60c5",
-    "watched": false,
-    "holding": false,
-    "big": false
-   },
-   {
-    "member": "Harriet Hageman",
-    "party": "republican",
-    "chamber": "house",
-    "ticker": "SO",
-    "asset": "Southern Company (SO) [ST]",
-    "action": "Buy",
-    "amount": "$1,001 - $15,000",
-    "traded": "2026-04-29",
-    "filed": "2026-11-23",
-    "source": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
-    "id": "ea73b0da-0d0a-4039-811a-f376d35b60c5",
-    "watched": false,
-    "holding": false,
-    "big": false
    }
   ],
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 2,
   "watchedTrades": [
    {
     "member": "Rand Paul",
@@ -2501,6 +2501,12 @@
  },
  "news": [
   {
+   "title": "Traders price a 62% chance Netanyahu leaves office in 2026",
+   "published": "2026-11-26T07:05:17.000+00:00",
+   "tags": null,
+   "url": "https://unusualwhales.com/news/netanyahu-leave-office-odds-jump-2026-11-26"
+  },
+  {
    "title": "JPMorgan and Other Dealers Traded a New Form of Digital Gold in London for the First Time, Bloomberg Reports",
    "published": "2026-11-26T05:24:42.000+00:00",
    "tags": null,
@@ -2613,12 +2619,6 @@
    "published": "2026-11-26T04:30:32.000+00:00",
    "tags": null,
    "url": "https://unusualwhales.com/news/amodei-vacation-southern-italy-anthropic-ipo"
-  },
-  {
-   "title": "Huang Says He Is Undergoing Therapy After His Reinstatement, Bloomberg Reports",
-   "published": "2026-11-26T04:28:19.000+00:00",
-   "tags": null,
-   "url": "https://unusualwhales.com/news/huang-undergoing-therapy-after-reinstatement-bloomberg"
   }
  ],
  "tickers": [
@@ -2644,7 +2644,7 @@
     "sinceLastReport": "-16.09%"
    },
    "price": 406.03,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "BAC",
@@ -2668,7 +2668,7 @@
     "sinceLastReport": "-10.04%"
    },
    "price": 48.54,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "BE",
@@ -2692,7 +2692,7 @@
     "sinceLastReport": "-29.79%"
    },
    "price": 152.89,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "C",
@@ -2716,7 +2716,7 @@
     "sinceLastReport": "-14.09%"
    },
    "price": 113.33,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "CCL",
@@ -2740,7 +2740,7 @@
     "sinceLastReport": "+26.47%"
    },
    "price": 28,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "CSCO",
@@ -2764,7 +2764,7 @@
     "sinceLastReport": "-7.66%"
    },
    "price": 94.2,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "DRAM",
@@ -2788,7 +2788,7 @@
     "sinceLastReport": null
    },
    "price": 34.83,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "F",
@@ -2812,7 +2812,7 @@
     "sinceLastReport": "+1.84%"
    },
    "price": 12.17,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "GDX",
@@ -2836,7 +2836,7 @@
     "sinceLastReport": null
    },
    "price": 73.89,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "GOOGL",
@@ -2860,7 +2860,7 @@
     "sinceLastReport": "-15.94%"
    },
    "price": 273.1,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "HIMS",
@@ -2884,7 +2884,7 @@
     "sinceLastReport": "-36.14%"
    },
    "price": 14.65,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "HOOD",
@@ -2908,7 +2908,7 @@
     "sinceLastReport": "-30.44%"
    },
    "price": 65.78,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "INTC",
@@ -2932,7 +2932,7 @@
     "sinceLastReport": "-40.84%"
    },
    "price": 54.47,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "IONQ",
@@ -2956,7 +2956,7 @@
     "sinceLastReport": "-10.93%"
    },
    "price": 23.54,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "MARA",
@@ -2980,7 +2980,7 @@
     "sinceLastReport": "-18.37%"
    },
    "price": 5.42,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "MSFT",
@@ -3004,7 +3004,7 @@
     "sinceLastReport": "-7.74%"
    },
    "price": 489.93,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "MU",
@@ -3028,7 +3028,7 @@
     "sinceLastReport": "-43.55%"
    },
    "price": 601.25,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "NBIS",
@@ -3052,7 +3052,7 @@
     "sinceLastReport": "-45.06%"
    },
    "price": 84.99,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "NOK",
@@ -3076,7 +3076,7 @@
     "sinceLastReport": "-21.08%"
    },
    "price": 7.3,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "NVDA",
@@ -3100,7 +3100,7 @@
     "sinceLastReport": "-3.96%"
    },
    "price": 149.3,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "OKLO",
@@ -3124,7 +3124,7 @@
     "sinceLastReport": "+1.41%"
    },
    "price": 19.47,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "PFE",
@@ -3148,7 +3148,7 @@
     "sinceLastReport": "-7.21%"
    },
    "price": 28.46,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "PLTR",
@@ -3172,7 +3172,7 @@
     "sinceLastReport": "-8.27%"
    },
    "price": 163.59,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "PYPL",
@@ -3196,7 +3196,7 @@
     "sinceLastReport": "+5.13%"
    },
    "price": 57.81,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "QQQ",
@@ -3220,7 +3220,7 @@
     "sinceLastReport": null
    },
    "price": 633.93,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "RKLB",
@@ -3244,7 +3244,7 @@
     "sinceLastReport": "-20.12%"
    },
    "price": 47.02,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SKM",
@@ -3268,7 +3268,7 @@
     "sinceLastReport": "-21.88%"
    },
    "price": 26.74,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SLV",
@@ -3292,7 +3292,7 @@
     "sinceLastReport": null
    },
    "price": 37.1,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SNXX",
@@ -3316,7 +3316,7 @@
     "sinceLastReport": null
    },
    "price": 1.46,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SOFI",
@@ -3340,7 +3340,7 @@
     "sinceLastReport": "-9.61%"
    },
    "price": 13.07,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SOUN",
@@ -3364,7 +3364,7 @@
     "sinceLastReport": "-37.91%"
    },
    "price": 2.645,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "SPY",
@@ -3388,7 +3388,7 @@
     "sinceLastReport": null
    },
    "price": 716.7,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   },
   {
    "ticker": "UBER",
@@ -3412,7 +3412,7 @@
     "sinceLastReport": "-0.38%"
    },
    "price": 66.35,
-   "fetchedAt": "2026-11-26T06:02:55Z"
+   "fetchedAt": "2026-11-26T12:03:04Z"
   }
  ],
  "errors": []

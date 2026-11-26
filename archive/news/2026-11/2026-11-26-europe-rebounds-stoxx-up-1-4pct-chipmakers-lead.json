@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-26T10:20:00Z",
+ "cat": "Markets",
+ "impact": "Adds to the global chip relief bounce after the Asia rebound, a mild positive for MU, DRAM and SNXX sentiment going into Friday's shortened US session; NOK trades in Europe and benefits from the broad tech lift.",
+ "level": "Medium",
+ "published": "2026-11-26T08:15:00Z",
+ "source": "MLQ.ai / Investing.com",
+ "summary": "European stocks opened sharply higher on Thursday after Wednesday's 1.06% drop to 626.03. Around 9:13 a.m. CET the Stoxx 600 was up 1.43% at 634.98 and the DAX up 1.72% at 25,127.68, with STMicroelectronics up 4.24%, Infineon 3.96% and ASML 2.62%. The move was described as a relief bounce helped by milder-than-feared US tariff proposals and a break from AI selling while US markets are closed for Thanksgiving. Figures are early-session.",
+ "tickers": [
+  "VGK",
+  "ASML",
+  "SMH"
+ ],
+ "title": "Europe rebounds: Stoxx 600 up 1.4%, DAX 1.7% early as chipmakers lead",
+ "tone": "positive",
+ "url": "https://mlq.ai/news/european-stocks-jump-at-the-open-dax-up-17-as-chipmakers-rebound/"
+}

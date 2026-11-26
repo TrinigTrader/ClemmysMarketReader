@@ -1,5 +1,21 @@
 [
  {
+  "action": "Buy",
+  "amount": "$100,001 - $250,000",
+  "asset": "Arthur Ventures V - Pearly Holdings, Inc (dental collection software)",
+  "big": false,
+  "chamber": "executive",
+  "filed": "2026-11-26",
+  "holding": false,
+  "id": "e0b1d8a2-64e0-46e0-9efb-3da9f9b05013",
+  "member": "Douglas J Burgum",
+  "party": "republican",
+  "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C3A67886D03C683985258EBB00331765/$FILE/Douglas-J-Burgum-08.31.2026-278T.pdf",
+  "ticker": "",
+  "traded": "2025-04-18",
+  "watched": false
+ },
+ {
   "action": "Sell",
   "amount": "$50,001 - $100,000",
   "asset": "Rockwell Automation, Inc. Common Stock (ROK) [ST] FILING STATUS: New",

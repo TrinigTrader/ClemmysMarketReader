@@ -1,5 +1,37 @@
 [
  {
+  "member": "Douglas J Burgum",
+  "party": "republican",
+  "chamber": "executive",
+  "ticker": "",
+  "asset": "Arthur Ventures V - Pearly Holdings, Inc (dental collection software)",
+  "action": "Buy",
+  "amount": "$100,001 - $250,000",
+  "traded": "2025-04-18",
+  "filed": "2026-11-26",
+  "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C3A67886D03C683985258EBB00331765/$FILE/Douglas-J-Burgum-08.31.2026-278T.pdf",
+  "id": "e0b1d8a2-64e0-46e0-9efb-3da9f9b05013",
+  "watched": false,
+  "holding": false,
+  "big": false
+ },
+ {
+  "member": "Douglas J Burgum",
+  "party": "republican",
+  "chamber": "executive",
+  "ticker": "",
+  "asset": "Arthur Venture V, LP - Pearly Holdings, Inc (dental collection software)",
+  "action": "Buy",
+  "amount": "$1,001 - $15,000",
+  "traded": "2025-04-18",
+  "filed": "2026-11-26",
+  "source": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C3A67886D03C683985258EBB00331765/$FILE/Douglas-J-Burgum-08.31.2026-278T.pdf",
+  "id": "e0b1d8a2-64e0-46e0-9efb-3da9f9b05013",
+  "watched": false,
+  "holding": false,
+  "big": false
+ },
+ {
   "member": "Kevin Hern",
   "party": "republican",
   "chamber": "house",

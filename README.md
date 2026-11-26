@@ -92,6 +92,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-26 [Medium] Europe rebounds: Stoxx 600 up 1.4%, DAX 1.7% early as chipmakers lead (VGK, ASML, SMH)
 - 2026-11-26 [Medium] Asia rebounds after chip rout: Taiex up 2.6%, Kospi 1.2%, SK Hynix 3.7%; Bank of Korea hikes (EWY, EWJ, SMH)
 - 2026-11-25 [Low] Sen. Rand Paul discloses three Nvidia purchases of $1K to $15K each (NVDA)
 - 2026-11-25 [High] Stocks tumble into Thanksgiving: Nasdaq 100 tracker down over 4% on hot PCE, tariffs and chip rout (QQQ, SMH, NVDA, ORCL, NBIS)
