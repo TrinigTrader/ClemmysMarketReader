@@ -4,7 +4,7 @@
  "iv": "62.8%",
  "ivExpiry": "2026-12-04",
  "ivRank1y": "32.1",
- "impliedMove": "\u00b1$2.42 (6.7%)",
+ "impliedMove": "\u00b1$2.48 (6.7%)",
  "name": "ISHARES SILVER TRUST",
  "sector": null,
  "marketCap": "$24.09B",
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 35.835,
- "fetchedAt": "2026-11-25T18:02:53Z"
+ "price": 37.1,
+ "fetchedAt": "2026-11-26T00:02:49Z"
 }

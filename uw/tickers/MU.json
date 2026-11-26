@@ -1,10 +1,10 @@
 {
  "ticker": "MU",
  "url": "https://unusualwhales.com/stock/MU/overview",
- "iv": "106.6%",
+ "iv": "100.8%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "86.3",
- "impliedMove": "\u00b1$65.20 (11.4%)",
+ "ivRank1y": "76.2",
+ "impliedMove": "\u00b1$64.64 (10.8%)",
  "name": "MICRON TECHNOLOGY",
  "sector": "Technology",
  "marketCap": "$712.56B",
@@ -17,8 +17,8 @@
   "lastReport": "Sep 30, 2026",
   "lastEps": "33.19",
   "lastNextDayMove": "+3.03%",
-  "sinceLastReport": "-46.39%"
+  "sinceLastReport": "-43.55%"
  },
- "price": 570.9625,
- "fetchedAt": "2026-11-25T18:02:53Z"
+ "price": 601.25,
+ "fetchedAt": "2026-11-26T00:02:49Z"
 }

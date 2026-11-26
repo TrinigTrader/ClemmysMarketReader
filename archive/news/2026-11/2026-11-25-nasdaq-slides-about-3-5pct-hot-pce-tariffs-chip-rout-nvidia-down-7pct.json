@@ -1,11 +1,13 @@
 {
  "addedAt": "2026-11-25T16:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-26T00:11:43Z",
  "cat": "Markets",
  "impact": "Broad AI and growth selling hits MU, DRAM, SNXX, NBIS, PLTR and GOOGL/MSFT together; Oracle's 52-week low signals stress in AI infrastructure financing that matters for NBIS. The holiday-thin Friday session could amplify moves.",
  "level": "High",
  "published": "2026-11-25T15:30:00Z",
- "source": "Yahoo Finance",
- "summary": "US stocks fell sharply on Wednesday, the last full session before Thanksgiving, after hotter-than-expected core PCE and the new tariff proposal. The Nasdaq Composite was down between 1.9% and about 4% at different points, and the Nasdaq 100 briefly fell 20% below its record closing high; the Nasdaq and S&P 500 were on pace for their worst November since 2008. The Philadelphia Semiconductor Index fell over 6%, Nvidia was down about 7% to 8.4%, Intel 9.7%, AMD 8.9%, Dell 7.6% and Oracle 8.2% to a new 52-week low. Figures are intraday; markets are shut Thursday and close early Friday.",
+ "source": "Benzinga via TradingView",
+ "summary": "US stocks fell hard on Wednesday, the last full session before Thanksgiving, after hotter-than-expected core PCE, the new tariff proposal and doubts about AI spending. At the close, the Nasdaq 100 tracker (QQQ) was down over 4%, the S&P 500 ETF almost 3% and the Dow ETF almost 2%, per Benzinga; the Nasdaq 100 briefly fell 20% below its record high intraday. Micron sank over 10%, AMD over 9% and Nvidia over 7%. Markets are shut Thursday and close early at 1 p.m. ET Friday.",
  "tickers": [
   "QQQ",
   "SMH",
@@ -13,8 +15,8 @@
   "ORCL",
   "NBIS"
  ],
- "title": "Nasdaq slides up to 4% on hot PCE, tariffs and chip rout; Nasdaq 100 hits bear market intraday",
+ "title": "Stocks tumble into Thanksgiving: Nasdaq 100 tracker down over 4% on hot PCE, tariffs and chip rout",
  "tone": "negative",
- "updatedAt": "2026-11-25T18:20:00Z",
- "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+ "updatedAt": "2026-11-25T20:20:00Z",
+ "url": "https://www.tradingview.com/news/benzinga:5f725ceb1094b:0-amd-micron-nvidia-lead-ai-stocks-lower-as-market-tumbles-into-thanksgiving/"
 }

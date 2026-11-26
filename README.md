@@ -92,7 +92,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
-- 2026-11-25 [High] Nasdaq slides up to 4% on hot PCE, tariffs and chip rout; Nasdaq 100 hits bear market intraday (QQQ, SMH, NVDA, ORCL, NBIS)
+- 2026-11-25 [High] Stocks tumble into Thanksgiving: Nasdaq 100 tracker down over 4% on hot PCE, tariffs and chip rout (QQQ, SMH, NVDA, ORCL, NBIS)
 - 2026-11-25 [High] TrendForce trims DRAM price forecast; Micron falls ~10%, SanDisk 11.5% (MU, DRAM, SNXX, SNDK, WDC)
 - 2026-11-25 [High] US proposes Section 301 tariffs on 14 partners; China faces extra 20% (FXI, EWY, EWT, SMH, SKM)
 - 2026-11-25 [High] Core PCE runs hot at 3.3%; Q3 GDP revised up to 4.3% (SPY, QQQ, TLT, MU, NBIS, HOOD)

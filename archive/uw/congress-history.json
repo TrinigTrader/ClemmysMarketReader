@@ -16,6 +16,22 @@
   "watched": false
  },
  {
+  "action": "Buy",
+  "amount": "$1,001 - $15,000",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "big": false,
+  "chamber": "senate",
+  "filed": "2026-11-25",
+  "holding": false,
+  "id": "2f34c7aa-c2d7-4abe-bbc0-0ff2200b82c3",
+  "member": "Rand Paul",
+  "party": "republican",
+  "source": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+  "ticker": "NVDA",
+  "traded": "2026-11-09",
+  "watched": true
+ },
+ {
   "action": "Sell",
   "amount": "$15,001 - $50,000",
   "asset": "Mondelez International, Inc. - Class A\nCommon Stock (MDLZ) [ST] FILING STATUS: New SUBHOLDING OF: Edward Jones Acct",

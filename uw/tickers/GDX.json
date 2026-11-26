@@ -1,10 +1,10 @@
 {
  "ticker": "GDX",
  "url": "https://unusualwhales.com/stock/GDX/overview",
- "iv": "56.7%",
+ "iv": "57.4%",
  "ivExpiry": "2026-12-04",
  "ivRank1y": "70.0",
- "impliedMove": "\u00b1$4.37 (6.1%)",
+ "impliedMove": "\u00b1$4.52 (6.1%)",
  "name": "VANECK GOLD MINERS ETF",
  "sector": null,
  "marketCap": "$22.65B",
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 71.61,
- "fetchedAt": "2026-11-25T18:02:53Z"
+ "price": 73.89,
+ "fetchedAt": "2026-11-26T00:02:49Z"
 }

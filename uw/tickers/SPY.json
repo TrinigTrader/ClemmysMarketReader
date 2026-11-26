@@ -1,10 +1,10 @@
 {
  "ticker": "SPY",
  "url": "https://unusualwhales.com/stock/SPY/overview",
- "iv": "27.0%",
- "ivExpiry": "2026-12-03",
- "ivRank1y": "66.8",
- "impliedMove": "\u00b1$19.47 (2.7%)",
+ "iv": "26.1%",
+ "ivExpiry": "2026-12-04",
+ "ivRank1y": "56.1",
+ "impliedMove": "\u00b1$20.00 (2.8%)",
  "name": "SPDR S&P 500 ETF",
  "sector": null,
  "marketCap": "$771.54B",
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 711.75,
- "fetchedAt": "2026-11-25T18:02:53Z"
+ "price": 716.7,
+ "fetchedAt": "2026-11-26T00:02:49Z"
 }

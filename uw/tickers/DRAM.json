@@ -1,10 +1,10 @@
 {
  "ticker": "DRAM",
  "url": "https://unusualwhales.com/stock/DRAM/overview",
- "iv": "107.8%",
+ "iv": "99.5%",
  "ivExpiry": "2026-12-04",
- "ivRank1y": "81.4",
- "impliedMove": "\u00b1$3.87 (11.5%)",
+ "ivRank1y": "68.9",
+ "impliedMove": "\u00b1$3.70 (10.6%)",
  "name": "Roundhill Memory ETF",
  "sector": null,
  "marketCap": "$286.48K",
@@ -19,6 +19,6 @@
   "lastNextDayMove": null,
   "sinceLastReport": null
  },
- "price": 33.465,
- "fetchedAt": "2026-11-25T18:02:53Z"
+ "price": 34.83,
+ "fetchedAt": "2026-11-26T00:02:49Z"
 }
