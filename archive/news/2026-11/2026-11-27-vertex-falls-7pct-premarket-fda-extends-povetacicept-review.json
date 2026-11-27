@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-27T16:18:00Z",
+ "cat": "Earnings",
+ "impact": "Stock-specific biotech hit with the broad market higher; no direct read-through to Clement's holdings.",
+ "level": "Low",
+ "published": "2026-11-27T13:30:00Z",
+ "source": "Unusual Whales / World Today News",
+ "summary": "Vertex fell about 7.3-7.4% premarket and was down 10.3% after the open (per Unusual Whales), after the company said the FDA extended its review of the povetacicept (IgA nephropathy) application by up to three months, to no later than Feb 28, 2027, from a Nov 30, 2026 target. JPMorgan kept Overweight with a $570 target.",
+ "tickers": [
+  "VRTX",
+  "XBI"
+ ],
+ "title": "Vertex falls about 10% after FDA extends povetacicept review to Feb 28",
+ "tone": "negative",
+ "url": "https://www.world-today-news.com/vertex-shares-fall-7-3-after-fda-extends-povetacicept-review-by-three-months/",
+ "uw": true
+}

@@ -1,0 +1,19 @@
+{
+ "addedAt": "2026-11-27T18:16:00Z",
+ "cat": "Macro",
+ "impact": "A strong finish to a whipsaw week supports MU, DRAM, NBIS and the wider AI book into December, though the Nasdaq still had a brutal November and rate-hike and tariff risks remain.",
+ "level": "Medium",
+ "published": "2026-11-27T18:05:00Z",
+ "source": "CNBC live blog / Yahoo Finance",
+ "summary": "In the shortened session, the Nasdaq Composite rose 2.31% to 24,129.50, the S&P 500 gained 1.6% to 7,297.49 and the Dow added 591.99 points (1.18%) to 50,774.94, per CNBC, as AI and chip stocks rebounded. Gains re-widened into the 1 p.m. ET close after narrowing mid-morning. CNBC said the Dow closed out its best week since 2022.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "NBIS",
+  "NVDA",
+  "QQQ"
+ ],
+ "title": "Nasdaq closes up 2.3%, S&P 1.6% on Black Friday; Dow's best week since 2022",
+ "tone": "positive",
+ "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+}

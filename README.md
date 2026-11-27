@@ -89,9 +89,14 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-23: SPY $723.20 (+4.8%), IV 21.3% vs HV 16.5%, 52w IV pct 95% (elevated). S&P 500 ~7,238 (+4.7%, best day since Apr 2025) after Nvidia reinstated Jensen Huang; Fri 20 Nov S&P −3.7% to 6,910, Nasdaq −5.3%, week −8.6% (correction). Anthropic (ANT) closed day one 19 Nov at $97.17 (+17% on $83 IPO). Dec 8–9 Fed hike ~98% priced. Account: S$45 cash, S$1,693 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5,
 - 2026-11-24: SPY $715.88 (−0.9%), IV 23.4% vs HV 22.2%, 52w IV pct 98% (elevated). Chips reversing Monday's Nvidia rally: AMD −9.6% (registered ~337M OpenAI/Meta warrant shares for resale, Nov 23), DRAM −7.3%, INTC −5.6%. Mon 23 Nov S&P ~+4.7% (best day since Apr 2025). Dec 8–9 Fed hike ~98% priced; gold at 13-month low (Nov 16). BTC ~$64k (Nov 19). Account: S$45 cash, S$1,592 net liq. Positions BE 2, DRAM 5, 
 - 2026-11-25: SPY $698.10 (−2.9%), IV 26.7%, 52w IV pct 99.6%; VIX above 26. Drivers: hot PCE (3.8%), new 20% tariffs, chip rout. Silver broke its $36.72 low (SLV $35.09, −4.8%). Thanksgiving: closed Thu 26 Nov, early close Fri 27 Nov. Account: S$45 cash, S$1,458 net liq. Positions BE 2, DRAM 5, NBIS 2.5, NOK 5, PLTR 2, VST 1. IBKR returned no option bid/ask at the open; W rows use model price as bid = ask.
+- 2026-11-27: SPY $721.15 (+0.6%), IV 21.4% vs HV 23.9%, 52w IV pct 94%. Wed 25 Nov: Dow −1,100 intraday on hot PCE (3.8%) and proposed Section 301 tariffs on 14 partners, closed +0.3% at 50,182.95; S&P 500 −0.25% to 7,182.78; Nasdaq −0.6% to 23,585.80. Thu closed (Thanksgiving). Fri: chip rebound, Nasdaq-100 futures ~+2.5% pre-market. COMEX silver ~+3.9% to ~$41.6. Dec 8–9 Fed hike still expected. No fresh bit
 
 ### News headlines (last 30 days)
 
+- 2026-11-27 [Medium] Nasdaq closes up 2.3%, S&P 1.6% on Black Friday; Dow's best week since 2022 (MU, DRAM, NBIS, NVDA, QQQ)
+- 2026-11-27 [Medium] Black Friday rally narrows after open: Nasdaq up about 0.7-0.8%, Nvidia turns down 2% (MU, DRAM, NVDA, NBIS, QQQ)
+- 2026-11-27 [Low] Vertex falls about 10% after FDA extends povetacicept review to Feb 28 (VRTX, XBI)
+- 2026-11-27 [Low] SpaceX up about 3-4.6% premarket, still below $135 IPO price (SPCX, QQQ)
 - 2026-11-27 [Medium] Nasdaq futures up about 2.5%; Micron up 6%+ premarket into Black Friday (MU, DRAM, NVDA, QQQ)
 - 2026-11-27 [Medium] Kospi jumps 4.3%, Nikkei 2.1% as chips lead Friday Asia rally (EWY, EWJ, SMH)
 - 2026-11-26 [Medium] Tokyo core CPI 2.9%, highest since July 2025; keeps BOJ December hike in play (EWJ, FXY)
