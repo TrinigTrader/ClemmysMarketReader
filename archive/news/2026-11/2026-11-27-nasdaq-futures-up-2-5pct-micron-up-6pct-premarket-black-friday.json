@@ -1,0 +1,20 @@
+{
+ "addedAt": "2026-11-27T10:20:00Z",
+ "alerted": true,
+ "alertedAt": "2026-11-27T10:21:00Z",
+ "cat": "Markets",
+ "impact": "Broad AI and memory relief rally after a brutal November; positive for MU, DRAM, NBIS and PLTR into the open, but thin holiday volume and the short session mean moves can fade.",
+ "level": "Medium",
+ "published": "2026-11-27T09:30:00Z",
+ "source": "Yahoo Finance / TokenPost / Reuters",
+ "summary": "US futures climbed after the Thanksgiving break, with Nasdaq 100 futures up roughly 2.4% to 2.9% and S&P 500 futures about 2% in early-morning snapshots. Micron was up more than 6% premarket, Nvidia more than 4% (above $155) and SanDisk nearly 10%. Europe's Stoxx 600 rose about 0.9% with ASML, ASM International and Infineon up 3.8% to 4.5%. US stocks close early at 1 p.m. ET.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "NVDA",
+  "QQQ"
+ ],
+ "title": "Nasdaq futures up about 2.5%; Micron up 6%+ premarket into Black Friday",
+ "tone": "bullish",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+}

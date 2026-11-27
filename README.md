@@ -92,6 +92,8 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-27 [Medium] Nasdaq futures up about 2.5%; Micron up 6%+ premarket into Black Friday (MU, DRAM, NVDA, QQQ)
+- 2026-11-27 [Medium] Kospi jumps 4.3%, Nikkei 2.1% as chips lead Friday Asia rally (EWY, EWJ, SMH)
 - 2026-11-26 [Medium] Tokyo core CPI 2.9%, highest since July 2025; keeps BOJ December hike in play (EWJ, FXY)
 - 2026-11-26 [Medium] Europe rebounds: Stoxx 600 up 1.4%, DAX 1.7% early as chipmakers lead (VGK, ASML, SMH)
 - 2026-11-26 [Low] Samsung, SK Hynix to adopt China YMTC's NAND stacking tech, Nikkei says (SMH, EWY)
