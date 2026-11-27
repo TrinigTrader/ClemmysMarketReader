@@ -1,0 +1,17 @@
+{
+ "addedAt": "2026-11-27T04:20:00Z",
+ "cat": "AI & tech",
+ "impact": "Prepaid, multiyear contracts lock in memory demand and pricing visibility, a counterweight to this week's TrendForce price-cut and BNP downgrade worries; supportive for MU and DRAM.",
+ "level": "Medium",
+ "published": "2026-11-26T02:00:00Z",
+ "source": "Digitimes",
+ "summary": "Digitimes reports Samsung, SK Hynix and Micron are signing multiyear supply agreements as AI-driven shortages push customers to commit cash years before chips are delivered. Separately, SK Hynix is hiring engineers with TSMC 3nm experience for custom HBM while Micron steps up hiring in Korea.",
+ "tickers": [
+  "MU",
+  "DRAM",
+  "SMH"
+ ],
+ "title": "Micron, Samsung, SK Hynix strike multiyear memory supply deals with upfront cash",
+ "tone": "bullish",
+ "url": "https://www.digitimes.com/news/a20261126VL222/sk-hynix-micron-chipmakers-demand-chips.html"
+}

@@ -92,7 +92,11 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 
 ### News headlines (last 30 days)
 
+- 2026-11-26 [Medium] Tokyo core CPI 2.9%, highest since July 2025; keeps BOJ December hike in play (EWJ, FXY)
 - 2026-11-26 [Medium] Europe rebounds: Stoxx 600 up 1.4%, DAX 1.7% early as chipmakers lead (VGK, ASML, SMH)
+- 2026-11-26 [Low] Samsung, SK Hynix to adopt China YMTC's NAND stacking tech, Nikkei says (SMH, EWY)
+- 2026-11-26 [Medium] Micron, Samsung, SK Hynix strike multiyear memory supply deals with upfront cash (MU, DRAM, SMH)
+- 2026-11-26 [Medium] Bank of Korea hikes 25bp to 3.25%, back-to-back move; Kospi edges up (EWY, SKM)
 - 2026-11-26 [Medium] Asia rebounds after chip rout: Taiex up 2.6%, Kospi 1.2%, SK Hynix 3.7%; Bank of Korea hikes (EWY, EWJ, SMH)
 - 2026-11-25 [Low] Sen. Rand Paul discloses three Nvidia purchases of $1K to $15K each (NVDA)
 - 2026-11-25 [High] Correction: stocks claw back most losses into Thanksgiving; Nasdaq closes down 0.6% after 4%+ intraday drop (QQQ, SMH, NVDA, ORCL, NBIS)

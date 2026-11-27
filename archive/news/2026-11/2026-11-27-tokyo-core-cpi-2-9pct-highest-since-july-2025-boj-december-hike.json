@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-27T06:20:00Z",
+ "cat": "Central banks",
+ "impact": "A BOJ hike would add to the global tightening wave (Fed hike bets, BOK just hiked) and could strengthen the yen, a headwind for yen-funded risk trades and high-multiple tech, including MU, NBIS and PLTR.",
+ "level": "Medium",
+ "published": "2026-11-26T23:30:00Z",
+ "source": "The Japan Times",
+ "summary": "Tokyo core CPI (ex fresh food) rose 2.9% y/y in November from 2.6% in October, a shade below the 3% forecast but the strongest since July 2025. Headline was 2.8% and the ex-fresh-food-and-energy gauge 2.5%. Traders had priced about a 71% chance of a BOJ hike at the Dec 17-18 meeting.",
+ "tickers": [
+  "EWJ",
+  "FXY"
+ ],
+ "title": "Tokyo core CPI 2.9%, highest since July 2025; keeps BOJ December hike in play",
+ "tone": "bearish",
+ "url": "https://www.japantimes.co.jp/business/2026/11/27/economy/tokyo-inflation-november/"
+}

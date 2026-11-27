@@ -1,0 +1,16 @@
+{
+ "addedAt": "2026-11-27T02:20:00Z",
+ "cat": "Central banks",
+ "impact": "Tighter Korean policy lifts local funding costs and can support the won; mildly negative for rate-sensitive Korean telecoms like SKM, neutral to slightly positive for memory names already rebounding.",
+ "level": "Medium",
+ "published": "2026-11-26T01:00:00Z",
+ "source": "The Korea Times",
+ "summary": "The Bank of Korea raised its base rate by 25 basis points to 3.25% at its final meeting of the year on Nov 26, following August's hike to 3%. The Kospi still closed up 0.29% at about 4,711 after Wednesday's 6.2% chip rout, with SK Hynix up 2.2% and Samsung up 0.35%.",
+ "tickers": [
+  "EWY",
+  "SKM"
+ ],
+ "title": "Bank of Korea hikes 25bp to 3.25%, back-to-back move; Kospi edges up",
+ "tone": "bearish",
+ "url": "https://koreatimes.co.kr/economy/20261126/kospi-edges-up-despite-bok-rate-hike"
+}
