@@ -1,10 +1,10 @@
 {
  "ticker": "MSFT",
  "url": "https://unusualwhales.com/stock/MSFT/overview",
- "iv": "38.0%",
- "ivExpiry": "2026-12-04",
+ "iv": "34.8%",
+ "ivExpiry": "2026-12-07",
  "ivRank1y": "61.7",
- "impliedMove": "\u00b1$19.81 (4.0%)",
+ "impliedMove": "\u00b1$20.99 (4.3%)",
  "name": "MICROSOFT",
  "sector": "Technology",
  "marketCap": "$3.64T",
@@ -20,5 +20,5 @@
   "sinceLastReport": "-7.74%"
  },
  "price": 489.93,
- "fetchedAt": "2026-11-26T18:02:52Z"
+ "fetchedAt": "2026-11-27T00:03:23Z"
 }

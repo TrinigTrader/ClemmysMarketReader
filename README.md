@@ -102,6 +102,7 @@ Full history lives under `archive/`. This section lists the last 30 days of news
 - 2026-11-25 [Low] Rep. Kevin Hern sells $15K-$50K of Intel (filed Nov 25) (INTC)
 - 2026-11-25 [Low] Deere misses at $3.89 EPS on farm weakness, shares down over 3% (DE, CAT)
 - 2026-11-25 [Medium] Futures slip before PCE; Dell reverses to -7.5% premarket, Workday -9.9% (SPY, QQQ, DELL, WDAY)
+- 2026-11-25 [Low] Li Auto Q3 loss narrows to RMB309.7M, beats; stock closes up 11% (LI, KWEB)
 - 2026-11-25 [Medium] Peter Thiel buys $122.3M of Palantir stock (PLTR)
 - 2026-11-25 [High] Micron falls 11%, chip index down 7.9%; Kospi slides nearly 6% Wednesday (MU, DRAM, SNXX, SKM, NVDA)
 - 2026-11-24 [Low] Autodesk beats with $3.20 EPS and raises guide, shares fall about 4% (ADSK, IGV)

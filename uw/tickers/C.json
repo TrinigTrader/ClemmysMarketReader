@@ -1,10 +1,10 @@
 {
  "ticker": "C",
  "url": "https://unusualwhales.com/stock/C/overview",
- "iv": "33.6%",
- "ivExpiry": "2026-12-04",
+ "iv": "33.8%",
+ "ivExpiry": "2026-12-11",
  "ivRank1y": "43.6",
- "impliedMove": "\u00b1$4.06 (3.6%)",
+ "impliedMove": "\u00b1$5.43 (4.8%)",
  "name": "CITIGROUP",
  "sector": "Financial Services",
  "marketCap": "$187.58B",
@@ -20,5 +20,5 @@
   "sinceLastReport": "-14.09%"
  },
  "price": 113.33,
- "fetchedAt": "2026-11-26T18:02:52Z"
+ "fetchedAt": "2026-11-27T00:03:23Z"
 }
